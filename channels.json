@@ -6,14 +6,14 @@
   {
     "rem": "RQTV.NET",
     "numero": "01",
-    "videoIds": ["8AgZp5Cd5ls", ""],
-    "vinhetaPlaylistId": "PLJq9K3JnpGRQ",
-    "playlistId": "PLJq9K3JnpGRQ"
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUuIZccYRofu_IcGpuunnWNA"
   },
   {
     "rem": "SBT",
     "numero": "02",
-    "videoIds": ["8AgZp5Cd5ls", "uLqXRKXOB8E"],
+    "videoIds": ["uLqXRKXOB8E", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUR3TOnFWDeAlT-Ho6LueDmg"
   },
@@ -131,66 +131,101 @@
   },
   {
     "rem": "CAZÉTV",
-    "numero": "20",
+    "numero": "30",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUZiYbVptd3PVPf4f6eR6UaQ"
   },
   {
     "rem": "GLOBO ESPORTE (GE)",
-    "numero": "21",
+    "numero": "31",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUgCKagVhzGnZcuP9bSMgMCg"
   },
   {
     "rem": "TNT SPORTS",
-    "numero": "22",
+    "numero": "32",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUs-6sCz2LJm1PrWQN4ErsPw"
   },
   {
     "rem": "ESPN BRASIL",
-    "numero": "23",
+    "numero": "33",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUw5-xj3AKqEizC7MvHaIPqA"
   },
   {
     "rem": "JOVEM PAN ESPORTES",
-    "numero": "24",
+    "numero": "34",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUv-Nx8pSfG_LxbViMz14RWQ"
   },
   {
     "rem": "JOGO ABERTO",
-    "numero": "25",
+    "numero": "35",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUZaOZdn-Y-I5ikrofkWBLgQ"
   },
   {
     "rem": "SBT SPORTS",
-    "numero": "26",
+    "numero": "36",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUXc3marqP9BJSkQ0_K4mqDg"
   },
   {
     "rem": "BAND ESPORTES",
-    "numero": "27",
+    "numero": "37",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UU896QaWKoSGdZTmy9rHyU_g"
   },
   {
     "rem": "RED BULL TV",
-    "numero": "28",
+    "numero": "38",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUblfuW_4rakIf2h6aqANefA"
+  },
+    {
+    "rem": "RIC RURAL",
+    "numero": "60",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UU0pjfx6qXTDcRlR9bcr_VYA"
+  },
+      {
+    "rem": "VALE AGRÍCOLA",
+    "numero": "61",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UU47oEXGl7Yi4IlFVVCVTvCA"
+  },
+        {
+    "rem": "ACELERADOS",
+    "numero": "70",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUGBIIPnw0AYM3BFsmTsjeAw"
+  },
+          {
+    "rem": "WEBMOTORS",
+    "numero": "71",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUz2Bb7YdduN4x7qN9oFrJjQ"
+  },
+            {
+    "rem": "TURBO",
+    "numero": "72",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUif5_vJSWCka3ViuTqF2owQ"
   },
   {
     "rem": "PROGRAMA DO RATINHO",
