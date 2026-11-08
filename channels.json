@@ -3,7 +3,7 @@
     "numero": 0,
     "rem": "RQTV.NET"
   },
-{
+  {
     "rem": "RQTV.NET",
     "numero": "01",
     "videoIds": ["TH6g4zjU-Fg"],
@@ -192,35 +192,35 @@
     "vinhetaPlaylistId": "",
     "playlistId": "UUblfuW_4rakIf2h6aqANefA"
   },
-    {
+  {
     "rem": "RIC RURAL",
     "numero": "60",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UU0pjfx6qXTDcRlR9bcr_VYA"
   },
-      {
+  {
     "rem": "VALE AGRÍCOLA",
     "numero": "61",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UU47oEXGl7Yi4IlFVVCVTvCA"
   },
-        {
+  {
     "rem": "ACELERADOS",
     "numero": "70",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUGBIIPnw0AYM3BFsmTsjeAw"
   },
-          {
+  {
     "rem": "WEBMOTORS",
     "numero": "71",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUz2Bb7YdduN4x7qN9oFrJjQ"
   },
-            {
+  {
     "rem": "TURBO",
     "numero": "72",
     "videoIds": ["", ""],
@@ -417,15 +417,36 @@
     "playlistId": "PLaQTNGNvFDINkZLQqCYkLBk4l98R9zdXk"
   },
   {
-    "rem": "CÂMERA KIDS 2",
-    "numero": "165",
+    "rem": "NETMOVIES",
+    "numero": "200",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLaQTNGNvFDINkZLQqCYkLBk4l98R9zdXk"
+    "playlistId": "UUK5RRQ3TdwAbbCWrtnXsN3Q"
+  },
+  {
+    "rem": "NETMOVIES AÇÃO",
+    "numero": "201",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUSkBHTQr29FdMU8klx-yFCg"
+  },
+  {
+    "rem": "NETMOVIES COMÉDIA",
+    "numero": "202",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUj6_TTox6oA8Q_clgNLZYYw"
+  },
+  {
+    "rem": "NETMOVIES ROMANCE",
+    "numero": "203",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUwxDy42GLyZlJ-JfIFa2ajg"
   },
   {
     "rem": "TESTE VIMEO",
-    "numero": "166",
+    "numero": "250",
     "plataforma": "vimeo",
     "videoIds": ["76979871", "21611026"],
     "vinhetaPlaylistId": "",
