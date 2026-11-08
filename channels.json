@@ -487,8 +487,15 @@
     "playlistId": "UUFxHT3Nz5n_Co48GqcdwdKA"
   },
   {
-    "rem": "TESTE VIMEO",
+    "rem": "MAXIMUM ALLURE E THE GOOD LIFE RADIO",
     "numero": "250",
+    "videoIds": ["1244922687?h=7fbe7c990f", "1244926279?h=2c9d5342f8"],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUhs0pSaEoNLV4mevBFGaoKA"
+  },
+  {
+    "rem": "TESTE VIMEO",
+    "numero": "251",
     "plataforma": "vimeo",
     "videoIds": ["76979871", "21611026"],
     "vinhetaPlaylistId": "",
