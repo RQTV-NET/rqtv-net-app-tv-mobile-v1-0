@@ -445,6 +445,48 @@
     "playlistId": "UUwxDy42GLyZlJ-JfIFa2ajg"
   },
   {
+    "rem": "NETMOVIES CLASSICOS",
+    "numero": "204",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUklg72s4SymWVrriqiUgXhw"
+  },
+  {
+    "rem": "NETMOVIES FAMILIA",
+    "numero": "205",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UU1vGd-MHPg0fKoIku6Mw1wQ"
+  },
+  {
+    "rem": "NETMOVIES DRAMA",
+    "numero": "206",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUbD5QmK3ET52M6JVFPf2QXA"
+  },
+  {
+    "rem": "NETMOVIES SUSPENSE",
+    "numero": "207",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUBIRfRFt5Qm342yvYh_7Wcw"
+  },
+  {
+    "rem": "NETMOVIES VELHO OESTE",
+    "numero": "208",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUPB94_mkTL2_-L_MEdeo3WA"
+  },
+  {
+    "rem": "NETMOVIES KIDS",
+    "numero": "220",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUFxHT3Nz5n_Co48GqcdwdKA"
+  },
+  {
     "rem": "TESTE VIMEO",
     "numero": "250",
     "plataforma": "vimeo",
