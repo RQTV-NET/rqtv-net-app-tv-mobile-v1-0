@@ -6,9 +6,9 @@
 {
   "rem": "RQTV.NET",
   "numero": "01",
-  "vinhetaPlaylistId": "",
-  "playlistId": "PLALrPX2uPfXk",
-  "playlistId2": "UUuIZccYRofu_IcGpuunnWNA"
+  "videoIds": ["", ""],
+  "vinhetaPlaylistId": "PLALrPX2uPfXk",
+  "playlistId": "UUuIZccYRofu_IcGpuunnWNA"
 },
   {
     "rem": "SBT",
