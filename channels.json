@@ -11,10 +11,10 @@
     "playlistId": "PLWwJT4sZcMYo",
     "meta": "robo:1 | freq:2h | liveMax:16h | faixas:JN(PLU_2p8ieYan7_d4tEChbPoAWg1sBNAefp),Fantastico(PLU_2p8ieYan5t67qWahihW0CfLhC9Z0vS),JG(PLU_2p8ieYan4PerScvXdl4VkXW7GZ_P0k),JH(^JH) | max:20"
   },
-  {
+{
     "numero": "02",
-    "rem": "SBT PROGRAMAS",
-    "videoIds": ["", ""],
+    "rem": "SBT",
+    "videoIds": ["uLqXRKXOB8E", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "PLVf6tS5_usNs",
     "meta": "robo:2 | freq:4h | liveMax:12h | origens:UU3d7Ix6GrtxESULE5Auj_Zg,PLdVc1RNcjHV3BdaIqWHlHayncw8J3Cp1s,PLdVc1RNcjHV22jLjcw6MJoE51Rz15gEbp,PL5oHLBLo7vllVcQhcABM8Hqq1qNPbDsru,PLJEMO2cSfTfgQ6t1wmgaFx60ne29CXfdJ,PLf52azhL7dBUNEaH-Kx85i7xh_5YLDUbN | max:2+vinheta"
