@@ -1,147 +1,167 @@
 [
   {
-    "numero": "00",
-    "rem": "RQTV GUIA"
+    "numero": 0,
+    "rem": "RQTV.NET"
   },
   {
     "numero": "01",
     "rem": "GLOBO",
-    "videoIds": [],
+    "videoIds": ["thiD6XTH6II"],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLWwJT4sZcMYo"
+    "playlistId": "PLWwJT4sZcMYo",
+    "meta": "robo:1 | freq:2h | liveMax:16h | faixas:JN(PLU_2p8ieYan7_d4tEChbPoAWg1sBNAefp),Fantastico(PLU_2p8ieYan5t67qWahihW0CfLhC9Z0vS),JG(PLU_2p8ieYan4PerScvXdl4VkXW7GZ_P0k),JH(^JH) | max:20"
   },
   {
     "numero": "02",
-    "rem": "SBT",
-    "videoIds": ["uLqXRKXOB8E"],
+    "rem": "SBT PROGRAMAS",
+    "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLVf6tS5_usNs"
+    "playlistId": "PLVf6tS5_usNs",
+    "meta": "robo:2 | freq:4h | liveMax:12h | origens:UU3d7Ix6GrtxESULE5Auj_Zg,PLdVc1RNcjHV3BdaIqWHlHayncw8J3Cp1s,PLdVc1RNcjHV22jLjcw6MJoE51Rz15gEbp,PL5oHLBLo7vllVcQhcABM8Hqq1qNPbDsru,PLJEMO2cSfTfgQ6t1wmgaFx60ne29CXfdJ,PLf52azhL7dBUNEaH-Kx85i7xh_5YLDUbN | max:2+vinheta"
   },
   {
     "numero": "03",
     "rem": "SBT NEWS",
-    "videoIds": [],
+    "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLYfwHdJO8mYs"
+    "playlistId": "PLYfwHdJO8mYs",
+    "meta": "robo:2 | freq:2h | liveMax:24h | origem:UU376n347Ob5Lwzq2WGzF1AA | max:10"
   },
   {
     "numero": "04",
     "rem": "SBT JORNALISMO",
-    "videoIds": [],
+    "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLbwg18fIIHlE"
+    "playlistId": "PLbwg18fIIHlE",
+    "meta": "robo:2 | freq:2h | liveMax:14h | origem:UU-S82QSyHb-e3FddEO6Tq6w | max:10"
   },
   {
     "numero": "05",
     "rem": "CNN BRASIL",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLG8wV95s6BCs"
+    "playlistId": "PLG8wV95s6BCs",
+    "meta": "robo:1 | freq:1h | liveMax:24h | origem:UUvdwhh_fDyWccR42-rReZLw | max:10"
   },
   {
     "numero": "06",
     "rem": "CNN MONEY",
-    "videoIds": [],
+    "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLNrhEPzWYXAU"
+    "playlistId": "PLNrhEPzWYXAU",
+    "meta": "robo:2 | freq:6h | liveMax:24h | origem:UUqfm5IQhpMlfeAWMmVL_uNg | max:10"
   },
   {
     "numero": "07",
     "rem": "JOVEM PAN NEWS",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLQFzFGzfSNGA"
+    "playlistId": "PLQFzFGzfSNGA",
+    "meta": "robo:1 | freq:1h | liveMax:24h | origem:UUP391YRAjSOdM_bwievgaZA | max:17"
   },
   {
     "numero": "08",
     "rem": "OS PINGOS NOS IS",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLfUmzM_llq9E"
+    "playlistId": "PLfUmzM_llq9E",
+    "meta": "robo:1 | freq:2h | liveMax:8h | origem:UUzjtGnD7qqeaHW3nvDVrjQA | max:22"
   },
   {
     "numero": "09",
-    "rem": "RECORD",
+    "rem": "RECORD COMBO",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLDmRJgKWywHU"
+    "playlistId": "PLDmRJgKWywHU",
+    "meta": "robo:2 | freq:2h | liveMax:16h | origens:UUmpHPgeCBgvk_fDXZQKsnAA,UUu_a6PAzp30Bn2mM-Ll09LA,UUwVmZjJwkCUCOes5_eAIebg,UUYxy37pydVzpDDXO6xLePMA,UUN-opsqqDunWO6h5uCp9Y4g,UUJ2_rpTPTlbPDbPbLrWtYog,UUIwRd7CNbYcTUp-VCtMqkDw,UUrPubyb1MgLylECvdEf9FRA,UUoRz1sARw5el7c9WhVf6mkQ | max:25"
   },
   {
     "numero": "10",
-    "rem": "BAND",
+    "rem": "BAND COMBO",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLRLMXHYE6Mqg"
+    "playlistId": "PLRLMXHYE6Mqg",
+    "meta": "robo:2 | freq:2h | liveMax:16h | origens:UUoa-D_VfMkFrCYodrOC9-mA,UUCj-2ICgTebA_Rb0SkXa4Zg,UUeqDJ2YYMz4sBLIBtwKlltA,UUkiNaMeakWWHAXrp1lszWxA,UUnMfPFJ5B7pQdEl7hVwTCFQ | max:25"
   },
   {
     "numero": "11",
     "rem": "GLOBONEWS",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLLQl5kfHYOuc"
+    "playlistId": "PLLQl5kfHYOuc",
+    "meta": "robo:1 | freq:2h | liveMax:24h | origem:UUp6RRaz93Pt2xYZoEye_rLA | max:27"
   },
   {
     "numero": "12",
-    "rem": "REDETV!",
+    "rem": "REDETV! COMBO",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLcDcUpFDmiSg"
+    "playlistId": "PLcDcUpFDmiSg",
+    "meta": "robo:2 | freq:2h | liveMax:12h | origens:UUb40meUp8tmOohWKaBWvs9w,UUd7VVhgnd2eCv9JEghvR_1w,UU1FGc8ShBBdN3ED2Vkh_a_Q,UUIx3AhXcRQtGUwLVf48PWEA,UUvivSyD8ZN37wQ3mC07QHdA,UUtpL0dsqQUhJkl_svmrXGUQ,UUeEf1KSLM06p5Wp5P_Y72Qw | max:20"
   },
   {
     "numero": "13",
     "rem": "CBN BRASIL",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLCY_Ls0hG8iA"
+    "playlistId": "PLCY_Ls0hG8iA",
+    "meta": "robo:3 | freq:2h | liveMax:12h | origem:UUbiGwU0-W1XCDUrt3BTVrag | max:6"
   },
   {
     "numero": "14",
     "rem": "REVISTA OESTE",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLYzN44gNsVq0"
+    "playlistId": "PLYzN44gNsVq0",
+    "meta": "robo:3 | freq:2h | liveMax:8h | origem:UUBQAI1ZhurW3nbtJR-gBBZg | max:6"
   },
   {
     "numero": "15",
     "rem": "METRÓPOLES",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLOOZCI6PbFd4"
+    "playlistId": "PLOOZCI6PbFd4",
+    "meta": "robo:3 | freq:3h | liveMax:3.5h | vodMax:3.5h | origem:UU9mdw2mmn49ZuqGOpSri7Fw | max:18"
   },
   {
     "numero": "16",
     "rem": "TV BRASIL",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLDpn2SlINl1U"
+    "playlistId": "PLDpn2SlINl1U",
+    "meta": "robo:3 | freq:4h | liveMax:24h | origem:UUSv9d0kQegylHWpP83jWSQg | max:10"
   },
   {
     "numero": "17",
     "rem": "TV SENADO",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLd8aTKG3LfUY"
+    "playlistId": "PLd8aTKG3LfUY",
+    "meta": "robo:3 | freq:4h | liveMax:14h | origem:UULgti7NuK0RuW9wty-fxPjQ | max:15"
   },
   {
     "numero": "18",
-    "rem": "BBC Brasil",
+    "rem": "BBC BRASIL",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLGy8I_FZdrXU"
+    "playlistId": "PLGy8I_FZdrXU",
+    "meta": "robo:3 | freq:6h | liveMax:12h | origem:UUthbIFAxbXTTQEC7EcQvP1Q | max:20"
   },
   {
     "numero": "19",
     "rem": "TV CULTURA",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLS_d2NNsMFDY"
+    "playlistId": "PLS_d2NNsMFDY",
+    "meta": "robo:3 | freq:4h | liveMax:2.5h | vodMax:3.0h | origens:UUXdXYG8dUmEv6jhEji_lSHg(live),PLCZORdCI40WI(prog) | max:20"
   },
   {
     "numero": "30",
     "rem": "CAZÉTV",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLIp61Odw5jVg"
+    "playlistId": "PLIp61Odw5jVg",
+    "meta": "robo:1 | freq:2h | liveMax:14h | origem:UUZiYbVptd3PVPf4f6eR6UaQ | max:5lives+2vod"
   },
   {
     "numero": "31",
