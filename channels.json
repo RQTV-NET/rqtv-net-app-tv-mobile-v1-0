@@ -59,15 +59,15 @@
     "playlistId": "PLQFzFGzfSNGA",
     "meta": "robo:1 | freq:1h | liveMax:24h | origem:UUP391YRAjSOdM_bwievgaZA | max:17"
   },
-  {
+    {
     "numero": "08",
-    "rem": "OS PINGOS NOS IS",
+    "rem": "TV CULTURA",
     "videoIds": ["", ""],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLfUmzM_llq9E",
-    "meta": "robo:1 | freq:2h | liveMax:8h | origem:UUzjtGnD7qqeaHW3nvDVrjQA | max:22"
+    "playlistId": "PLS_d2NNsMFDY",
+    "meta": "robo:3 | freq:4h | liveMax:2.5h | vodMax:3.0h | origens:UUXdXYG8dUmEv6jhEji_lSHg(live),PLCZORdCI40WI(prog) | max:20"
   },
-  {
+    {
     "numero": "09",
     "rem": "RECORD COMBO",
     "videoIds": ["", ""],
@@ -146,14 +146,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "PLGy8I_FZdrXU",
     "meta": "robo:3 | freq:6h | liveMax:12h | origem:UUthbIFAxbXTTQEC7EcQvP1Q | max:20"
-  },
-  {
-    "numero": "19",
-    "rem": "TV CULTURA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLS_d2NNsMFDY",
-    "meta": "robo:3 | freq:4h | liveMax:2.5h | vodMax:3.0h | origens:UUXdXYG8dUmEv6jhEji_lSHg(live),PLCZORdCI40WI(prog) | max:20"
   },
   {
     "numero": "30",
