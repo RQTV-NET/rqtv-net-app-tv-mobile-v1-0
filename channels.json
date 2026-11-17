@@ -1,545 +1,471 @@
 [
   {
-    "numero": 0,
-    "rem": "RQTV.NET"
+    "id": 0,
+    "numero": "00",
+    "nome": "RQTV.NET",
+    "categoria": "Canal Inicial",
+    "robo": "Global",
+    "playlistDestinoId": "PLbzgoOeaEhog",
+    "origens": []
   },
   {
+    "id": 1,
     "numero": "01",
-    "rem": "GLOBO",
-    "videoIds": [],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLWwJT4sZcMYo",
-    "meta": "robo:1 | freq:2h | liveMax:16h | faixas:JN(PLU_2p8ieYan7_d4tEChbPoAWg1sBNAefp),Fantastico(PLU_2p8ieYan5t67qWahihW0CfLhC9Z0vS),JG(PLU_2p8ieYan4PerScvXdl4VkXW7GZ_P0k),JH(^JH) | max:20"
+    "nome": "GLOBO & GLOBONEWS",
+    "categoria": "Notícias & Jornalismo",
+    "robo": "Robo 1",
+    "playlistDestinoId": "PLWwJT4sZcMYo",
+    "origens": ["UUuIZccYRofu_IcGpuunnWNA", "UUp6RRaz93Pt2xYZoEye_rLA"],
+    "duracaoMinimaSeg": 200
   },
-{
+  {
+    "id": 2,
     "numero": "02",
-    "rem": "SBT",
-    "videoIds": ["uLqXRKXOB8E", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLVf6tS5_usNs",
-    "meta": "robo:2 | freq:4h | liveMax:12h | origens:UU3d7Ix6GrtxESULE5Auj_Zg,PLdVc1RNcjHV3BdaIqWHlHayncw8J3Cp1s,PLdVc1RNcjHV22jLjcw6MJoE51Rz15gEbp,PL5oHLBLo7vllVcQhcABM8Hqq1qNPbDsru,PLJEMO2cSfTfgQ6t1wmgaFx60ne29CXfdJ,PLf52azhL7dBUNEaH-Kx85i7xh_5YLDUbN | max:2+vinheta"
+    "nome": "SBT PROGRAMAS (Consolidado)",
+    "categoria": "Entretenimento & TV Aberta",
+    "robo": "Robo 2",
+    "playlistDestinoId": "PLVf6tS5_usNs",
+    "origens": ["UU3d7Ix6GrtxESULE5Auj_Zg", "PLdVc1RNcjHV3BdaIqWHlHayncw8J3Cp1s", "PLdVc1RNcjHV22jLjcw6MJoE51Rz15gEbp"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 3,
     "numero": "03",
-    "rem": "SBT NEWS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLYfwHdJO8mYs",
-    "meta": "robo:2 | freq:2h | liveMax:24h | origem:UU376n347Ob5Lwzq2WGzF1AA | max:10"
+    "nome": "SBT NEWS & JORNALISMO",
+    "categoria": "Notícias",
+    "robo": "Robo 2",
+    "playlistDestinoId": "PLYfwHdJO8mYs",
+    "origens": ["UU376n347Ob5Lwzq2WGzF1AA", "UU-S82QSyHb-e3FddEO6Tq6w"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 4,
     "numero": "04",
-    "rem": "SBT JORNALISMO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLbwg18fIIHlE",
-    "meta": "robo:2 | freq:2h | liveMax:14h | origem:UU-S82QSyHb-e3FddEO6Tq6w | max:10"
+    "nome": "CNN BRASIL",
+    "categoria": "Notícias",
+    "robo": "Robo 1",
+    "playlistDestinoId": "PLG8wV95s6BCs",
+    "origens": ["UUvdwhh_fDyWccR42-rReZLw"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 5,
     "numero": "05",
-    "rem": "CNN BRASIL",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLG8wV95s6BCs",
-    "meta": "robo:1 | freq:1h | liveMax:24h | origem:UUvdwhh_fDyWccR42-rReZLw | max:10"
+    "nome": "CNN MONEY",
+    "categoria": "Economia & Negócios",
+    "robo": "Robo 2",
+    "playlistDestinoId": "PLNrhEPzWYXAU",
+    "origens": ["UUqfm5IQhpMlfeAWMmVL_uNg"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 6,
     "numero": "06",
-    "rem": "CNN MONEY",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLNrhEPzWYXAU",
-    "meta": "robo:2 | freq:6h | liveMax:24h | origem:UUqfm5IQhpMlfeAWMmVL_uNg | max:10"
+    "nome": "JOVEM PAN NEWS & PINGOS NOS IS",
+    "categoria": "Notícias & Opinião",
+    "robo": "Robo 1",
+    "playlistDestinoId": "PLQFzFGzfSNGA",
+    "origens": ["UUP391YRAjSOdM_bwievgaZA", "UUzjtGnD7qqeaHW3nvDVrjQA"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 7,
     "numero": "07",
-    "rem": "JOVEM PAN NEWS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLQFzFGzfSNGA",
-    "meta": "robo:1 | freq:1h | liveMax:24h | origem:UUP391YRAjSOdM_bwievgaZA | max:17"
+    "nome": "RECORD COMBO",
+    "categoria": "TV Aberta & Jornalismo",
+    "robo": "Robo 2",
+    "playlistDestinoId": "PLDmRJgKWywHU",
+    "origens": ["UUmpHPgeCBgvk_fDXZQKsnAA", "UUu_a6PAzp30Bn2mM-Ll09LA", "UUwVmZjJwkCUCOes5_eAIebg", "UUYxy37pydVzpDDXO6xLePMA", "UUN-opsqqDunWO6h5uCp9Y4g", "UUJ2_rpTPTlbPDbPbLrWtYog", "UUIwRd7CNbYcTUp-VCtMqkDw", "UUrPubyb1MgLylECvdEf9FRA", "UUoRz1sARw5el7c9WhVf6mkQ"],
+    "duracaoMinimaSeg": 200
   },
-    {
+  {
+    "id": 8,
     "numero": "08",
-    "rem": "TV CULTURA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLS_d2NNsMFDY",
-    "meta": "robo:3 | freq:4h | liveMax:2.5h | vodMax:3.0h | origens:UUXdXYG8dUmEv6jhEji_lSHg(live),PLCZORdCI40WI(prog) | max:20"
+    "nome": "BAND COMBO",
+    "categoria": "TV Aberta & Esportes/Entretenimento",
+    "robo": "Robo 2",
+    "playlistDestinoId": "PLRLMXHYE6Mqg",
+    "origens": ["UUoa-D_VfMkFrCYodrOC9-mA", "UUCj-2ICgTebA_Rb0SkXa4Zg", "UUeqDJ2YYMz4sBLIBtwKlltA", "UUkiNaMeakWWHAXrp1lszWxA", "UUnMfPFJ5B7pQdEl7hVwTCFQ"],
+    "duracaoMinimaSeg": 200
   },
-    {
+  {
+    "id": 9,
     "numero": "09",
-    "rem": "RECORD COMBO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLDmRJgKWywHU",
-    "meta": "robo:2 | freq:2h | liveMax:16h | origens:UUmpHPgeCBgvk_fDXZQKsnAA,UUu_a6PAzp30Bn2mM-Ll09LA,UUwVmZjJwkCUCOes5_eAIebg,UUYxy37pydVzpDDXO6xLePMA,UUN-opsqqDunWO6h5uCp9Y4g,UUJ2_rpTPTlbPDbPbLrWtYog,UUIwRd7CNbYcTUp-VCtMqkDw,UUrPubyb1MgLylECvdEf9FRA,UUoRz1sARw5el7c9WhVf6mkQ | max:25"
+    "nome": "REDETV! COMBO",
+    "categoria": "TV Aberta",
+    "robo": "Robo 2",
+    "playlistDestinoId": "PLcDcUpFDmiSg",
+    "origens": ["UUb40meUp8tmOohWKaBWvs9w", "UUd7VVhgnd2eCv9JEghvR_1w", "UU1FGc8ShBBdN3ED2Vkh_a_Q", "UUIx3AhXcRQtGUwLVf48PWEA", "UUvivSyD8ZN37wQ3mC07QHdA", "UUtpL0dsqQUhJkl_svmrXGUQ", "UUeEf1KSLM06p5Wp5P_Y72Qw"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 10,
     "numero": "10",
-    "rem": "BAND COMBO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLRLMXHYE6Mqg",
-    "meta": "robo:2 | freq:2h | liveMax:16h | origens:UUoa-D_VfMkFrCYodrOC9-mA,UUCj-2ICgTebA_Rb0SkXa4Zg,UUeqDJ2YYMz4sBLIBtwKlltA,UUkiNaMeakWWHAXrp1lszWxA,UUnMfPFJ5B7pQdEl7hVwTCFQ | max:25"
+    "nome": "TV CULTURA",
+    "categoria": "Cultura & TV Aberta",
+    "robo": "Robo 3",
+    "playlistDestinoId": "PLS_d2NNsMFDY",
+    "origens": ["UUXdXYG8dUmEv6jhEji_lSHg", "PLCZORdCI40WI"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "11",
-    "rem": "GLOBONEWS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLLQl5kfHYOuc",
-    "meta": "robo:1 | freq:2h | liveMax:24h | origem:UUp6RRaz93Pt2xYZoEye_rLA | max:27"
-  },
-  {
-    "numero": "12",
-    "rem": "REDETV! COMBO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLcDcUpFDmiSg",
-    "meta": "robo:2 | freq:2h | liveMax:12h | origens:UUb40meUp8tmOohWKaBWvs9w,UUd7VVhgnd2eCv9JEghvR_1w,UU1FGc8ShBBdN3ED2Vkh_a_Q,UUIx3AhXcRQtGUwLVf48PWEA,UUvivSyD8ZN37wQ3mC07QHdA,UUtpL0dsqQUhJkl_svmrXGUQ,UUeEf1KSLM06p5Wp5P_Y72Qw | max:20"
-  },
-  {
+    "id": 11,
     "numero": "13",
-    "rem": "CBN BRASIL",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLCY_Ls0hG8iA",
-    "meta": "robo:3 | freq:2h | liveMax:12h | origem:UUbiGwU0-W1XCDUrt3BTVrag | max:6"
+    "nome": "CBN BRASIL",
+    "categoria": "Notícias & Rádio",
+    "robo": "Robo 3",
+    "playlistDestinoId": "PLCY_Ls0hG8iA",
+    "origens": ["UUbiGwU0-W1XCDUrt3BTVrag"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 12,
     "numero": "14",
-    "rem": "REVISTA OESTE",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLYzN44gNsVq0",
-    "meta": "robo:3 | freq:2h | liveMax:8h | origem:UUBQAI1ZhurW3nbtJR-gBBZg | max:6"
+    "nome": "REVISTA OESTE",
+    "categoria": "Notícias & Opinião",
+    "robo": "Robo 3",
+    "playlistDestinoId": "PLYzN44gNsVq0",
+    "origens": ["UUBQAI1ZhurW3nbtJR-gBBZg"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 13,
     "numero": "15",
-    "rem": "METRÓPOLES",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLOOZCI6PbFd4",
-    "meta": "robo:3 | freq:3h | liveMax:3.5h | vodMax:3.5h | origem:UU9mdw2mmn49ZuqGOpSri7Fw | max:18"
+    "nome": "METRÓPOLES",
+    "categoria": "Notícias",
+    "robo": "Robo 3",
+    "playlistDestinoId": "PLOOZCI6PbFd4",
+    "origens": ["UU9mdw2mmn49ZuqGOpSri7Fw"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 14,
     "numero": "16",
-    "rem": "TV BRASIL",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLDpn2SlINl1U",
-    "meta": "robo:3 | freq:4h | liveMax:24h | origem:UUSv9d0kQegylHWpP83jWSQg | max:10"
+    "nome": "TV BRASIL",
+    "categoria": "TV Pública",
+    "robo": "Robo 3",
+    "playlistDestinoId": "PLDpn2SlINl1U",
+    "origens": ["UUSv9d0kQegylHWpP83jWSQg"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 15,
     "numero": "17",
-    "rem": "TV SENADO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLd8aTKG3LfUY",
-    "meta": "robo:3 | freq:4h | liveMax:14h | origem:UULgti7NuK0RuW9wty-fxPjQ | max:15"
+    "nome": "TV SENADO",
+    "categoria": "TV Pública",
+    "robo": "Robo 3",
+    "playlistDestinoId": "PLd8aTKG3LfUY",
+    "origens": ["UULgti7NuK0RuW9wty-fxPjQ"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 16,
     "numero": "18",
-    "rem": "BBC BRASIL",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLGy8I_FZdrXU",
-    "meta": "robo:3 | freq:6h | liveMax:12h | origem:UUthbIFAxbXTTQEC7EcQvP1Q | max:20"
+    "nome": "BBC BRASIL",
+    "categoria": "Notícias Internacionais",
+    "robo": "Robo 3",
+    "playlistDestinoId": "PLGy8I_FZdrXU",
+    "origens": ["UUthbIFAxbXTTQEC7EcQvP1Q"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 17,
     "numero": "30",
-    "rem": "CAZÉTV",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLIp61Odw5jVg",
-    "meta": "robo:1 | freq:2h | liveMax:14h | origem:UUZiYbVptd3PVPf4f6eR6UaQ | max:5lives+2vod"
+    "nome": "CAZÉTV",
+    "categoria": "Esportes",
+    "robo": "Robo 1",
+    "playlistDestinoId": "PLIp61Odw5jVg",
+    "origens": ["UUZiYbVptd3PVPf4f6eR6UaQ"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 18,
     "numero": "31",
-    "rem": "GLOBO ESPORTE (GE)",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUgCKagVhzGnZcuP9bSMgMCg"
+    "nome": "GLOBO ESPORTE (GE)",
+    "categoria": "Esportes",
+    "robo": "Robo 3",
+    "playlistDestinoId": "PLRfEBu3MoLOk",
+    "origens": ["UUgCKagVhzGnZcuP9bSMgMCg"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 19,
     "numero": "32",
-    "rem": "TNT SPORTS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUs-6sCz2LJm1PrWQN4ErsPw"
+    "nome": "TNT SPORTS",
+    "categoria": "Esportes",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UUs-6sCz2LJm1PrWQN4ErsPw",
+    "origens": ["UUs-6sCz2LJm1PrWQN4ErsPw"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 20,
     "numero": "33",
-    "rem": "ESPN BRASIL",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUw5-xj3AKqEizC7MvHaIPqA"
+    "nome": "ESPN BRASIL",
+    "categoria": "Esportes",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UUw5-xj3AKqEizC7MvHaIPqA",
+    "origens": ["UUw5-xj3AKqEizC7MvHaIPqA"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 21,
     "numero": "34",
-    "rem": "JOVEM PAN ESPORTES",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUv-Nx8pSfG_LxbViMz14RWQ"
+    "nome": "JOVEM PAN ESPORTES",
+    "categoria": "Esportes",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UUv-Nx8pSfG_LxbViMz14RWQ",
+    "origens": ["UUv-Nx8pSfG_LxbViMz14RWQ"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 22,
     "numero": "35",
-    "rem": "JOGO ABERTO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUZaOZdn-Y-I5ikrofkWBLgQ"
+    "nome": "BAND ESPORTES & JOGO ABERTO",
+    "categoria": "Esportes",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UU896QaWKoSGdZTmy9rHyU_g",
+    "origens": ["UU896QaWKoSGdZTmy9rHyU_g", "UUZaOZdn-Y-I5ikrofkWBLgQ"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 23,
     "numero": "36",
-    "rem": "SBT SPORTS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUXc3marqP9BJSkQ0_K4mqDg"
+    "nome": "SBT SPORTS",
+    "categoria": "Esportes",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UUXc3marqP9BJSkQ0_K4mqDg",
+    "origens": ["UUXc3marqP9BJSkQ0_K4mqDg"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 24,
     "numero": "37",
-    "rem": "BAND ESPORTES",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UU896QaWKoSGdZTmy9rHyU_g"
+    "nome": "RED BULL TV",
+    "categoria": "Esportes Radicais",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UUblfuW_4rakIf2h6aqANefA",
+    "origens": ["UUblfuW_4rakIf2h6aqANefA"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "38",
-    "rem": "RED BULL TV",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUblfuW_4rakIf2h6aqANefA"
-  },
-  {
+    "id": 25,
     "numero": "39",
-    "rem": "LITORAL NEWS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUyvgW7qUI4RicX9KbMCabPQ"
+    "nome": "RQTV·NET·ESPORTES & LITORAL NEWS",
+    "categoria": "Esportes & Notícias",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UUyvgW7qUI4RicX9KbMCabPQ",
+    "origens": ["UUyvgW7qUI4RicX9KbMCabPQ"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "50",
-    "rem": "TURBO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUif5_vJSWCka3ViuTqF2owQ"
-  },
-  {
-    "numero": "51",
-    "rem": "ACELERADOS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUGBIIPnw0AYM3BFsmTsjeAw"
-  },
-  {
-    "numero": "52",
-    "rem": "WEBMOTORS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUz2Bb7YdduN4x7qN9oFrJjQ"
-  },
-  {
+    "id": 26,
     "numero": "60",
-    "rem": "RIC RURAL",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UU0pjfx6qXTDcRlR9bcr_VYA"
+    "nome": "AGRO (RIC RURAL & VALE AGRÍCOLA)",
+    "categoria": "Agro",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UU0pjfx6qXTDcRlR9bcr_VYA",
+    "origens": ["UU0pjfx6qXTDcRlR9bcr_VYA", "UU47oEXGl7Yi4IlFVVCVTvCA"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "61",
-    "rem": "VALE AGRÍCOLA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UU47oEXGl7Yi4IlFVVCVTvCA"
+    "id": 27,
+    "numero": "70",
+    "nome": "TURBO",
+    "categoria": "Automobilismo",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UUif5_vJSWCka3ViuTqF2owQ",
+    "origens": ["UUif5_vJSWCka3ViuTqF2owQ"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 28,
+    "numero": "71",
+    "nome": "AUTO (ACELERADOS & WEBMOTORS)",
+    "categoria": "Automobilismo",
+    "robo": "Robo 3",
+    "playlistDestinoId": "UUGBIIPnw0AYM3BFsmTsjeAw",
+    "origens": ["UUGBIIPnw0AYM3BFsmTsjeAw", "UUz2Bb7YdduN4x7qN9oFrJjQ"],
+    "duracaoMinimaSeg": 200
+  },
+  {
+    "id": 29,
     "numero": "80",
-    "rem": "TECH & CIÊNCIA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "nome": "TECH & CIÊNCIA 1",
+    "categoria": "Tech & Ciência",
+    "robo": "Robo 4",
+    "playlistDestinoId": "PLMq9YZgVx_LA",
+    "origens": ["UUKHhA5hN2UohhFDfNXB_cvA", "UUGV72aVJuWP0QPNGH4YgIww", "UUGJAcveK9o1xObmuR_bFhrA", "UU_bXJnsgwOqEPA_-6N6faKw"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 30,
+    "numero": "81",
+    "nome": "TECH & CIÊNCIA 2",
+    "categoria": "Tech & Ciência",
+    "robo": "Robo 4",
+    "playlistDestinoId": "PLNy1WMbViJiY",
+    "origens": ["UUIQPHl1WKKTt9KkWyo_JNig", "UUMrk4u6llLzkTPToCk0Y1kA", "UU9A70zHWT__VE5oWmTg2-xA", "UUdv4lZ4ao5aciK92xndA_kw"],
+    "duracaoMinimaSeg": 200
+  },
+  {
+    "id": 31,
+    "numero": "90",
+    "nome": "ARTE & CRIATIVIDADE",
+    "categoria": "Arte",
+    "robo": "Robo 4",
+    "playlistDestinoId": "PLMemK3449-AU",
+    "origens": ["UUAvLH094XKHRVajCVzMxB8g"],
+    "duracaoMinimaSeg": 200
+  },
+  {
+    "id": 32,
     "numero": "100",
-    "rem": "SBT: PROGRAMA DO RATINHO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UU9JPNM6VyxUrmZb3SPp3zwA"
+    "nome": "TV EVANGELIZAR",
+    "categoria": "Bem Viver & Espiritualidade",
+    "robo": "Robo 4",
+    "playlistDestinoId": "PLYWCj1zGb1bw",
+    "origens": ["UUBpwS_TPjdLt_FLgl0ZtZAg"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 33,
     "numero": "101",
-    "rem": "SBT: FOFOCALIZANDO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUcYbSf9Zq381mIvEsesOTKA"
+    "nome": "REDE VIDA",
+    "categoria": "Bem Viver & Espiritualidade",
+    "robo": "Robo 4",
+    "playlistDestinoId": "PLKU3sCct6ADM",
+    "origens": ["UUi6mmUqfytngFLXbhPUDd1A"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "102",
-    "rem": "SBT: THE NOITE",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUeWOoncsrmirqnFqxer9lmA"
-  },
-  {
-    "numero": "103",
-    "rem": "SBT: SABADOU COM VIRGINIA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLdVc1RNcjHV2LQsTh4BAg8D-F0M__m5rz"
-  },
-  {
-    "numero": "104",
-    "rem": "SBT: PROGRAMA DO JOÃO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLdVc1RNcjHV22jLjcw6MJoE51Rz15gEbp"
-  },
-  {
-    "numero": "105",
-    "rem": "SBT: EITA LUCAS!",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLdVc1RNcjHV1XVNBSadDixuvKTrqxSe_O"
-  },
-  {
-    "numero": "106",
-    "rem": "YOUTUBE: TALK RAUL",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UU7mMSiAr_-bqP_Duf-PAF0A"
-  },
-  {
-    "numero": "107",
-    "rem": "SBT: GABI QUASE PROIBIDA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLdVc1RNcjHV1MGH2fWmmj3sNKRM5lRFuE"
-  },
-  {
-    "numero": "109",
-    "rem": "SBT: SHOW DO MILHÃO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLJEMO2cSfTfgQ6t1wmgaFx60ne29CXfdJ"
-  },
-  {
+    "id": 34,
     "numero": "110",
-    "rem": "SBT: QUAL É A MÚSICA?",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLJEMO2cSfTfgx8E-1Su8lSuGTwnnzah7H"
+    "nome": "ENTRETENIMENTO SBT",
+    "categoria": "Entretenimento",
+    "robo": "Robo 4",
+    "playlistDestinoId": "PLekgQ26Ato2s",
+    "origens": ["UUR3TOnFWDeAlT-Ho6LueDmg"],
+    "duracaoMinimaSeg": 200
   },
   {
+    "id": 35,
     "numero": "111",
-    "rem": "SBT: JOGO DOS PONTINHOS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLJEMO2cSfTfjKaWiVgJ_KLl3GPXbgX7Xy"
+    "nome": "ENTRETENIMENTO MUSICAL (TALK RAUL)",
+    "categoria": "Entretenimento & Musical",
+    "robo": "Robo 4",
+    "playlistDestinoId": "PLfc7emZeRHVc",
+    "origens": ["UU7mMSiAr_-bqP_Duf-PAF0A"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "112",
-    "rem": "SBT: QUEM SABE MAIS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLLlxkzeIZNTA"
+    "id": 36,
+    "numero": "130",
+    "nome": "NETMOVIES (GERAL)",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLHKZYHMEPZdM",
+    "origens": ["UUK5RRQ3TdwAbbCWrtnXsN3Q"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "113",
-    "rem": "SBT: NADA ALÉM DE 1 MINUTO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLJEMO2cSfTfgztm1LsF9AzPdKE4aydQJa"
+    "id": 37,
+    "numero": "131",
+    "nome": "NETMOVIES AÇÃO",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLN8ch9VnMwxE",
+    "origens": ["UUSkBHTQr29FdMU8klx-yFCg"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "114",
-    "rem": "SBT: 60 ANOS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLJEMO2cSfTfgCNBjKQwGkMghr3JKXt4WC"
+    "id": 38,
+    "numero": "132",
+    "nome": "NETMOVIES COMÉDIA",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLaU_LRnrzmTU",
+    "origens": ["UUj6_TTox6oA8Q_clgNLZYYw"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "115",
-    "rem": "SBT: A PRAÇA É NOSSA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLf52azhL7dBUw33CT_OfrSU90LiJ4vxWa"
+    "id": 39,
+    "numero": "133",
+    "nome": "NETMOVIES ROMANCE",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLO8xz4mLljhI",
+    "origens": ["UUwxDy42GLyZlJ-JfIFa2ajg"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "116",
-    "rem": "SBT: CÂMERAS ESCONDIDAS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLNSPiWvuc500zjlorn3h3S0rknRFgMQT5"
+    "id": 40,
+    "numero": "134",
+    "nome": "NETMOVIES CLÁSSICOS",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLWUbCNoPiKr4",
+    "origens": ["UUklg72s4SymWVrriqiUgXhw"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "117",
-    "rem": "SBT: SBT COMÉDIA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLdVc1RNcjHV3vCtGz5QL98CuEbMXhBiaS"
+    "id": 41,
+    "numero": "135",
+    "nome": "NETMOVIES FAMÍLIA",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLPJZc9ONXeuU",
+    "origens": ["UU1vGd-MHPg0fKoIku6Mw1wQ"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "118",
-    "rem": "SBT: VIVA A NOITE",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLdVc1RNcjHV3BdaIqWHlHayncw8J3Cp1s"
+    "id": 42,
+    "numero": "136",
+    "nome": "NETMOVIES DRAMA",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLPEz-8EBmiNY",
+    "origens": ["UUbD5QmK3ET52M6JVFPf2QXA"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "120",
-    "rem": "SBT: SESSÃO +SBT",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLZPZySpGiJMM"
+    "id": 43,
+    "numero": "137",
+    "nome": "NETMOVIES SUSPENSE",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLdfbPbmhH1RQ",
+    "origens": ["UUBIRfRFt5Qm342yvYh_7Wcw"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "121",
-    "rem": "SBT: QUEM VAI FICAR COM A MAMÃE?",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLdVc1RNcjHV2CH3AtO6LagAU0xw6VKZga"
+    "id": 44,
+    "numero": "138",
+    "nome": "NETMOVIES VELHO OESTE",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "UUPB94_mkTL2_-L_MEdeo3WA",
+    "origens": ["UUPB94_mkTL2_-L_MEdeo3WA"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "122",
-    "rem": "SBT: CHAMADAS HISTÓRICAS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLdVc1RNcjHV1WA1r3Roux79YNaYq5KSVz"
+    "id": 45,
+    "numero": "139",
+    "nome": "NETMOVIES KIDS",
+    "categoria": "Filmes",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLKRXwPA2r8Qg",
+    "origens": ["UUFxHT3Nz5n_Co48GqcdwdKA"],
+    "duracaoMinimaSeg": 200
   },
   {
-    "numero": "160",
-    "rem": "SBT: SÁBADO ANIMADO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLaQTNGNvFDIOqoFl79uGUtHR-0QboZttd"
-  },
-  {
-    "numero": "161",
-    "rem": "SBT: DOMINGO ANIMADO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLaQTNGNvFDINOqk3HGnws2Fblg9MmoKkn"
-  },
-  {
-    "numero": "162",
-    "rem": "SBT: CARROSSEL ANIMADO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLaQTNGNvFDIM8TJauzp4yKB2dcN-WXTK3"
-  },
-  {
-    "numero": "163",
-    "rem": "SBT: O PICA-PAU AMARELO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLJHfBUE4Wlt4"
-  },
-  {
-    "numero": "164",
-    "rem": "SBT: CÂMERA KIDS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLaQTNGNvFDINkZLQqCYkLBk4l98R9zdXk"
-  },
-  {
-    "numero": "200",
-    "rem": "NETMOVIES",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUK5RRQ3TdwAbbCWrtnXsN3Q"
-  },
-  {
-    "numero": "201",
-    "rem": "NETMOVIES AÇÃO",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUSkBHTQr29FdMU8klx-yFCg"
-  },
-  {
-    "numero": "202",
-    "rem": "NETMOVIES COMÉDIA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUj6_TTox6oA8Q_clgNLZYYw"
-  },
-  {
-    "numero": "203",
-    "rem": "NETMOVIES ROMANCE",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUwxDy42GLyZlJ-JfIFa2ajg"
-  },
-  {
-    "numero": "204",
-    "rem": "NETMOVIES CLASSICOS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUklg72s4SymWVrriqiUgXhw"
-  },
-  {
-    "numero": "205",
-    "rem": "NETMOVIES FAMILIA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UU1vGd-MHPg0fKoIku6Mw1wQ"
-  },
-  {
-    "numero": "206",
-    "rem": "NETMOVIES DRAMA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUbD5QmK3ET52M6JVFPf2QXA"
-  },
-  {
-    "numero": "207",
-    "rem": "NETMOVIES SUSPENSE",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUBIRfRFt5Qm342yvYh_7Wcw"
-  },
-  {
-    "numero": "208",
-    "rem": "NETMOVIES VELHO OESTE",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUPB94_mkTL2_-L_MEdeo3WA"
-  },
-  {
-    "numero": "220",
-    "rem": "NETMOVIES KIDS",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "UUFxHT3Nz5n_Co48GqcdwdKA"
-  },
-  {
-    "numero": "287",
-    "rem": "SBT: BOM DIA ESPERANÇA",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLdVc1RNcjHV01_ifI_CgiTYPnnuZw2vU6"
-  },
-  {
-    "numero": "300",
-    "rem": "ARTE & CRIATIVIDADE",
-    "videoIds": ["", ""],
-    "vinhetaPlaylistId": "",
-    "playlistId": ""
-  },
-  {
-    "numero": "330",
-    "rem": "RQTV VIMEO",
-    "plataforma": "vimeo",
-    "videoIds": ["1168609944", "1244922687", "1244926279", "1024443022", "150593919"],
-    "vinhetaPlaylistId": "",
-    "playlistId": ""
-  },
-  {
-    "numero": "331",
-    "rem": "VIMEO MIX",
-    "plataforma": "vimeo",
-    "videoIds": ["76979871", "21611026"],
-    "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "id": 46,
+    "numero": "150",
+    "nome": "SÉRIES (XENA)",
+    "categoria": "Séries",
+    "robo": "Robo 5",
+    "playlistDestinoId": "PLZ4cGoUIg3BI",
+    "origens": ["UUFm0yJ6K6YryfgEeFh41WpQ"],
+    "duracaoMinimaSeg": 200
   }
 ]
