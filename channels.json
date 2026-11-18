@@ -183,21 +183,21 @@
   },
   {
     "numero": "60",
-    rem": "AGRO (RIC RURAL & VALE AGRÍCOLA)",
+    "rem": "AGRO (RIC RURAL & VALE AGRÍCOLA)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PL...AGRO..."
   },
   {
     "numero": "70",
-    rem": "TURBO",
+    "rem": "TURBO",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PL...TURBO..."
   },
   {
     "numero": "71",
-    rem: "AUTO (ACELERADOS & WEBMOTORS)",
+    "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PL...AUTO..."
@@ -218,35 +218,35 @@
   },
   {
     "numero": "90",
-    rem: "ARTE & CRIATIVIDADE",
+    "rem": "ARTE & CRIATIVIDADE",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLMemK3449-AU"
   },
   {
     "numero": "100",
-    rem: "TV EVANGELIZAR",
+    "rem": "TV EVANGELIZAR",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLYWCj1zGb1bw"
   },
   {
     "numero": "101",
-    rem: "REDE VIDA",
+    rem": "REDE VIDA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLKU3sCct6ADM"
   },
   {
     "numero": "110",
-    rem: "ENTRETENIMENTO SBT",
+    "rem": "ENTRETENIMENTO SBT",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLekgQ26Ato2s"
   },
   {
     "numero": "111",
-    rem: "ENTRETENIMENTO MUSICAL (TALK RAUL)",
+    "rem": "ENTRETENIMENTO MUSICAL (TALK RAUL)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLfc7emZeRHVc"
@@ -260,29 +260,29 @@
   },
   {
     "numero": "131",
-    rem: "NETMOVIES AÇÃO",
+    "rem": "NETMOVIES AÇÃO",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLN8ch9VnMwxE"
   },
   {
     "numero": "132",
-    rem: "NETMOVIES COMÉDIA",
+    "rem": "NETMOVIES COMÉDIA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLaU_LRnrzmTU"
   },
   {
     "numero": "133",
-    rem: "NETMOVIES ROMANCE",
+    "rem": "NETMOVIES ROMANCE",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLO8xz4mLljhI"
   },
   {
     "numero": "134",
-    rem: "NETMOVIES CLÁSSICOS",
-    (videoIds): [],
+    "rem": "NETMOVIES CLÁSSICOS",
+    "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLWUbCNoPiKr4"
   },
@@ -323,7 +323,7 @@
   },
   {
     "numero": "150",
-    rem: "SÉRIES (XENA)",
+    "rem": "SÉRIES (XENA)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLZ4cGoUIg3BI"
