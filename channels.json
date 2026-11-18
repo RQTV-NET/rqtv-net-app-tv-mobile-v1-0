@@ -9,7 +9,9 @@
   {
     "numero": "01",
     "rem": "GLOBO & GLOBONEWS",
-    "videoIds": [],
+    "videoIds": [
+      "nvzUC8fOyMQ"
+    ],
     "vinhetaPlaylistId": "",
     "playlistId": "PLWwJT4sZcMYo"
   },
@@ -92,7 +94,7 @@
   },
   {
     "numero": "15",
-    "rem": "METRÓPOLES",
+    "rem": "METR?POLES",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLOOZCI6PbFd4"
@@ -120,7 +122,7 @@
   },
   {
     "numero": "30",
-    "rem": "CAZÉTV",
+    "rem": "CAZ?TV",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLIp61Odw5jVg"
@@ -183,7 +185,7 @@
   },
   {
     "numero": "60",
-    "rem": "AGRO (RIC RURAL & VALE AGRÍCOLA)",
+    "rem": "AGRO (RIC RURAL & VALE AGR?COLA)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PL...AGRO..."
@@ -204,14 +206,14 @@
   },
   {
     "numero": "80",
-    "rem": "TECH & CIÊNCIA 1",
+    "rem": "TECH & CI?NCIA 1",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLMq9YZgVx_LA"
   },
   {
     "numero": "81",
-    "rem": "TECH & CIÊNCIA 2",
+    "rem": "TECH & CI?NCIA 2",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLNy1WMbViJiY"
@@ -230,7 +232,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "PLYWCj1zGb1bw"
   },
-{
+  {
     "numero": "101",
     "rem": "REDE VIDA",
     "videoIds": [],
@@ -260,14 +262,14 @@
   },
   {
     "numero": "131",
-    "rem": "NETMOVIES AÇÃO",
+    "rem": "NETMOVIES A??O",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLN8ch9VnMwxE"
   },
   {
     "numero": "132",
-    "rem": "NETMOVIES COMÉDIA",
+    "rem": "NETMOVIES COM?DIA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLaU_LRnrzmTU"
@@ -281,14 +283,14 @@
   },
   {
     "numero": "134",
-    "rem": "NETMOVIES CLÁSSICOS",
+    "rem": "NETMOVIES CL?SSICOS",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLWUbCNoPiKr4"
   },
   {
     "numero": "135",
-    "rem": "NETMOVIES FAMÍLIA",
+    "rem": "NETMOVIES FAM?LIA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLPJZc9ONXeuU"
@@ -323,7 +325,7 @@
   },
   {
     "numero": "150",
-    "rem": "SÉRIES (XENA)",
+    "rem": "S?RIES (XENA)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLZ4cGoUIg3BI"
