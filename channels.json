@@ -245,14 +245,32 @@
   {
     "numero": "10",
     "rem": "TV CULTURA",
-    "videoIds": [],
+    "videoIds": [
+      "DU7RJLgUop4",
+      "Wx3C-v-6HKA",
+      "4cGaqu0Riho",
+      "ChtIQNxkNMU",
+      "ZWTxBbSPnj0",
+      "FfHK5HXRKqE",
+      "MpIIi2EfS5w",
+      "Xckpw-m3Zbg",
+      "QtWcrT78kM4",
+      "sVD1tLBCuoQ"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLS_d2NNsMFDY"
+    "playlistId": ""
   },
   {
     "numero": "13",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "Iqy6HR5rT5s",
+      "7GoVT4S1-FA",
+      "K4csejo4Xpk",
+      "O8IXr6NWQ6E",
+      "JrsJt3ZghJI",
+      "5iXIVG4Xkiw",
+      "aD7opeZK_o0",
       "qPlCKX5pS_Q",
       "Chyybw5uyEU",
       "cOC2nJSnnLI",
@@ -260,14 +278,7 @@
       "h9uwiGwucHw",
       "kS1jshYfdt0",
       "_hA7Yjyy46A",
-      "t9xKF46Fk3g",
-      "eZkQS3_BVa4",
-      "j61hY--JwrI",
-      "OwV7v_b4dbg",
-      "bLkKSW3wI4k",
-      "YVHmqZnCN90",
-      "5KdCFiz08og",
-      "uTD8PBfArHw"
+      "t9xKF46Fk3g"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": ""
@@ -275,37 +286,96 @@
   {
     "numero": "14",
     "rem": "REVISTA OESTE",
-    "videoIds": [],
+    "videoIds": [
+      "yIDEOw94nS0",
+      "HJzom0ZEjKU",
+      "uDo_4tNtpTc",
+      "opXhLivzDr0",
+      "64vSpDMhCg0",
+      "g9XFObY44jM",
+      "nng1ce81RQk",
+      "tz3knw7PjfU",
+      "F-yUPmhHRJ0",
+      "eLomGRXKGE0",
+      "PmK70WmdVjc",
+      "7hqIbmB-Bho",
+      "4t5Zdyh_pqg",
+      "skvhAoHCgo4",
+      "MC9leRyubJo",
+      "ITqWScCGTqw",
+      "plendtja9fo",
+      "T-arRi1zFtg",
+      "NFLfBrbckEk",
+      "WdMxypOumYk"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLYzN44gNsVq0"
+    "playlistId": ""
   },
   {
     "numero": "15",
     "rem": "METRÓPOLES",
-    "videoIds": [],
+    "videoIds": [
+      "jQyB31dE3qs",
+      "OKqd_BRzI6A",
+      "-4YH9PTZIrY",
+      "gpPfn1Gs1w4",
+      "82eujajYyaE",
+      "bU2sH9KTmUY",
+      "Kn11EwM8TmU",
+      "DmUvg60a8nk",
+      "9SuYW-z0tMY",
+      "uZHCIY_YM2I",
+      "JQWhMOHfMYY",
+      "SeYugxJXG_s"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLOOZCI6PbFd4"
+    "playlistId": ""
   },
   {
     "numero": "16",
     "rem": "TV BRASIL",
-    "videoIds": [],
+    "videoIds": [
+      "mNQWLgIFgTE",
+      "0XYrbJyPiDY",
+      "mfutbMO0nnU",
+      "5yuZHNVBSaQ",
+      "cvytG0I17fc",
+      "X25gIhmuMu8",
+      "STNEuO3szqk"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLDpn2SlINl1U"
+    "playlistId": ""
   },
   {
     "numero": "17",
     "rem": "TV SENADO",
-    "videoIds": [],
+    "videoIds": [
+      "XcLWuWSv1wQ",
+      "1IcYqqIiZyA",
+      "rLEg-HaJ1K0",
+      "9dTCXV9Hsqc",
+      "Ci_M2qnMZXw",
+      "_dR9AqswORQ",
+      "V_Q_qQY6i7s",
+      "-uvpNNHrGA0",
+      "-P-8KFF8g70",
+      "pSnJQCmwqBY",
+      "nPiMRiGIYiA"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLd8aTKG3LfUY"
+    "playlistId": ""
   },
   {
     "numero": "18",
     "rem": "BBC BRASIL",
-    "videoIds": [],
+    "videoIds": [
+      "vEq6EZZpc-o",
+      "K1PuHplsq2M",
+      "aNDkTCCojTE",
+      "gCbQL5zt-ck"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLGy8I_FZdrXU"
+    "playlistId": ""
   },
   {
     "numero": "30",
