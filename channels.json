@@ -217,7 +217,7 @@
   },
   {
     "numero": "15",
-    "rem": "METR?POLES",
+    "rem": "METRÓPOLES",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLOOZCI6PbFd4"
@@ -245,7 +245,7 @@
   },
   {
     "numero": "30",
-    "rem": "CAZ?TV",
+    "rem": "CAZÉTV",
     "videoIds": [
       "uvIUotoeJAk",
       "gOe1sI9JhN0",
@@ -388,7 +388,7 @@
   },
   {
     "numero": "60",
-    "rem": "AGRO (RIC RURAL & VALE AGR?COLA)",
+    "rem": "AGRO (RIC RURAL & VALE AGRÍCOLA)",
     "videoIds": [
       "rfrvCSyJT0c",
       "NeIPEr1sAUg",
@@ -430,14 +430,14 @@
   },
   {
     "numero": "80",
-    "rem": "TECH & CI?NCIA 1",
+    "rem": "TECH & CIÊNCIA 1",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLMq9YZgVx_LA"
   },
   {
     "numero": "81",
-    "rem": "TECH & CI?NCIA 2",
+    "rem": "TECH & CIÊNCIA 2",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLNy1WMbViJiY"
@@ -463,7 +463,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "PLKU3sCct6ADM"
   },
-{
+  {
     "numero": "110",
     "rem": "SBT PROGRAMAS",
     "videoIds": [],
@@ -491,6 +491,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": ""
   },
+  {
+    "numero": "130",
     "rem": "NETMOVIES (GERAL)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
@@ -498,14 +500,14 @@
   },
   {
     "numero": "131",
-    "rem": "NETMOVIES A??O",
+    "rem": "NETMOVIES AÇÃO",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLN8ch9VnMwxE"
   },
   {
     "numero": "132",
-    "rem": "NETMOVIES COM?DIA",
+    "rem": "NETMOVIES COMÉDIA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLaU_LRnrzmTU"
@@ -519,14 +521,14 @@
   },
   {
     "numero": "134",
-    "rem": "NETMOVIES CL?SSICOS",
+    "rem": "NETMOVIES CLÁSSICOS",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLWUbCNoPiKr4"
   },
   {
     "numero": "135",
-    "rem": "NETMOVIES FAM?LIA",
+    "rem": "NETMOVIES FAMÍLIA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLPJZc9ONXeuU"
@@ -561,7 +563,7 @@
   },
   {
     "numero": "150",
-    "rem": "S?RIES (XENA)",
+    "rem": "SÉRIES (XENA)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLZ4cGoUIg3BI"
