@@ -10,8 +10,6 @@
     "numero": "01",
     "rem": "GLOBO & GLOBONEWS",
     "videoIds": [
-      "KaTI0LienkA",
-      "1tINlemBp8Y",
       "jKb7WJvgVG4",
       "t8OqdgoNMKI",
       "TCV6NhYXS5Q",
@@ -39,7 +37,9 @@
       "2ODAAh6TM2M",
       "sfXhYVpR7OI",
       "1fRPbsjBHjc",
-      "jBKthEYQwGQ"
+      "jBKthEYQwGQ",
+      "tMumQSWUSuw",
+      "V4nHd2mb-9s"
     ],
     "playlistId": ""
   },
@@ -47,23 +47,6 @@
     "numero": "02",
     "rem": "SBT PROGRAMAS",
     "videoIds": [
-      "1eTi-xrA55E",
-      "AD2amyhmcec",
-      "w847mg6Ddns",
-      "9wOqz6JYtkw",
-      "nKNK6drt-T8",
-      "k7E7OetNl4s",
-      "c0YVxcTbUNs",
-      "OzurtM3_62Y",
-      "Cl805wLk41A",
-      "_y2CzDz_22s",
-      "zrXj1PvpD7U",
-      "nFcjdy_9z1I",
-      "kTXLyVGsGXE",
-      "eq67PDAdiQc",
-      "EjVHvw2CQXU",
-      "tBYEOwQzIsQ",
-      "7XtHDLypalc",
       "uLqXRKXOB8E",
       "DGq7yt2cxW4",
       "TtU3rCkIlRg",
@@ -79,91 +62,23 @@
   {
     "numero": "03",
     "rem": "SBT NEWS & JORNALISMO",
-    "videoIds": [
-      "Uct2fbsgupc",
-      "esHiqixSMro",
-      "Tmg7KQsBSOQ",
-      "_D2Jl3q36aY",
-      "GsdItuI3kGg",
-      "mKcz6tvlH4k",
-      "vOiMfvrHkt8",
-      "70DVskMwUPk",
-      "d3lcW23D-Ek",
-      "ChG11AjnhNI",
-      "ru-roUeKCeM",
-      "Oa8JrE9Zy3k",
-      "F924TqOA-N8",
-      "tTMVL2dAcyE",
-      "hTPsct-WwO0",
-      "9BbaReSa45s",
-      "lGCq-cqsHT0",
-      "Cap9k5wfCFA",
-      "M2oaD5IuoCU",
-      "WoargAj9EYE",
-      "d1Vf_GMKMaM",
-      "4k7-sFuLfBw",
-      "vq-wuOUdh8c",
-      "r4SuxIiY4v0",
-      "s9ncPfqs7Ag",
-      "W8x0A-o-D_8",
-      "IEMiv5ZEHWU",
-      "ZNK8OgxWKQU",
-      "Ft0eE8uqkbY",
-      "XhcTaPOq_WU"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "PLYfwHdJO8mYs"
   },
   {
     "numero": "04",
     "rem": "CNN BRASIL",
-    "videoIds": [
-      "hkxkcEoe7W0",
-      "xn65OmDq2jM",
-      "hWbpH-PmM5Q",
-      "MvSrqiagfKE",
-      "A3NhMowsNAI",
-      "dEMFh9DwFDo",
-      "VwlLJH6WxEI",
-      "PaKgG2sMDR8",
-      "GeRaPmvvRAE",
-      "Z425CGVR27E",
-      "a8OLulQSH1k"
-    ],
-    "playlistId": ""
+    "videoIds": [],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLG8wV95s6BCs"
   },
   {
     "numero": "05",
     "rem": "CNN MONEY",
-    "videoIds": [
-      "NEyC1-N8UBk",
-      "cL_0pRWZquM",
-      "7TwBeW7Pbko",
-      "Fkn-giOpMzk",
-      "AxtoKNBX4ZQ",
-      "Jsl_fqsfL5Q",
-      "bPtgxHronWg",
-      "Azq5Bzeu-Ao",
-      "ZC4oX3V5NNM",
-      "S-MoMv1stRU",
-      "CvC_A7RmavI",
-      "x3-x90azc34",
-      "aBWCU_B1hTM",
-      "E8rQ0J0pMc8",
-      "tVwgz0_Q1Fw",
-      "oXRe6jnMX5A",
-      "wZPQlBXLWMg",
-      "EE8GmsjeNj0",
-      "q5SiMrfU9WQ",
-      "QzOd-SLqxIk",
-      "-E3Qg6UnxjI",
-      "Ana2viZY8pA",
-      "TqvFgjJFSdc",
-      "G3nEd-nluyM",
-      "kEKQQVze33k"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "PLNrhEPzWYXAU"
   },
   {
     "numero": "06",
@@ -195,26 +110,31 @@
     "numero": "07",
     "rem": "RECORD COMBO",
     "videoIds": [
-      "V-Zkjxr3OUs",
-      "5PhBbGRJ-8k",
-      "l_kO75wpleA",
-      "Ya9OV7aeY8U",
-      "KZHXl0pBFLY",
-      "e61spbFC3JI",
-      "-zFZ1tPndek",
-      "pwzdgRwTH6s",
-      "zgPrU5S_lIg",
-      "IqTgA_PZ4mU",
-      "1k4yZ6wrUQU",
-      "Ql6VCE5olO0",
-      "OydNLXb2Ld8",
-      "mqNJUuqB1Wo",
-      "rBoq1D5ETH8",
-      "K3kUHP6I4_k",
-      "4ICBuXUUReE",
-      "-3jl8woK0k4",
-      "TUJkAN7hOB0",
-      "o2J2za_qrR0"
+      "Ft0eE8uqkbY",
+      "XhcTaPOq_WU",
+      "kNScHtlI518",
+      "b5GiTKAiAuQ",
+      "Uct2fbsgupc",
+      "esHiqixSMro",
+      "Tmg7KQsBSOQ",
+      "_D2Jl3q36aY",
+      "GsdItuI3kGg",
+      "mKcz6tvlH4k",
+      "vOiMfvrHkt8",
+      "70DVskMwUPk",
+      "d3lcW23D-Ek",
+      "ChG11AjnhNI",
+      "ru-roUeKCeM",
+      "Oa8JrE9Zy3k",
+      "F924TqOA-N8",
+      "tTMVL2dAcyE",
+      "hTPsct-WwO0",
+      "9BbaReSa45s",
+      "lGCq-cqsHT0",
+      "M2oaD5IuoCU",
+      "WoargAj9EYE",
+      "d1Vf_GMKMaM",
+      "4k7-sFuLfBw"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": ""
@@ -223,21 +143,26 @@
     "numero": "08",
     "rem": "BAND COMBO",
     "videoIds": [
-      "qPlCKX5pS_Q",
-      "Chyybw5uyEU",
-      "cOC2nJSnnLI",
-      "vye6ePRvKuk",
-      "h9uwiGwucHw",
-      "kS1jshYfdt0",
-      "_hA7Yjyy46A",
-      "t9xKF46Fk3g",
-      "eZkQS3_BVa4",
-      "j61hY--JwrI",
-      "OwV7v_b4dbg",
-      "bLkKSW3wI4k",
-      "YVHmqZnCN90",
-      "5KdCFiz08og",
-      "uTD8PBfArHw"
+      "kEKQQVze33k",
+      "VrPAvDE8JF4",
+      "0UYyOOOM2FE",
+      "fmS10KjpNVM",
+      "Id55kp4c9ME",
+      "qCzGbu4AXw0",
+      "hwSdZpzeBls",
+      "RfO92C99ubY",
+      "WQMga5bgLdM",
+      "NZts6SFklqo",
+      "jFqIEOWWfeY",
+      "7TwBeW7Pbko",
+      "Fkn-giOpMzk",
+      "AxtoKNBX4ZQ",
+      "Jsl_fqsfL5Q",
+      "bPtgxHronWg",
+      "Azq5Bzeu-Ao",
+      "ZC4oX3V5NNM",
+      "S-MoMv1stRU",
+      "cL_0pRWZquM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": ""
@@ -246,7 +171,6 @@
     "numero": "09",
     "rem": "REDETV! COMBO",
     "videoIds": [
-      "IMwC2r-HHpM",
       "Fn8STcBDw3A",
       "6xYov7etzQc",
       "eq9jXA6t1IM",
@@ -293,7 +217,7 @@
   },
   {
     "numero": "15",
-    "rem": "METR?POLES",
+    "rem": "METRÓPOLES",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLOOZCI6PbFd4"
@@ -321,7 +245,7 @@
   },
   {
     "numero": "30",
-    "rem": "CAZ?TV",
+    "rem": "CAZÉTV",
     "videoIds": [
       "uvIUotoeJAk",
       "gOe1sI9JhN0",
@@ -377,9 +301,6 @@
     "numero": "34",
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
-      "PiaX3jNDPEA",
-      "NgTEeYO5lk4",
-      "DrT9DjeCzrU",
       "8CX5babwunM",
       "qO37kUt-te8",
       "jhLRaFSnZCM",
@@ -391,7 +312,10 @@
       "SEGwd5WNcQE",
       "joqIPwMGdz4",
       "gJ-vzzdfbak",
-      "k1jxW-l9JHs"
+      "k1jxW-l9JHs",
+      "J_5No97BT0A",
+      "4wtXIUZiAeY",
+      "NgTEeYO5lk4"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": ""
@@ -400,7 +324,6 @@
     "numero": "35",
     "rem": "BAND ESPORTES & JOGO ABERTO",
     "videoIds": [
-      "emLTLpbzkZE",
       "lCdfPcPW-qI",
       "uCaxCU7JwNM",
       "7h9XdkYRf7w",
@@ -418,9 +341,7 @@
   {
     "numero": "36",
     "rem": "SBT SPORTS",
-    "videoIds": [
-      "mYyr0pyP2A4"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": ""
   },
@@ -467,14 +388,8 @@
   },
   {
     "numero": "60",
-    "rem": "AGRO (RIC RURAL & VALE AGR?COLA)",
+    "rem": "AGRO (RIC RURAL & VALE AGRÍCOLA)",
     "videoIds": [
-      "dVaaVvrU3EM",
-      "BxISHSf6IJE",
-      "R4m00bPQ-U8",
-      "pSXiKPPZjz8",
-      "CqvbCcIUrf8",
-      "h2hfCtpcP2U",
       "rfrvCSyJT0c",
       "NeIPEr1sAUg",
       "m3n7h1wshEM",
@@ -488,7 +403,13 @@
       "xouTldP3F2Q",
       "ezBGxJ3ZdiY",
       "hTDoZLU854E",
-      "FxRvvdIFXAw"
+      "FxRvvdIFXAw",
+      "jwCDZjX5HPU",
+      "n6qRd_WYXME",
+      "7xtmIRr5hdc",
+      "dVaaVvrU3EM",
+      "BxISHSf6IJE",
+      "R4m00bPQ-U8"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": ""
@@ -496,209 +417,56 @@
   {
     "numero": "70",
     "rem": "TURBO",
-    "videoIds": [
-      "fQ6ZWEO3ZB4",
-      "JR-6DPgyNWg",
-      "ruV2VdbqxYw",
-      "Z2XeSYNhUsk",
-      "p7b1sIapdPA",
-      "0uYXfL2N8EQ",
-      "dHj1qA21zZU",
-      "t1X6mIUI6aM",
-      "MVxonBbqEvk",
-      "rgctu1P6qco",
-      "gxKqxS3_lGs",
-      "rwwnhlJaiOE",
-      "t5ilJ9kXOXI",
-      "ZpWYOIdQInI",
-      "HOUv4qsnCpY"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "PL...TURBO..."
   },
   {
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
-    "videoIds": [
-      "oIuupOu2sMY",
-      "yeH5FffwGFQ",
-      "4h5t6M9BUpY",
-      "slh1REBdy74",
-      "yo0pCCO7hok",
-      "jcqWs2YQnKs",
-      "1ZdDuoKH99w",
-      "SqNm7hAc19Q",
-      "j5kUs0-FEbA",
-      "k4qLvjybQVc",
-      "jFSKrtt6CgU",
-      "dv5keS0cpl4",
-      "GArB8oP11os",
-      "Np_3cVEdb6I"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "PL...AUTO..."
   },
   {
     "numero": "80",
-    "rem": "TECH & CI?NCIA 1",
-    "videoIds": [
-      "5iW85Q1xY_s",
-      "mRqkF3Fb_Jw",
-      "Ah6wf_vy7Bk",
-      "KLMwkSJBWVg",
-      "dxPP-lGUhgM",
-      "kZg9m9EjCcU",
-      "66rXT-hr9SA",
-      "-_r8nUNZxto",
-      "LVtCX8yP22s",
-      "U3rkVKMnN0o",
-      "dxXFlpBY_SM",
-      "w_GmvzSfbSo",
-      "Xp3OXRSP5P8",
-      "qb72YB6vggA",
-      "qFUhngomP28",
-      "gIVONyy2xlc",
-      "SmXuh6jLxzs",
-      "AaxBv4H2cQg",
-      "3DGVKO3RFww",
-      "sdGXSgky7Qc",
-      "bQfjvPWpSe4",
-      "X-auQczETqQ",
-      "8ATj43qCyeU",
-      "R3dxsp9T974",
-      "Ze6mAOJaByY"
-    ],
+    "rem": "TECH & CIÊNCIA 1",
+    "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "PLMq9YZgVx_LA"
   },
   {
     "numero": "81",
-    "rem": "TECH & CI?NCIA 2",
-    "videoIds": [
-      "X0Gamv--ruM",
-      "FL_L4j0nS6E",
-      "Nz36X7rbmIY",
-      "SkdrgITvIlU",
-      "EfxYEBwhWrs",
-      "D0KvNQsNaCE",
-      "RO63XRetw4Y",
-      "kgWuRObLq_E",
-      "ItBmPEUatMk",
-      "vJIvEN0q2Xs",
-      "_7efWJ_jOTw",
-      "6oWAgJ7RPyA",
-      "u1Rd9ucplNI",
-      "xVv9_MPuN4I",
-      "LYgs9qkDQ4s",
-      "taYoGFcjNjo",
-      "qnqsWIL0K8I",
-      "sgLS3rvXmbI",
-      "zqfVG1G4Tmc",
-      "pP38aEwrM_8",
-      "wewHu01NC3M",
-      "SiIXlyJlTMk",
-      "cnVN-3rMVBY",
-      "XzTbPmitO3o",
-      "3VoRgneS2WY"
-    ],
+    "rem": "TECH & CIÊNCIA 2",
+    "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "PLNy1WMbViJiY"
   },
   {
     "numero": "90",
     "rem": "ARTE & CRIATIVIDADE",
-    "videoIds": [
-      "Fzxv_VFcLvg",
-      "YambQkF9fMo",
-      "qf597gEUqOQ",
-      "K2RB2J00SBs",
-      "X2kwiBJZqKU",
-      "aDEwx3KYD_c",
-      "gNn-d8PE1tY",
-      "i5fCqswNLjY",
-      "fH5BdQ5kdkA",
-      "QG_zD0YxGEE",
-      "dq04gRJtEB8",
-      "rmJFvWXLCks",
-      "GWASnCBbp2A",
-      "R_rzYqgvHAY",
-      "6VTSz0f0qYY",
-      "L5-NWK-1L_4",
-      "tPee5VcgsjU",
-      "kl4kutdks4o",
-      "qF6zn8RawZU",
-      "ULUmerQgd9w"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "PLMemK3449-AU"
   },
   {
     "numero": "100",
     "rem": "TV EVANGELIZAR",
-    "videoIds": [
-      "zge_NhiPpSU",
-      "nlW3224H9hk",
-      "yHkqq1rU3bc",
-      "nPVGu9qPEI0",
-      "qcreHrIcnvE",
-      "DjniUik_kp4",
-      "cjrxR1rQ8Y0",
-      "fmAh3A9gnhg",
-      "WQ7RN9pEKGU",
-      "Cs8-LkFllys",
-      "a5EYPBZMPQU",
-      "Y7lmjcUfCmI",
-      "qac7OrN_iuU",
-      "KipYGB6hka4",
-      "RZbW_hbdg34"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "PLYWCj1zGb1bw"
   },
   {
     "numero": "101",
     "rem": "REDE VIDA",
-    "videoIds": [
-      "3UIHVM-l6PU"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "PLKU3sCct6ADM"
   },
   {
     "numero": "110",
     "rem": "SBT PROGRAMAS",
-    "videoIds": [
-      "TXnBGPKwL4U",
-      "RIaXfHn8Iiw",
-      "yu7X6VyCT0Q",
-      "4yk1lKQnHzk",
-      "FY4TGO0IALA",
-      "Fwj2dQVBSwY",
-      "i1ZNf9gnzHY",
-      "wfMzERFVpio",
-      "_VvvtbFjoTQ",
-      "OoQTGmNC48c",
-      "FxYy_GCTCyc",
-      "wnLtg-aHfHg",
-      "AW77B525K2M",
-      "ZCyuhtkFuCk",
-      "K6IQ7S0XiiQ",
-      "A3JgKTtn-bU",
-      "oa7uc1jYBCA",
-      "pLp2FbBOgI8",
-      "KXecdSGi70M",
-      "giY2L67rlaY",
-      "Jfwn4AXbOlg",
-      "4bHMPaxM7tk",
-      "uboChYo9lAE",
-      "Vdd4Orq6Qis",
-      "PMxbsRQR33Q",
-      "UOt-IQwLi94",
-      "Kf2nNqp4S5o",
-      "NqdoKrinfKw",
-      "f6StZnemVv0",
-      "b7m2GKCiunU"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": ""
   },
@@ -712,51 +480,14 @@
   {
     "numero": "112",
     "rem": "BAND PROGRAMAS",
-    "videoIds": [
-      "fg9XLVhr6EQ",
-      "0OJw9FbBZRA",
-      "1roaDEyemrw",
-      "9WXuacfC-FE",
-      "Lpj4QF6UyLU",
-      "qsDJWawUmdU",
-      "5MR-6LDWUto",
-      "4vGDxgn0ahA",
-      "tgACzUrASI0",
-      "XBchwoD31Tg",
-      "s2UQMJHDv3I",
-      "mcQ-JxTV_6k",
-      "nkNsPAgBXeo",
-      "4cBMfHd657Y",
-      "KKp7V_MRbew",
-      "rZDQgTY61h4",
-      "brs15WCfc-o",
-      "NAZk8SWU7E0",
-      "fYRQlrpPZU4",
-      "wUV8ekV5i9o"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": ""
   },
   {
     "numero": "113",
     "rem": "ENTRETENIMENTO MUSICAL (TALK RAUL)",
-    "videoIds": [
-      "Te7NRlc5z6E",
-      "V9bTKwGi1gA",
-      "0akxh6MP2ys",
-      "7hd6F34Ac6Y",
-      "e-SHqOi0fVs",
-      "8eMYzJYHGBI",
-      "dHWCt4lVnzw",
-      "E6SsvQCu800",
-      "jWQW11tWaKk",
-      "YJ2In2YOhsI",
-      "gCCqIakO8Kg",
-      "NUI1AwGX7jc",
-      "NoGitN6ocM0",
-      "CELIrYqa9uA",
-      "mLbO1NeiGuE"
-    ],
+    "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": ""
   },
@@ -765,56 +496,56 @@
     "rem": "NETMOVIES (GERAL)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLHKZYHMEPZdM"
+    "playlistId": "UUK5RRQ3TdwAbbCWrtnXsN3Q"
   },
   {
     "numero": "131",
-    "rem": "NETMOVIES A??O",
+    "rem": "NETMOVIES AÇÃO",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLN8ch9VnMwxE"
+    "playlistId": "UUSkBHTQr29FdMU8klx-yFCg"
   },
   {
     "numero": "132",
-    "rem": "NETMOVIES COM?DIA",
+    "rem": "NETMOVIES COMÉDIA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLaU_LRnrzmTU"
+    "playlistId": "UUj6_TTox6oA8Q_clgNLZYYw"
   },
   {
     "numero": "133",
     "rem": "NETMOVIES ROMANCE",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLO8xz4mLljhI"
+    "playlistId": "UUwxDy42GLyZlJ-JfIFa2ajg"
   },
   {
     "numero": "134",
-    "rem": "NETMOVIES CL?SSICOS",
+    "rem": "NETMOVIES CLÁSSICOS",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLWUbCNoPiKr4"
+    "playlistId": "UUklg72s4SymWVrriqiUgXhw"
   },
   {
     "numero": "135",
-    "rem": "NETMOVIES FAM?LIA",
+    "rem": "NETMOVIES FAMÍLIA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLPJZc9ONXeuU"
+    "playlistId": "UU1vGd-MHPg0fKoIku6Mw1wQ"
   },
   {
     "numero": "136",
     "rem": "NETMOVIES DRAMA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLPEz-8EBmiNY"
+    "playlistId": "UUbD5QmK3ET52M6JVFPf2QXA"
   },
   {
     "numero": "137",
     "rem": "NETMOVIES SUSPENSE",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLdfbPbmhH1RQ"
+    "playlistId": "UUBIRfRFt5Qm342yvYh_7Wcw"
   },
   {
     "numero": "138",
@@ -828,11 +559,11 @@
     "rem": "NETMOVIES KIDS",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLKRXwPA2r8Qg"
+    "playlistId": "UUFxHT3Nz5n_Co48GqcdwdKA"
   },
   {
     "numero": "150",
-    "rem": "S?RIES (XENA)",
+    "rem": "SÉRIES (XENA)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLZ4cGoUIg3BI"
