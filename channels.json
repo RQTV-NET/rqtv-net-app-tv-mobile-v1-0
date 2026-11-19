@@ -217,7 +217,7 @@
   },
   {
     "numero": "15",
-    "rem": "METRÓPOLES",
+    "rem": "METR?POLES",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLOOZCI6PbFd4"
@@ -245,7 +245,7 @@
   },
   {
     "numero": "30",
-    "rem": "CAZÉTV",
+    "rem": "CAZ?TV",
     "videoIds": [
       "uvIUotoeJAk",
       "gOe1sI9JhN0",
@@ -301,6 +301,7 @@
     "numero": "34",
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
+      "DrT9DjeCzrU",
       "8CX5babwunM",
       "qO37kUt-te8",
       "jhLRaFSnZCM",
@@ -314,8 +315,7 @@
       "gJ-vzzdfbak",
       "k1jxW-l9JHs",
       "J_5No97BT0A",
-      "4wtXIUZiAeY",
-      "NgTEeYO5lk4"
+      "4wtXIUZiAeY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": ""
@@ -388,8 +388,11 @@
   },
   {
     "numero": "60",
-    "rem": "AGRO (RIC RURAL & VALE AGRÍCOLA)",
+    "rem": "AGRO (RIC RURAL & VALE AGR?COLA)",
     "videoIds": [
+      "pSXiKPPZjz8",
+      "CqvbCcIUrf8",
+      "h2hfCtpcP2U",
       "rfrvCSyJT0c",
       "NeIPEr1sAUg",
       "m3n7h1wshEM",
@@ -406,10 +409,7 @@
       "FxRvvdIFXAw",
       "jwCDZjX5HPU",
       "n6qRd_WYXME",
-      "7xtmIRr5hdc",
-      "dVaaVvrU3EM",
-      "BxISHSf6IJE",
-      "R4m00bPQ-U8"
+      "7xtmIRr5hdc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": ""
@@ -430,14 +430,14 @@
   },
   {
     "numero": "80",
-    "rem": "TECH & CIÊNCIA 1",
+    "rem": "TECH & CI?NCIA 1",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLMq9YZgVx_LA"
   },
   {
     "numero": "81",
-    "rem": "TECH & CIÊNCIA 2",
+    "rem": "TECH & CI?NCIA 2",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLNy1WMbViJiY"
@@ -487,7 +487,23 @@
   {
     "numero": "113",
     "rem": "ENTRETENIMENTO MUSICAL (TALK RAUL)",
-    "videoIds": [],
+    "videoIds": [
+      "e-SHqOi0fVs",
+      "8eMYzJYHGBI",
+      "dHWCt4lVnzw",
+      "E6SsvQCu800",
+      "jWQW11tWaKk",
+      "YJ2In2YOhsI",
+      "gCCqIakO8Kg",
+      "NUI1AwGX7jc",
+      "NoGitN6ocM0",
+      "CELIrYqa9uA",
+      "mLbO1NeiGuE",
+      "iS2OGX-WJno",
+      "0DufW8zzL3k",
+      "zRkMJJ4z7Bg",
+      "gJlCmGjXz1w"
+    ],
     "vinhetaPlaylistId": "",
     "playlistId": ""
   },
@@ -500,14 +516,14 @@
   },
   {
     "numero": "131",
-    "rem": "NETMOVIES AÇÃO",
+    "rem": "NETMOVIES A??O",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLN8ch9VnMwxE"
   },
   {
     "numero": "132",
-    "rem": "NETMOVIES COMÉDIA",
+    "rem": "NETMOVIES COM?DIA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLaU_LRnrzmTU"
@@ -521,14 +537,14 @@
   },
   {
     "numero": "134",
-    "rem": "NETMOVIES CLÁSSICOS",
+    "rem": "NETMOVIES CL?SSICOS",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLWUbCNoPiKr4"
   },
   {
     "numero": "135",
-    "rem": "NETMOVIES FAMÍLIA",
+    "rem": "NETMOVIES FAM?LIA",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLPJZc9ONXeuU"
@@ -563,7 +579,7 @@
   },
   {
     "numero": "150",
-    "rem": "SÉRIES (XENA)",
+    "rem": "S?RIES (XENA)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
     "playlistId": "PLZ4cGoUIg3BI"
