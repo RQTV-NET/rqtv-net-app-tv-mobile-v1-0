@@ -117,7 +117,7 @@
   },
   {
     "numero": "06",
-    "rem": "JOVEM PAN NEWS & PINGOS NOS IS",
+    "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "l1B5rJO6cnY",
       "JnL8ZfdDxak",
@@ -145,7 +145,7 @@
   },
   {
     "numero": "07",
-    "rem": "RECORD COMBO",
+    "rem": "RECORD JORNALISMO",
     "videoIds": [
       "vq-wuOUdh8c",
       "r4SuxIiY4v0",
@@ -183,7 +183,7 @@
   },
   {
     "numero": "08",
-    "rem": "BAND COMBO",
+    "rem": "BAND JORNALISMO",
     "videoIds": [
       "1kyyK_1xAck",
       "tVwgz0_Q1Fw",
@@ -265,7 +265,7 @@
     "playlistId": ""
   },
   {
-    "numero": "13",
+    "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
       "xnPelEoZNiU",
@@ -289,7 +289,7 @@
     "playlistId": ""
   },
   {
-    "numero": "14",
+    "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
       "-D8ojJCGG8w",
@@ -318,7 +318,7 @@
     "playlistId": ""
   },
   {
-    "numero": "15",
+    "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
       "muy5u4gY9w0",
@@ -347,7 +347,7 @@
     "playlistId": ""
   },
   {
-    "numero": "16",
+    "numero": "14",
     "rem": "TV BRASIL",
     "videoIds": [
       "mF7VPt3IpeY",
@@ -365,7 +365,7 @@
     "playlistId": ""
   },
   {
-    "numero": "17",
+    "numero": "15",
     "rem": "TV SENADO",
     "videoIds": [
       "8FVnfrMf6CQ",
@@ -393,7 +393,7 @@
     "playlistId": ""
   },
   {
-    "numero": "18",
+    "numero": "16",
     "rem": "BBC BRASIL",
     "videoIds": [
       "OZxRp5ZOH7g",
