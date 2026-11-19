@@ -463,43 +463,34 @@
     "vinhetaPlaylistId": "",
     "playlistId": "PLKU3sCct6ADM"
   },
-  {
+{
     "numero": "110",
-    "rem": "ENTRETENIMENTO SBT",
+    "rem": "SBT PROGRAMAS",
     "videoIds": [],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLekgQ26Ato2s"
-  },
-  {
-    "numero": "111",
-    "rem": "ENTRETENIMENTO MUSICAL (TALK RAUL)",
-    "videoIds": [
-      "ZDgyVxtpd-8",
-      "FW-VE1I9Fuw",
-      "oyb-W8-ldDo",
-      "d3lcW23D-Ek",
-      "x7o1w8Y1kaE",
-      "R8vcGFQ_Ptg",
-      "bUnhX6SD5fM",
-      "s5A3ovbOFNA",
-      "V-Jo1YLgmQc",
-      "LJpyEhDQ7NA",
-      "60TTisNiCxU",
-      "-bgwU_jsSeY",
-      "M4EZQTByNYY",
-      "ZcPAmMImFYU",
-      "lPS8X8tcs5c",
-      "ItZfN1m5SXM",
-      "V7e6qMcIfMA",
-      "6_ebIEJIAaE",
-      "v_JqtQGEVk0",
-      "KBOegD9rN6k"
-    ],
     "vinhetaPlaylistId": "",
     "playlistId": ""
   },
   {
-    "numero": "130",
+    "numero": "111",
+    "rem": "RECORD PROGRAMAS",
+    "videoIds": [],
+    "vinhetaPlaylistId": "",
+    "playlistId": ""
+  },
+  {
+    "numero": "112",
+    "rem": "BAND PROGRAMAS",
+    "videoIds": [],
+    "vinhetaPlaylistId": "",
+    "playlistId": ""
+  },
+  {
+    "numero": "113",
+    "rem": "ENTRETENIMENTO MUSICAL (TALK RAUL)",
+    "videoIds": [],
+    "vinhetaPlaylistId": "",
+    "playlistId": ""
+  },
     "rem": "NETMOVIES (GERAL)",
     "videoIds": [],
     "vinhetaPlaylistId": "",
