@@ -151,9 +151,29 @@
   {
     "numero": "09",
     "rem": "REDETV! COMBO",
-    "videoIds": [],
+    "videoIds": [
+      "Fn8STcBDw3A",
+      "6xYov7etzQc",
+      "eq9jXA6t1IM",
+      "imDX4BlD9Ik",
+      "0jC8Lie_7GY",
+      "MTYIChE0jx8",
+      "JZ2gzKiogWc",
+      "nsLPEB88soA",
+      "dPp53jYZmSY",
+      "yvewGT7jV5I",
+      "XzUZHVONe1A",
+      "_hKYT8jUi24",
+      "5W75QtXirpw",
+      "dy3jYXthqd4",
+      "EgVQUk9D9vg",
+      "KnL3ZGdfDAM",
+      "pUmhhyxrt5g",
+      "7Rugp2Y2FcM",
+      "4XOHre_APgo"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLcDcUpFDmiSg"
+    "playlistId": ""
   },
   {
     "numero": "10",
@@ -207,16 +227,30 @@
   {
     "numero": "30",
     "rem": "CAZ?TV",
-    "videoIds": [],
+    "videoIds": [
+      "uvIUotoeJAk",
+      "gOe1sI9JhN0",
+      "wuAAe1fQEug",
+      "Kd4In3ERaJE",
+      "3VQE2mnqv_4",
+      "53D8QKfas6g",
+      "UfGSADyRnyA",
+      "bw1TBRZ-oJg"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLIp61Odw5jVg"
+    "playlistId": ""
   },
   {
     "numero": "31",
     "rem": "GLOBO ESPORTE (GE)",
-    "videoIds": [],
+    "videoIds": [
+      "zqHs-ZI2rbQ",
+      "VGYoCUC5VVY",
+      "WPxfkbXmMlA",
+      "ceEVV8arHyI"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PLRfEBu3MoLOk"
+    "playlistId": ""
   },
   {
     "numero": "32",
@@ -263,14 +297,17 @@
     "rem": "SBT SPORTS",
     "videoIds": [],
     "vinhetaPlaylistId": "",
-    "playlistId": "PL...SBTSP..."
+    "playlistId": ""
   },
   {
     "numero": "37",
     "rem": "RED BULL TV",
-    "videoIds": [],
+    "videoIds": [
+      "HVScH48KGGA",
+      "xNT5Xycy9po"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": "PL...REDBULL..."
+    "playlistId": ""
   },
   {
     "numero": "39",
