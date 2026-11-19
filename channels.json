@@ -117,9 +117,20 @@
   {
     "numero": "04",
     "rem": "CNN BRASIL",
-    "videoIds": [],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLG8wV95s6BCs"
+    "videoIds": [
+      "hkxkcEoe7W0",
+      "xn65OmDq2jM",
+      "hWbpH-PmM5Q",
+      "MvSrqiagfKE",
+      "A3NhMowsNAI",
+      "dEMFh9DwFDo",
+      "VwlLJH6WxEI",
+      "PaKgG2sMDR8",
+      "GeRaPmvvRAE",
+      "Z425CGVR27E",
+      "a8OLulQSH1k"
+    ],
+    "playlistId": ""
   },
   {
     "numero": "05",
