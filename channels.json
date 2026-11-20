@@ -1077,6 +1077,7 @@
     "videoIds": [
       "SpFEIHHF520",
       "r6Hc7PpnPlU",
+      "iPYyDa1nvbU",
       "ccCIER2fSew",
       "0djqxzqtwQI",
       "1H2Egp-seEU",
@@ -1109,6 +1110,7 @@
     "carimbos": [
       "SpFEIHHF520 | ((LIVE))_20/11/26_16:30_CAZÉTV_AO VIVO (SOM AMBIENTE): ESTAC TROYES X LE HAVRE   LIGUE 1 26/27   11ª RODAD",
       "r6Hc7PpnPlU | ((LIVE))_20/11/26_12:20_CAZÉTV_AO VIVO: BAYERN DE MUNIQUE X FC KÖLN   BUNDESLIGA 26/27   10ª RODADA",
+      "iPYyDa1nvbU | [VIDEO]_20/11/26_18:00_CAZÉTV_7m20s_COMO JOGA O ESTUDIANTES?   ANÁLISE VERDÃO",
       "ccCIER2fSew | [VIDEO]_20/11/26_15:35_CAZÉTV_90m05s_FLAMENGO PODE SER CAMPEÃO NO FINAL DE SEMANA E SUPER BAYERN EM CAMPO   GERA",
       "0djqxzqtwQI | [VIDEO]_20/11/26_09:30_CAZÉTV_21m18s_LUIZ HENRIQUE FALA SOBRE SUA VIDA NA RÚSSIA E FAZ REVELAÇÃO SOBRE NEYMAR!",
       "1H2Egp-seEU | [VIDEO]_19/11/26_23:10_CAZÉTV_6m01s_MELHORES MOMENTOS: VASCO 2 X 1 INTERNACIONAL   BRASILEIRÃO 2026   35ª RODAD",
@@ -1141,6 +1143,7 @@
     "numero": "31",
     "rem": "GeTV",
     "videoIds": [
+      "IFMrYB0qt1E",
       "3EHUDi_oFTA",
       "CbtaDJWmOmo",
       "Z3ow-IHNjg0",
@@ -1167,6 +1170,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "IFMrYB0qt1E | [VIDEO]_20/11/26_18:00_GETV_22m16s_LUCAS ROMERO FALA SOBRE O CRUZEIRO EM ENTREVISTA EXCLUSIVA AO GLOBO ESPORTE",
       "3EHUDi_oFTA | [VIDEO]_20/11/26_17:00_GETV_4m44s_SELEÇÃO FEMININA ENCARA O JAPÃO EM AMISTOSO   Olho Nelas   sportv",
       "CbtaDJWmOmo | [VIDEO]_20/11/26_01:16_GETV_230m35s_AO VIVO: INDIANAPOLIS COLTS X HOUSTON TEXANS   NFL 2026/27   ge tv",
       "Z3ow-IHNjg0 | [VIDEO]_20/11/26_00:56_GETV_279m26s_JOGO COMPLETO: SÃO PAULO X FLUMINENSE   BRASILEIRÃO 2026   ge tv",
@@ -1195,11 +1199,11 @@
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
-      "WergWZ9bvfs",
       "LWdJhwkEZg8",
       "hVOl-ck_oSY",
       "0Mu6ijVxHIY",
       "r4jn39x24Bo",
+      "WergWZ9bvfs",
       "ryYn7mcMXlU",
       "awkV8ozyKKY",
       "tfnkFDb4ozs",
@@ -1210,11 +1214,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "WergWZ9bvfs | [VIDEO]_20/11/26_11:00_TNTSPORTSBRASIL_26m43s_PALMEIRAS X FLAMENGO: QUEM TEM O MELHOR TIME EM 2026?   MANO A MANO",
       "LWdJhwkEZg8 | [VIDEO]_20/11/26_10:06_TNTSPORTSBRASIL_100m41s_AO VIVO: QUEM VAI CAIR NO BRASILEIRÃO? + GALO VS BOCA NA FINAL DE AMANHÃ",
       "hVOl-ck_oSY | [VIDEO]_20/11/26_02:39_TNTSPORTSBRASIL_160m41s_DECISÃO NOS PÊNALTIS AO VIVO: SEATTLE SOUNDERS X REAL SALT LAKE   PLAYOFFS",
       "0Mu6ijVxHIY | [VIDEO]_20/11/26_02:45_TNTSPORTSBRASIL_5m48s_É SELEÇÃO? RAFAEL CABRAL CATA 3 PÊNALTIS E ACABA COM JOGO NA MLS   SOUNDERS",
       "r4jn39x24Bo | [VIDEO]_20/11/26_11:37_TNTSPORTSBRASIL_94m36s_QUEM VAI CAIR?; VASCO VENCE; PALMEIRAS RESERVA CONTRA O FLAMENGO?; GALO X B",
+      "WergWZ9bvfs | [VIDEO]_20/11/26_11:00_TNTSPORTSBRASIL_26m43s_PALMEIRAS X FLAMENGO: QUEM TEM O MELHOR TIME EM 2026?   MANO A MANO",
       "ryYn7mcMXlU | [VIDEO]_19/11/26_21:42_TNTSPORTSBRASIL_157m41s_VASCO DA GAMA X INTERNACIONAL (NARRAÇÃO AO VIVO)   CAMPEONATO BRASILEIRO 20",
       "awkV8ozyKKY | [VIDEO]_19/11/26_12:52_TNTSPORTSBRASIL_71m16s_ENDRICK VAI PRO MILAN?; NICO PAZ BRILHA NA ARGENTINA, PORTUGAL VENCE, MAS T",
       "tfnkFDb4ozs | [VIDEO]_19/11/26_11:40_TNTSPORTSBRASIL_98m36s_FLAMENGO PERTO DO TÍTULO; CORINTHIANS GOLEIA E SAI DO Z-4; CRUZEIRO 2X1 PAL",
@@ -1297,12 +1301,12 @@
     "numero": "34",
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
-      "IvVxAJr7TqY",
       "ExlOXaV9u0c",
       "T-w1xeL-mvA",
       "P9gUgFYN-JY",
       "ONrMyxd9Zu8",
       "ddjvmAmTqAY",
+      "IvVxAJr7TqY",
       "R-YVBUl5qng",
       "MPT5NDcStQk",
       "gK-bMKAaJzE",
@@ -1331,12 +1335,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "IvVxAJr7TqY | [VIDEO]_20/11/26_13:30_JOVEMPANESPORTES_23m17s_\"FIQUEM ATENTOS! ISSO PODE DECIDIR O REBAIXAMENTO porque...\" GRENAL no Z4 e",
       "ExlOXaV9u0c | [VIDEO]_20/11/26_13:00_JOVEMPANESPORTES_31m39s_\"Os CARAS FICAM PU*** POR QUÊ??? O SÃO PAULO é um CLUBE TÓXICO! NÃO CHEGOU",
       "T-w1xeL-mvA | [VIDEO]_20/11/26_14:36_JOVEMPANESPORTES_13m16s_\"SINCERAMENTE?? Pra mim, o ATLÉTICO-MG contra o BOCA JUNIORS nessa FINAL NÃ",
       "P9gUgFYN-JY | [VIDEO]_20/11/26_14:07_JOVEMPANESPORTES_122m45s_É AMANHÃ! O FLAMENGO SERÁ CAMPEÃO CONTRA O PALMEIRAS?; SPFC DEPRIMENTE; GRE",
       "ONrMyxd9Zu8 | [VIDEO]_20/11/26_16:31_JOVEMPANESPORTES_149m45s_AO VIVO: DARMSTADT X HEIDENHEIM   BUNDESLIGA 2   12ª RODADA",
       "ddjvmAmTqAY | [VIDEO]_20/11/26_14:06_JOVEMPANESPORTES_17m27s_\"O Palmeiras CLARAMENTE quer ESCULHAMBAR a FESTA do Flamengo e por isso...\"",
+      "IvVxAJr7TqY | [VIDEO]_20/11/26_13:30_JOVEMPANESPORTES_23m17s_\"FIQUEM ATENTOS! ISSO PODE DECIDIR O REBAIXAMENTO porque...\" GRENAL no Z4 e",
       "R-YVBUl5qng | [VIDEO]_19/11/26_23:37_JOVEMPANESPORTES_148m19s_SÃO PAULO 0 x 1 FLUMINENSE   BRASILEIRÃO   19/11/2026",
       "MPT5NDcStQk | [VIDEO]_19/11/26_21:41_JOVEMPANESPORTES_151m13s_VASCO 2 x 1 INTERNACIONAL   BRASILEIRÃO   19/11/2026",
       "gK-bMKAaJzE | [VIDEO]_19/11/26_14:40_JOVEMPANESPORTES_20m46s_\"É VERGONHOSO! Esse time SÓ VAI ESCAPAR do REBAIXAMENTO porque...\" VEJA DEB",
@@ -1367,12 +1371,12 @@
     "numero": "35",
     "rem": "BAND ESPORTES",
     "videoIds": [
-      "tJgvaAoQkxc",
       "EK34f653xxo",
       "gcYVoOUlYTo",
       "FXJ2ms6A7nY",
       "JfP3h9f7p-0",
       "JZ3wNTXba6s",
+      "tJgvaAoQkxc",
       "hedK1_xQv4I",
       "lFAuU_uvnAk",
       "wkRBF0jzxEI",
@@ -1401,12 +1405,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "tJgvaAoQkxc | [VIDEO]_20/11/26_13:37_JOGOABERTO_11m27s_DEBATE: PALMEIRAS TEM QUE JOGAR COM OS TITULARES CONTRA O FLAMENGO?",
       "EK34f653xxo | [VIDEO]_20/11/26_13:26_JOGOABERTO_17m43s_DEBATE: PROFECIA DE CRESPO ATRAPALHOU O ANO DO SÃO PAULO?",
       "gcYVoOUlYTo | [VIDEO]_20/11/26_13:14_JOGOABERTO_7m04s_RONALDO PROVOCA RENATA E CHICO SOBRE REBAIXAMENTO NO BRASILEIRÃO",
       "FXJ2ms6A7nY | [VIDEO]_20/11/26_13:12_BANDESPORTES_27m30s_SFT 65 – CINTURÃO PESO MEIO-MÉDIO DO XTREME: FOUINE VS. CARIS",
       "JfP3h9f7p-0 | [VIDEO]_20/11/26_13:07_JOGOABERTO_107m10s_[AO VIVO] SÃO PAULO PERDE PARA O FLUMINENSE E DUPLA GRENAL NO Z4 - JOGO ABE",
       "JZ3wNTXba6s | [VIDEO]_20/11/26_13:41_JOGOABERTO_5m55s_FELIZ ANIVERSÁRIO, RONALDÃO!!!",
+      "tJgvaAoQkxc | [VIDEO]_20/11/26_13:37_JOGOABERTO_11m27s_DEBATE: PALMEIRAS TEM QUE JOGAR COM OS TITULARES CONTRA O FLAMENGO?",
       "hedK1_xQv4I | [VIDEO]_20/11/26_12:50_JOGOABERTO_5m13s_CICINHO CRITICA SÃO PAULO APÓS DERROTA: “TIME DESORGANIZADO E MAL GERIDO”",
       "lFAuU_uvnAk | [VIDEO]_20/11/26_12:40_JOGOABERTO_6m16s_RENATA FAN CRITICA SANABRIA APÓS IMPEDIR GOL DO INTER: “PRA QUE ENTROU?\"",
       "wkRBF0jzxEI | [VIDEO]_20/11/26_12:23_JOGOABERTO_5m32s_EDU DRACENA ELOGIA ATUAÇÃO DO VITÓRIA APÓS TRIUNFO SOBRE O BRAGANTINO",
@@ -1486,10 +1490,10 @@
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
       "RIuRvpz8sOY",
-      "Vt7dFWaxp-8",
       "meXu6pbJE2Y",
       "Q6Gdn8cS-G0",
       "4DaOXkex_xg",
+      "Vt7dFWaxp-8",
       "HEjIPG6jyV8",
       "p57LFpO0N8o",
       "UeEsYDY0pbk",
@@ -1520,10 +1524,10 @@
     "playlistId": "",
     "carimbos": [
       "RIuRvpz8sOY | ((LIVE))_20/11/26_16:25_SPORTYNET_ATLHETIC BILBAO X ESPANYOL: AO VIVO, COM IMAGENS E EXCLUSIVO   LALIGA   ROD",
-      "Vt7dFWaxp-8 | [VIDEO]_20/11/26_16:36_CANALGOAT_131m22s_ARMINIA BIELEFELD X MAGDEBURG   JOGO COMPLETO   BUNDESLIGA 2",
       "meXu6pbJE2Y | [VIDEO]_20/11/26_00:09_LITORALNEWS_249m00s_SÃO PAULO X FLUMINENSE AO VIVO COM IMAGEM NA GE TV AO VIVO   SÃO PAULO AO V",
       "Q6Gdn8cS-G0 | [VIDEO]_20/11/26_10:51_CANALGOAT_75m26s_NOVORIZONTINO E JUVENTUDE NA ELITE! SÉRIE B VAI PEGAR FOGO COM OS PLAYOFFS",
       "4DaOXkex_xg | [VIDEO]_20/11/26_16:42_CANALGOAT_154m48s_AL AHLI X AL NASSR   JOGO COMPLETO   SAUDI PRO LEAGUE",
+      "Vt7dFWaxp-8 | [VIDEO]_20/11/26_16:36_CANALGOAT_131m22s_ARMINIA BIELEFELD X MAGDEBURG   JOGO COMPLETO   BUNDESLIGA 2",
       "HEjIPG6jyV8 | [VIDEO]_19/11/26_21:45_LITORALNEWS_141m47s_VASCO X INTERNACIONAL AO VIVO   BRASILEIRÃO   INTER AO VIVO   VASCO AO VIVO",
       "p57LFpO0N8o | [VIDEO]_19/11/26_21:11_DESIMPEDIDOS_22m15s_CORINTHIANS ESCAPOU DA SÉRIE B? SEEDORF FOI INOCENTADO?   PURO SUCO",
       "UeEsYDY0pbk | [VIDEO]_19/11/26_17:08_CANALGOAT_178m57s_JUVENTUDE X BOTAFOGO-SP   JOGO COMPLETO   BRASILEIRÃO SÉRIE B",
@@ -1719,6 +1723,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "sVh-BwHkZEM",
       "sOgTyv4MsVg",
       "Xw_xRiyUjMw",
       "4hDihGyoU-M",
@@ -1747,12 +1752,12 @@
       "Sx8oZNrz2o8",
       "0mamtzaUuhA",
       "MBb6kiv8xh0",
-      "KZ8vRAVJNYg",
-      "uPWnV3ZTnS4"
+      "KZ8vRAVJNYg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "sVh-BwHkZEM | [VIDEO]_20/11/26_18:00_TECHCIÊNCIA1D_30m22s_Como SAIR do WhatsApp (e) escolher um aplicativo de mensagens OPEN SOURCE",
       "sOgTyv4MsVg | [VIDEO]_20/11/26_17:07_TECHCIÊNCIA1A_17m22s_COMO ARNOLD SCHWARZENEGGER e JOHNNY DEPP escaparam do CANCELAMENTO? - ANDRÉ",
       "Xw_xRiyUjMw | [VIDEO]_20/11/26_13:13_TECHCIÊNCIA1B_4m21s_Voyager 1 enfrenta falha de comunicação a um dia-luz da Terra",
       "4hDihGyoU-M | [VIDEO]_20/11/26_13:08_TECHCIÊNCIA1C_11m55s_Por Que o Maior IPO da História Fez o SoftBank Despencar 16% Hoje",
@@ -1781,17 +1786,16 @@
       "Sx8oZNrz2o8 | [VIDEO]_19/11/26_13:00_TECHCIÊNCIA1B_7m17s_Dicionário Cambridge elege “humano” como palavra do ano de 2026",
       "0mamtzaUuhA | [VIDEO]_19/11/26_12:00_TECHCIÊNCIA1B_15m41s_Olhar do Amanhã: IPO da Anthropic é divisor de águas para IAs?   Alvaro Mac",
       "MBb6kiv8xh0 | [VIDEO]_19/11/26_12:00_TECHCIÊNCIA1B_4m03s_Falha no Java coloca sistemas de governos e empresas em alerta mundial",
-      "KZ8vRAVJNYg | [VIDEO]_19/11/26_10:00_TECHCIÊNCIA1B_9m20s_GTA 6 vai além dos games e pode transformar o consumo de entretenimento",
-      "uPWnV3ZTnS4 | [VIDEO]_19/11/26_09:00_TECHCIÊNCIA1B_3m51s_Chuva de meteoros: veja as estrelas cadentes que iluminaram a madrugada!"
+      "KZ8vRAVJNYg | [VIDEO]_19/11/26_10:00_TECHCIÊNCIA1B_9m20s_GTA 6 vai além dos games e pode transformar o consumo de entretenimento"
     ]
   },
   {
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
-      "QlJbHIh-DdA",
       "cdUsLYV4jv8",
       "QPt7ULTrh44",
+      "QlJbHIh-DdA",
       "awLGSDG2ws8",
       "i8vCpWd9keU",
       "hdU3LF9X_es",
@@ -1823,9 +1827,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "QlJbHIh-DdA | [VIDEO]_20/11/26_16:08_TECHCIÊNCIA2A_87m50s_Supervulcão italiano está despertando e preocupa os cientistas!",
       "cdUsLYV4jv8 | [VIDEO]_20/11/26_10:00_TECHCIÊNCIA2A_9m51s_Estão construindo o megatúnel mais profundo do mundo",
       "QPt7ULTrh44 | [VIDEO]_20/11/26_05:48_TECHCIÊNCIA2A_42m45s_O túnel submarino mais extremo e caro já construído no oceano",
+      "QlJbHIh-DdA | [VIDEO]_20/11/26_16:08_TECHCIÊNCIA2A_87m50s_Supervulcão italiano está despertando e preocupa os cientistas!",
       "awLGSDG2ws8 | [VIDEO]_19/11/26_22:00_TECHCIÊNCIA2C_60m01s_1 HORA DE CURIOSIDADES SOBRE SAÚDE 💊🤯",
       "i8vCpWd9keU | [VIDEO]_19/11/26_19:00_TECHCIÊNCIA2A_89m02s_50 Desafios Visuais Que Vão Colocar Sua Mente à Prova – Você Consegue Acert",
       "hdU3LF9X_es | [VIDEO]_19/11/26_19:00_TECHCIÊNCIA2C_22m16s_O homem que levou 28 anos para voltar para casa (a pé)",
@@ -1913,12 +1917,12 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
-      "JsaY6yNF9bs",
       "6ehQkqv3D1Y",
       "psNEJr7PLUo",
       "Ay_BOP7AvNo",
       "TWORHL6DRCU",
       "FO2NtK8OZpE",
+      "JsaY6yNF9bs",
       "DX0jXixPuWg",
       "Pb56Mp7FIaw",
       "M9BjiS-aSlM",
@@ -1947,12 +1951,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "JsaY6yNF9bs | [VIDEO]_20/11/26_17:00_TVEVANGELIZAR_19m17s_Dia da Consciência Negra amplia debate sobre igualdade racial    20/11/26  ",
       "6ehQkqv3D1Y | [VIDEO]_20/11/26_12:46_TVEVANGELIZAR_45m57s_Aprender a esperar em Deus   Pequena Via com Pe. Fernando de Souza   20/11/",
       "psNEJr7PLUo | [VIDEO]_20/11/26_04:00_TVEVANGELIZAR_19m33s_Oração da Manhã   20/11/2026   com @PadreManzottiOficial",
       "Ay_BOP7AvNo | [VIDEO]_20/11/26_10:18_TVEVANGELIZAR_30m56s_Coração que acolhe   20/11/26   Com a Palavra - Com Pe. Everson Kloster",
       "TWORHL6DRCU | [VIDEO]_20/11/26_15:30_TVEVANGELIZAR_43m39s_Bispos do Brasil: conheça Dom Wilson - Arcebispo de Florianópoli/SC   20/11",
       "FO2NtK8OZpE | [VIDEO]_20/11/26_14:55_TVEVANGELIZAR_6m38s_Comportamento do cristão na Igreja   YouCat _Ando",
+      "JsaY6yNF9bs | [VIDEO]_20/11/26_17:00_TVEVANGELIZAR_19m17s_Dia da Consciência Negra amplia debate sobre igualdade racial    20/11/26",
       "DX0jXixPuWg | [VIDEO]_20/11/26_14:30_TVEVANGELIZAR_24m52s_Hora Boa Pra Evangelizar com Fabiana Wantuch   20/11/26",
       "Pb56Mp7FIaw | [VIDEO]_20/11/26_15:00_TVEVANGELIZAR_25m14s_Terço e 2º dia da Novena de Jesus das Santas Chagas   20/11/26",
       "M9BjiS-aSlM | [VIDEO]_20/11/26_09:29_TVEVANGELIZAR_82m59s_Santa Missa com Pe. Marcelo de Souza   20/11/26",
@@ -1995,6 +1999,7 @@
     "numero": "110",
     "rem": "SBT PROGRAMAS",
     "videoIds": [
+      "2WIW5yI9wfs",
       "c5aq9Vpf09U",
       "iKUn2918EpA",
       "qhIp0JcHC7k",
@@ -2023,12 +2028,12 @@
       "kykZYy33xC0",
       "TtU3rCkIlRg",
       "yjY6udr5-Ps",
-      "-wQhBio2_nQ",
-      "A3bfjauNF9k"
+      "-wQhBio2_nQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "2WIW5yI9wfs | [VIDEO]_20/11/26_18:00_FOFOCALIZANDO_22m45s_Gracyanne Barbosa tem salário retido após dívidas milionárias de Belo   Fof",
       "c5aq9Vpf09U | [VIDEO]_20/11/26_15:04_THENOITE_49m40s_Entrevista com Eduardo Costa   The Noite (19/11/26)",
       "iKUn2918EpA | [VIDEO]_19/11/26_19:00_FOFOCALIZANDO_14m16s_Deolane Bezerra recusa atendimento de advogado na prisão   Fofocalizando (1",
       "qhIp0JcHC7k | [VIDEO]_19/11/26_18:30_PROGRAMADORATINHO_43m48s_QUEM NÃO SABE FAZER? Até o Ratinho disse que faz em um minuto   Programa do",
@@ -2057,8 +2062,7 @@
       "kykZYy33xC0 | [VIDEO]_16/11/26_17:30_PROGRAMASILVIOSANTOS_48m03s_Jogo das 3 Pistas - Gaby Cabrini enfrenta Diogo Nogueira   Programa Silvio",
       "TtU3rCkIlRg | [VIDEO]_16/11/26_14:00_SBTOFICIAL/APRAÇAÉNOSSA_27m03s_CATADORA de 72 ANOS recebe SURPRESA e ganha CASA TOTALMENTE REFORMADA",
       "yjY6udr5-Ps | [VIDEO]_16/11/26_14:00_DOMINGOLEGAL_89m03s_Família Lima participa do \"Comprar é Bom, Levar é Melhor\"   Domingo Legal (",
-      "-wQhBio2_nQ | [VIDEO]_16/11/26_13:39_DOMINGOLEGAL_69m36s_Banda Calcinha Preta agita o público com seus maiores hits   Domingo Legal",
-      "A3bfjauNF9k | [VIDEO]_16/11/26_13:28_DOMINGOLEGAL_109m54s_TIME Jonatas Faro VS TIME Perlla no Passa ou Repassa   Domingo Legal (15/11"
+      "-wQhBio2_nQ | [VIDEO]_16/11/26_13:39_DOMINGOLEGAL_69m36s_Banda Calcinha Preta agita o público com seus maiores hits   Domingo Legal"
     ]
   },
   {
@@ -2135,12 +2139,12 @@
     "numero": "112",
     "rem": "BAND PROGRAMAS",
     "videoIds": [
-      "EN0iCgVeszg",
       "s5H0XwfN6Zs",
       "aMk3Kf6dqwM",
       "ye6g5Dcnr9w",
       "ezqut6o-rnQ",
       "G4-o0UDNwKw",
+      "EN0iCgVeszg",
       "GjxPgmv6Meg",
       "EkHtRxATkyM",
       "bcBSFiNxIJE",
@@ -2165,12 +2169,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "EN0iCgVeszg | [VIDEO]_20/11/26_15:45_MELHORDATARDE_4m37s_Ex-BBB e Aracy Balabanian: os romances de Antônio Fagundes",
       "s5H0XwfN6Zs | [VIDEO]_20/11/26_15:20_MELHORDATARDE_4m55s_Famosas debatem autoestima, beleza e pressão estética em evento",
       "aMk3Kf6dqwM | [VIDEO]_20/11/26_15:07_MELHORDATARDE_4m30s_Acessórios de luxo de jogadores chamam atenção pelos valores milionários",
       "ye6g5Dcnr9w | [VIDEO]_20/11/26_16:13_MELHORDATARDE_11m54s_Bolo de Natal com frutas secas é alternativa para ganhar renda extra",
       "ezqut6o-rnQ | [VIDEO]_20/11/26_16:06_MELHORDATARDE_5m39s_Murilo Benício revela perda de 12 kg com acompanhamento médico",
       "G4-o0UDNwKw | [VIDEO]_20/11/26_15:49_MELHORDATARDE_4m03s_Serginho Groisman descarta aposentadoria e celebra 26 anos",
+      "EN0iCgVeszg | [VIDEO]_20/11/26_15:45_MELHORDATARDE_4m37s_Ex-BBB e Aracy Balabanian: os romances de Antônio Fagundes",
       "GjxPgmv6Meg | [VIDEO]_20/11/26_16:05_MELHORDATARDE_92m01s_[AO VIVO] SHOWS EM ESTÁDIO MOVIMENTARAM MILHÕES DE REAIS   MELHOR DA TARDE",
       "EkHtRxATkyM | [VIDEO]_20/11/26_15:00_MELHORDATARDE_4m33s_Futebol inspira ensaios de cueca com Neymar, Messi e Cristiano",
       "bcBSFiNxIJE | [VIDEO]_19/11/26_16:29_MELHORDATARDE_4m06s_Thiago Pasqualotto ganha homenagem ao vivo por seu aniversário   Melhor da",
