@@ -10,9 +10,9 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
-      "7Qp_THN0qqw",
       "VKSS4JPCrhs",
       "0xQnVK1FEIY",
+      "7Qp_THN0qqw",
       "4TlY839UKeU",
       "MVYZKAyk-_I",
       "nCj4EB50DjQ",
@@ -43,9 +43,9 @@
     ],
     "playlistId": "",
     "carimbos": [
-      "7Qp_THN0qqw | [VIDEO]_20/11/26_00:59_GLOBONEWS_9m55s_Trauma real: ‘Josephine’ é baseado em estupro que pai e filhe de 8 anos tes",
       "VKSS4JPCrhs | [VIDEO]_20/11/26_11:38_GLOBONEWS_4m26s_Mendonça pede publicidade de documentos da PF que podem citar seu nome no c",
       "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda",
+      "7Qp_THN0qqw | [VIDEO]_20/11/26_00:59_GLOBONEWS_9m55s_Trauma real: ‘Josephine’ é baseado em estupro que pai e filhe de 8 anos tes",
       "4TlY839UKeU | [VIDEO]_19/11/26_19:43_GLOBONEWS_5m39s_Decreto de Lula esclarece cálculo da hora trabalhada com redução da jornada",
       "MVYZKAyk-_I | [VIDEO]_19/11/26_18:57_GLOBONEWS_12m36s_Moraes libera lei da dosimetria para o plenário do STF",
       "nCj4EB50DjQ | [VIDEO]_19/11/26_17:05_GLOBONEWS_6m45s_Encontro entre Trump, Xi Jinping e Putin tem cenas curiosas, gestos de cord",
@@ -150,12 +150,12 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "l9kG1i76QzE",
-      "qa1hElERmV8",
       "yWxhQqRJN5g",
       "81Hn_7sw13g",
       "nT9_IkJjo_Q",
       "X9zBi1SY7Js",
       "IAdihMIOkAE",
+      "qa1hElERmV8",
       "PGoRUfQlCvw",
       "oF8df33BUYQ",
       "8QvdCEn9sUo",
@@ -184,12 +184,12 @@
     "playlistId": "",
     "carimbos": [
       "l9kG1i76QzE | ((LIVE))_20/11/26_10:53_SBTNEWS_🔴 AO VIVO: RADAR NEWS   20/11/2026",
-      "qa1hElERmV8 | [VIDEO]_20/11/26_11:45_SBTNEWS_15m23s_PF não encontra mensagens entre Mendonça e Vorcaro   #RadarNews",
       "yWxhQqRJN5g | [VIDEO]_20/11/26_11:32_SBTNEWS_10m37s_Carros elétricos e híbridos podem chegar a 40% em 2027   #NewsManhã",
       "81Hn_7sw13g | [VIDEO]_20/11/26_11:06_SBTNEWS_165m00s_NEWS MANHÃ   20/11/2026",
       "nT9_IkJjo_Q | [VIDEO]_20/11/26_10:40_SBTNEWS_10m59s_Senado aprova R$ 13,5 bilhões para empresas afetadas por tarifaço   #NewsMa",
       "X9zBi1SY7Js | [VIDEO]_20/11/26_10:28_SBTJORNALISMO_6m24s_GCM é baleado durante tentativa de assalto no centro de SP   #SeLigaBrasil",
       "IAdihMIOkAE | [VIDEO]_20/11/26_11:48_SBTNEWS_5m12s_Caso Master: Fachin mantém prisão de Daniel Vorcaro   #RadarNews",
+      "qa1hElERmV8 | [VIDEO]_20/11/26_11:45_SBTNEWS_15m23s_PF não encontra mensagens entre Mendonça e Vorcaro   #RadarNews",
       "PGoRUfQlCvw | [VIDEO]_20/11/26_09:45_SBTNEWS_6m44s_GTA 6 bate recorde e movimenta bilhões na indústria dos games   #NewsManhã",
       "oF8df33BUYQ | [VIDEO]_20/11/26_09:41_SBTNEWS_9m42s_Fachin atende Mendonça e libera relatório da PF sobre caso Master   #NewsMa",
       "8QvdCEn9sUo | [VIDEO]_20/11/26_09:26_SBTNEWS_50m16s_JORNAL DO BORIS   20/11/2026",
@@ -219,7 +219,9 @@
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
+      "KKElQoqblEQ",
       "avzKr17IA8k",
+      "nHBPWzljvAQ",
       "c_C4S3wuzZw",
       "ib5YKZ_CyC0",
       "5e89_ZqLQLk",
@@ -246,15 +248,15 @@
       "BLBWfxLBVk0",
       "Dacj76xUYWg",
       "FaZdRlzhqeg",
-      "EeDcjXXrDmc",
-      "9ZmVEMfNak4",
-      "SedHjrJbsQ0"
+      "EeDcjXXrDmc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "KKElQoqblEQ | ((LIVE))_20/11/26_13:00_CNNBRASIL_AO VIVO: TRUMP, XI E PUTIN DISCUTEM ARMAS NUCLEARES, GUERRAS E PETRÓLEO - F",
       "avzKr17IA8k | ((LIVE))_20/11/26_12:02_CNNBRASIL_AO VIVO: FACHIN MANTÉM PRISÃO DE DANIEL VORCARO   BASTIDORES CNN",
-      "c_C4S3wuzZw | [VIDEO]_20/11/26_12:23_CNNBRASIL_202m31s_AO VIVO:  FACHIN TIRA SIGILO DE RELATÓRIO SOBRE MENDONÇA - LIVE CNN",
+      "nHBPWzljvAQ | [VIDEO]_20/11/26_13:11_CNNBRASIL_20m13s_Relator do ajuste fiscal: Não podemos conter investimento público   BASTIDO",
+      "c_C4S3wuzZw | [VIDEO]_20/11/26_12:23_CNNBRASIL_202m31s_FACHIN TIRA SIGILO DE RELATÓRIO SOBRE MENDONÇA - LIVE CNN",
       "ib5YKZ_CyC0 | [VIDEO]_20/11/26_12:15_CNNBRASIL_4m44s_Dia da Consciência Negra traz reflexão sobre história, direitos e igualdade",
       "5e89_ZqLQLk | [VIDEO]_20/11/26_11:47_CNNBRASIL_5m05s_STF se aproxima do recesso com 6x1, dosimetria e relatórios da PF em aberto",
       "iZYRYmaUYHM | [VIDEO]_20/11/26_11:43_CNNBRASIL_6m10s_Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro",
@@ -280,9 +282,7 @@
       "BLBWfxLBVk0 | [VIDEO]_19/11/26_23:34_CNNBRASIL_7m51s_Encontro de Trump, Xi e Putin terá efeito concreto?   O GRANDE DEBATE",
       "Dacj76xUYWg | [VIDEO]_19/11/26_23:16_CNNBRASIL_14m57s_Análise: Lula emplaca fim da 6x1 e sugere que empresas buscarão brechas   W",
       "FaZdRlzhqeg | [VIDEO]_19/11/26_23:15_CNNBRASIL_4m13s_Regulamentação do fim da escala 6x1 gera bastante insegurança, diz juiz do",
-      "EeDcjXXrDmc | [VIDEO]_19/11/26_23:09_CNNBRASIL_14m36s_Análise: China reforça protagonismo global ao sediar reunião trilateral   W",
-      "9ZmVEMfNak4 | [VIDEO]_19/11/26_23:03_CNNBRASIL_51m42s_LULA E MERCADO ESCALAM QUEDA DE BRAÇO   WW",
-      "SedHjrJbsQ0 | [VIDEO]_19/11/26_22:58_CNNBRASIL_17m52s_Análise: Mercado expõe insatisfação com ajuste fiscal do governo   WW"
+      "EeDcjXXrDmc | [VIDEO]_19/11/26_23:09_CNNBRASIL_14m36s_Análise: China reforça protagonismo global ao sediar reunião trilateral   W"
     ]
   },
   {
@@ -290,11 +290,11 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "6U5oJMZvSOk",
+      "1HsqAeWUP0Y",
       "IfQ5bSKjPmI",
       "KS6FLt1EhMo",
       "veEd6u-HEhA",
       "FflREhD22oU",
-      "1HsqAeWUP0Y",
       "q-KZAhVaF5o",
       "yMj2vlf6fKQ",
       "Bn5UDFZX0BA",
@@ -324,11 +324,11 @@
     "playlistId": "",
     "carimbos": [
       "6U5oJMZvSOk | ((LIVE))_20/11/26_12:52_CNNMONEY_AO VIVO: MONEY NEWS II - 20/11/2026   CNN MONEY",
+      "1HsqAeWUP0Y | [VIDEO]_20/11/26_13:12_CNNMONEY_101m30s_AO VIVO: MONEY NEWS I - 20/11/2026   CNN MONEY",
       "IfQ5bSKjPmI | [VIDEO]_20/11/26_12:55_CNNMONEY_9m13s_Informalidade atinge 45,5% das mulheres pretas, diz IBGE   MORNING CALL",
       "KS6FLt1EhMo | [VIDEO]_20/11/26_12:49_CNNMONEY_11m51s_Ajuste fiscal é limitado e de curto prazo, diz especialista   MORNNING CALL",
       "veEd6u-HEhA | [VIDEO]_20/11/26_12:34_CNNMONEY_4m22s_Selo do Imaflora para carne sem desmatamento deve estrear na China em 2027 ",
       "FflREhD22oU | [VIDEO]_19/11/26_07:47_CNNBRASILMONEY_33m41s_AO VIVO: CNN AGRO NEWS COM ISADORA CAMARGO - 20/11/2026   CNN MONEY",
-      "1HsqAeWUP0Y | [VIDEO]_19/11/26_07:48_CNNBRASILMONEY_101m18s_AO VIVO: MONEY NEWS I - 20/11/2026   CNN MONEY",
       "q-KZAhVaF5o | [VIDEO]_19/11/26_07:49_CNNBRASILMONEY_252m18s_AO VIVO: ABERTURA DE MERCADO - 20/11/2026   CNN MONEY",
       "yMj2vlf6fKQ | [VIDEO]_18/11/26_10:26_CNNBRASILMONEY_573m47s_AO VIVO: CNN MONEY - 19/11/2026",
       "Bn5UDFZX0BA | [VIDEO]_19/11/26_22:17_CNNMONEY_7m40s_Goldman Sachs: Brasil precisa de ajuste nas contas publicas de R$ 400 bi",
@@ -359,12 +359,12 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
-      "12pvLMizRw4",
       "r68Nl1YOZOw",
       "a4hncXy1020",
       "3TIEazoEIeM",
       "mjG2ZQLnUZQ",
       "EQ9qiQ9M8Vs",
+      "12pvLMizRw4",
       "Yzl88xHgzyw",
       "gOoVRk-4cvA",
       "2Ivg8Wgc1rA",
@@ -386,12 +386,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "12pvLMizRw4 | [VIDEO]_20/11/26_05:54_JOVEMPANNEWS_6m49s_Galípolo diz que alertou PF sobre fuga de Daniel Vorcaro",
       "r68Nl1YOZOw | [VIDEO]_20/11/26_05:27_JOVEMPANNEWS_4m12s_Calor, praia, umidade, frente fria e risco de temporais",
       "a4hncXy1020 | [VIDEO]_20/11/26_10:45_JOVEMPANNEWS_10m03s_Mendonça abre mão de sigilo no STF sobre relatório da PF no caso Master",
       "3TIEazoEIeM | [VIDEO]_20/11/26_10:36_JOVEMPANNEWS_5m43s_Galípolo diz que alertou a PF sobre fuga de Vorcaro e gastos chocam",
       "mjG2ZQLnUZQ | [VIDEO]_20/11/26_05:19_JOVEMPANNEWS_6m36s_Relator do ajuste fiscal mantém texto do Senado",
       "EQ9qiQ9M8Vs | [VIDEO]_20/11/26_06:28_JOVEMPANNEWS_4m46s_Governo inicia campanha contra o racismo e violência contra a mulher na int",
+      "12pvLMizRw4 | [VIDEO]_20/11/26_05:54_JOVEMPANNEWS_6m49s_Galípolo diz que alertou PF sobre fuga de Daniel Vorcaro",
       "Yzl88xHgzyw | [VIDEO]_19/11/26_22:29_JOVEMPANNEWS_4m43s_Violência contra a mulher: mais de 6 mil denúncias registradas até outubro",
       "gOoVRk-4cvA | [VIDEO]_19/11/26_22:11_JOVEMPANNEWS_4m14s_Previsão do tempo aponta calor e chuva para a sexta-feira (20) de feriado n",
       "2Ivg8Wgc1rA | [VIDEO]_19/11/26_21:42_JOVEMPANNEWS_6m41s_Federação MDB-PSDB segue travada nos estados",
@@ -451,7 +451,7 @@
     "carimbos": [
       "tsWdxMW3IOI | [VIDEO]_20/11/26_12:17_HOJEEMDIA_26m33s_Lucas Bissoli, nono eliminado de A Fazenda 18, encara desafios do Celeiro d",
       "a9iYtFrEadI | [VIDEO]_20/11/26_12:13_HOJEEMDIA_6m25s_Casos de roubos e sequestros aumentam entre entregadores no Brasil",
-      "ZVIjAb3aXPg | [VIDEO]_20/11/26_12:08_HOJEEMDIA_9m51s_Quero Envelhecer Assim: Idosa de 83 anos faz sucesso dançando em bailes no ",
+      "ZVIjAb3aXPg | [VIDEO]_20/11/26_12:08_HOJEEMDIA_9m51s_Quero Envelhecer Assim: Idosa de 83 anos faz sucesso dançando em bailes no",
       "mWWetfF6BX4 | [VIDEO]_20/11/26_11:49_JORNALDARECORD_4m52s_Prazo para solicitar a reaplicação do Enem se encerra nesta sexta",
       "Vrju7afCrKA | [VIDEO]_20/11/26_07:09_JORNALDARECORD_5m46s_Boletim JR 24 horas   1ª edição - 20/11/2026",
       "i4EDh16Wn8M | [VIDEO]_20/11/26_07:00_JORNALDARECORD_15m44s_JR 15 Min #1555   Trump, Xi Jinping e Putin: os interesses e as disputas po",
@@ -486,12 +486,12 @@
     "rem": "BAND JORNALISMO",
     "videoIds": [
       "El7mHVvpmvA",
-      "P8tBsSaurFk",
       "Q29f915RV_0",
       "mm-juuPTmZk",
       "HvJK_isos3U",
       "vQceU5Oe9DE",
       "U_OeApLm5lU",
+      "P8tBsSaurFk",
       "hXwqlAXL_BA",
       "38CDknRQbTU",
       "VFNmspEK7Z0",
@@ -520,12 +520,12 @@
     "playlistId": "",
     "carimbos": [
       "El7mHVvpmvA | ((LIVE))_20/11/26_12:56_BANDPAULISTA_[AO VIVO] Os Donos da Bola Regional - 20/11/2026   Band Paulista",
-      "P8tBsSaurFk | [VIDEO]_20/11/26_11:03_BANDJORNALISMO_8m39s_Fortaleza recebe mais de 100 mil turistas no feriado, diz",
       "Q29f915RV_0 | [VIDEO]_20/11/26_09:52_BANDJORNALISMO_4m05s_Rio de Janeiro recebe turistas e tem praias lotadas no feriado",
       "mm-juuPTmZk | [VIDEO]_20/11/26_09:27_BANDJORNALISMO_4m19s_Navio Sirius: pesquisa impulsionou agro e biodiversidade",
       "HvJK_isos3U | [VIDEO]_20/11/26_09:10_BANDJORNALISMO_4m41s_Criação de coelhos: produção de carne tem espaço para crescer",
       "vQceU5Oe9DE | [VIDEO]_20/11/26_11:32_BANDJORNALISMO_13m04s_Edson Fachin aceita pedido de Mendonça e levanta sigilo de relatório",
       "U_OeApLm5lU | [VIDEO]_20/11/26_11:06_BANDJORNALISMO_122m01s_[AO VIVO] Vai viajar? Veja situação das estradas em SP neste feriado   BORA",
+      "P8tBsSaurFk | [VIDEO]_20/11/26_11:03_BANDJORNALISMO_8m39s_Fortaleza recebe mais de 100 mil turistas no feriado, diz",
       "hXwqlAXL_BA | [VIDEO]_20/11/26_09:04_BANDJORNALISMO_4m19s_Cafeicultura: produção cresce e diversifica lavouras em Roraima",
       "38CDknRQbTU | [VIDEO]_20/11/26_08:43_BANDJORNALISMO_32m06s_[AO VIVO] AGROBAND - 20/11/2026",
       "VFNmspEK7Z0 | [VIDEO]_20/11/26_08:19_BANDJORNALISMO_7m33s_Demora na reintegração preocupa o setor rural   Bandnews TV",
@@ -694,6 +694,7 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "uNO5Q0mwKE4",
+      "ldZh9iNX_dE",
       "Mlg9_kOOOlA",
       "V-42lawM4t4",
       "baBmiTqAwiU",
@@ -721,20 +722,20 @@
       "EdIFUZOiexY",
       "tRnSrmM76LM",
       "uOrOWbi0J7s",
-      "1wLZTe8enOU",
-      "Tt4T9dBQO78"
+      "1wLZTe8enOU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "uNO5Q0mwKE4 | ((LIVE))_20/11/26_12:01_CBNBRASIL_CBN Brasil - 20/11/2026",
+      "ldZh9iNX_dE | [VIDEO]_20/11/26_13:06_CBNBRASIL_5m15s_Movimento prepara carta a Lula pedindo mais espaço para negros em seu 4º ma",
       "Mlg9_kOOOlA | [VIDEO]_20/11/26_12:55_CBNBRASIL_4m35s_Consciência Negra: Lavagem do monumento de Zumbi dos Palmares marca data no",
       "V-42lawM4t4 | [VIDEO]_20/11/26_12:36_CBNBRASIL_5m31s_Moraes vota contra recurso de Flávio no STF e vê tentativa de obstrução de ",
       "baBmiTqAwiU | [VIDEO]_20/11/26_12:23_CBNBRASIL_4m19s_Sucupira promete ajuste fiscal, mas quer mesmo é exportar acarajé",
       "k1_SDzLHPv4 | [VIDEO]_20/11/26_12:20_CBNBRASIL_6m20s_Lançamento do GTA 6: Saiba quais foram as estratégias de fãs no Brasil para",
       "ZJ4EfuC9oNU | [VIDEO]_20/11/26_12:17_CBNBRASIL_7m48s_Espancamento de professor no Rio é destaque; GTA VI movimenta a semana; Ani",
       "ZxmCguDEwEg | [VIDEO]_20/11/26_12:11_CBNBRASIL_4m35s_Priscila Caneparo sobre encontro entre Trump, Putin e Xi: 'Talvez uma queda",
-      "M-IrjVFCv7A | [VIDEO]_20/11/26_12:06_CBNBRASIL_170m06s_SÃO PAULO X FLUMINENSE - AO VIVO - BRASILEIRÃO - Narração: Rodrigo Bitar - ",
+      "M-IrjVFCv7A | [VIDEO]_20/11/26_12:06_CBNBRASIL_170m06s_SÃO PAULO X FLUMINENSE - AO VIVO - BRASILEIRÃO - Narração: Rodrigo Bitar -",
       "-1qlEasLZEc | [VIDEO]_19/11/26_12:54_RÁDIOCBN_174m21s_CBN São Paulo - 20/11/2026",
       "Tz8Hf8uxr-g | [VIDEO]_20/11/26_09:57_RÁDIOCBN_113m01s_CBN Rio - 20/11/2026",
       "NPPmHssMPlw | [VIDEO]_20/11/26_10:32_CBNBRASIL_4m14s_Daniela Chiaretti: Esta COP parece mais atrasada do que nunca; ainda espera",
@@ -755,8 +756,7 @@
       "EdIFUZOiexY | [VIDEO]_20/11/26_00:07_CBNBRASIL_150m10s_CBN Rio - 19/11/2026",
       "tRnSrmM76LM | [VIDEO]_20/11/26_02:18_CBNBRASIL_119m30s_CBN Brasil - 19/11/2026",
       "uOrOWbi0J7s | [VIDEO]_20/11/26_05:11_CBNBRASIL_279m21s_CBN Madrugada - 20/11/2026",
-      "1wLZTe8enOU | [VIDEO]_20/11/26_04:32_RÁDIOCBN_58m34s_CBN Primeiras Notícias - 20/11/2026",
-      "Tt4T9dBQO78 | [VIDEO]_20/11/26_05:06_CBNBRASIL_180m05s_Estúdio CBN - 19/11/2026"
+      "1wLZTe8enOU | [VIDEO]_20/11/26_04:32_RÁDIOCBN_58m34s_CBN Primeiras Notícias - 20/11/2026"
     ]
   },
   {
@@ -764,6 +764,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "23-JPbsvUx4",
+      "xymLByrN_d0",
       "sIfronag8qM",
       "-x5PXq7-CeY",
       "SpjkLBMP0yo",
@@ -791,13 +792,13 @@
       "Z2O4uu3fAl0",
       "wDAEHvldaAc",
       "8h9wWrXN-Jo",
-      "9z1SBIk6oTY",
-      "xjqM6eIOKsI"
+      "9z1SBIk6oTY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "23-JPbsvUx4 | ((LIVE))_20/11/26_11:50_REVISTAOESTE_ESPORTE SEM FIRULA   20/11/2026",
+      "xymLByrN_d0 | [VIDEO]_20/11/26_13:10_REVISTAOESTE_10m08s_Augusto Nunes defende 'volta do STF à normalidade' e cobra reação do Senado",
       "sIfronag8qM | [VIDEO]_20/11/26_13:00_REVISTAOESTE_10m23s_CASO MASTER: Fachin envia à PGR relatórios da PF com citações a ministros d",
       "-x5PXq7-CeY | [VIDEO]_20/11/26_12:50_REVISTAOESTE_4m18s_Sucessão familiar no agro abre oportunidade de renda para jovens no campo  ",
       "SpjkLBMP0yo | [VIDEO]_20/11/26_12:40_REVISTAOESTE_35m55s_Ivan Kleber analisa reunião entre Trump, Putin e Xi Jinping e crise no Para",
@@ -825,14 +826,15 @@
       "Z2O4uu3fAl0 | [VIDEO]_19/11/26_20:53_REVISTAOESTE_7m23s_Trump, Putin e Xi Jinping defendem reforma da ONU e alertam para risco nucl",
       "wDAEHvldaAc | [VIDEO]_19/11/26_20:25_REVISTAOESTE_5m08s_R$ 75 MILHÕES: Governo Lula abre licitação para contratar empresas de comun",
       "8h9wWrXN-Jo | [VIDEO]_19/11/26_20:17_REVISTAOESTE_5m40s_'FAZ O L': Confiança da indústria atinge menor nível desde maio de 2020, ap",
-      "9z1SBIk6oTY | [VIDEO]_19/11/26_20:11_REVISTAOESTE_8m16s_ANÁLISE: Salabert, Glauber e Jones Manoel encabeçam 'movimento revolucionár",
-      "xjqM6eIOKsI | [VIDEO]_19/11/26_20:00_REVISTAOESTE_30m33s_Como a Coopavel impulsionou o agro brasileiro"
+      "9z1SBIk6oTY | [VIDEO]_19/11/26_20:11_REVISTAOESTE_8m16s_ANÁLISE: Salabert, Glauber e Jones Manoel encabeçam 'movimento revolucionár"
     ]
   },
   {
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
+      "Xc0OsqX2u38",
+      "1z_M387K8J4",
       "SD37ABCZHlk",
       "-NdyQc8v0Uk",
       "DPGUBLnqXR4",
@@ -859,6 +861,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "Xc0OsqX2u38 | ((LIVE))_20/11/26_13:02_METRÓPOLES_Reinaldo Azevedo - Dosimetria: Bolsonaro na mesma; STF-PGR: ministros e Vor",
+      "1z_M387K8J4 | [VIDEO]_20/11/26_13:10_METRÓPOLES_5m45s_Caso Master: Galípolo revela suspeita de vazamento dentro do Banco Central",
       "SD37ABCZHlk | [VIDEO]_20/11/26_12:21_METRÓPOLES_6m11s_\"Renuncio expressamente ao sigilo\", diz Mendonça em pedido a Fachin",
       "-NdyQc8v0Uk | [VIDEO]_20/11/26_12:01_METRÓPOLES_14m03s_PF diz que não houve troca de mensagens entre Mendonça e Vorcaro",
       "DPGUBLnqXR4 | [VIDEO]_20/11/26_10:08_METRÓPOLES_91m40s_AO VIVO: Fachin libera relatório sobre Mendonça e Vorcaro   Documento sobre",
