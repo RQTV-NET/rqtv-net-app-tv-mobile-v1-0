@@ -10,11 +10,11 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
-      "nCj4EB50DjQ",
       "uUuGgKX60fw",
       "Cr6D4n_SsDM",
       "4TlY839UKeU",
       "MVYZKAyk-_I",
+      "nCj4EB50DjQ",
       "LtKU3cDMb3I",
       "13BuhFSeWlU",
       "_J2zcTLdceA",
@@ -36,11 +36,11 @@
     ],
     "playlistId": "",
     "carimbos": [
-      "nCj4EB50DjQ | [VIDEO]_19/11/26_17:05_GLOBONEWS_6m45s_Encontro entre Trump, Xi Jinping e Putin tem cenas curiosas, gestos de cord",
       "uUuGgKX60fw | [VIDEO]_19/11/26_12:24_GLOBONEWS_20m24s_Ministro prevê estabilização da dívida pública brasileira nos próximos dois",
       "Cr6D4n_SsDM | [VIDEO]_19/11/26_09:24_GLOBONEWS_26m54s_EUA, Rússia e China discutem redução de armas nucleares   Em Ponto",
       "4TlY839UKeU | [VIDEO]_19/11/26_19:43_GLOBONEWS_5m39s_Decreto de Lula esclarece cálculo da hora trabalhada com redução da jornada",
       "MVYZKAyk-_I | [VIDEO]_19/11/26_18:57_GLOBONEWS_12m36s_Moraes libera lei da dosimetria para o plenário do STF",
+      "nCj4EB50DjQ | [VIDEO]_19/11/26_17:05_GLOBONEWS_6m45s_Encontro entre Trump, Xi Jinping e Putin tem cenas curiosas, gestos de cord",
       "LtKU3cDMb3I | [VIDEO]_18/11/26_17:25_G1_3m59s_Justiça suspende licitação de R$ 6 milhões para compra de Iphones e outros",
       "13BuhFSeWlU | [VIDEO]_18/11/26_16:21_G1_4m11s_JH: Demência afeta 2,5 milhões de brasileiros e casos podem triplicar até 2",
       "_J2zcTLdceA | [VIDEO]_18/11/26_15:55_GLOBONEWS_5m58s_Encontro trilateral representa uma grande vitória política para Vladimir Pu",
@@ -97,8 +97,9 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
-      "u12gqh9rTcY",
+      "QYX0IrJu52A",
       "wFmOK3r6uac",
+      "u12gqh9rTcY",
       "IMswmwGBkjg",
       "hoSUtpbf2CQ",
       "sBiB1rdCkxA",
@@ -125,14 +126,14 @@
       "OzurtM3_62Y",
       "Cl805wLk41A",
       "_y2CzDz_22s",
-      "zrXj1PvpD7U",
-      "nFcjdy_9z1I"
+      "zrXj1PvpD7U"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "u12gqh9rTcY | ((LIVE))_19/11/26_20:28_SBTNEWS_🔴AO VIVO: NEWS NOITE, com Leandro Magalhães   19/11/2026",
+      "QYX0IrJu52A | ((LIVE))_19/11/26_23:01_SBTNEWS_SBT NOTÍCIAS   20/11/2026",
       "wFmOK3r6uac | [VIDEO]_19/11/26_22:46_SBTNEWS_23m38s_Governo avalia medidas mais robustas de ajuste fiscal para 2027   #NewsNoit",
+      "u12gqh9rTcY | [VIDEO]_18/11/26_06:31_SBTNEWS_152m58s_NEWS NOITE   19/11/2026",
       "IMswmwGBkjg | [VIDEO]_19/11/26_20:53_SBTNEWS_12m09s_Trump, Xi e Putin: encontro ficou abaixo das expectativas, diz professor",
       "hoSUtpbf2CQ | [VIDEO]_19/11/26_20:39_SBTNEWS_6m58s_PF faz relatórios sobre 4 ministros do STF no caso Master   #JornaldoSBTNew",
       "sBiB1rdCkxA | [VIDEO]_19/11/26_20:37_SBTNEWS_140m05s_JORNAL DO SBT NEWS   19/11/2026",
@@ -159,8 +160,7 @@
       "OzurtM3_62Y | [VIDEO]_18/11/26_21:18_SBTNEWS_22m34s_PF entrega ao STF dois relatórios do caso Master com citações a ministros",
       "Cl805wLk41A | [VIDEO]_18/11/26_21:14_SBTNEWS_5m33s_Camilo Santana é o mais cotado para assumir a Casa Civil de Lula   #Jornald",
       "_y2CzDz_22s | [VIDEO]_18/11/26_21:07_SBTNEWS_9m13s_Andrei Rodrigues: relatório de policiais \"extrapolou balizas do STF\"   #Jor",
-      "zrXj1PvpD7U | [VIDEO]_18/11/26_20:56_SBTNEWS_5m02s_Caso Master: PF leva ao STF relatório sobre menções a ministros da Corte",
-      "nFcjdy_9z1I | [VIDEO]_18/11/26_18:56_SBTJORNALISMO_7m29s_São Paulo entra em atenção para alagamentos; Guarulhos sofre com enchentes"
+      "zrXj1PvpD7U | [VIDEO]_18/11/26_20:56_SBTNEWS_5m02s_Caso Master: PF leva ao STF relatório sobre menções a ministros da Corte"
     ]
   },
   {
@@ -168,12 +168,12 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "4LqVsVgbG8M",
+      "9ZmVEMfNak4",
       "SedHjrJbsQ0",
       "m3gj3i3JGPk",
       "-9DIdsbsz_U",
       "JpNRzTEnuXM",
       "G6XAMpXzYP0",
-      "9ZmVEMfNak4",
       "ZBCs0hNBu9Y",
       "xA8xx-tmEcc",
       "7zvI9hAUgWg",
@@ -188,12 +188,12 @@
     "playlistId": "",
     "carimbos": [
       "4LqVsVgbG8M | ((LIVE))_19/11/26_22:52_CNNBRASIL_AO VIVO: QUAL O FUTURO DO CASO MASTER APÓS RELATÓRIOS DA PF?   O GRANDE DEB",
+      "9ZmVEMfNak4 | [VIDEO]_19/11/26_23:03_CNNBRASIL_69m10s_AO VIVO: LULA E MERCADO ESCALAM QUEDA DE BRAÇO   WW",
       "SedHjrJbsQ0 | [VIDEO]_19/11/26_22:58_CNNBRASIL_17m52s_Análise: Mercado expõe insatisfação com ajuste fiscal do governo   WW",
       "m3gj3i3JGPk | [VIDEO]_19/11/26_22:43_CNNBRASIL_4m05s_Lula 4 precisa de plano econômico estrutural, não de soluções de curto praz",
       "-9DIdsbsz_U | [VIDEO]_19/11/26_22:29_CNNBRASIL_4m15s_Crise do BB vai mudar acesso ao crédito rural, diz diretor do Santander   C",
       "JpNRzTEnuXM | [VIDEO]_19/11/26_22:26_CNNBRASIL_5m02s_Lula e mercado escalam queda de braço; veja análise   WW",
       "G6XAMpXzYP0 | [VIDEO]_19/11/26_22:05_CNNBRASIL_130m17s_AO VIVO: MORAES PAUTA JULGAMENTO SOBRE DOSIMETRIA PARA DIA 4/12   CNN PRIME",
-      "9ZmVEMfNak4 | [VIDEO]_18/11/26_23:51_CNNBRASIL_68m57s_AO VIVO: LULA E MERCADO ESCALAM QUEDA DE BRAÇO   WW",
       "ZBCs0hNBu9Y | [VIDEO]_19/11/26_21:52_CNNBRASIL_5m57s_Lula usa o tempo a seu favor na escolha de ministros   CNN PRIME TIME",
       "xA8xx-tmEcc | [VIDEO]_19/11/26_21:34_CNNBRASIL_5m06s_Nova versão de acordo da COP31 não cita combustíveis fósseis; veja no CNN T",
       "7zvI9hAUgWg | [VIDEO]_19/11/26_20:56_CNNBRASIL_4m46s_Reunião de Trump, Xi e Putin não trouxe avanço sobre a questão nuclear; vej",
@@ -245,7 +245,7 @@
     "carimbos": [
       "yMj2vlf6fKQ | ((LIVE))_19/11/26_21:16_CNNMONEY_AO VIVO: CNN MONEY - 19/11/2026",
       "Bn5UDFZX0BA | [VIDEO]_19/11/26_22:17_CNNMONEY_7m40s_Goldman Sachs: Brasil precisa de ajuste nas contas publicas de R$ 400 bi   ",
-      "050zfBkqmZM | [VIDEO]_19/11/26_21:57_CNNMONEY_15m46s_Cade prevê 10 a 12 grupos de \"relevância sistêmica\" com PL das big techs   ",
+      "050zfBkqmZM | [VIDEO]_19/11/26_21:57_CNNMONEY_15m46s_Cade prevê 10 a 12 grupos de \"relevância sistêmica\" com PL das big techs",
       "n4M4E1ph7mY | [VIDEO]_19/11/26_21:44_CNNMONEY_14m35s_Moradia cara: O que a greve por moradia na Espanha pode ensinar   MONEY NEW",
       "Lut5x-o1g8k | [VIDEO]_19/11/26_21:29_CNNMONEY_59m51s_CNN SÉRIES ORIGINAIS: CIRCUIT BREAKER - 19/11/2026   CNN MONEY",
       "j-TkFbT0wFk | [VIDEO]_19/11/26_21:24_CNNMONEY_177m26s_AO VIVO: FECHAMENTO DE MERCADO - 19/11/2026   CNN MONEY",
@@ -385,12 +385,12 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
-      "0KW0MNMmhXI",
       "Dm73KgVgnf4",
       "GIGzFjLRqK4",
       "E8rQ0J0pMc8",
       "jm8KBQF1UM4",
       "JuGLk6DSaHE",
+      "0KW0MNMmhXI",
       "tVwgz0_Q1Fw",
       "oXRe6jnMX5A",
       "1kyyK_1xAck",
@@ -419,12 +419,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "0KW0MNMmhXI | [VIDEO]_19/11/26_20:37_BANDJORNALISMO_76m06s_Com nova alta, dólar chega a R$ 5,93, maior valor desde 2025   JORNAL DA BA",
       "Dm73KgVgnf4 | [VIDEO]_19/11/26_20:17_BANDJORNALISMO_3m54s_Usina da CSN no RJ pode ser paralisada por poluição e pendências ambientais",
       "GIGzFjLRqK4 | [VIDEO]_19/11/26_20:06_BANDJORNALISMO_7m10s_Justiça libera compra de iPhones para senadores  BandNews TV",
       "E8rQ0J0pMc8 | [VIDEO]_19/11/26_07:31_BANDPAULISTA_33m25s_[AO VIVO] Band Cidade - 18/11/2026   Band Paulista",
       "jm8KBQF1UM4 | [VIDEO]_19/11/26_21:36_BANDJORNALISMO_7m28s_CNJ e cessão de precatórios: novas regras preveem \"regime de transição\"   B",
       "JuGLk6DSaHE | [VIDEO]_19/11/26_20:41_BANDJORNALISMO_5m18s_Paraná lidera produção de mel e busca ampliar mercado nacional   Agro Band",
+      "0KW0MNMmhXI | [VIDEO]_19/11/26_20:37_BANDJORNALISMO_76m06s_Com nova alta, dólar chega a R$ 5,93, maior valor desde 2025   JORNAL DA BA",
       "tVwgz0_Q1Fw | [VIDEO]_19/11/26_02:33_BANDPAULISTA_43m10s_[AO VIVO] Boa Tarde Paulista - 18/11/2026   Band Paulista",
       "oXRe6jnMX5A | [VIDEO]_19/11/26_01:55_BANDPAULISTA_48m05s_[AO VIVO] Os Donos da Bola Regional - 18/11/2026   Band Paulista",
       "1kyyK_1xAck | [VIDEO]_18/11/26_19:22_BANDPAULISTA_35m54s_[AO VIVO] Band Cidade - 19/11/2026   Band Paulista",
@@ -526,6 +526,8 @@
     "rem": "TV CULTURA",
     "videoIds": [
       "wrn6aS8qUmg",
+      "7_EGO-g3s-Q",
+      "Qngx2WTqx-k",
       "jlpk5yxFISw",
       "Qfbf0Tx_MF0",
       "O6CebJw04xI",
@@ -552,14 +554,14 @@
       "dSqPRyDGDCI",
       "XiO1KwtFFDw",
       "MpIIi2EfS5w",
-      "Xckpw-m3Zbg",
-      "QtWcrT78kM4",
-      "sVD1tLBCuoQ"
+      "Xckpw-m3Zbg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "wrn6aS8qUmg | ((LIVE))_19/11/26_22:30_TVCULTURAPROGRAMAS_Linhas Cruzadas   A IA VAI ACABAR COM O MUNDO?   19/11/26",
+      "7_EGO-g3s-Q | [VIDEO]_19/11/26_23:06_TVCULTURAPROGRAMAS_4m07s_Casos de Mpox avançam no Brasil e somam mais de mil em 2026",
+      "Qngx2WTqx-k | [VIDEO]_19/11/26_23:01_TVCULTURAPROGRAMAS_7m49s_China, EUA e Rússia afirmam que \"guerra nuclear não pode ser vencida\"",
       "jlpk5yxFISw | [VIDEO]_19/11/26_22:50_TVCULTURAPROGRAMAS_7m06s_Sessão extraordinária na Câmara votará pacote fiscal do governo Lula",
       "Qfbf0Tx_MF0 | [VIDEO]_19/11/26_22:46_TVCULTURAPROGRAMAS_6m49s_Lula assina decreto que regulamenta escala 5x2",
       "O6CebJw04xI | [VIDEO]_19/11/26_22:05_TVCULTURAPROGRAMAS_66m20s_JORNAL DA CULTURA   19/11/2026",
@@ -586,9 +588,7 @@
       "dSqPRyDGDCI | [VIDEO]_10/11/26_10:00_TVCULTURAJORNALISMO_9m27s_A CLT ainda faz sentido nos dias de hoje? Presidente do TST opina",
       "XiO1KwtFFDw | [VIDEO]_09/11/26_23:35_TVCULTURAJORNALISMO_82m01s_RODA VIVA   LUIZ PHILIPPE VIEIRA DE MELLO FILHO   09/11/2026",
       "MpIIi2EfS5w | [VIDEO]_18/11/26_23:42_JORNALISMOTVCULTURA_8m00s_Diretor da PF e ministro da Justiça explicam relatório sobre Vorcaro",
-      "Xckpw-m3Zbg | [VIDEO]_18/11/26_22:05_JORNALISMOTVCULTURA_53m05s_JORNAL DA CULTURA   Senadores retomam discussão sobre o projeto de ajuste f",
-      "QtWcrT78kM4 | [VIDEO]_18/11/26_12:50_JORNALISMOTVCULTURA_40m17s_JORNAL DA TARDE   Operação bloqueia R$ 2,3 bilhões em bens ligados a bets",
-      "sVD1tLBCuoQ | [VIDEO]_18/11/26_12:33_JORNALISMOTVCULTURA_4m03s_COP31: negociações enfrentam impasse sobre financiamento climático"
+      "Xckpw-m3Zbg | [VIDEO]_18/11/26_22:05_JORNALISMOTVCULTURA_53m05s_JORNAL DA CULTURA   Senadores retomam discussão sobre o projeto de ajuste f"
     ]
   },
   {
@@ -793,10 +793,10 @@
     "numero": "14",
     "rem": "TV BRASIL",
     "videoIds": [
-      "Rtvqzb6An8Y",
       "2EcokGX0v6s",
       "-D8ojJCGG8w",
       "mF7VPt3IpeY",
+      "Rtvqzb6An8Y",
       "mNQWLgIFgTE",
       "0XYrbJyPiDY",
       "mfutbMO0nnU",
@@ -808,10 +808,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Rtvqzb6An8Y | [VIDEO]_19/11/26_14:02_TVBRASIL_59m02s_Repórter Brasil Tarde, 19/11/2026",
       "2EcokGX0v6s | [VIDEO]_19/11/26_11:28_TVBRASIL_4m43s_Projeto Elas no Jogo lança exposição itinerante gratuita sobre a história d",
       "-D8ojJCGG8w | [VIDEO]_19/11/26_20:03_TVBRASIL_60m05s_Repórter Brasil, 19/11/2026",
       "mF7VPt3IpeY | [VIDEO]_19/11/26_18:02_TVBRASIL_117m50s_SEM CENSURA RECEBE SÉRGIO MALHEIROS, LINN DA QUEBRADA E BARBÁRA REIS",
+      "Rtvqzb6An8Y | [VIDEO]_19/11/26_14:02_TVBRASIL_59m02s_Repórter Brasil Tarde, 19/11/2026",
       "mNQWLgIFgTE | [VIDEO]_18/11/26_20:02_TVBRASIL_60m00s_Repórter Brasil, 18/11/2026",
       "0XYrbJyPiDY | [VIDEO]_18/11/26_18:03_TVBRASIL_117m21s_SEM CENSURA RECEBE MARCOS SACRAMENTO, CLAUDIA DI MOURA E ELIAN ALMEIDA",
       "mfutbMO0nnU | [VIDEO]_18/11/26_17:46_TVBRASIL_6m20s_Entrevista: Luciana Barreto conversa com o filósofo e escritor Renato Nogue",
@@ -825,6 +825,7 @@
     "numero": "15",
     "rem": "TV SENADO",
     "videoIds": [
+      "TIVjSUMTK-k",
       "muy5u4gY9w0",
       "Pkdljv-wq28",
       "Mp3XZ-YlwD0",
@@ -853,6 +854,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "TIVjSUMTK-k | [VIDEO]_19/11/26_23:06_TVSENADO_5m34s_Diligências em Bacabal (MA) acompanham buscas por crianças desaparecidas",
       "muy5u4gY9w0 | [VIDEO]_19/11/26_21:22_TVSENADO_714m58s_Ao vivo - TV Senado",
       "Pkdljv-wq28 | [VIDEO]_19/11/26_20:01_TVSENADO_27m56s_Revista da Semana: Ajuste Fiscal e novas regras para prescrição de crimes s",
       "Mp3XZ-YlwD0 | [VIDEO]_19/11/26_19:35_TVSENADO_10m02s_A Voz do Brasil - 19/11/26: Ampliado prazo para vítimas de abuso na infânci",
@@ -883,8 +885,8 @@
     "numero": "16",
     "rem": "BBC BRASIL",
     "videoIds": [
-      "NNQZ3O6deJU",
       "OZxRp5ZOH7g",
+      "NNQZ3O6deJU",
       "vEq6EZZpc-o",
       "K1PuHplsq2M",
       "aNDkTCCojTE",
@@ -893,8 +895,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "NNQZ3O6deJU | [VIDEO]_19/11/26_17:00_BBCBRASIL_7m00s_O que aconteceu com a tentativa de Bukele de transformar El Salvador no 'pá",
       "OZxRp5ZOH7g | [VIDEO]_19/11/26_07:00_BBCBRASIL_17m06s_Lipedema: a 'nova doença' que causa acúmulo de gordura nas pernas e braços",
+      "NNQZ3O6deJU | [VIDEO]_19/11/26_17:00_BBCBRASIL_7m00s_O que aconteceu com a tentativa de Bukele de transformar El Salvador no 'pá",
       "vEq6EZZpc-o | [VIDEO]_17/11/26_17:00_BBCBRASIL_12m13s_O que a Nasa gravou para os alienígenas no Disco de Ouro",
       "K1PuHplsq2M | [VIDEO]_17/11/26_07:00_BBCBRASIL_8m02s_O caso da alemã acusada de encomendar sequestro dos filhos que levou a um e",
       "aNDkTCCojTE | [VIDEO]_15/11/26_12:00_BBCBRASIL_16m43s_Belchior: o sumiço e os últimos anos do cantor no interior do Rio Grande do",
