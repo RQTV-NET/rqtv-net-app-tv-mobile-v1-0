@@ -10,9 +10,9 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
-      "VKSS4JPCrhs",
       "0xQnVK1FEIY",
       "7Qp_THN0qqw",
+      "VKSS4JPCrhs",
       "4TlY839UKeU",
       "MVYZKAyk-_I",
       "nCj4EB50DjQ",
@@ -43,9 +43,9 @@
     ],
     "playlistId": "",
     "carimbos": [
-      "VKSS4JPCrhs | [VIDEO]_20/11/26_11:38_GLOBONEWS_4m26s_Mendonça pede publicidade de documentos da PF que podem citar seu nome no c",
-      "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda  ",
+      "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda",
       "7Qp_THN0qqw | [VIDEO]_20/11/26_00:59_GLOBONEWS_9m55s_Trauma real: ‘Josephine’ é baseado em estupro que pai e filhe de 8 anos tes",
+      "VKSS4JPCrhs | [VIDEO]_20/11/26_11:38_GLOBONEWS_4m26s_Mendonça pede publicidade de documentos da PF que podem citar seu nome no c",
       "4TlY839UKeU | [VIDEO]_19/11/26_19:43_GLOBONEWS_5m39s_Decreto de Lula esclarece cálculo da hora trabalhada com redução da jornada",
       "MVYZKAyk-_I | [VIDEO]_19/11/26_18:57_GLOBONEWS_12m36s_Moraes libera lei da dosimetria para o plenário do STF",
       "nCj4EB50DjQ | [VIDEO]_19/11/26_17:05_GLOBONEWS_6m45s_Encontro entre Trump, Xi Jinping e Putin tem cenas curiosas, gestos de cord",
@@ -290,6 +290,7 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "FflREhD22oU",
+      "veEd6u-HEhA",
       "1HsqAeWUP0Y",
       "q-KZAhVaF5o",
       "yMj2vlf6fKQ",
@@ -317,14 +318,14 @@
       "Ya9OV7aeY8U",
       "KZHXl0pBFLY",
       "e61spbFC3JI",
-      "-zFZ1tPndek",
-      "pwzdgRwTH6s"
+      "-zFZ1tPndek"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "FflREhD22oU | ((LIVE))_20/11/26_12:25_CNNMONEY_AO VIVO: CNN AGRO NEWS COM ISADORA CAMARGO - 20/11/2026   CNN MONEY",
-      "1HsqAeWUP0Y | ((LIVE))_20/11/26_10:52_CNNMONEY_AO VIVO: MONEY NEWS I - 20/11/2026   CNN MONEY",
+      "veEd6u-HEhA | [VIDEO]_20/11/26_12:34_CNNMONEY_4m22s_Selo do Imaflora para carne sem desmatamento deve estrear na China em 2027 ",
+      "1HsqAeWUP0Y | [VIDEO]_19/11/26_07:48_CNNBRASILMONEY_101m18s_AO VIVO: MONEY NEWS I - 20/11/2026   CNN MONEY",
       "q-KZAhVaF5o | [VIDEO]_19/11/26_07:49_CNNBRASILMONEY_252m18s_AO VIVO: ABERTURA DE MERCADO - 20/11/2026   CNN MONEY",
       "yMj2vlf6fKQ | [VIDEO]_18/11/26_10:26_CNNBRASILMONEY_573m47s_AO VIVO: CNN MONEY - 19/11/2026",
       "Bn5UDFZX0BA | [VIDEO]_19/11/26_22:17_CNNMONEY_7m40s_Goldman Sachs: Brasil precisa de ajuste nas contas publicas de R$ 400 bi",
@@ -351,20 +352,19 @@
       "Ya9OV7aeY8U | [VIDEO]_18/11/26_19:50_CNNMONEY_28m51s_É NEGÓCIO ENTREVISTA MARCELO PATRUS, CEO DO GRUPO PATRUS - 19/11/2026   MON",
       "KZHXl0pBFLY | [VIDEO]_18/11/26_17:25_CNNMONEY_130m01s_AO VIVO: MONEY NEWS III - 19/11/2026   CNN MONEY",
       "e61spbFC3JI | [VIDEO]_18/11/26_16:58_CNNMONEY_18m07s_Fed deveria ter subido juros na última reunião, diz economista   MONEY NEWS",
-      "-zFZ1tPndek | [VIDEO]_18/11/26_16:39_CNNMONEY_13m28s_Ibovespa terá BDRs de empresas brasileiras em 2027   MONEY NEWS",
-      "pwzdgRwTH6s | [VIDEO]_18/11/26_16:14_CNNBRASILMONEY_11m01s_Revisão de recomendações para ações do Brasil reflete desafios em 2027, diz"
+      "-zFZ1tPndek | [VIDEO]_18/11/26_16:39_CNNMONEY_13m28s_Ibovespa terá BDRs de empresas brasileiras em 2027   MONEY NEWS"
     ]
   },
   {
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
-      "mjG2ZQLnUZQ",
       "EQ9qiQ9M8Vs",
       "12pvLMizRw4",
       "r68Nl1YOZOw",
       "a4hncXy1020",
       "3TIEazoEIeM",
+      "mjG2ZQLnUZQ",
       "Yzl88xHgzyw",
       "gOoVRk-4cvA",
       "2Ivg8Wgc1rA",
@@ -386,12 +386,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "mjG2ZQLnUZQ | [VIDEO]_20/11/26_05:19_JOVEMPANNEWS_6m36s_Relator do ajuste fiscal mantém texto do Senado",
       "EQ9qiQ9M8Vs | [VIDEO]_20/11/26_06:28_JOVEMPANNEWS_4m46s_Governo inicia campanha contra o racismo e violência contra a mulher na int",
       "12pvLMizRw4 | [VIDEO]_20/11/26_05:54_JOVEMPANNEWS_6m49s_Galípolo diz que alertou PF sobre fuga de Daniel Vorcaro",
       "r68Nl1YOZOw | [VIDEO]_20/11/26_05:27_JOVEMPANNEWS_4m12s_Calor, praia, umidade, frente fria e risco de temporais",
       "a4hncXy1020 | [VIDEO]_20/11/26_10:45_JOVEMPANNEWS_10m03s_Mendonça abre mão de sigilo no STF sobre relatório da PF no caso Master",
       "3TIEazoEIeM | [VIDEO]_20/11/26_10:36_JOVEMPANNEWS_5m43s_Galípolo diz que alertou a PF sobre fuga de Vorcaro e gastos chocam",
+      "mjG2ZQLnUZQ | [VIDEO]_20/11/26_05:19_JOVEMPANNEWS_6m36s_Relator do ajuste fiscal mantém texto do Senado",
       "Yzl88xHgzyw | [VIDEO]_19/11/26_22:29_JOVEMPANNEWS_4m43s_Violência contra a mulher: mais de 6 mil denúncias registradas até outubro",
       "gOoVRk-4cvA | [VIDEO]_19/11/26_22:11_JOVEMPANNEWS_4m14s_Previsão do tempo aponta calor e chuva para a sexta-feira (20) de feriado n",
       "2Ivg8Wgc1rA | [VIDEO]_19/11/26_21:42_JOVEMPANNEWS_6m41s_Federação MDB-PSDB segue travada nos estados",
@@ -485,12 +485,12 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
-      "vQceU5Oe9DE",
       "U_OeApLm5lU",
       "P8tBsSaurFk",
       "Q29f915RV_0",
       "mm-juuPTmZk",
       "HvJK_isos3U",
+      "vQceU5Oe9DE",
       "hXwqlAXL_BA",
       "38CDknRQbTU",
       "VFNmspEK7Z0",
@@ -519,12 +519,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "vQceU5Oe9DE | [VIDEO]_20/11/26_11:32_BANDJORNALISMO_13m04s_Edson Fachin aceita pedido de Mendonça e levanta sigilo de relatório",
       "U_OeApLm5lU | [VIDEO]_20/11/26_11:06_BANDJORNALISMO_122m01s_[AO VIVO] Vai viajar? Veja situação das estradas em SP neste feriado   BORA",
       "P8tBsSaurFk | [VIDEO]_20/11/26_11:03_BANDJORNALISMO_8m39s_Fortaleza recebe mais de 100 mil turistas no feriado, diz",
       "Q29f915RV_0 | [VIDEO]_20/11/26_09:52_BANDJORNALISMO_4m05s_Rio de Janeiro recebe turistas e tem praias lotadas no feriado",
       "mm-juuPTmZk | [VIDEO]_20/11/26_09:27_BANDJORNALISMO_4m19s_Navio Sirius: pesquisa impulsionou agro e biodiversidade",
       "HvJK_isos3U | [VIDEO]_20/11/26_09:10_BANDJORNALISMO_4m41s_Criação de coelhos: produção de carne tem espaço para crescer",
+      "vQceU5Oe9DE | [VIDEO]_20/11/26_11:32_BANDJORNALISMO_13m04s_Edson Fachin aceita pedido de Mendonça e levanta sigilo de relatório",
       "hXwqlAXL_BA | [VIDEO]_20/11/26_09:04_BANDJORNALISMO_4m19s_Cafeicultura: produção cresce e diversifica lavouras em Roraima",
       "38CDknRQbTU | [VIDEO]_20/11/26_08:43_BANDJORNALISMO_32m06s_[AO VIVO] AGROBAND - 20/11/2026",
       "VFNmspEK7Z0 | [VIDEO]_20/11/26_08:19_BANDJORNALISMO_7m33s_Demora na reintegração preocupa o setor rural   Bandnews TV",
@@ -555,8 +555,8 @@
     "numero": "09",
     "rem": "REDETV! COMBO",
     "videoIds": [
-      "DVzBcuWFj5s",
       "SZyGdtxBTQ4",
+      "DVzBcuWFj5s",
       "IAOMF5r87cM",
       "vPZn1jjERLM",
       "AUoRb-Xwibo",
@@ -589,8 +589,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "SZyGdtxBTQ4 | [VIDEO]_20/11/26_12:40_REDETV!OFICIAL_272m50s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   20/11/2026",
       "DVzBcuWFj5s | [VIDEO]_20/11/26_12:05_NOTÍCIASREDETV_273m01s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   20/11/2026",
-      "SZyGdtxBTQ4 | [VIDEO]_19/11/26_16:56_NOTÍCIASREDETV_272m36s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   20/11/2026",
       "IAOMF5r87cM | [VIDEO]_20/11/26_08:31_REDETV!OFICIAL_58m56s_RedeTV! News - AO VIVO   19/11/2026",
       "vPZn1jjERLM | [VIDEO]_20/11/26_09:06_REDETV!OFICIAL_29m57s_AO VIVO   RJ DO POVO   20/11/2026",
       "AUoRb-Xwibo | [VIDEO]_20/11/26_00:30_NOTÍCIASREDETV_56m52s_Dinheiro na Conta (19/11/26)   Completo",
@@ -695,6 +695,7 @@
     "videoIds": [
       "uNO5Q0mwKE4",
       "-1qlEasLZEc",
+      "V-42lawM4t4",
       "baBmiTqAwiU",
       "k1_SDzLHPv4",
       "ZJ4EfuC9oNU",
@@ -721,14 +722,14 @@
       "uOrOWbi0J7s",
       "1wLZTe8enOU",
       "Tt4T9dBQO78",
-      "k9kY1BTKnKY",
-      "lq6Qn-3Of8M"
+      "k9kY1BTKnKY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "uNO5Q0mwKE4 | ((LIVE))_20/11/26_12:01_CBNBRASIL_CBN Brasil - 20/11/2026",
       "-1qlEasLZEc | ((LIVE))_20/11/26_10:04_CBNBRASIL_CBN São Paulo - 20/11/2026",
+      "V-42lawM4t4 | [VIDEO]_20/11/26_12:36_CBNBRASIL_5m31s_Moraes vota contra recurso de Flávio no STF e vê tentativa de obstrução de ",
       "baBmiTqAwiU | [VIDEO]_20/11/26_12:23_CBNBRASIL_4m19s_Sucupira promete ajuste fiscal, mas quer mesmo é exportar acarajé",
       "k1_SDzLHPv4 | [VIDEO]_20/11/26_12:20_CBNBRASIL_6m20s_Lançamento do GTA 6: Saiba quais foram as estratégias de fãs no Brasil para",
       "ZJ4EfuC9oNU | [VIDEO]_20/11/26_12:17_CBNBRASIL_7m48s_Espancamento de professor no Rio é destaque; GTA VI movimenta a semana; Ani",
@@ -755,8 +756,7 @@
       "uOrOWbi0J7s | [VIDEO]_20/11/26_05:11_CBNBRASIL_279m21s_CBN Madrugada - 20/11/2026",
       "1wLZTe8enOU | [VIDEO]_20/11/26_04:32_RÁDIOCBN_58m34s_CBN Primeiras Notícias - 20/11/2026",
       "Tt4T9dBQO78 | [VIDEO]_20/11/26_05:06_CBNBRASIL_180m05s_Estúdio CBN - 19/11/2026",
-      "k9kY1BTKnKY | [VIDEO]_20/11/26_01:13_CBNBRASIL_5m41s_BC intervém no câmbio, mas dólar vai a R$ 5,93; Moraes libera dosimetria pa",
-      "lq6Qn-3Of8M | [VIDEO]_19/11/26_22:34_CBNBRASIL_4m29s_Bronzatto: Lula é muito grato a Andrei Rodrigues, que não pode sair da PF p"
+      "k9kY1BTKnKY | [VIDEO]_20/11/26_01:13_CBNBRASIL_5m41s_BC intervém no câmbio, mas dólar vai a R$ 5,93; Moraes libera dosimetria pa"
     ]
   },
   {
@@ -764,6 +764,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "23-JPbsvUx4",
+      "SpjkLBMP0yo",
       "rR8-G0Evk4c",
       "PMyF2Ge9aNc",
       "a-yKdlJdTLw",
@@ -791,13 +792,13 @@
       "9z1SBIk6oTY",
       "xjqM6eIOKsI",
       "8w-IS_Zqosw",
-      "v-DV2lnrwi0",
-      "fWPbwCm2Cjw"
+      "v-DV2lnrwi0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "23-JPbsvUx4 | ((LIVE))_20/11/26_11:50_REVISTAOESTE_ESPORTE SEM FIRULA   20/11/2026",
+      "SpjkLBMP0yo | [VIDEO]_20/11/26_12:40_REVISTAOESTE_35m55s_Ivan Kleber analisa reunião entre Trump, Putin e Xi Jinping e crise no Para",
       "rR8-G0Evk4c | [VIDEO]_20/11/26_12:06_REVISTAOESTE_125m41s_OESTE COM ELAS 20/11: PGR ANALISARÁ 4 DOS 10 RELATÓRIOS DA PF QUE CITAM MIN",
       "PMyF2Ge9aNc | [VIDEO]_20/11/26_12:05_REVISTAOESTE_15m22s_Lula assina decreto que acaba com escala 6x1 e chama empresários de ingrato",
       "a-yKdlJdTLw | [VIDEO]_20/11/26_11:45_REVISTAOESTE_16m29s_Lula rebate mercado financeiro e Bruna Allemann analisa risco fiscal",
@@ -825,17 +826,16 @@
       "9z1SBIk6oTY | [VIDEO]_19/11/26_20:11_REVISTAOESTE_8m16s_ANÁLISE: Salabert, Glauber e Jones Manoel encabeçam 'movimento revolucionár",
       "xjqM6eIOKsI | [VIDEO]_19/11/26_20:00_REVISTAOESTE_30m33s_Como a Coopavel impulsionou o agro brasileiro",
       "8w-IS_Zqosw | [VIDEO]_19/11/26_19:45_REVISTAOESTE_7m34s_FORO DE SÃO PAULO: Flávio Bolsonaro é denunciado por suposta calúnia contra",
-      "v-DV2lnrwi0 | [VIDEO]_19/11/26_19:32_REVISTAOESTE_7m59s_CASO MASTER: Fachin dá 15 dias para PGR avaliar relatório sobre ministros d",
-      "fWPbwCm2Cjw | [VIDEO]_19/11/26_19:25_REVISTAOESTE_5m54s_'BOLSA IPHONE': Justiça autoriza Senado a retomar farra de R$ 6 milhões com"
+      "v-DV2lnrwi0 | [VIDEO]_19/11/26_19:32_REVISTAOESTE_7m59s_CASO MASTER: Fachin dá 15 dias para PGR avaliar relatório sobre ministros d"
     ]
   },
   {
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "DPGUBLnqXR4",
       "SD37ABCZHlk",
       "-NdyQc8v0Uk",
+      "DPGUBLnqXR4",
       "hAi-WTzdWlg",
       "yO-Dups8zyM",
       "k9kY1BTKnKY",
@@ -859,9 +859,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "DPGUBLnqXR4 | ((LIVE))_20/11/26_11:01_METRÓPOLES_AO VIVO: Fachin libera relatório sobre Mendonça e Vorcaro   Documento sobre",
       "SD37ABCZHlk | [VIDEO]_20/11/26_12:21_METRÓPOLES_6m11s_\"Renuncio expressamente ao sigilo\", diz Mendonça em pedido a Fachin",
       "-NdyQc8v0Uk | [VIDEO]_20/11/26_12:01_METRÓPOLES_14m03s_PF diz que não houve troca de mensagens entre Mendonça e Vorcaro",
+      "DPGUBLnqXR4 | [VIDEO]_20/11/26_10:08_METRÓPOLES_91m40s_AO VIVO: Fachin libera relatório sobre Mendonça e Vorcaro   Documento sobre",
       "hAi-WTzdWlg | [VIDEO]_20/11/26_11:40_METRÓPOLES_11m19s_Master: Mendonça pede “ampla publicidade” ao relatório da PF que o menciona",
       "yO-Dups8zyM | [VIDEO]_20/11/26_11:36_METRÓPOLES_60m31s_AO VIVO: Moraes marca julgamento da pena de golpistas. Lula critica mercado",
       "k9kY1BTKnKY | [VIDEO]_20/11/26_01:13_RÁDIOCBN_5m41s_BC intervém no câmbio, mas dólar vai a R$ 5,93; Moraes libera dosimetria pa",
@@ -1599,8 +1599,8 @@
     "numero": "70",
     "rem": "TURBO",
     "videoIds": [
-      "6TWyvahZZjo",
       "SJaHx62vtU8",
+      "6TWyvahZZjo",
       "di8qIRKmiaU",
       "Z2XeSYNhUsk",
       "p7b1sIapdPA",
@@ -1620,8 +1620,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "6TWyvahZZjo | ((LIVE))_20/11/26_12:00_TURBO_Relíquia de 1931 vai virar uma cafeteria sobre rodas   Texas Metal",
       "SJaHx62vtU8 | ((LIVE))_19/11/26_15:53_TURBO_ACELERAÇÃO TOTAL 🏁 MARATONA Corridas Proibidas e mais",
+      "6TWyvahZZjo | [VIDEO]_20/11/26_12:00_TURBO_43m53s_Relíquia de 1931 vai virar uma cafeteria sobre rodas   Texas Metal",
       "di8qIRKmiaU | [VIDEO]_19/11/26_19:00_TURBO_10m04s_Hilux encara os terrenos mais difíceis da Austrália   Joias sobre rodas: To",
       "Z2XeSYNhUsk | [VIDEO]_18/11/26_19:00_TURBO_8m07s_Dave e Kevin posicionam os primeiros carros na SEMA   Carros Irados   Disco",
       "p7b1sIapdPA | [VIDEO]_17/11/26_19:00_TURBO_8m27s_Anthony surpreende Debbie Wiggins com uma Ducati personalizada   Viciado em",
