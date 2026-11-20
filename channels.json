@@ -80,6 +80,8 @@
     "rem": "SBT: AOVIVO/PROGRAMAS",
     "videoIds": [
       "uLqXRKXOB8E",
+      "6WPKFc6tMZw",
+      "2WIW5yI9wfs",
       "LXGZml6F0qI",
       "c5aq9Vpf09U",
       "pbbM3904E8M",
@@ -106,14 +108,14 @@
       "8CHJUbEdi68",
       "6rKLufZh2fY",
       "rzxDIi8RheU",
-      "xCHrGTIGASY",
-      "UduZEZwXzug",
-      "iUivZ8yijGQ"
+      "xCHrGTIGASY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "uLqXRKXOB8E | ((LIVE))_03/11/26_17:13_SBT_SBT  Ao Vivo",
+      "6WPKFc6tMZw | [VIDEO]_20/11/26_18:15_FOFOCALIZANDO_10m11s_Prêmio Potência reúne estrelas e celebra a cultura negra   Fofocalizando (2",
+      "2WIW5yI9wfs | [VIDEO]_20/11/26_18:00_FOFOCALIZANDO_22m45s_Gracyanne Barbosa tem salário retido após dívidas milionárias de Belo   Fof",
       "LXGZml6F0qI | [VIDEO]_20/11/26_17:45_FOFOCALIZANDO_9m11s_Relembre os momentos icônicos de Vera Verão no Piscinão de Ramos   Fofocali",
       "c5aq9Vpf09U | [VIDEO]_20/11/26_15:04_THENOITE_49m40s_Entrevista com Eduardo Costa   The Noite (19/11/26)",
       "pbbM3904E8M | [VIDEO]_19/11/26_19:30_FOFOCALIZANDO_9m39s_Tudo o que está rolando no mundo dos famosos!   Fofocalizando (19/11/26)",
@@ -140,9 +142,7 @@
       "8CHJUbEdi68 | [VIDEO]_17/11/26_16:59_SBTOFICIAL/APRAÇAÉNOSSA_123m14s_Sessão +SBT Show   Programa de 14/11/2026",
       "6rKLufZh2fY | [VIDEO]_17/11/26_15:11_THENOITE_42m49s_Entrevista com Sandro Dias: o desafio da maior rampa de skate do mundo   Th",
       "rzxDIi8RheU | [VIDEO]_16/11/26_20:30_PROGRAMASILVIOSANTOS_46m02s_Quem Sabe Mais? Ep.7   Programa Silvio Santos (15/11/26)",
-      "xCHrGTIGASY | [VIDEO]_16/11/26_20:15_CÂMERASESCONDIDASSBT_19m28s_Pegadinhas de Paquera - Compilado   Câmeras Escondidas",
-      "UduZEZwXzug | [VIDEO]_16/11/26_19:45_FOFOCALIZANDO_13m45s_Patricia Abravanel e Diogo Nogueira viralizam com interação   Fofocalizando",
-      "iUivZ8yijGQ | [VIDEO]_16/11/26_19:30_PROGRAMASILVIOSANTOS_57m43s_Show de Calouros - COMPLETO   Programa Silvio Santos (15/11/26)"
+      "xCHrGTIGASY | [VIDEO]_16/11/26_20:15_CÂMERASESCONDIDASSBT_19m28s_Pegadinhas de Paquera - Compilado   Câmeras Escondidas"
     ]
   },
   {
@@ -220,12 +220,12 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "7RP4heXhUyE",
+      "g7ww-a5JyVw",
       "hioLVEm8FcE",
       "XiBhWAnQHCA",
       "xRJ3yXxm9jQ",
       "Wp5wIXcVKjk",
       "fIK_X01_6_E",
-      "g7ww-a5JyVw",
       "PCK81jWqdnQ",
       "fdgwmxrcyK4",
       "jgCTt9NF23s",
@@ -254,12 +254,12 @@
     "playlistId": "",
     "carimbos": [
       "7RP4heXhUyE | ((LIVE))_20/11/26_17:47_CNNBRASIL_AO VIVO:  RECESSO DO STF SE APROXIMA COM 6X1 E MASTER EM ABERTO   HORA H",
+      "g7ww-a5JyVw | [VIDEO]_20/11/26_18:04_CNNBRASIL_182m35s_AO VIVO: BOLSONARO É LEVADO A HOSPITAL EM BRASÍLIA APÓS SENTIR DORES ABDOMI",
       "hioLVEm8FcE | [VIDEO]_20/11/26_17:56_CNNBRASIL_5m14s_Putin quer encerrar a guerra na Ucrânia por meios diplomáticos, diz Trump  ",
       "XiBhWAnQHCA | [VIDEO]_20/11/26_17:46_CNNBRASIL_9m39s_Médicos avaliam se Bolsonaro precisará de cirurgia; Cardiologista irá para ",
       "xRJ3yXxm9jQ | [VIDEO]_20/11/26_17:42_CNNBRASIL_4m52s_Partido Progressistas quer emplacar David Uip na saúde em São Paulo   CNN 3",
       "Wp5wIXcVKjk | [VIDEO]_20/11/26_17:21_CNNBRASIL_12m42s_Bolsonaro é levado a hospital em Brasília após sentir dores abdominais   CN",
       "fIK_X01_6_E | [VIDEO]_20/11/26_17:14_CNNBRASIL_5m34s_Gilmar Mendes não vê problema em abrir sigilo de relatórios sobre STF e Mas",
-      "g7ww-a5JyVw | [VIDEO]_19/11/26_18:32_CNNBRASIL_182m35s_AO VIVO: BOLSONARO É LEVADO A HOSPITAL EM BRASÍLIA APÓS SENTIR DORES ABDOMI",
       "PCK81jWqdnQ | [VIDEO]_20/11/26_16:48_CNNBRASIL_8m33s_Trump diz que não permitirá a empresas construir data centers fora dos EUA",
       "fdgwmxrcyK4 | [VIDEO]_20/11/26_16:24_CNNBRASIL_9m21s_Ministério da Segurança Pública e do Idoso; veja possíveis nomes   CNN 360°",
       "jgCTt9NF23s | [VIDEO]_20/11/26_15:41_CNNBRASIL_4m20s_PF diz não ter achado registro de diálogo direto entre Mendonça e Vorcaro",
@@ -290,6 +290,7 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "yUxE5YBDacs",
+      "CTJdqkPurHo",
       "ysum7b-xWXE",
       "9X9vS67XPMU",
       "nzVCYSEoVgE",
@@ -317,13 +318,13 @@
       "17mGX_2PmbI",
       "G3BLx3P-i38",
       "_JG2grJb0D4",
-      "02kXgtLM13g",
-      "KqaWqXnQ10Q"
+      "02kXgtLM13g"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "yUxE5YBDacs | ((LIVE))_20/11/26_16:57_CNNMONEY_AO VIVO: FECHAMENTO DE MERCADO - 20/11/2026   CNN MONEY",
+      "CTJdqkPurHo | [VIDEO]_20/11/26_18:11_CNNMONEY_8m10s_Cenário atual indica manutenção da taxa de juros, diz Aod Cunha   FECHAMENT",
       "ysum7b-xWXE | [VIDEO]_20/11/26_17:25_CNNMONEY_128m05s_AO VIVO: MONEY NEWS III - 20/11/2026   CNN MONEY",
       "9X9vS67XPMU | [VIDEO]_20/11/26_17:20_CNNMONEY_11m13s_Com a nova jornada de trabalho, aumento do custo da mão de obra será de 10%",
       "nzVCYSEoVgE | [VIDEO]_20/11/26_17:04_CNNMONEY_10m18s_Mercado externo não ajuda o real neste momento, diz economista   MONEY NEWS",
@@ -351,14 +352,15 @@
       "17mGX_2PmbI | [VIDEO]_19/11/26_13:29_CNNMONEY_38m35s_AO VIVO: CNN AGRO NEWS COM ISADORA CAMARGO - 19/11/2026   CNN MONEY",
       "G3BLx3P-i38 | [VIDEO]_19/11/26_13:21_CNNMONEY_13m23s_IPO da Anthropic será termômetro do setor, diz estrategista   MONEY NEWS",
       "_JG2grJb0D4 | [VIDEO]_19/11/26_12:51_CNNMONEY_9m11s_Lançamento do GTA VI rompe barreira de preços no setor, diz especialista",
-      "02kXgtLM13g | [VIDEO]_19/11/26_12:36_CNNMONEY_100m40s_AO VIVO: MONEY NEWS I - 19/11/2026   CNN MONEY",
-      "KqaWqXnQ10Q | [VIDEO]_19/11/26_11:18_CNNMONEY_246m25s_AO VIVO: MORNING CALL E ABERTURA DE MERCADO - 19/11/2026   CNN MONEY"
+      "02kXgtLM13g | [VIDEO]_19/11/26_12:36_CNNMONEY_100m40s_AO VIVO: MONEY NEWS I - 19/11/2026   CNN MONEY"
     ]
   },
   {
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
+      "BntVmBXtLhI",
+      "jeN68aMfIMo",
       "xnq3OqSKKc8",
       "M5MW5J-UQvA",
       "DFmv2BMZs0c",
@@ -386,12 +388,13 @@
       "Ohq82MpH_gE",
       "ZOk6f687sEA",
       "yT0gw0RVxg0",
-      "bYlOBjifzq4",
-      "UahAkR_Hvtw"
+      "bYlOBjifzq4"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "BntVmBXtLhI | ((LIVE))_20/11/26_17:57_JOVEMPANNEWS_PF SOBRE MENDONÇA E VORCARO / DÓLAR E REAL / DOCUMENTÁRIO RICHTHOFEN   OS P",
+      "jeN68aMfIMo | [VIDEO]_20/11/26_18:00_JOVEMPANNEWS_8m56s_Executiva da Siemens Energy compara liderança e futebol   ARENA ALEMANHA",
       "xnq3OqSKKc8 | [VIDEO]_20/11/26_15:19_JOVEMPANNEWS_4m53s_Analistas avaliam recados de Trump sobre comércio e Ásia   TEMPO REAL",
       "M5MW5J-UQvA | [VIDEO]_20/11/26_15:16_JOVEMPANNEWS_23m46s_Trump destaca cúpula com China e Rússia após giro asiático   TEMPO REAL",
       "DFmv2BMZs0c | [VIDEO]_20/11/26_14:43_JOVEMPANNEWS_7m35s_Supremo define data para avaliar regra de punições   TEMPO REAL",
@@ -419,8 +422,7 @@
       "Ohq82MpH_gE | [VIDEO]_17/11/26_19:02_OSPINGOSNOSIS_5m23s_Flávio critica veto de Moraes a visitas de Jair Bolsonaro",
       "ZOk6f687sEA | [VIDEO]_17/11/26_18:56_OSPINGOSNOSIS_11m34s_Marinho critica proibição de visitas de senadores a Bolsonaro: “É intoleráv",
       "yT0gw0RVxg0 | [VIDEO]_16/11/26_20:18_OSPINGOSNOSIS_6m58s_Pesquisador analisa como novela da Globo reforça estereótipos sobre o Norde",
-      "bYlOBjifzq4 | [VIDEO]_16/11/26_20:10_OSPINGOSNOSIS_7m41s_STF relembra a Rogério Marinho investigação arquivada por Gilmar Mendes",
-      "UahAkR_Hvtw | [VIDEO]_16/11/26_19:51_OSPINGOSNOSIS_9m30s_Vorcaro antecipou voo a Dubai após falar com Moraes"
+      "bYlOBjifzq4 | [VIDEO]_16/11/26_20:10_OSPINGOSNOSIS_7m41s_STF relembra a Rogério Marinho investigação arquivada por Gilmar Mendes"
     ]
   },
   {
@@ -690,6 +692,7 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "JkZCWZZTptw",
+      "1wLZTe8enOU",
       "EvK17k5P2_0",
       "lj0cGWtqBH4",
       "2DcjxxJLB0s",
@@ -717,13 +720,13 @@
       "uNO5Q0mwKE4",
       "-1qlEasLZEc",
       "w51LG9PrvX0",
-      "gD9OegJEDGs",
-      "Hcv0j7K8JfM"
+      "gD9OegJEDGs"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "JkZCWZZTptw | ((LIVE))_20/11/26_17:02_CBNBRASIL_Ponto Final CBN - 20/11/2026",
+      "1wLZTe8enOU | [VIDEO]_20/11/26_18:07_CBNBRASIL_58m50s_CBN Primeiras Notícias - 20/11/2026",
       "EvK17k5P2_0 | [VIDEO]_20/11/26_17:24_CBNBRASIL_4m43s_Jair Bolsonaro é levado para hospital após sentir fortes dores abdominais, ",
       "lj0cGWtqBH4 | [VIDEO]_20/11/26_17:21_CBNBRASIL_4m46s_Relatório da PF aponta que não foi encontrada nenhuma mensagem entre Mendon",
       "2DcjxxJLB0s | [VIDEO]_20/11/26_17:21_CBNBRASIL_181m25s_Estúdio CBN - 20/11/2026",
@@ -751,8 +754,7 @@
       "uNO5Q0mwKE4 | [VIDEO]_19/11/26_12:55_CBNBRASIL_120m04s_CBN Brasil - 20/11/2026",
       "-1qlEasLZEc | [VIDEO]_19/11/26_12:54_CBNBRASIL_174m21s_CBN São Paulo - 20/11/2026",
       "w51LG9PrvX0 | [VIDEO]_20/11/26_10:20_CBNBRASIL_7m32s_Maria Netto sobre a COP31: Vimos poucos avanços; mundo está tendo impactos",
-      "gD9OegJEDGs | [VIDEO]_20/11/26_10:14_CBNBRASIL_4m48s_Leonardo Dahi sobre derrota do São Paulo: Time se arrasta e não cumpre prom",
-      "Hcv0j7K8JfM | [VIDEO]_20/11/26_09:13_CBNBRASIL_4m35s_Uma das acionistas da concessionária do Pacaembu entra em recuperação extra"
+      "gD9OegJEDGs | [VIDEO]_20/11/26_10:14_CBNBRASIL_4m48s_Leonardo Dahi sobre derrota do São Paulo: Time se arrasta e não cumpre prom"
     ]
   },
   {
@@ -760,6 +762,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "mk-0ALDpCKA",
+      "QZw9UWjQM1Q",
       "sNeRJrV8Ul4",
       "pwPDLBw6y10",
       "Sm9H59Z2Qu0",
@@ -787,13 +790,13 @@
       "T7sm_Ut0SY4",
       "3vHGxBkWR0Q",
       "74rpkjoq0wg",
-      "SzC0YEvMmTM",
-      "GOlWfypL48M"
+      "SzC0YEvMmTM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "mk-0ALDpCKA | ((LIVE))_20/11/26_17:37_REVISTAOESTE_OESTE SEM FILTRO   20/11/2026",
+      "QZw9UWjQM1Q | [VIDEO]_20/11/26_18:11_REVISTAOESTE_8m40s_URGENTE: Jair Bolsonaro é internado após sentir fortes dores abdominais",
       "sNeRJrV8Ul4 | [VIDEO]_20/11/26_17:49_REVISTAOESTE_108m10s_JORNAL DA OESTE SEGUNDA EDIÇÃO, COM GEISIANE FREITAS   20/11/2026",
       "pwPDLBw6y10 | [VIDEO]_20/11/26_17:20_REVISTAOESTE_3m51s_Alexandre de Moraes marca julgamento sobre Lei da Dosimetria para dezembro",
       "Sm9H59Z2Qu0 | [VIDEO]_20/11/26_17:08_REVISTAOESTE_12m58s_GTA 6 é o maior produto da história do entretenimento, afirma jornalista",
@@ -821,17 +824,17 @@
       "T7sm_Ut0SY4 | [VIDEO]_20/11/26_10:30_REVISTAOESTE_13m06s_Marcel Van Hattem pode virar réu no STF por fala na Câmara",
       "3vHGxBkWR0Q | [VIDEO]_20/11/26_10:15_REVISTAOESTE_7m14s_Justiça autoriza licitação de iPhones para senadores após ação de Nikolas F",
       "74rpkjoq0wg | [VIDEO]_20/11/26_10:10_REVISTAOESTE_189m06s_JORNAL DA OESTE PRIMEIRA EDIÇÃO - 20/11/2026",
-      "SzC0YEvMmTM | [VIDEO]_20/11/26_10:03_REVISTAOESTE_11m43s_Moraes pauta lei da dosimetria após pedido de Hugo Motta e Alcolumbre",
-      "GOlWfypL48M | [VIDEO]_20/11/26_09:05_REVISTAOESTE_5m27s_Palestrante diz que agro soma 25% do PIB brasileiro   AFA, com Joice Maffez"
+      "SzC0YEvMmTM | [VIDEO]_20/11/26_10:03_REVISTAOESTE_11m43s_Moraes pauta lei da dosimetria após pedido de Hugo Motta e Alcolumbre"
     ]
   },
   {
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "Ko1CyQ8Uo10",
+      "eZ5GpvJLV5E",
       "9a1u-MvqngE",
       "h60q5VoafcY",
+      "Ko1CyQ8Uo10",
       "Ttsf0CHh29k",
       "cRSBj9tue6Q",
       "Oyx811z-YF0",
@@ -857,15 +860,15 @@
       "PnnVWM-LySE",
       "3HqXtK3Bs0g",
       "7-Z6dF3HFCU",
-      "l8gXhlIL3Rw",
-      "TFwo1tS3Hy8"
+      "l8gXhlIL3Rw"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Ko1CyQ8Uo10 | ((LIVE))_20/11/26_17:01_METRÓPOLES_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
+      "eZ5GpvJLV5E | [VIDEO]_20/11/26_18:02_METRÓPOLES_5m27s_Defesa de Vorcaro diz que Fachin “viola a Constituição” ao manter ex-banque",
       "9a1u-MvqngE | [VIDEO]_20/11/26_17:51_METRÓPOLES_17m31s_Donald Trump quer impedir compras agrícolas do Brasil pelas Filipinas",
       "h60q5VoafcY | [VIDEO]_20/11/26_17:30_METRÓPOLES_6m26s_Bolsonaro no hospital: internação pode mudar cenário da anistia?",
+      "Ko1CyQ8Uo10 | [VIDEO]_20/11/26_10:09_METRÓPOLES_61m50s_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
       "Ttsf0CHh29k | [VIDEO]_20/11/26_14:32_METRÓPOLES_7m34s_Fogo amigo no governo Lula? Janones vira motivo de disputa na esquerda",
       "cRSBj9tue6Q | [VIDEO]_20/11/26_14:13_METRÓPOLES_25m04s_Reinaldo Azevedo - Disputa pelo Senado envolve Bolsonaro e ofensiva do PL c",
       "Oyx811z-YF0 | [VIDEO]_20/11/26_14:56_METRÓPOLES_4m16s_GTA 6 X GTA 5: saiba tudo o que mudou no lançamento mais esperado da franqu",
@@ -891,16 +894,15 @@
       "PnnVWM-LySE | [VIDEO]_19/11/26_21:16_RÁDIOCBN_8m34s_Vera Magalhães: Lula quer que o ministro da Segurança Pública seja um ex-go",
       "3HqXtK3Bs0g | [VIDEO]_19/11/26_21:11_RÁDIOCBN_12m28s_Thiago Bronzatto: Enquanto Lula não decide, vemos um ministério paralelo se",
       "7-Z6dF3HFCU | [VIDEO]_19/11/26_21:04_RÁDIOCBN_15m57s_Vera Magalhães sobre novo ministério: Esse apelo me parece sempre presente",
-      "l8gXhlIL3Rw | [VIDEO]_19/11/26_20:57_RÁDIOCBN_18m55s_Bronzatto e o Ministério dos Idosos: Lula não pode confundir política públi",
-      "TFwo1tS3Hy8 | [VIDEO]_19/11/26_19:59_RÁDIOCBN_5m21s_Madrugadas em claro e exigência de folga no trabalho: GTA 6 mobiliza fãs no"
+      "l8gXhlIL3Rw | [VIDEO]_19/11/26_20:57_RÁDIOCBN_18m55s_Bronzatto e o Ministério dos Idosos: Lula não pode confundir política públi"
     ]
   },
   {
     "numero": "14",
     "rem": "TV BRASIL",
     "videoIds": [
-      "6e8NUKALHNQ",
       "dwHzDzHqvjI",
+      "6e8NUKALHNQ",
       "-D8ojJCGG8w",
       "mF7VPt3IpeY",
       "Rtvqzb6An8Y",
@@ -933,8 +935,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "6e8NUKALHNQ | [VIDEO]_20/11/26_14:02_TVBRASIL_59m02s_Repórter Brasil Tarde, 20/11/2026",
       "dwHzDzHqvjI | [VIDEO]_20/11/26_16:00_TVBRASIL_113m56s_SEM CENSURA RECEBE SAMUEL DE ASSIS, ANA PAULA XONGANI E EMERSON ROCHA",
+      "6e8NUKALHNQ | [VIDEO]_20/11/26_14:02_TVBRASIL_59m02s_Repórter Brasil Tarde, 20/11/2026",
       "-D8ojJCGG8w | [VIDEO]_19/11/26_20:03_TVBRASIL_60m05s_Repórter Brasil, 19/11/2026",
       "mF7VPt3IpeY | [VIDEO]_19/11/26_18:02_TVBRASIL_117m50s_SEM CENSURA RECEBE SÉRGIO MALHEIROS, LINN DA QUEBRADA E BARBÁRA REIS",
       "Rtvqzb6An8Y | [VIDEO]_19/11/26_14:02_TVBRASIL_59m02s_Repórter Brasil Tarde, 19/11/2026",
@@ -969,6 +971,7 @@
     "numero": "15",
     "rem": "TV SENADO",
     "videoIds": [
+      "fO9TK7mbYwE",
       "uxxea309YqA",
       "TIVjSUMTK-k",
       "TO3oHDGPbh0",
@@ -997,12 +1000,12 @@
       "FQyBJ5s1jEs",
       "AeQMuBKylfg",
       "WcyR0KGNvkU",
-      "nEHS_3qJG4k",
-      "yO-Dups8zyM"
+      "nEHS_3qJG4k"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "fO9TK7mbYwE | [VIDEO]_20/11/26_18:06_TVSENADO_25m22s_População negra: política de saúde busca enfrentar vulnerabilidade",
       "uxxea309YqA | [VIDEO]_20/11/26_16:25_TVSENADO_9m30s_Edson Davi: CDH realiza diligências no RJ para acompanhar desaparecimento d",
       "TIVjSUMTK-k | [VIDEO]_19/11/26_23:06_TVSENADO_5m34s_Diligências em Bacabal (MA) acompanham buscas por crianças desaparecidas",
       "TO3oHDGPbh0 | [VIDEO]_19/11/26_21:41_TVSENADO_4m55s_Edson Davi: desaparecimento do menino de 6 anos, no Rio, mobiliza Comissão",
@@ -1031,8 +1034,7 @@
       "FQyBJ5s1jEs | [VIDEO]_19/11/26_22:26_METRÓPOLES_76m50s_Joice Hasselmann frente a frente com o Galãs Feios   Galãs Feios no Metrópo",
       "AeQMuBKylfg | [VIDEO]_19/11/26_21:08_METRÓPOLES_90m21s_PAVINATTO AO VIVO • 19/11• ANDREI LEVA RELATÓRIO MASTER AO STF • GAME OF PH",
       "WcyR0KGNvkU | [VIDEO]_19/11/26_20:45_METRÓPOLES_5m57s_Drones fazem espetáculo sobre GTA 6 em Miami",
-      "nEHS_3qJG4k | [VIDEO]_19/11/26_20:39_METRÓPOLES_13m06s_Dólar chega a R$ 5,91 e aumenta pressão sobre Lula para anunciar ministro d",
-      "yO-Dups8zyM | [VIDEO]_16/11/26_17:20_METRÓPOLES_60m06s_AO VIVO: Moraes marca julgamento da pena de golpistas. Lula critica mercado"
+      "nEHS_3qJG4k | [VIDEO]_19/11/26_20:39_METRÓPOLES_13m06s_Dólar chega a R$ 5,91 e aumenta pressão sobre Lula para anunciar ministro d"
     ]
   },
   {
