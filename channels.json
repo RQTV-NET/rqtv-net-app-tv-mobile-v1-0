@@ -148,9 +148,9 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "l9kG1i76QzE",
+      "81Hn_7sw13g",
       "nT9_IkJjo_Q",
       "X9zBi1SY7Js",
-      "81Hn_7sw13g",
       "PGoRUfQlCvw",
       "oF8df33BUYQ",
       "8QvdCEn9sUo",
@@ -181,10 +181,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "l9kG1i76QzE | ((LIVE))_20/11/26_10:53_SBTNEWS_RADAR NEWS   20/11/2026",
+      "l9kG1i76QzE | ((LIVE))_20/11/26_10:53_SBTNEWS_🔴 AO VIVO: RADAR NEWS   20/11/2026",
+      "81Hn_7sw13g | [VIDEO]_20/11/26_11:06_SBTNEWS_165m00s_NEWS MANHÃ   20/11/2026",
       "nT9_IkJjo_Q | [VIDEO]_20/11/26_10:40_SBTNEWS_10m59s_Senado aprova R$ 13,5 bilhões para empresas afetadas por tarifaço   #NewsMa",
       "X9zBi1SY7Js | [VIDEO]_20/11/26_10:28_SBTJORNALISMO_6m24s_GCM é baleado durante tentativa de assalto no centro de SP   #SeLigaBrasil",
-      "81Hn_7sw13g | [VIDEO]_19/11/26_06:42_SBTNEWS_164m46s_NEWS MANHÃ   20/11/2026",
       "PGoRUfQlCvw | [VIDEO]_20/11/26_09:45_SBTNEWS_6m44s_GTA 6 bate recorde e movimenta bilhões na indústria dos games   #NewsManhã",
       "oF8df33BUYQ | [VIDEO]_20/11/26_09:41_SBTNEWS_9m42s_Fachin atende Mendonça e libera relatório da PF sobre caso Master   #NewsMa",
       "8QvdCEn9sUo | [VIDEO]_20/11/26_09:26_SBTNEWS_50m16s_JORNAL DO BORIS   20/11/2026",
@@ -322,7 +322,7 @@
     "playlistId": "",
     "carimbos": [
       "1HsqAeWUP0Y | ((LIVE))_20/11/26_10:52_CNNMONEY_AO VIVO: MONEY NEWS I - 20/11/2026   CNN MONEY",
-      "q-KZAhVaF5o | ((LIVE))_20/11/26_06:51_CNNMONEY_AO VIVO: ABERTURA DE MERCADO - 20/11/2026   CNN MONEY",
+      "q-KZAhVaF5o | [VIDEO]_19/11/26_07:49_CNNBRASILMONEY_252m18s_AO VIVO: ABERTURA DE MERCADO - 20/11/2026   CNN MONEY",
       "yMj2vlf6fKQ | [VIDEO]_18/11/26_10:26_CNNBRASILMONEY_573m47s_AO VIVO: CNN MONEY - 19/11/2026",
       "Bn5UDFZX0BA | [VIDEO]_19/11/26_22:17_CNNMONEY_7m40s_Goldman Sachs: Brasil precisa de ajuste nas contas publicas de R$ 400 bi",
       "050zfBkqmZM | [VIDEO]_19/11/26_21:57_CNNMONEY_15m46s_Cade prevê 10 a 12 grupos de \"relevância sistêmica\" com PL das big techs",
@@ -486,6 +486,7 @@
     "rem": "BAND JORNALISMO",
     "videoIds": [
       "U_OeApLm5lU",
+      "P8tBsSaurFk",
       "Q29f915RV_0",
       "mm-juuPTmZk",
       "HvJK_isos3U",
@@ -513,13 +514,13 @@
       "NZts6SFklqo",
       "jFqIEOWWfeY",
       "7TwBeW7Pbko",
-      "hyu3Zi3yOeo",
-      "M1fbXhdnEDg"
+      "hyu3Zi3yOeo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "U_OeApLm5lU | [VIDEO]_18/11/26_14:14_BANDJORNALISMO_121m24s_[AO VIVO] Vai viajar? Veja situação das estradas em SP neste feriado   BORA",
+      "U_OeApLm5lU | [VIDEO]_20/11/26_11:06_BANDJORNALISMO_122m01s_[AO VIVO] Vai viajar? Veja situação das estradas em SP neste feriado   BORA",
+      "P8tBsSaurFk | [VIDEO]_20/11/26_11:03_BANDJORNALISMO_8m39s_Fortaleza recebe mais de 100 mil turistas no feriado, diz",
       "Q29f915RV_0 | [VIDEO]_20/11/26_09:52_BANDJORNALISMO_4m05s_Rio de Janeiro recebe turistas e tem praias lotadas no feriado",
       "mm-juuPTmZk | [VIDEO]_20/11/26_09:27_BANDJORNALISMO_4m19s_Navio Sirius: pesquisa impulsionou agro e biodiversidade",
       "HvJK_isos3U | [VIDEO]_20/11/26_09:10_BANDJORNALISMO_4m41s_Criação de coelhos: produção de carne tem espaço para crescer",
@@ -547,8 +548,7 @@
       "NZts6SFklqo | [VIDEO]_05/11/26_16:37_MANHÃNABAND_8m30s_Mapeamento de retina e fundo de olho: A importância da prevenção com Dr. Is",
       "jFqIEOWWfeY | [VIDEO]_05/11/26_16:11_MANHÃNABAND_8m33s_Implantes dentários: Adeus à dentadura e resgate da autoestima com Dr. Edua",
       "7TwBeW7Pbko | [VIDEO]_04/11/26_12:13_MANHÃNABAND_6m06s_Aniversário Assaí 52 anos: Prêmios, ofertas de hortifrúti e festa no MANHÃ",
-      "hyu3Zi3yOeo | [VIDEO]_04/11/26_07:23_TVBANDPAULISTA_29m27s_[AO VIVO] Band Cidade - 03/11/2026   Band Paulista",
-      "M1fbXhdnEDg | [VIDEO]_31/10/26_07:25_TVBANDPAULISTA_36m30s_[AO VIVO] Band Cidade - 30/10/2026   Band Paulista"
+      "hyu3Zi3yOeo | [VIDEO]_04/11/26_07:23_TVBANDPAULISTA_29m27s_[AO VIVO] Band Cidade - 03/11/2026   Band Paulista"
     ]
   },
   {
@@ -762,6 +762,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "rR8-G0Evk4c",
+      "E3Zv7-9tLwU",
       "n5SRyjaoRLQ",
       "T7sm_Ut0SY4",
       "3vHGxBkWR0Q",
@@ -789,13 +790,13 @@
       "j9q_g_F2bHw",
       "MBJlhs-mwF8",
       "GMcnA1XtBYY",
-      "WutYR1tqLgw",
-      "HsH2JLjdOfQ"
+      "WutYR1tqLgw"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "rR8-G0Evk4c | ((LIVE))_20/11/26_09:54_REVISTAOESTE_OESTE COM ELAS - 20/11/2026",
+      "E3Zv7-9tLwU | [VIDEO]_20/11/26_11:00_REVISTAOESTE_6m54s_PF inclui André Mendonça em relatório sobre Daniel Vorcaro",
       "n5SRyjaoRLQ | [VIDEO]_20/11/26_10:45_REVISTAOESTE_5m15s_Governo do Amazonas gasta R$ 514 mil com servidores em torneio de sinuca e ",
       "T7sm_Ut0SY4 | [VIDEO]_20/11/26_10:30_REVISTAOESTE_13m06s_Marcel Van Hattem pode virar réu no STF por fala na Câmara",
       "3vHGxBkWR0Q | [VIDEO]_20/11/26_10:15_REVISTAOESTE_7m14s_Justiça autoriza licitação de iPhones para senadores após ação de Nikolas F",
@@ -823,18 +824,18 @@
       "j9q_g_F2bHw | [VIDEO]_19/11/26_19:18_REVISTAOESTE_12m29s_EXCLUSIVO! Van Hattem acusa Dino de cercear defesa: 'Perseguição judicial à",
       "MBJlhs-mwF8 | [VIDEO]_19/11/26_18:54_REVISTAOESTE_14m39s_'TESOURAÇO': Alcolumbre joga firme com Lula e Senado aprova ajuste fiscal d",
       "GMcnA1XtBYY | [VIDEO]_19/11/26_17:49_REVISTAOESTE_109m11s_JORNAL DA OESTE SEGUNDA EDIÇÃO, COM GEISIANE FREITAS   19/11/2026",
-      "WutYR1tqLgw | [VIDEO]_19/11/26_17:30_REVISTAOESTE_17m45s_Caso Banco Master: Edson Fachin dá prazo para PGR analisar envolvimento de",
-      "HsH2JLjdOfQ | [VIDEO]_19/11/26_17:15_REVISTAOESTE_6m43s_Advogado de Daniel Vorcaro é acusado de conflito de interesses por Procurad"
+      "WutYR1tqLgw | [VIDEO]_19/11/26_17:30_REVISTAOESTE_17m45s_Caso Banco Master: Edson Fachin dá prazo para PGR analisar envolvimento de"
     ]
   },
   {
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "Tr--HDhtRHo",
+      "DPGUBLnqXR4",
       "j5tXI3Lywgc",
       "k9kY1BTKnKY",
       "O18eZgi1pP8",
+      "Tr--HDhtRHo",
       "4QFzzWug1zY",
       "Og-sLqhw5G0",
       "PnnVWM-LySE",
@@ -852,10 +853,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Tr--HDhtRHo | [VIDEO]_20/11/26_10:04_METRÓPOLES_54m46s_Virginia, Neymar e mais polêmicas   Famosos no BBB27   TELEFONE SEM FILTRO ",
+      "DPGUBLnqXR4 | ((LIVE))_20/11/26_11:01_METRÓPOLES_AO VIVO: Fachin libera relatório sobre Mendonça e Vorcaro   Documento sobre",
       "j5tXI3Lywgc | [VIDEO]_20/11/26_02:00_METRÓPOLES_10m04s_Uma explosão de ruídos na escuridão: como é andar em SP sem a visão",
       "k9kY1BTKnKY | [VIDEO]_20/11/26_01:13_RÁDIOCBN_5m41s_BC intervém no câmbio, mas dólar vai a R$ 5,93; Moraes libera dosimetria pa",
       "O18eZgi1pP8 | [VIDEO]_20/11/26_03:40_METRÓPOLES_23m16s_Moraes marca julgamento que pode reduzir pena de Bolsonaro e de condenados",
+      "Tr--HDhtRHo | [VIDEO]_20/11/26_10:04_METRÓPOLES_54m46s_Virginia, Neymar e mais polêmicas   Famosos no BBB27   TELEFONE SEM FILTRO",
       "4QFzzWug1zY | [VIDEO]_19/11/26_21:31_RÁDIOCBN_4m17s_Vera Magalhães: Ministros de Lula são colocados como 'policial malvado' e p",
       "Og-sLqhw5G0 | [VIDEO]_19/11/26_21:23_RÁDIOCBN_7m02s_Bronzatto: Lula sinaliza que tem compromisso com ajuste fiscal, mas sem abr",
       "PnnVWM-LySE | [VIDEO]_19/11/26_21:16_RÁDIOCBN_8m34s_Vera Magalhães: Lula quer que o ministro da Segurança Pública seja um ex-go",
