@@ -1044,9 +1044,16 @@
   {
     "numero": "32",
     "rem": "TNT SPORTS",
-    "videoIds": [],
+    "videoIds": [
+      "0Mu6ijVxHIY",
+      "hVOl-ck_oSY"
+    ],
     "vinhetaPlaylistId": "",
-    "playlistId": ""
+    "playlistId": "",
+    "carimbos": [
+      "0Mu6ijVxHIY | [VIDEO]_20/11/26_02:45_TNTSPORTSBRASIL_5m48s_É SELEÇÃO? RAFAEL CABRAL CATA 3 PÊNALTIS E ACABA COM JOGO NA MLS   SOUNDERS",
+      "hVOl-ck_oSY | [VIDEO]_20/11/26_02:39_TNTSPORTSBRASIL_160m41s_DECISÃO NOS PÊNALTIS AO VIVO: SEATTLE SOUNDERS X REAL SALT LAKE   PLAYOFFS "
+    ]
   },
   {
     "numero": "33",
@@ -1204,7 +1211,7 @@
       "s7X_YEI0o08 | [VIDEO]_12/07/26_18:15_CANALGOAT_149m45s_PARAGUAI X PEÑAROL   JOGO COMPLETO   DISPUTA DE 3º LUGAR   BRASIL LADIES CU"
     ]
   },
-    {
+  {
     "numero": "40",
     "rem": "COMBATE",
     "videoIds": [],
@@ -1513,6 +1520,7 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
+      "AMEBmuOB-Ng",
       "7epGI07LxAA",
       "yHkqq1rU3bc",
       "nPVGu9qPEI0",
@@ -1533,7 +1541,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "7epGI07LxAA | ((LIVE))_20/11/26_00:00_TVEVANGELIZAR_Rosário da Meia-Noite + Ligados pela Fé   20/11/26",
+      "AMEBmuOB-Ng | ((LIVE))_20/11/26_02:59_TVEVANGELIZAR_ADORAÇÃO AO SANTÍSSIMO DA MADRUGADA   20/11/26",
+      "7epGI07LxAA | [VIDEO]_20/11/26_03:04_TVEVANGELIZAR_178m39s_Rosário da Meia-Noite + Ligados pela Fé   20/11/26",
       "yHkqq1rU3bc | [VIDEO]_18/11/26_22:18_TVEVANGELIZAR_58m36s_NOVENA DE NOSSA SENHORA DAS GRAÇAS   DIA 3   Clamor da Noite com William Te",
       "nPVGu9qPEI0 | [VIDEO]_18/11/26_22:00_TVEVANGELIZAR_47m03s_Experiência de Deus com @PadreManzottiOficial   18/11/26",
       "qcreHrIcnvE | [VIDEO]_18/11/26_20:39_TVEVANGELIZAR_62m01s_Quarta-feira da Intercessão com Padre Kleina   18/11/26",
