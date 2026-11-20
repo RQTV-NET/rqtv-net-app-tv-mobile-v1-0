@@ -1119,10 +1119,10 @@
     "numero": "31",
     "rem": "GeTV",
     "videoIds": [
-      "CbtaDJWmOmo",
       "Z3ow-IHNjg0",
       "YKlVeTjZu2E",
       "aeDJD_owRS0",
+      "CbtaDJWmOmo",
       "k2KjW-E142Y",
       "SYi0muxFPxk",
       "J3B3z1TjPL0",
@@ -1144,10 +1144,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "CbtaDJWmOmo | [VIDEO]_20/11/26_01:16_GETV_230m35s_AO VIVO: INDIANAPOLIS COLTS X HOUSTON TEXANS   NFL 2026/27   ge tv",
       "Z3ow-IHNjg0 | [VIDEO]_20/11/26_00:56_GETV_279m26s_JOGO COMPLETO: SÃO PAULO X FLUMINENSE   BRASILEIRÃO 2026   ge tv",
       "YKlVeTjZu2E | [VIDEO]_20/11/26_00:30_GETV_8m55s_BOTA PRA DESCER #04: O CARRO DA GE TV ENCAROU A LADEIRA!  ge tv",
       "aeDJD_owRS0 | [VIDEO]_20/11/26_02:13_GETV_6m27s_INDIANAPOLIS COLTS X HOUSTON TEXANS   MELHORES MOMENTOS   SEMANA 11   NFL 2",
+      "CbtaDJWmOmo | [VIDEO]_20/11/26_01:16_GETV_230m35s_AO VIVO: INDIANAPOLIS COLTS X HOUSTON TEXANS   NFL 2026/27   ge tv",
       "k2KjW-E142Y | [VIDEO]_19/11/26_23:41_GETV_7m08s_SÃO PAULO 0 X 1 FLUMINENSE   MELHORES MOMENTOS   35ª RODADA   BRASILEIRÃO 2",
       "SYi0muxFPxk | [VIDEO]_19/11/26_23:39_GETV_3m53s_SÃO PAULO 0 X 1 FLUMINENSE   MELHORES MOMENTOS   35ª RODADA   BRASILEIRÃO 2",
       "J3B3z1TjPL0 | [VIDEO]_19/11/26_21:46_GETV_4m35s_UNIFACISA 102 X 79 FLAMENGO   MELHORES MOMENTOS   SEMANA 11   NBB 26/27   s",
@@ -1171,11 +1171,11 @@
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
-      "WergWZ9bvfs",
       "LWdJhwkEZg8",
       "hVOl-ck_oSY",
       "0Mu6ijVxHIY",
       "r4jn39x24Bo",
+      "WergWZ9bvfs",
       "ryYn7mcMXlU",
       "awkV8ozyKKY",
       "tfnkFDb4ozs",
@@ -1186,11 +1186,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "WergWZ9bvfs | [VIDEO]_20/11/26_11:00_TNTSPORTSBRASIL_26m43s_PALMEIRAS X FLAMENGO: QUEM TEM O MELHOR TIME EM 2026?   MANO A MANO",
       "LWdJhwkEZg8 | [VIDEO]_20/11/26_10:06_TNTSPORTSBRASIL_100m41s_AO VIVO: QUEM VAI CAIR NO BRASILEIRÃO? + GALO VS BOCA NA FINAL DE AMANHÃ",
       "hVOl-ck_oSY | [VIDEO]_20/11/26_02:39_TNTSPORTSBRASIL_160m41s_DECISÃO NOS PÊNALTIS AO VIVO: SEATTLE SOUNDERS X REAL SALT LAKE   PLAYOFFS",
       "0Mu6ijVxHIY | [VIDEO]_20/11/26_02:45_TNTSPORTSBRASIL_5m48s_É SELEÇÃO? RAFAEL CABRAL CATA 3 PÊNALTIS E ACABA COM JOGO NA MLS   SOUNDERS",
       "r4jn39x24Bo | [VIDEO]_20/11/26_11:37_TNTSPORTSBRASIL_94m36s_QUEM VAI CAIR?; VASCO VENCE; PALMEIRAS RESERVA CONTRA O FLAMENGO?; GALO X B",
+      "WergWZ9bvfs | [VIDEO]_20/11/26_11:00_TNTSPORTSBRASIL_26m43s_PALMEIRAS X FLAMENGO: QUEM TEM O MELHOR TIME EM 2026?   MANO A MANO",
       "ryYn7mcMXlU | [VIDEO]_19/11/26_21:42_TNTSPORTSBRASIL_157m41s_VASCO DA GAMA X INTERNACIONAL (NARRAÇÃO AO VIVO)   CAMPEONATO BRASILEIRO 20",
       "awkV8ozyKKY | [VIDEO]_19/11/26_12:52_TNTSPORTSBRASIL_71m16s_ENDRICK VAI PRO MILAN?; NICO PAZ BRILHA NA ARGENTINA, PORTUGAL VENCE, MAS T",
       "tfnkFDb4ozs | [VIDEO]_19/11/26_11:40_TNTSPORTSBRASIL_98m36s_FLAMENGO PERTO DO TÍTULO; CORINTHIANS GOLEIA E SAI DO Z-4; CRUZEIRO 2X1 PAL",
@@ -1203,6 +1203,8 @@
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
+      "lKcDrT5Yfbc",
+      "jcp-oZbF_yM",
       "W4ZSG8T0BZE",
       "2i_0frRkXkw",
       "kyeNkzELYLE",
@@ -1231,7 +1233,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "W4ZSG8T0BZE | ((LIVE))_20/11/26_11:24_ESPNBRASIL_CARLOS VINÍCIUS NO VASCO, EXCLUSIVA COM BRUNO SPINDEL E CLIMA LEVE NO CORIN",
+      "lKcDrT5Yfbc | ((LIVE))_20/11/26_13:00_ESPNBRASIL_VASCO BATE INTER   PALMEIRAS X FLAMENGO: JOGO DO TÍTULO?   GALO X BOCA COM ",
+      "jcp-oZbF_yM | [VIDEO]_20/11/26_12:58_ESPNBRASIL_17m10s_ANDRÉ HERNAN SE EMOCIONA E É HOMENAGEADO EM RETORNO AO FALA A FONTE",
+      "W4ZSG8T0BZE | [VIDEO]_20/11/26_10:33_ESPNBRASIL_104m01s_CARLOS VINÍCIUS NO VASCO, EXCLUSIVA COM BRUNO SPINDEL E CLIMA LEVE NO CORIN",
       "2i_0frRkXkw | [VIDEO]_20/11/26_00:59_ESPNBRASIL_8m07s_MUITO EMOCIONANTE! BERNARD CHORA E RELEMBRA CAMINHO PARA SER CAMPEÃO DE NOV",
       "kyeNkzELYLE | [VIDEO]_20/11/26_00:56_ESPNBRASIL_20m35s_COLETIVA DO SÃO PAULO AO VIVO: DORIVAL FALA APÓS DERROTA CONTRA O FLUMINENS",
       "OAYEJkPbY5M | [VIDEO]_20/11/26_00:11_ESPNBRASIL_12m06s_COLETIVA FLUMINENSE: MARCÃO FALA APÓS JOGO CONTRA O SÃO PAULO PELO BRASILEI",
@@ -1262,6 +1266,7 @@
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
       "P9gUgFYN-JY",
+      "ExlOXaV9u0c",
       "R-YVBUl5qng",
       "MPT5NDcStQk",
       "gK-bMKAaJzE",
@@ -1289,13 +1294,13 @@
       "DrT9DjeCzrU",
       "L4ka9fj6Fwo",
       "0GV0Fgy-T8A",
-      "7KlJEyiqjsU",
-      "0Du_MjKixHM"
+      "7KlJEyiqjsU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "P9gUgFYN-JY | ((LIVE))_20/11/26_11:57_JOVEMPANESPORTES_É AMANHÃ! O FLAMENGO SERÁ CAMPEÃO CONTRA O PALMEIRAS?; SPFC DEPRIMENTE; GRE",
+      "ExlOXaV9u0c | [VIDEO]_20/11/26_13:00_JOVEMPANESPORTES_31m39s_\"Os CARAS FICAM PU*** POR QUÊ??? O SÃO PAULO é um CLUBE TÓXICO! NÃO CHEGOU ",
       "R-YVBUl5qng | [VIDEO]_19/11/26_23:37_JOVEMPANESPORTES_148m19s_SÃO PAULO 0 x 1 FLUMINENSE   BRASILEIRÃO   19/11/2026",
       "MPT5NDcStQk | [VIDEO]_19/11/26_21:41_JOVEMPANESPORTES_151m13s_VASCO 2 x 1 INTERNACIONAL   BRASILEIRÃO   19/11/2026",
       "gK-bMKAaJzE | [VIDEO]_19/11/26_14:40_JOVEMPANESPORTES_20m46s_\"É VERGONHOSO! Esse time SÓ VAI ESCAPAR do REBAIXAMENTO porque...\" VEJA DEB",
@@ -1323,8 +1328,7 @@
       "DrT9DjeCzrU | [VIDEO]_17/11/26_08:59_JOVEMPANESPORTES_146m05s_SINGAPURA 0 x 7 BRASIL   AMISTOSO   17/11/2026",
       "L4ka9fj6Fwo | [VIDEO]_16/11/26_18:15_JOVEMPANESPORTES_18m24s_TRETA! \"Como você FALA MER%@! CALA A BOCA! A SELEÇÃO BRASILEIRA pra eles...",
       "0GV0Fgy-T8A | [VIDEO]_16/11/26_14:22_JOVEMPANESPORTES_15m51s_VAMPETA SE DECLARA a RONALDINHO GAÚCHO: \"ESSE CARA NASCEU com um DOM que...",
-      "7KlJEyiqjsU | [VIDEO]_16/11/26_14:14_JOVEMPANESPORTES_126m45s_DEMITIR ANCELOTTI SERIA JUSTO OU UMA LOUCURA?; BUSTOS NO FLAMENGO; RONALDIN",
-      "0Du_MjKixHM | [VIDEO]_16/11/26_13:45_JOVEMPANESPORTES_30m29s_VAI DAR MER%@? \"Velho, isso que o VINICIUS JUNIOR ADMITIU...\" VAMPETA ANALI"
+      "7KlJEyiqjsU | [VIDEO]_16/11/26_14:14_JOVEMPANESPORTES_126m45s_DEMITIR ANCELOTTI SERIA JUSTO OU UMA LOUCURA?; BUSTOS NO FLAMENGO; RONALDIN"
     ]
   },
   {
@@ -1365,7 +1369,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "JfP3h9f7p-0 | ((LIVE))_20/11/26_10:59_JOGOABERTO_[AO VIVO] SÃO PAULO PERDE PARA O FLUMINENSE E DUPLA GRENAL NO Z4 - JOGO ABE",
+      "JfP3h9f7p-0 | [VIDEO]_20/11/26_13:07_JOGOABERTO_122m05s_[AO VIVO] SÃO PAULO PERDE PARA O FLUMINENSE E DUPLA GRENAL NO Z4 - JOGO ABE",
       "hedK1_xQv4I | [VIDEO]_20/11/26_12:50_JOGOABERTO_5m13s_CICINHO CRITICA SÃO PAULO APÓS DERROTA: “TIME DESORGANIZADO E MAL GERIDO”",
       "lFAuU_uvnAk | [VIDEO]_20/11/26_12:40_JOGOABERTO_6m16s_RENATA FAN CRITICA SANABRIA APÓS IMPEDIR GOL DO INTER: “PRA QUE ENTROU?\"",
       "wkRBF0jzxEI | [VIDEO]_20/11/26_12:23_JOGOABERTO_5m32s_EDU DRACENA ELOGIA ATUAÇÃO DO VITÓRIA APÓS TRIUNFO SOBRE O BRAGANTINO",
@@ -1449,8 +1453,8 @@
     "numero": "39",
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
-      "meXu6pbJE2Y",
       "Q6Gdn8cS-G0",
+      "meXu6pbJE2Y",
       "HEjIPG6jyV8",
       "p57LFpO0N8o",
       "UeEsYDY0pbk",
@@ -1483,8 +1487,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "meXu6pbJE2Y | [VIDEO]_20/11/26_00:09_LITORALNEWS_249m00s_SÃO PAULO X FLUMINENSE AO VIVO COM IMAGEM NA GE TV AO VIVO   SÃO PAULO AO V",
       "Q6Gdn8cS-G0 | [VIDEO]_20/11/26_10:51_CANALGOAT_75m26s_NOVORIZONTINO E JUVENTUDE NA ELITE! SÉRIE B VAI PEGAR FOGO COM OS PLAYOFFS",
+      "meXu6pbJE2Y | [VIDEO]_20/11/26_00:09_LITORALNEWS_249m00s_SÃO PAULO X FLUMINENSE AO VIVO COM IMAGEM NA GE TV AO VIVO   SÃO PAULO AO V",
       "HEjIPG6jyV8 | [VIDEO]_19/11/26_21:45_LITORALNEWS_141m47s_VASCO X INTERNACIONAL AO VIVO   BRASILEIRÃO   INTER AO VIVO   VASCO AO VIVO",
       "p57LFpO0N8o | [VIDEO]_19/11/26_21:11_DESIMPEDIDOS_22m15s_CORINTHIANS ESCAPOU DA SÉRIE B? SEEDORF FOI INOCENTADO?   PURO SUCO",
       "UeEsYDY0pbk | [VIDEO]_19/11/26_17:08_CANALGOAT_178m57s_JUVENTUDE X BOTAFOGO-SP   JOGO COMPLETO   BRASILEIRÃO SÉRIE B",
@@ -1683,6 +1687,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "4hDihGyoU-M",
       "bRQ-GzMMWZU",
       "doHT6jD7_vU",
       "xCR9cdg93O0",
@@ -1711,12 +1716,12 @@
       "dxXFlpBY_SM",
       "KfT7ZjGvvIQ",
       "iYNGgf4m04Y",
-      "SSvZeqlVs9Q",
-      "DwoMewI17Dk"
+      "SSvZeqlVs9Q"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "4hDihGyoU-M | [VIDEO]_20/11/26_13:08_TECHCIÊNCIA1C_11m55s_Por Que o Maior IPO da História Fez o SoftBank Despencar 16% Hoje",
       "bRQ-GzMMWZU | [VIDEO]_20/11/26_12:21_TECHCIÊNCIA1A_15m20s_AS 10 LLIÇÕES OCULTAS de JÓ que a RELIGIÃO nunca te ENSINOU - LAMARTINE POS",
       "doHT6jD7_vU | [VIDEO]_20/11/26_08:31_TECHCIÊNCIA1A_17m56s_A Diferença FATAL entre ser ÍNTEGRO e ter FÉ - LAMARTINE POSELLA",
       "xCR9cdg93O0 | [VIDEO]_20/11/26_01:26_TECHCIÊNCIA1A_16m50s_A DIFERENÇA entre PEDRO e JUDAS - LAMARTINE POSELLA",
@@ -1745,16 +1750,15 @@
       "dxXFlpBY_SM | [VIDEO]_19/11/26_00:29_TECHCIÊNCIA1B_6m28s_Voyager 1: espaçonave faz história, atinge um dia-luz da Terra e segue viag",
       "KfT7ZjGvvIQ | [VIDEO]_19/11/26_00:02_TECHCIÊNCIA1A_13m58s_O BRASIL CONSEGUE PASSAR POR UMA CRISE GLOBAL? - ALEX ALVES E THIAGO LIMA",
       "iYNGgf4m04Y | [VIDEO]_18/11/26_23:09_TECHCIÊNCIA1A_14m12s_TRUMP é um MAGO DO CAOS? - ALEX ALVES E THIAGO LIMA",
-      "SSvZeqlVs9Q | [VIDEO]_18/11/26_22:31_TECHCIÊNCIA1A_11m59s_THE ECONOMIST e os EFEITOS COLATERAIS dos PRODUTOS ESTÉTICOS irão CAUSAR -",
-      "DwoMewI17Dk | [VIDEO]_18/11/26_21:20_TECHCIÊNCIA1A_14m29s_O PLANO de CONTROLE MUNDIAL que está se INICIANDO - ALEX ALVES E THIAGO LIM"
+      "SSvZeqlVs9Q | [VIDEO]_18/11/26_22:31_TECHCIÊNCIA1A_11m59s_THE ECONOMIST e os EFEITOS COLATERAIS dos PRODUTOS ESTÉTICOS irão CAUSAR -"
     ]
   },
   {
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
-      "cdUsLYV4jv8",
       "QPt7ULTrh44",
+      "cdUsLYV4jv8",
       "awLGSDG2ws8",
       "i8vCpWd9keU",
       "hdU3LF9X_es",
@@ -1787,8 +1791,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "cdUsLYV4jv8 | [VIDEO]_20/11/26_10:00_TECHCIÊNCIA2A_9m51s_Estão construindo o megatúnel mais profundo do mundo",
       "QPt7ULTrh44 | [VIDEO]_20/11/26_05:48_TECHCIÊNCIA2A_42m45s_O túnel submarino mais extremo e caro já construído no oceano",
+      "cdUsLYV4jv8 | [VIDEO]_20/11/26_10:00_TECHCIÊNCIA2A_9m51s_Estão construindo o megatúnel mais profundo do mundo",
       "awLGSDG2ws8 | [VIDEO]_19/11/26_22:00_TECHCIÊNCIA2C_60m01s_1 HORA DE CURIOSIDADES SOBRE SAÚDE 💊🤯",
       "i8vCpWd9keU | [VIDEO]_19/11/26_19:00_TECHCIÊNCIA2A_89m02s_50 Desafios Visuais Que Vão Colocar Sua Mente à Prova – Você Consegue Acert",
       "hdU3LF9X_es | [VIDEO]_19/11/26_19:00_TECHCIÊNCIA2C_22m16s_O homem que levou 28 anos para voltar para casa (a pé)",
@@ -1911,7 +1915,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "0B6QOdLSSvE | ((LIVE))_20/11/26_11:54_TVEVANGELIZAR_Santa Missa do Meio-Dia   20/11/26",
+      "0B6QOdLSSvE | [VIDEO]_20/11/26_13:07_TVEVANGELIZAR_68m16s_Santa Missa do Meio-Dia   20/11/26",
       "6ehQkqv3D1Y | [VIDEO]_20/11/26_12:46_TVEVANGELIZAR_45m57s_Aprender a esperar em Deus   Pequena Via com Pe. Fernando de Souza   20/11/",
       "psNEJr7PLUo | [VIDEO]_20/11/26_04:00_TVEVANGELIZAR_19m33s_Oração da Manhã   20/11/2026   com @PadreManzottiOficial",
       "Ay_BOP7AvNo | [VIDEO]_20/11/26_10:18_TVEVANGELIZAR_30m56s_Coração que acolhe   20/11/26   Com a Palavra - Com Pe. Everson Kloster",
@@ -2029,6 +2033,8 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "-igBM4nOPho",
+      "pbTkicVN5KA",
       "0o7jLEjQDE4",
       "PGJdohJOZD4",
       "3tOy5IcizwI",
@@ -2056,13 +2062,13 @@
       "dyZz6auxS5I",
       "piOhJDHLevw",
       "RcBDzwBELDY",
-      "FYztuZT0Q5Y",
-      "eKAyZAqsBjw",
-      "sC-bb_UC2Lo"
+      "FYztuZT0Q5Y"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "-igBM4nOPho | [VIDEO]_20/11/26_13:10_RECORDCABOVERDE_6m46s_A FAZENDA: Alfredo volta da Roça e Fran cai no choro",
+      "pbTkicVN5KA | [VIDEO]_20/11/26_13:00_RECORDCABOVERDE_5m05s_A FAZENDA: Fran alerta Darlin sobre brincadeiras envolvendo Thaíde",
       "0o7jLEjQDE4 | [VIDEO]_20/11/26_12:50_RECORDCABOVERDE_6m42s_A FAZENDA: No Fuzenda,Murilo nega fazer parte da Alcateia ‘Nunca fui um lob",
       "PGJdohJOZD4 | [VIDEO]_20/11/26_12:40_RECORDCABOVERDE_5m33s_A FAZENDA: Peões fazem campanha por Darlin e irritam Fran e Bissoli",
       "3tOy5IcizwI | [VIDEO]_20/11/26_12:30_RECORDCABOVERDE_8m25s_A FAZENDA: Ana deixa Erthal de fora das tarefas do trato dos animais",
@@ -2090,9 +2096,7 @@
       "dyZz6auxS5I | [VIDEO]_19/11/26_13:10_RECORDCABOVERDE_6m32s_Bissoli afirma sobre Alcateia durante discussão: ‘Se tiver na Roça,vai cair",
       "piOhJDHLevw | [VIDEO]_19/11/26_13:05_RECORDCABOVERDE_10m20s_A FAZENDA: Em nome do amor Bissoli dorme na Sede e causa punição",
       "RcBDzwBELDY | [VIDEO]_19/11/26_13:00_RECORDCABOVERDE_3m59s_A FAZENDA: Renata faz uma revelação para os rivais ‘Quem chantageou a Fran",
-      "FYztuZT0Q5Y | [VIDEO]_19/11/26_12:50_RECORDCABOVERDE_5m31s_A FAZENDA: Relembre as articulações entre Ana e Fran para a nona Roça",
-      "eKAyZAqsBjw | [VIDEO]_19/11/26_12:40_RECORDCABOVERDE_9m07s_A FAZENDA: Fran rebate acusação de Ana e provoca discussão generalizada apó",
-      "sC-bb_UC2Lo | [VIDEO]_19/11/26_12:30_RECORDCABOVERDE_4m06s_A FAZENDA: Fran desabafa sobre mandato como Fazendeira e critica teimosia d"
+      "FYztuZT0Q5Y | [VIDEO]_19/11/26_12:50_RECORDCABOVERDE_5m31s_A FAZENDA: Relembre as articulações entre Ana e Fran para a nona Roça"
     ]
   },
   {
