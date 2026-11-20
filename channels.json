@@ -206,6 +206,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "A7Pf-Vf5eAY",
+      "rP1KN96KtsI",
       "4LqVsVgbG8M",
       "BLBWfxLBVk0",
       "Dacj76xUYWg",
@@ -231,6 +232,7 @@
     "playlistId": "",
     "carimbos": [
       "A7Pf-Vf5eAY | ((LIVE))_19/11/26_23:20_CNNBRASIL_AO VIVO: CNN MADRUGADA - 20/11/2026",
+      "rP1KN96KtsI | [VIDEO]_20/11/26_00:01_CNNBRASIL_17m20s_Qual o futuro do caso Master após relatórios da PF?    O Grande Debate",
       "4LqVsVgbG8M | [VIDEO]_19/11/26_23:34_CNNBRASIL_26m18s_QUAL O FUTURO DO CASO MASTER APÓS RELATÓRIOS DA PF?   O GRANDE DEBATE",
       "BLBWfxLBVk0 | [VIDEO]_19/11/26_23:34_CNNBRASIL_7m51s_Encontro de Trump, Xi e Putin terá efeito concreto?   O GRANDE DEBATE",
       "Dacj76xUYWg | [VIDEO]_19/11/26_23:16_CNNBRASIL_14m57s_Análise: Lula emplaca fim da 6x1 e sugere que empresas buscarão brechas   W",
@@ -468,7 +470,7 @@
     "playlistId": "",
     "carimbos": [
       "nIZJ4Njpj7g | ((LIVE))_19/11/26_23:50_BANDJORNALISMO_[AO VIVO] JORNAL DA NOITE - 19/11/2026",
-      "Iwc85ZsTurk | [VIDEO]_19/11/26_22:35_BANDJORNALISMO_34m01s_Economia Pra Você: Camila Abdelmalack analisa a alta do dólar e os riscos p",
+      "Iwc85ZsTurk | [VIDEO]_20/11/26_00:05_BANDJORNALISMO_27m39s_Economia Pra Você: Camila Abdelmalack analisa a alta do dólar e os riscos p",
       "0KW0MNMmhXI | [VIDEO]_19/11/26_20:37_BANDJORNALISMO_76m06s_Com nova alta, dólar chega a R$ 5,93, maior valor desde 2025   JORNAL DA BA",
       "Dm73KgVgnf4 | [VIDEO]_19/11/26_20:17_BANDJORNALISMO_3m54s_Usina da CSN no RJ pode ser paralisada por poluição e pendências ambientais",
       "GIGzFjLRqK4 | [VIDEO]_19/11/26_20:06_BANDJORNALISMO_7m10s_Justiça libera compra de iPhones para senadores  BandNews TV",
@@ -643,6 +645,8 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "kIRUDYa9b-k",
+      "EdIFUZOiexY",
       "M-IrjVFCv7A",
       "-pWHGPSScho",
       "85LfyQwqWJE",
@@ -670,14 +674,14 @@
       "ls35LXO0tQ8",
       "QUcdhPQT6pM",
       "4Jz5cgSY5P0",
-      "Tt4T9dBQO78",
-      "tRnSrmM76LM",
-      "PfBTzxPjoOU"
+      "Tt4T9dBQO78"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "M-IrjVFCv7A | ((LIVE))_19/11/26_21:12_CBNBRASIL_SÃO PAULO X FLUMINENSE - AO VIVO - BRASILEIRÃO - Narração: Rodrigo Bitar - ",
+      "kIRUDYa9b-k | [VIDEO]_20/11/26_00:07_CBNBRASIL_120m50s_CBN São Paulo - 19/11/2026",
+      "EdIFUZOiexY | [VIDEO]_20/11/26_00:07_CBNBRASIL_150m10s_CBN Rio - 19/11/2026",
+      "M-IrjVFCv7A | [VIDEO]_19/11/26_21:11_RÁDIOCBN_169m49s_SÃO PAULO X FLUMINENSE - AO VIVO - BRASILEIRÃO - Narração: Rodrigo Bitar - ",
       "-pWHGPSScho | [VIDEO]_19/11/26_22:27_CBNBRASIL_8m34s_Bronzatto: Ou o caso Master explode a República inteira ou você explode o c",
       "85LfyQwqWJE | [VIDEO]_19/11/26_22:19_CBNBRASIL_11m39s_Bronzatto: Após Fachin compartilhar relatório da PF, caso Master no STF est",
       "HAFk6kzGepY | [VIDEO]_19/11/26_22:13_CBNBRASIL_12m14s_Vera Magalhães: Me pareceu bem estranho Fachin encaminhar relatório da PF a",
@@ -704,9 +708,7 @@
       "ls35LXO0tQ8 | [VIDEO]_19/11/26_15:30_RÁDIOCBN_7m28s_Bernardo Mello Franco: \"Seria um desastre se o caso do STF ficasse para as",
       "QUcdhPQT6pM | [VIDEO]_19/11/26_15:22_RÁDIOCBN_4m52s_Merval Pereira: Se não investigarem envolvimento com Master, acabou a credi",
       "4Jz5cgSY5P0 | [VIDEO]_19/11/26_15:18_RÁDIOCBN_3m53s_Lula regulamenta escala 5x2 e alerta que transição terá disputas",
-      "Tt4T9dBQO78 | [VIDEO]_19/11/26_08:15_RÁDIOCBN_179m52s_Estúdio CBN - 19/11/2026",
-      "tRnSrmM76LM | [VIDEO]_18/11/26_13:18_RÁDIOCBN_119m17s_CBN Brasil - 19/11/2026",
-      "PfBTzxPjoOU | [VIDEO]_19/11/26_10:11_RÁDIOCBN_13m01s_Hora de Expediente - 19/11/2026"
+      "Tt4T9dBQO78 | [VIDEO]_19/11/26_08:15_RÁDIOCBN_179m52s_Estúdio CBN - 19/11/2026"
     ]
   },
   {
