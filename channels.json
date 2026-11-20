@@ -10,9 +10,9 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
-      "VKSS4JPCrhs",
       "0xQnVK1FEIY",
       "7Qp_THN0qqw",
+      "VKSS4JPCrhs",
       "4TlY839UKeU",
       "MVYZKAyk-_I",
       "nCj4EB50DjQ",
@@ -42,9 +42,9 @@
     ],
     "playlistId": "",
     "carimbos": [
-      "VKSS4JPCrhs | [VIDEO]_20/11/26_11:38_GLOBONEWS_4m26s_Mendonça pede publicidade de documentos da PF que podem citar seu nome no c",
       "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda",
       "7Qp_THN0qqw | [VIDEO]_20/11/26_00:59_GLOBONEWS_9m55s_Trauma real: ‘Josephine’ é baseado em estupro que pai e filhe de 8 anos tes",
+      "VKSS4JPCrhs | [VIDEO]_20/11/26_11:38_GLOBONEWS_4m26s_Mendonça pede publicidade de documentos da PF que podem citar seu nome no c",
       "4TlY839UKeU | [VIDEO]_19/11/26_19:43_GLOBONEWS_5m39s_Decreto de Lula esclarece cálculo da hora trabalhada com redução da jornada",
       "MVYZKAyk-_I | [VIDEO]_19/11/26_18:57_GLOBONEWS_12m36s_Moraes libera lei da dosimetria para o plenário do STF",
       "nCj4EB50DjQ | [VIDEO]_19/11/26_17:05_GLOBONEWS_6m45s_Encontro entre Trump, Xi Jinping e Putin tem cenas curiosas, gestos de cord",
@@ -147,6 +147,7 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
+      "99OFL4Qh72I",
       "DnvqMUJLy-8",
       "hbUWcn5jd9A",
       "BvJiXC4pXtA",
@@ -175,12 +176,12 @@
       "QYX0IrJu52A",
       "r5Q9UguZ8MI",
       "TphVAjADnZs",
-      "4fec-4lr2MY",
-      "wZTGTiH-Tiw"
+      "4fec-4lr2MY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "99OFL4Qh72I | ((LIVE))_20/11/26_15:54_SBTNEWS_🔴 AO VIVO: PODER EXPRESSO   20/11/2026",
       "DnvqMUJLy-8 | ((LIVE))_20/11/26_13:23_SBTNEWS_🔴 AO VIVO: CENTRAL DE NOTÍCIAS   20/11/2026",
       "hbUWcn5jd9A | [VIDEO]_20/11/26_15:30_SBTNEWS_9m21s_Protestos na Europa e polêmicas da Nvidia: veja as principais notícias do m",
       "BvJiXC4pXtA | [VIDEO]_20/11/26_15:25_SBTNEWS_7m07s_Polônia confirma queda de mísseis e drone em seu território e acusa Rússia ",
@@ -209,8 +210,7 @@
       "QYX0IrJu52A | [VIDEO]_20/11/26_06:13_SBTNEWS_419m41s_SBT NOTÍCIAS   20/11/2026",
       "r5Q9UguZ8MI | [VIDEO]_20/11/26_04:15_SBTJORNALISMO_4m41s_Em reunião histórica, Trump, Putin e Xi Jinping prometem evitar guerra nucl",
       "TphVAjADnZs | [VIDEO]_19/11/26_07:41_SBTJORNALISMO_4m12s_Bet investigada em esquema movimentou R$ 11 bilhões em um ano, mas só decla",
-      "4fec-4lr2MY | [VIDEO]_19/11/26_23:51_SBTNEWS_4m40s_Justiça derruba liminar que suspendeu compra de celulares para senadores",
-      "wZTGTiH-Tiw | [VIDEO]_19/11/26_23:46_SBTNEWS_8m53s_EUA perdem certificado de país livre de sarampo após surto da doença   #New"
+      "4fec-4lr2MY | [VIDEO]_19/11/26_23:51_SBTNEWS_4m40s_Justiça derruba liminar que suspendeu compra de celulares para senadores"
     ]
   },
   {
@@ -288,8 +288,8 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "ysum7b-xWXE",
-      "FflREhD22oU",
       "mLc6sfncLok",
+      "FflREhD22oU",
       "6U5oJMZvSOk",
       "a1LzbP4rBAo",
       "q-KZAhVaF5o",
@@ -322,8 +322,8 @@
     "playlistId": "",
     "carimbos": [
       "ysum7b-xWXE | ((LIVE))_20/11/26_14:53_CNNMONEY_AO VIVO: MONEY NEWS III - 20/11/2026   CNN MONEY",
-      "FflREhD22oU | [VIDEO]_20/11/26_14:15_CNNMONEY_33m56s_AO VIVO: CNN AGRO NEWS COM ISADORA CAMARGO - 20/11/2026   CNN MONEY",
       "mLc6sfncLok | [VIDEO]_20/11/26_14:14_CNNMONEY_9m50s_Projeto para formar jovens negros para o mercado financeiro   ABERTURA DE M",
+      "FflREhD22oU | [VIDEO]_20/11/26_14:15_CNNMONEY_33m56s_AO VIVO: CNN AGRO NEWS COM ISADORA CAMARGO - 20/11/2026   CNN MONEY",
       "6U5oJMZvSOk | [VIDEO]_19/11/26_07:46_CNNBRASILMONEY_128m52s_AO VIVO: MONEY NEWS II - 20/11/2026   CNN MONEY",
       "a1LzbP4rBAo | [VIDEO]_20/11/26_14:08_CNNMONEY_12m56s_Governo precisa enfrentar rigidez do orçamento, diz economista   ABERTURA D",
       "q-KZAhVaF5o | [VIDEO]_20/11/26_13:49_CNNMONEY_252m24s_AO VIVO: ABERTURA DE MERCADO - 20/11/2026   CNN MONEY",
@@ -357,7 +357,10 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
-      "lYCzBNowKK8",
+      "hxX2vdVWBKw",
+      "gNQQZCgR0ZQ",
+      "hq9b373WrkQ",
+      "Cn1AUbT4HPQ",
       "xnq3OqSKKc8",
       "M5MW5J-UQvA",
       "DFmv2BMZs0c",
@@ -383,15 +386,15 @@
       "Fht3C4WwUsc",
       "fqKUQCOQAr0",
       "RE1QJm7a4xU",
-      "-P7miYWOu5g",
-      "j58SRxCX-aE",
-      "7MhjjxZwooc",
-      "s1go4psHzE4"
+      "-P7miYWOu5g"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "lYCzBNowKK8 | ((LIVE))_20/11/26_13:56_JOVEMPANNEWS_TEMPO REAL - 20/11/2026",
+      "hxX2vdVWBKw | ((LIVE))_20/11/26_15:55_JOVEMPANNEWS_3 EM 1 - 20/11/2026",
+      "gNQQZCgR0ZQ | [VIDEO]_20/11/26_15:57_JOVEMPANNEWS_4m40s_Crime organizado gera prejuízo de R$ 440 bi ao país   TEMPO REAL",
+      "hq9b373WrkQ | [VIDEO]_20/11/26_15:50_JOVEMPANNEWS_4m15s_Dólar sobe e B3 perde R$ 17 bi; Denise Campos de Toledo   TEMPO REAL",
+      "Cn1AUbT4HPQ | [VIDEO]_20/11/26_15:38_JOVEMPANNEWS_5m04s_Bares e comércio reagem a decreto de Lula sobre jornada   TEMPO REAL",
       "xnq3OqSKKc8 | [VIDEO]_20/11/26_15:19_JOVEMPANNEWS_4m53s_Analistas avaliam recados de Trump sobre comércio e Ásia   TEMPO REAL",
       "M5MW5J-UQvA | [VIDEO]_20/11/26_15:16_JOVEMPANNEWS_23m46s_Trump destaca cúpula com China e Rússia após giro asiático   TEMPO REAL",
       "DFmv2BMZs0c | [VIDEO]_20/11/26_14:43_JOVEMPANNEWS_7m35s_Supremo define data para avaliar regra de punições   TEMPO REAL",
@@ -417,22 +420,19 @@
       "Fht3C4WwUsc | [VIDEO]_19/11/26_20:36_OSPINGOSNOSIS_14m27s_Comentaristas discutem proposta para taxação de grandes fortunas",
       "fqKUQCOQAr0 | [VIDEO]_19/11/26_20:32_OSPINGOSNOSIS_5m07s_PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
       "RE1QJm7a4xU | [VIDEO]_19/11/26_20:31_OSPINGOSNOSIS_5m58s_“Governo impostor, só pensa em mais impostos”, diz Carlos Portinho",
-      "-P7miYWOu5g | [VIDEO]_19/11/26_20:29_JOVEMPANNEWS_7m28s_Lula afirma não ter pressa para anunciar nomes e critica especulações",
-      "j58SRxCX-aE | [VIDEO]_19/11/26_19:30_JOVEMPANNEWS_3m53s_VALE A PENA COMPRAR CARRO COM CORREIA DENTADA BANHADA A ÓLEO HOJE?   MÁQUIN",
-      "7MhjjxZwooc | [VIDEO]_19/11/26_19:22_OSPINGOSNOSIS_12m21s_Rogério Marinho classifica votação do ajuste fiscal no Senado como “derrota",
-      "s1go4psHzE4 | [VIDEO]_18/11/26_20:55_OSPINGOSNOSIS_6m09s_“Muito do que está no ajuste fiscal é condicional”, diz Tarcísio de Freitas"
+      "-P7miYWOu5g | [VIDEO]_19/11/26_20:29_JOVEMPANNEWS_7m28s_Lula afirma não ter pressa para anunciar nomes e critica especulações"
     ]
   },
   {
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
-      "FK_eMV6PPjM",
       "ZNPzoo5q-3g",
       "i4EDh16Wn8M",
       "tsWdxMW3IOI",
       "a9iYtFrEadI",
       "ZVIjAb3aXPg",
+      "FK_eMV6PPjM",
       "mWWetfF6BX4",
       "Hkt9XZ1r1UQ",
       "M2oaD5IuoCU",
@@ -460,12 +460,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "FK_eMV6PPjM | [VIDEO]_20/11/26_14:43_R7_77m55s_Live do Eliminado: Bissoli avalia sua participação em A Fazenda 18",
       "ZNPzoo5q-3g | [VIDEO]_20/11/26_14:41_RECORDOFICIAL_79m15s_Live do Eliminado: Bissoli avalia sua participação em A Fazenda 18",
       "i4EDh16Wn8M | [VIDEO]_20/11/26_07:00_JORNALDARECORD_15m44s_JR 15 Min #1555   Trump, Xi Jinping e Putin: os interesses e as disputas po",
       "tsWdxMW3IOI | [VIDEO]_20/11/26_12:17_HOJEEMDIA_26m33s_Lucas Bissoli, nono eliminado de A Fazenda 18, encara desafios do Celeiro d",
       "a9iYtFrEadI | [VIDEO]_20/11/26_12:13_HOJEEMDIA_6m25s_Casos de roubos e sequestros aumentam entre entregadores no Brasil",
       "ZVIjAb3aXPg | [VIDEO]_20/11/26_12:08_HOJEEMDIA_9m51s_Quero Envelhecer Assim: Idosa de 83 anos faz sucesso dançando em bailes no",
+      "FK_eMV6PPjM | [VIDEO]_20/11/26_14:43_R7_77m55s_Live do Eliminado: Bissoli avalia sua participação em A Fazenda 18",
       "mWWetfF6BX4 | [VIDEO]_20/11/26_11:49_JORNALDARECORD_4m52s_Prazo para solicitar a reaplicação do Enem se encerra nesta sexta",
       "Hkt9XZ1r1UQ | [VIDEO]_20/11/26_10:28_FALABRASIL_4m16s_Dois homens são presos por maus-tratos e morte de cães em diferentes regiõe",
       "M2oaD5IuoCU | [VIDEO]_06/11/26_16:26_R7_74m01s_Live do Eliminado: Rikardo avalia sua participação em A Fazenda 18",
@@ -567,12 +567,12 @@
     "videoIds": [
       "CBjgXNsJnr0",
       "7FSgl9TkkpE",
-      "lz7_MsSTaiU",
       "t_1a7ryMFKg",
       "SZyGdtxBTQ4",
       "DVzBcuWFj5s",
       "IAOMF5r87cM",
       "vPZn1jjERLM",
+      "lz7_MsSTaiU",
       "AUoRb-Xwibo",
       "xNSPRFL__oc",
       "zLsVNxqIRCo",
@@ -601,12 +601,12 @@
     "carimbos": [
       "CBjgXNsJnr0 | ((LIVE))_20/11/26_14:56_REDETV!OFICIAL_​[AO VIVO] REDETV! NOTÍCIAS 2ª EDIÇÃO   20/11/2026",
       "7FSgl9TkkpE | ((LIVE))_20/11/26_14:56_NOTÍCIASREDETV_​[AO VIVO] REDETV! NOTÍCIAS 2ª EDIÇÃO   20/11/2026",
-      "lz7_MsSTaiU | [VIDEO]_20/11/26_13:19_ESPORTESREDETV_13m56s_Da restauração à hegemonia, Palmeiras e Flamengo dominam o futebol sul-amer",
       "t_1a7ryMFKg | [VIDEO]_20/11/26_13:19_NOTÍCIASREDETV_13m56s_Palmeiras e Flamengo passaram da restauração à hegemonia",
       "SZyGdtxBTQ4 | [VIDEO]_20/11/26_12:40_REDETV!OFICIAL_272m50s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   20/11/2026",
       "DVzBcuWFj5s | [VIDEO]_20/11/26_12:05_NOTÍCIASREDETV_273m01s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   20/11/2026",
       "IAOMF5r87cM | [VIDEO]_20/11/26_08:31_REDETV!OFICIAL_58m56s_RedeTV! News - AO VIVO   19/11/2026",
       "vPZn1jjERLM | [VIDEO]_20/11/26_09:06_REDETV!OFICIAL_29m57s_AO VIVO   RJ DO POVO   20/11/2026",
+      "lz7_MsSTaiU | [VIDEO]_20/11/26_13:19_ESPORTESREDETV_13m56s_Da restauração à hegemonia, Palmeiras e Flamengo dominam o futebol sul-amer",
       "AUoRb-Xwibo | [VIDEO]_20/11/26_00:30_NOTÍCIASREDETV_56m52s_Dinheiro na Conta (19/11/26)   Completo",
       "xNSPRFL__oc | [VIDEO]_19/11/26_22:05_REDETV!OFICIAL_47m56s_AO VIVO   RJ DO POVO   19/11/2026",
       "zLsVNxqIRCo | [VIDEO]_19/11/26_20:47_NOTÍCIASREDETV_273m16s_​[AO VIVO] REDETV! NOTÍCIAS 2ª EDIÇÃO   19/11/2026",
@@ -741,7 +741,7 @@
       "ozPAWaPaQok | [VIDEO]_20/11/26_15:00_CBNBRASIL_5m02s_Eduardo Rauen sobre perfil de uso da semaglutida: 'Mudança que nunca tinha ",
       "0IaCxf44kaA | [VIDEO]_20/11/26_14:53_CBNBRASIL_5m17s_Thássius Veloso: Apagões na tecnologia são sinal de que a internet pode par",
       "ZVtfYRmfWes | [VIDEO]_20/11/26_14:44_CBNBRASIL_7m58s_Como Ashton Kutcher transformou apostas em startups em uma fortuna bilionár",
-      "1EleSEeYnEw | [VIDEO]_20/11/26_14:43_CBNBRASIL_5m19s_Luis Fernando Correia: Planos de saúde passam a cobrir teste genético para ",
+      "1EleSEeYnEw | [VIDEO]_20/11/26_14:43_CBNBRASIL_5m19s_Luis Fernando Correia: Planos de saúde passam a cobrir teste genético para",
       "SfI0zjCLc4E | [VIDEO]_20/11/26_14:26_CBNBRASIL_5m40s_Como profissionais negros estão ampliando espaço no mercado de vinhos",
       "AZRyiFkQcno | [VIDEO]_20/11/26_14:24_CBNBRASIL_5m39s_Suzana Barelli: Conheça Vinícius Santiago e Silvana Aluá, que quebram barre",
       "FyZP2B4zRo0 | [VIDEO]_20/11/26_14:16_CBNBRASIL_8m13s_Teco Medina: Como Ashton Kutcher virou bilionário apostando no Vale do Silí",
@@ -773,6 +773,8 @@
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
+      "sNeRJrV8Ul4",
+      "eByrpX6b3cI",
       "V_UQn5WwEFE",
       "rF4Eb9vlO1w",
       "f8J99hFgEa0",
@@ -800,14 +802,14 @@
       "GQQkYSKnd_U",
       "xI6rKgnmsis",
       "RXc-spiCp-A",
-      "3meQQN5krAU",
-      "x8wltk4RN_Q",
-      "3Tdq6EI_FuA"
+      "3meQQN5krAU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "V_UQn5WwEFE | ((LIVE))_20/11/26_13:54_REVISTAOESTE_FAROESTE À BRASILEIRA - 20/11/2026",
+      "sNeRJrV8Ul4 | ((LIVE))_20/11/26_15:55_REVISTAOESTE_JORNAL DA OESTE SEGUNDA EDIÇÃO, COM GEISIANE FREITAS   20/11/2026",
+      "eByrpX6b3cI | [VIDEO]_20/11/26_15:58_REVISTAOESTE_18m27s_PGR analisa relatórios da PF que citam ministros do STF no caso Banco Maste",
+      "V_UQn5WwEFE | [VIDEO]_17/11/26_17:12_REVISTAOESTE_125m53s_FAROESTE À BRASILEIRA - 20/11/2026",
       "rF4Eb9vlO1w | [VIDEO]_20/11/26_13:40_REVISTAOESTE_14m26s_Senado encomenda novo retrato a óleo de Alcolumbre por mais de R$ 11 mil",
       "f8J99hFgEa0 | [VIDEO]_20/11/26_13:20_REVISTAOESTE_22m04s_CASO VAN HATTEM: Processo relatado por Dino pode jogar deputado na prisão",
       "xymLByrN_d0 | [VIDEO]_20/11/26_13:10_REVISTAOESTE_10m08s_Augusto Nunes defende 'volta do STF à normalidade' e cobra reação do Senado",
@@ -834,9 +836,7 @@
       "GQQkYSKnd_U | [VIDEO]_19/11/26_22:06_REVISTAOESTE_94m01s_ARENA OESTE #76   LULA 4: CRISES MÚLTIPLAS",
       "xI6rKgnmsis | [VIDEO]_19/11/26_22:00_REVISTAOESTE_6m40s_Efeito Leão XIV: a força da fé arrasta milhões na Argentina",
       "RXc-spiCp-A | [VIDEO]_19/11/26_21:40_REVISTAOESTE_8m52s_MESSIAS NO STF? Lula busca acordo com Alcolumbre para definir indicação",
-      "3meQQN5krAU | [VIDEO]_19/11/26_21:30_REVISTAOESTE_15m40s_'QUEBRA DE CONFIANÇA': Diretor da PF explica afastamento de delegados no ca",
-      "x8wltk4RN_Q | [VIDEO]_19/11/26_21:20_REVISTAOESTE_6m18s_Coopavel planeja feira de 2027 e destaca alta de 520% no agro   AFA, com Jo",
-      "3Tdq6EI_FuA | [VIDEO]_19/11/26_21:10_REVISTAOESTE_6m19s_Show Rural Copavel abre calendário do agro e dita tendências do mercado   A"
+      "3meQQN5krAU | [VIDEO]_19/11/26_21:30_REVISTAOESTE_15m40s_'QUEBRA DE CONFIANÇA': Diretor da PF explica afastamento de delegados no ca"
     ]
   },
   {
@@ -913,6 +913,7 @@
     "numero": "14",
     "rem": "TV BRASIL",
     "videoIds": [
+      "dwHzDzHqvjI",
       "6e8NUKALHNQ",
       "-D8ojJCGG8w",
       "mF7VPt3IpeY",
@@ -945,6 +946,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "dwHzDzHqvjI | ((LIVE))_20/11/26_16:00_TVBRASIL_SEM CENSURA RECEBE SAMUEL DE ASSIS, ANA PAULA XONGANI E EMERSON ROCHA",
       "6e8NUKALHNQ | [VIDEO]_20/11/26_14:02_TVBRASIL_59m02s_Repórter Brasil Tarde, 20/11/2026",
       "-D8ojJCGG8w | [VIDEO]_19/11/26_20:03_TVBRASIL_60m05s_Repórter Brasil, 19/11/2026",
       "mF7VPt3IpeY | [VIDEO]_19/11/26_18:02_TVBRASIL_117m50s_SEM CENSURA RECEBE SÉRGIO MALHEIROS, LINN DA QUEBRADA E BARBÁRA REIS",
@@ -979,6 +981,7 @@
     "numero": "15",
     "rem": "TV SENADO",
     "videoIds": [
+      "uxxea309YqA",
       "TIVjSUMTK-k",
       "TO3oHDGPbh0",
       "muy5u4gY9w0",
@@ -1012,6 +1015,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "uxxea309YqA | ((LIVE))_20/11/26_15:58_TVSENADO_Entrevista ao vivo",
       "TIVjSUMTK-k | [VIDEO]_19/11/26_23:06_TVSENADO_5m34s_Diligências em Bacabal (MA) acompanham buscas por crianças desaparecidas",
       "TO3oHDGPbh0 | [VIDEO]_19/11/26_21:41_TVSENADO_4m55s_Edson Davi: desaparecimento do menino de 6 anos, no Rio, mobiliza Comissão",
       "muy5u4gY9w0 | [VIDEO]_19/11/26_21:22_TVSENADO_714m58s_Ao vivo - TV Senado",
