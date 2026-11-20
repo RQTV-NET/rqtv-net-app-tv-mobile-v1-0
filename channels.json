@@ -147,9 +147,10 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
-      "81Hn_7sw13g",
+      "l9kG1i76QzE",
       "nT9_IkJjo_Q",
       "X9zBi1SY7Js",
+      "81Hn_7sw13g",
       "PGoRUfQlCvw",
       "oF8df33BUYQ",
       "8QvdCEn9sUo",
@@ -175,15 +176,15 @@
       "sBiB1rdCkxA",
       "05v7ZX5Ivik",
       "4b-2p7m55Pk",
-      "y6HZzJ14IpE",
-      "YMA-IBlUdSw"
+      "y6HZzJ14IpE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "81Hn_7sw13g | ((LIVE))_20/11/26_08:15_SBTNEWS_🔴 AO VIVO: NEWS MANHÃ   20/11/2026",
+      "l9kG1i76QzE | ((LIVE))_20/11/26_10:53_SBTNEWS_RADAR NEWS   20/11/2026",
       "nT9_IkJjo_Q | [VIDEO]_20/11/26_10:40_SBTNEWS_10m59s_Senado aprova R$ 13,5 bilhões para empresas afetadas por tarifaço   #NewsMa",
       "X9zBi1SY7Js | [VIDEO]_20/11/26_10:28_SBTJORNALISMO_6m24s_GCM é baleado durante tentativa de assalto no centro de SP   #SeLigaBrasil",
+      "81Hn_7sw13g | [VIDEO]_19/11/26_06:42_SBTNEWS_164m46s_NEWS MANHÃ   20/11/2026",
       "PGoRUfQlCvw | [VIDEO]_20/11/26_09:45_SBTNEWS_6m44s_GTA 6 bate recorde e movimenta bilhões na indústria dos games   #NewsManhã",
       "oF8df33BUYQ | [VIDEO]_20/11/26_09:41_SBTNEWS_9m42s_Fachin atende Mendonça e libera relatório da PF sobre caso Master   #NewsMa",
       "8QvdCEn9sUo | [VIDEO]_20/11/26_09:26_SBTNEWS_50m16s_JORNAL DO BORIS   20/11/2026",
@@ -209,8 +210,7 @@
       "sBiB1rdCkxA | [VIDEO]_19/11/26_20:37_SBTNEWS_140m05s_JORNAL DO SBT NEWS   19/11/2026",
       "05v7ZX5Ivik | [VIDEO]_19/11/26_20:34_SBTNEWS_4m32s_Previsão do tempo: feriado será de calor e temporais em todo o Brasil   #SB",
       "4b-2p7m55Pk | [VIDEO]_19/11/26_20:32_SBTNEWS_4m57s_Em reunião histórica, Trump, Putin e Xi Jinping prometem evitar guerra nucl",
-      "y6HZzJ14IpE | [VIDEO]_19/11/26_20:19_SBTNEWS_17m14s_Lula assina decreto sobre fim da escala 6x1   #JornaldoSBTNews",
-      "YMA-IBlUdSw | [VIDEO]_19/11/26_19:16_SBTJORNALISMO_6m06s_Feriado da Consciência Negra deve levar 2,5 milhões de veículos às rodovias"
+      "y6HZzJ14IpE | [VIDEO]_19/11/26_20:19_SBTNEWS_17m14s_Lula assina decreto sobre fim da escala 6x1   #JornaldoSBTNews"
     ]
   },
   {
@@ -287,6 +287,7 @@
     "numero": "05",
     "rem": "CNN MONEY",
     "videoIds": [
+      "1HsqAeWUP0Y",
       "q-KZAhVaF5o",
       "yMj2vlf6fKQ",
       "Bn5UDFZX0BA",
@@ -315,12 +316,12 @@
       "e61spbFC3JI",
       "-zFZ1tPndek",
       "pwzdgRwTH6s",
-      "zgPrU5S_lIg",
-      "IqTgA_PZ4mU"
+      "zgPrU5S_lIg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "1HsqAeWUP0Y | ((LIVE))_20/11/26_10:52_CNNMONEY_AO VIVO: MONEY NEWS I - 20/11/2026   CNN MONEY",
       "q-KZAhVaF5o | ((LIVE))_20/11/26_06:51_CNNMONEY_AO VIVO: ABERTURA DE MERCADO - 20/11/2026   CNN MONEY",
       "yMj2vlf6fKQ | [VIDEO]_18/11/26_10:26_CNNBRASILMONEY_573m47s_AO VIVO: CNN MONEY - 19/11/2026",
       "Bn5UDFZX0BA | [VIDEO]_19/11/26_22:17_CNNMONEY_7m40s_Goldman Sachs: Brasil precisa de ajuste nas contas publicas de R$ 400 bi",
@@ -349,8 +350,7 @@
       "e61spbFC3JI | [VIDEO]_18/11/26_16:58_CNNMONEY_18m07s_Fed deveria ter subido juros na última reunião, diz economista   MONEY NEWS",
       "-zFZ1tPndek | [VIDEO]_18/11/26_16:39_CNNMONEY_13m28s_Ibovespa terá BDRs de empresas brasileiras em 2027   MONEY NEWS",
       "pwzdgRwTH6s | [VIDEO]_18/11/26_16:14_CNNBRASILMONEY_11m01s_Revisão de recomendações para ações do Brasil reflete desafios em 2027, diz",
-      "zgPrU5S_lIg | [VIDEO]_18/11/26_16:09_CNNBRASILMONEY_128m20s_AO VIVO: MONEY NEWS II - 18/11/2026   CNN MONEY",
-      "IqTgA_PZ4mU | [VIDEO]_18/11/26_15:25_CNNBRASILMONEY_10m30s_IPO da Anthropic pode dar fôlego ao setor de IA, diz especialista   ABERTUR"
+      "zgPrU5S_lIg | [VIDEO]_18/11/26_16:09_CNNBRASILMONEY_128m20s_AO VIVO: MONEY NEWS II - 18/11/2026   CNN MONEY"
     ]
   },
   {
@@ -358,6 +358,7 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "dS15AV4Xkmw",
+      "a4hncXy1020",
       "3TIEazoEIeM",
       "mjG2ZQLnUZQ",
       "EQ9qiQ9M8Vs",
@@ -385,6 +386,7 @@
     "playlistId": "",
     "carimbos": [
       "dS15AV4Xkmw | ((LIVE))_20/11/26_09:56_JOVEMPANNEWS_MORNING SHOW - 20/11/2026",
+      "a4hncXy1020 | [VIDEO]_20/11/26_10:45_JOVEMPANNEWS_10m03s_Mendonça abre mão de sigilo no STF sobre relatório da PF no caso Master",
       "3TIEazoEIeM | [VIDEO]_20/11/26_10:36_JOVEMPANNEWS_5m43s_Galípolo diz que alertou a PF sobre fuga de Vorcaro e gastos chocam",
       "mjG2ZQLnUZQ | [VIDEO]_20/11/26_05:19_JOVEMPANNEWS_6m36s_Relator do ajuste fiscal mantém texto do Senado",
       "EQ9qiQ9M8Vs | [VIDEO]_20/11/26_06:28_JOVEMPANNEWS_4m46s_Governo inicia campanha contra o racismo e violência contra a mulher na int",
@@ -517,7 +519,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "U_OeApLm5lU | ((LIVE))_20/11/26_08:59_BANDJORNALISMO_[AO VIVO] Vai viajar? Veja situação das estradas em SP neste feriado   BORA",
+      "U_OeApLm5lU | [VIDEO]_18/11/26_14:14_BANDJORNALISMO_121m24s_[AO VIVO] Vai viajar? Veja situação das estradas em SP neste feriado   BORA",
       "Q29f915RV_0 | [VIDEO]_20/11/26_09:52_BANDJORNALISMO_4m05s_Rio de Janeiro recebe turistas e tem praias lotadas no feriado",
       "mm-juuPTmZk | [VIDEO]_20/11/26_09:27_BANDJORNALISMO_4m19s_Navio Sirius: pesquisa impulsionou agro e biodiversidade",
       "HvJK_isos3U | [VIDEO]_20/11/26_09:10_BANDJORNALISMO_4m41s_Criação de coelhos: produção de carne tem espaço para crescer",
@@ -760,6 +762,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "rR8-G0Evk4c",
+      "n5SRyjaoRLQ",
       "T7sm_Ut0SY4",
       "3vHGxBkWR0Q",
       "74rpkjoq0wg",
@@ -787,13 +790,13 @@
       "MBJlhs-mwF8",
       "GMcnA1XtBYY",
       "WutYR1tqLgw",
-      "HsH2JLjdOfQ",
-      "jywLqDxYkuc"
+      "HsH2JLjdOfQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "rR8-G0Evk4c | ((LIVE))_20/11/26_09:54_REVISTAOESTE_OESTE COM ELAS - 20/11/2026",
+      "n5SRyjaoRLQ | [VIDEO]_20/11/26_10:45_REVISTAOESTE_5m15s_Governo do Amazonas gasta R$ 514 mil com servidores em torneio de sinuca e ",
       "T7sm_Ut0SY4 | [VIDEO]_20/11/26_10:30_REVISTAOESTE_13m06s_Marcel Van Hattem pode virar réu no STF por fala na Câmara",
       "3vHGxBkWR0Q | [VIDEO]_20/11/26_10:15_REVISTAOESTE_7m14s_Justiça autoriza licitação de iPhones para senadores após ação de Nikolas F",
       "74rpkjoq0wg | [VIDEO]_20/11/26_10:10_REVISTAOESTE_189m06s_JORNAL DA OESTE PRIMEIRA EDIÇÃO - 20/11/2026",
@@ -821,8 +824,7 @@
       "MBJlhs-mwF8 | [VIDEO]_19/11/26_18:54_REVISTAOESTE_14m39s_'TESOURAÇO': Alcolumbre joga firme com Lula e Senado aprova ajuste fiscal d",
       "GMcnA1XtBYY | [VIDEO]_19/11/26_17:49_REVISTAOESTE_109m11s_JORNAL DA OESTE SEGUNDA EDIÇÃO, COM GEISIANE FREITAS   19/11/2026",
       "WutYR1tqLgw | [VIDEO]_19/11/26_17:30_REVISTAOESTE_17m45s_Caso Banco Master: Edson Fachin dá prazo para PGR analisar envolvimento de",
-      "HsH2JLjdOfQ | [VIDEO]_19/11/26_17:15_REVISTAOESTE_6m43s_Advogado de Daniel Vorcaro é acusado de conflito de interesses por Procurad",
-      "jywLqDxYkuc | [VIDEO]_19/11/26_17:14_REVISTAOESTE_128m21s_ESPORTE SEM FIRULA   19/11/2026"
+      "HsH2JLjdOfQ | [VIDEO]_19/11/26_17:15_REVISTAOESTE_6m43s_Advogado de Daniel Vorcaro é acusado de conflito de interesses por Procurad"
     ]
   },
   {
