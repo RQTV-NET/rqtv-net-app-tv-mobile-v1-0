@@ -168,6 +168,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "9ZmVEMfNak4",
+      "-9DIdsbsz_U",
       "JpNRzTEnuXM",
       "G6XAMpXzYP0",
       "ZBCs0hNBu9Y",
@@ -184,6 +185,7 @@
     "playlistId": "",
     "carimbos": [
       "9ZmVEMfNak4 | ((LIVE))_19/11/26_21:51_CNNBRASIL_AO VIVO: LULA E MERCADO ESCALAM QUEDA DE BRAÇO   WW",
+      "-9DIdsbsz_U | [VIDEO]_19/11/26_22:29_CNNBRASIL_4m15s_Crise do BB vai mudar acesso ao crédito rural, diz diretor do Santander   C",
       "JpNRzTEnuXM | [VIDEO]_19/11/26_22:26_CNNBRASIL_5m02s_Lula e mercado escalam queda de braço; veja análise   WW",
       "G6XAMpXzYP0 | [VIDEO]_19/11/26_22:05_CNNBRASIL_130m17s_AO VIVO: MORAES PAUTA JULGAMENTO SOBRE DOSIMETRIA PARA DIA 4/12   CNN PRIME",
       "ZBCs0hNBu9Y | [VIDEO]_19/11/26_21:52_CNNBRASIL_5m57s_Lula usa o tempo a seu favor na escolha de ministros   CNN PRIME TIME",
@@ -517,6 +519,7 @@
     "numero": "10",
     "rem": "TV CULTURA",
     "videoIds": [
+      "wrn6aS8qUmg",
       "O6CebJw04xI",
       "ZhM3Y7SLj-M",
       "3X_5INAeD9Y",
@@ -548,6 +551,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "wrn6aS8qUmg | ((LIVE))_19/11/26_22:30_TVCULTURAPROGRAMAS_Linhas Cruzadas   A IA VAI ACABAR COM O MUNDO?   19/11/26",
       "O6CebJw04xI | [VIDEO]_19/11/26_22:05_TVCULTURAPROGRAMAS_66m20s_JORNAL DA CULTURA   19/11/2026",
       "ZhM3Y7SLj-M | [VIDEO]_19/11/26_17:30_TVCULTURAJORNALISMO_8m52s_Conceição Tavares avalia educação no país e comenta novo livro erótico",
       "3X_5INAeD9Y | [VIDEO]_19/11/26_12:50_TVCULTURAPROGRAMAS_40m05s_JORNAL DA TARDE   Lula assina decreto que regulamenta o fim da escala 6x1  ",
@@ -652,6 +656,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "ispJPS8gTtI",
+      "TqUk145zFmg",
       "GQQkYSKnd_U",
       "xI6rKgnmsis",
       "RXc-spiCp-A",
@@ -679,13 +684,13 @@
       "sRZpawTqIEc",
       "ZOMpmo9l3XA",
       "hv4DPECI1AQ",
-      "ww2nJUzV0SU",
-      "1BEm5dbVvgE"
+      "ww2nJUzV0SU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "ispJPS8gTtI | ((LIVE))_19/11/26_17:38_REVISTAOESTE_OESTE SEM FILTRO   19/11/2026",
+      "TqUk145zFmg | [VIDEO]_19/11/26_22:30_REVISTAOESTE_8m59s_Chiquini expõe podridão do STF e jogo sujo de Brasília: 'Moraes prestou ser",
       "GQQkYSKnd_U | [VIDEO]_19/11/26_22:06_REVISTAOESTE_94m01s_ARENA OESTE #76   LULA 4: CRISES MÚLTIPLAS",
       "xI6rKgnmsis | [VIDEO]_19/11/26_22:00_REVISTAOESTE_6m40s_Efeito Leão XIV: a força da fé arrasta milhões na Argentina",
       "RXc-spiCp-A | [VIDEO]_19/11/26_21:40_REVISTAOESTE_8m52s_MESSIAS NO STF? Lula busca acordo com Alcolumbre para definir indicação",
@@ -713,8 +718,7 @@
       "sRZpawTqIEc | [VIDEO]_19/11/26_16:30_REVISTAOESTE_13m42s_Economista alerta para risco de estagflação e imposto inflacionário no Bras",
       "ZOMpmo9l3XA | [VIDEO]_19/11/26_16:15_REVISTAOESTE_22m16s_Andrei Rodrigues não esclarece relação com banqueiro em audiência no Senado",
       "hv4DPECI1AQ | [VIDEO]_19/11/26_16:05_REVISTAOESTE_124m26s_FAROESTE À BRASILEIRA - 19/11/2026",
-      "ww2nJUzV0SU | [VIDEO]_19/11/26_13:30_REVISTAOESTE_8m34s_XADREZ GLOBAL: Cúpula histórica na China reúne Trump, Putin e Xi Jinping",
-      "1BEm5dbVvgE | [VIDEO]_19/11/26_13:20_REVISTAOESTE_8m29s_Justiça acata ação de Nikolas Ferreira e suspende licitação para iPhones do"
+      "ww2nJUzV0SU | [VIDEO]_19/11/26_13:30_REVISTAOESTE_8m34s_XADREZ GLOBAL: Cúpula histórica na China reúne Trump, Putin e Xi Jinping"
     ]
   },
   {
