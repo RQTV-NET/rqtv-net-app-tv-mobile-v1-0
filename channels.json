@@ -150,6 +150,7 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "l9kG1i76QzE",
+      "IAdihMIOkAE",
       "qa1hElERmV8",
       "yWxhQqRJN5g",
       "81Hn_7sw13g",
@@ -177,13 +178,13 @@
       "R2NdUv5zP-Y",
       "IMswmwGBkjg",
       "hoSUtpbf2CQ",
-      "sBiB1rdCkxA",
-      "05v7ZX5Ivik"
+      "sBiB1rdCkxA"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "l9kG1i76QzE | ((LIVE))_20/11/26_10:53_SBTNEWS_🔴 AO VIVO: RADAR NEWS   20/11/2026",
+      "IAdihMIOkAE | [VIDEO]_20/11/26_11:48_SBTNEWS_5m12s_Caso Master: Fachin mantém prisão de Daniel Vorcaro   #RadarNews",
       "qa1hElERmV8 | [VIDEO]_20/11/26_11:45_SBTNEWS_15m23s_PF não encontra mensagens entre Mendonça e Vorcaro   #RadarNews",
       "yWxhQqRJN5g | [VIDEO]_20/11/26_11:32_SBTNEWS_10m37s_Carros elétricos e híbridos podem chegar a 40% em 2027   #NewsManhã",
       "81Hn_7sw13g | [VIDEO]_20/11/26_11:06_SBTNEWS_165m00s_NEWS MANHÃ   20/11/2026",
@@ -211,8 +212,7 @@
       "R2NdUv5zP-Y | [VIDEO]_19/11/26_21:17_SBTJORNALISMO_79m50s_SBT Cidades: assista à edição na íntegra desta quinta-feira (19/11/2026)",
       "IMswmwGBkjg | [VIDEO]_19/11/26_20:53_SBTNEWS_12m09s_Trump, Xi e Putin: encontro ficou abaixo das expectativas, diz professor",
       "hoSUtpbf2CQ | [VIDEO]_19/11/26_20:39_SBTNEWS_6m58s_PF faz relatórios sobre 4 ministros do STF no caso Master   #JornaldoSBTNew",
-      "sBiB1rdCkxA | [VIDEO]_19/11/26_20:37_SBTNEWS_140m05s_JORNAL DO SBT NEWS   19/11/2026",
-      "05v7ZX5Ivik | [VIDEO]_19/11/26_20:34_SBTNEWS_4m32s_Previsão do tempo: feriado será de calor e temporais em todo o Brasil   #SB"
+      "sBiB1rdCkxA | [VIDEO]_19/11/26_20:37_SBTNEWS_140m05s_JORNAL DO SBT NEWS   19/11/2026"
     ]
   },
   {
@@ -220,6 +220,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "c_C4S3wuzZw",
+      "5e89_ZqLQLk",
       "iZYRYmaUYHM",
       "YJsrd7lrNJs",
       "COZzxNtQ_OQ",
@@ -247,13 +248,13 @@
       "9ZmVEMfNak4",
       "SedHjrJbsQ0",
       "m3gj3i3JGPk",
-      "-9DIdsbsz_U",
-      "JpNRzTEnuXM"
+      "-9DIdsbsz_U"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "c_C4S3wuzZw | ((LIVE))_20/11/26_08:51_CNNBRASIL_AO VIVO:  FACHIN TIRA SIGILO DE RELATÓRIO SOBRE MENDONÇA - LIVE CNN",
+      "5e89_ZqLQLk | [VIDEO]_20/11/26_11:47_CNNBRASIL_5m05s_STF se aproxima do recesso com 6x1, dosimetria e relatórios da PF em aberto",
       "iZYRYmaUYHM | [VIDEO]_20/11/26_11:43_CNNBRASIL_6m10s_Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro ",
       "YJsrd7lrNJs | [VIDEO]_20/11/26_11:31_CNNBRASIL_5m26s_Justiça torna réus acusados por incêndio que matou 11 em pousada do RS   LI",
       "COZzxNtQ_OQ | [VIDEO]_20/11/26_11:27_CNNBRASIL_12m09s_Fundação Palmares: Temos que ter representantes no STF   LIVE CNN",
@@ -281,8 +282,7 @@
       "9ZmVEMfNak4 | [VIDEO]_19/11/26_23:03_CNNBRASIL_51m42s_LULA E MERCADO ESCALAM QUEDA DE BRAÇO   WW",
       "SedHjrJbsQ0 | [VIDEO]_19/11/26_22:58_CNNBRASIL_17m52s_Análise: Mercado expõe insatisfação com ajuste fiscal do governo   WW",
       "m3gj3i3JGPk | [VIDEO]_19/11/26_22:43_CNNBRASIL_4m05s_Lula 4 precisa de plano econômico estrutural, não de soluções de curto praz",
-      "-9DIdsbsz_U | [VIDEO]_19/11/26_22:29_CNNBRASIL_4m15s_Crise do BB vai mudar acesso ao crédito rural, diz diretor do Santander   C",
-      "JpNRzTEnuXM | [VIDEO]_19/11/26_22:26_CNNBRASIL_5m02s_Lula e mercado escalam queda de braço; veja análise   WW"
+      "-9DIdsbsz_U | [VIDEO]_19/11/26_22:29_CNNBRASIL_4m15s_Crise do BB vai mudar acesso ao crédito rural, diz diretor do Santander   C"
     ]
   },
   {
@@ -359,7 +359,6 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
-      "dS15AV4Xkmw",
       "a4hncXy1020",
       "3TIEazoEIeM",
       "mjG2ZQLnUZQ",
@@ -387,7 +386,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "dS15AV4Xkmw | ((LIVE))_20/11/26_09:56_JOVEMPANNEWS_MORNING SHOW - 20/11/2026",
       "a4hncXy1020 | [VIDEO]_20/11/26_10:45_JOVEMPANNEWS_10m03s_Mendonça abre mão de sigilo no STF sobre relatório da PF no caso Master",
       "3TIEazoEIeM | [VIDEO]_20/11/26_10:36_JOVEMPANNEWS_5m43s_Galípolo diz que alertou a PF sobre fuga de Vorcaro e gastos chocam",
       "mjG2ZQLnUZQ | [VIDEO]_20/11/26_05:19_JOVEMPANNEWS_6m36s_Relator do ajuste fiscal mantém texto do Senado",
@@ -417,6 +415,7 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
+      "mWWetfF6BX4",
       "Vrju7afCrKA",
       "i4EDh16Wn8M",
       "Hkt9XZ1r1UQ",
@@ -445,12 +444,12 @@
       "MtJXnAOtx6o",
       "LM-dWpy-U3w",
       "COYyOVW9_AM",
-      "q5StYmKHzcs",
-      "Tmg7KQsBSOQ"
+      "q5StYmKHzcs"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "mWWetfF6BX4 | [VIDEO]_20/11/26_11:49_JORNALDARECORD_4m52s_Prazo para solicitar a reaplicação do Enem se encerra nesta sexta",
       "Vrju7afCrKA | [VIDEO]_20/11/26_07:09_JORNALDARECORD_5m46s_Boletim JR 24 horas   1ª edição - 20/11/2026",
       "i4EDh16Wn8M | [VIDEO]_20/11/26_07:00_JORNALDARECORD_15m44s_JR 15 Min #1555   Trump, Xi Jinping e Putin: os interesses e as disputas po",
       "Hkt9XZ1r1UQ | [VIDEO]_20/11/26_10:28_FALABRASIL_4m16s_Dois homens são presos por maus-tratos e morte de cães em diferentes regiõe",
@@ -479,8 +478,7 @@
       "MtJXnAOtx6o | [VIDEO]_19/11/26_11:45_FALABRASIL_5m07s_Caso Bianca Garbo: vídeo registra os últimos passos da tatuadora antes de s",
       "LM-dWpy-U3w | [VIDEO]_19/11/26_10:48_JORNALDARECORD_25m50s_JR ENTREVISTA: presidente do Confea alerta para país abaixo da nota mínima",
       "COYyOVW9_AM | [VIDEO]_19/11/26_07:00_JORNALDARECORD_14m57s_JR 15 Min #1554   Ataque hacker ao Tesouro: os riscos do vazamento de dados",
-      "q5StYmKHzcs | [VIDEO]_19/11/26_01:24_JORNALDARECORD_16m40s_Senado conclui votação do pacote fiscal e projeto segue para Câmara",
-      "Tmg7KQsBSOQ | [VIDEO]_18/11/26_22:37_JORNALDARECORD_51m20s_Assista à íntegra do Jornal da Record   18/11/2026"
+      "q5StYmKHzcs | [VIDEO]_19/11/26_01:24_JORNALDARECORD_16m40s_Senado conclui votação do pacote fiscal e projeto segue para Câmara"
     ]
   },
   {
@@ -627,6 +625,7 @@
     "numero": "10",
     "rem": "TV CULTURA",
     "videoIds": [
+      "JSgwrnfIDpc",
       "JNnPImokcDs",
       "-2jKCu4KlBs",
       "UGQ2prNQht0",
@@ -659,6 +658,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "JSgwrnfIDpc | ((LIVE))_20/11/26_11:58_TVCULTURAPROGRAMAS_JORNAL DA TARDE   Fachin mantém prisão de Vorcaro e divulga relatório da PF",
       "JNnPImokcDs | [VIDEO]_19/11/26_23:33_TVCULTURAPROGRAMAS_5m33s_COP 31 divulga versão resumida de texto com resultados do encontro",
       "-2jKCu4KlBs | [VIDEO]_19/11/26_23:18_TVCULTURAPROGRAMAS_4m32s_Opas revoga certificação dos EUA como \"país livre do sarampo\"",
       "UGQ2prNQht0 | [VIDEO]_19/11/26_23:14_TVCULTURAPROGRAMAS_5m51s_Fachin pede parecer da PGR sobre relação de ministros com Vorcaro",
@@ -695,12 +695,12 @@
     "videoIds": [
       "Tz8Hf8uxr-g",
       "-1qlEasLZEc",
-      "PX7VD4aK3vU",
       "NPPmHssMPlw",
       "04XwucAi-FU",
       "w51LG9PrvX0",
       "gD9OegJEDGs",
       "Hcv0j7K8JfM",
+      "PX7VD4aK3vU",
       "srBSnM0hY1s",
       "AOdh1gYspiQ",
       "2wLCN1cbAV0",
@@ -729,12 +729,12 @@
     "carimbos": [
       "Tz8Hf8uxr-g | ((LIVE))_20/11/26_10:09_CBNBRASIL_CBN Rio - 20/11/2026",
       "-1qlEasLZEc | ((LIVE))_20/11/26_10:04_CBNBRASIL_CBN São Paulo - 20/11/2026",
-      "PX7VD4aK3vU | [VIDEO]_20/11/26_10:44_CBNBRASIL_5m09s_Planos de saúde ampliam cobertura para tratamento de câncer de pulmão",
       "NPPmHssMPlw | [VIDEO]_20/11/26_10:32_CBNBRASIL_4m14s_Daniela Chiaretti: Esta COP parece mais atrasada do que nunca; ainda espera",
       "04XwucAi-FU | [VIDEO]_20/11/26_10:26_CBNBRASIL_4m22s_PVC: São Paulo não consegue chegar nos benditos 45 pontos; vou instalar est",
       "w51LG9PrvX0 | [VIDEO]_20/11/26_10:20_CBNBRASIL_7m32s_Maria Netto sobre a COP31: Vimos poucos avanços; mundo está tendo impactos",
       "gD9OegJEDGs | [VIDEO]_20/11/26_10:14_CBNBRASIL_4m48s_Leonardo Dahi sobre derrota do São Paulo: Time se arrasta e não cumpre prom",
       "Hcv0j7K8JfM | [VIDEO]_20/11/26_09:13_CBNBRASIL_4m35s_Uma das acionistas da concessionária do Pacaembu entra em recuperação extra",
+      "PX7VD4aK3vU | [VIDEO]_20/11/26_10:44_CBNBRASIL_5m09s_Planos de saúde ampliam cobertura para tratamento de câncer de pulmão",
       "srBSnM0hY1s | [VIDEO]_19/11/26_12:53_RÁDIOCBN_245m25s_Jornal da CBN - 20/11/2026",
       "AOdh1gYspiQ | [VIDEO]_20/11/26_09:02_CBNBRASIL_4m04s_André Magno sobre risco de estourar bolha da IA após Anthropic: 'Mercado ai",
       "2wLCN1cbAV0 | [VIDEO]_20/11/26_08:40_CBNBRASIL_4m50s_Consciência Negra: Governo Lula tem apenas três ministros negros; STF não t",
@@ -763,11 +763,12 @@
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
-      "rR8-G0Evk4c",
+      "23-JPbsvUx4",
       "a-yKdlJdTLw",
       "V9SGehdHt4s",
       "gtTAfi606vQ",
       "E3Zv7-9tLwU",
+      "rR8-G0Evk4c",
       "n5SRyjaoRLQ",
       "T7sm_Ut0SY4",
       "3vHGxBkWR0Q",
@@ -791,18 +792,18 @@
       "8w-IS_Zqosw",
       "v-DV2lnrwi0",
       "fWPbwCm2Cjw",
-      "oM6mjBYUc-w",
-      "j9q_g_F2bHw"
+      "oM6mjBYUc-w"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "rR8-G0Evk4c | ((LIVE))_20/11/26_09:54_REVISTAOESTE_OESTE COM ELAS - 20/11/2026",
+      "23-JPbsvUx4 | ((LIVE))_20/11/26_11:50_REVISTAOESTE_ESPORTE SEM FIRULA   20/11/2026",
       "a-yKdlJdTLw | [VIDEO]_20/11/26_11:45_REVISTAOESTE_16m29s_Lula rebate mercado financeiro e Bruna Allemann analisa risco fiscal",
       "V9SGehdHt4s | [VIDEO]_20/11/26_11:27_REVISTAOESTE_9m04s_Edson Fachin decide futuro do STF em nova edição da Revista Oeste",
       "gtTAfi606vQ | [VIDEO]_20/11/26_11:20_REVISTAOESTE_7m34s_Senado gasta mais de 11 mil reais em novo retrato de Davi Alcolumbre",
       "E3Zv7-9tLwU | [VIDEO]_20/11/26_11:00_REVISTAOESTE_6m54s_PF inclui André Mendonça em relatório sobre Daniel Vorcaro",
-      "n5SRyjaoRLQ | [VIDEO]_20/11/26_10:45_REVISTAOESTE_5m15s_Governo do Amazonas gasta R$ 514 mil com servidores em torneio de sinuca e ",
+      "rR8-G0Evk4c | [VIDEO]_17/11/26_16:10_REVISTAOESTE_125m40s_OESTE COM ELAS 20/11: PGR ANALISARÁ 4 DOS 10 RELATÓRIOS DA PF QUE CITAM MIN",
+      "n5SRyjaoRLQ | [VIDEO]_20/11/26_10:45_REVISTAOESTE_5m15s_Governo do Amazonas gasta R$ 514 mil com servidores em torneio de sinuca e",
       "T7sm_Ut0SY4 | [VIDEO]_20/11/26_10:30_REVISTAOESTE_13m06s_Marcel Van Hattem pode virar réu no STF por fala na Câmara",
       "3vHGxBkWR0Q | [VIDEO]_20/11/26_10:15_REVISTAOESTE_7m14s_Justiça autoriza licitação de iPhones para senadores após ação de Nikolas F",
       "74rpkjoq0wg | [VIDEO]_20/11/26_10:10_REVISTAOESTE_189m06s_JORNAL DA OESTE PRIMEIRA EDIÇÃO - 20/11/2026",
@@ -825,8 +826,7 @@
       "8w-IS_Zqosw | [VIDEO]_19/11/26_19:45_REVISTAOESTE_7m34s_FORO DE SÃO PAULO: Flávio Bolsonaro é denunciado por suposta calúnia contra",
       "v-DV2lnrwi0 | [VIDEO]_19/11/26_19:32_REVISTAOESTE_7m59s_CASO MASTER: Fachin dá 15 dias para PGR avaliar relatório sobre ministros d",
       "fWPbwCm2Cjw | [VIDEO]_19/11/26_19:25_REVISTAOESTE_5m54s_'BOLSA IPHONE': Justiça autoriza Senado a retomar farra de R$ 6 milhões com",
-      "oM6mjBYUc-w | [VIDEO]_19/11/26_19:20_REVISTAOESTE_13m44s_URGENTE: Moraes libera ações da dosimetria para julgamento no STF em dezemb",
-      "j9q_g_F2bHw | [VIDEO]_19/11/26_19:18_REVISTAOESTE_12m29s_EXCLUSIVO! Van Hattem acusa Dino de cercear defesa: 'Perseguição judicial à"
+      "oM6mjBYUc-w | [VIDEO]_19/11/26_19:20_REVISTAOESTE_13m44s_URGENTE: Moraes libera ações da dosimetria para julgamento no STF em dezemb"
     ]
   },
   {
@@ -1591,6 +1591,7 @@
     "numero": "70",
     "rem": "TURBO",
     "videoIds": [
+      "6TWyvahZZjo",
       "SJaHx62vtU8",
       "di8qIRKmiaU",
       "Z2XeSYNhUsk",
@@ -1611,6 +1612,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "6TWyvahZZjo | ((LIVE))_20/11/26_12:00_TURBO_Relíquia de 1931 vai virar uma cafeteria sobre rodas   Texas Metal",
       "SJaHx62vtU8 | ((LIVE))_19/11/26_15:53_TURBO_ACELERAÇÃO TOTAL 🏁 MARATONA Corridas Proibidas e mais",
       "di8qIRKmiaU | [VIDEO]_19/11/26_19:00_TURBO_10m04s_Hilux encara os terrenos mais difíceis da Austrália   Joias sobre rodas: To",
       "Z2XeSYNhUsk | [VIDEO]_18/11/26_19:00_TURBO_8m07s_Dave e Kevin posicionam os primeiros carros na SEMA   Carros Irados   Disco",
