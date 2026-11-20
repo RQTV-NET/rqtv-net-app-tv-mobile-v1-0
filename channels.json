@@ -148,9 +148,9 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "81Hn_7sw13g",
-      "8QvdCEn9sUo",
       "xRU4sRpI-84",
       "2fI0xcla7W4",
+      "8QvdCEn9sUo",
       "YzP2VEioK8o",
       "uvfbnM5Gbpk",
       "U22XaIIMuek",
@@ -181,10 +181,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "81Hn_7sw13g | ((LIVE))_20/11/26_08:15_SBTNEWS_NEWS MANHÃ   20/11/2026",
-      "8QvdCEn9sUo | ((LIVE))_20/11/26_07:46_SBTNEWS_🔴 AO VIVO: JORNAL DO BORIS   20/11/2026",
+      "81Hn_7sw13g | ((LIVE))_20/11/26_08:15_SBTNEWS_🔴 AO VIVO: NEWS MANHÃ   20/11/2026",
       "xRU4sRpI-84 | [VIDEO]_20/11/26_08:09_SBTNEWS_12m40s_Feriado da Consciência Negra: turismo pode movimentar R$ 2 bi em SP   #News",
       "2fI0xcla7W4 | [VIDEO]_20/11/26_08:06_SBTNEWS_134m00s_NEWS PRIMEIRA EDIÇÃO   20/11/2026",
+      "8QvdCEn9sUo | [VIDEO]_19/11/26_06:40_SBTNEWS_50m00s_JORNAL DO BORIS   20/11/2026",
       "YzP2VEioK8o | [VIDEO]_20/11/26_07:37_SBTNEWS_12m07s_Black Friday: como aproveitar descontos sem cair em dívidas?   #NewsManhã",
       "uvfbnM5Gbpk | [VIDEO]_20/11/26_07:27_SBTNEWS_10m50s_Desigualdade racial vai além dos salários e chega aos cargos de chefia   #N",
       "U22XaIIMuek | [VIDEO]_20/11/26_07:15_SBTNEWS_9m31s_Fim da escala 6x1 também vai aumentar o valor da hora extra   #NewsPrimeira",
@@ -218,6 +218,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "BqHcT4NyIRU",
+      "qa9Dzlg8lSU",
       "UUByNXdzbR8",
       "BKH-M_PWAYU",
       "5-Pfw3YvTcs",
@@ -245,13 +246,13 @@
       "3QyKKIGriDo",
       "5Hl9tQRSd-E",
       "6E_q678_TuE",
-      "Yaiyx3O2a1k",
-      "P0K3bGTocMc"
+      "Yaiyx3O2a1k"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "BqHcT4NyIRU | ((LIVE))_20/11/26_05:51_CNNBRASIL_AO VIVO: MENDONÇA PEDE QUE FACHIN TORNE PÚBLICO RELATÓRIO DA PF - CNN NOVO ",
+      "qa9Dzlg8lSU | [VIDEO]_20/11/26_08:36_CNNBRASIL_9m39s_Tempestade causa destruição em cidade no RS; suspeita é de tornado   CNN NO",
       "UUByNXdzbR8 | [VIDEO]_20/11/26_08:29_CNNBRASIL_11m02s_Premiê diz esperar melhor acordo para Reino Unido antes de reunião com UE  ",
       "BKH-M_PWAYU | [VIDEO]_20/11/26_08:25_CNNBRASIL_8m37s_Mendonça pede que Fachin torne público relatório da PF que cita seu nome   ",
       "5-Pfw3YvTcs | [VIDEO]_20/11/26_06:39_CNNBRASIL_6m03s_COP31: rascunho de acordo não menciona combustíveis fósseis   CNN NOVO DIA",
@@ -279,8 +280,7 @@
       "3QyKKIGriDo | [VIDEO]_19/11/26_20:32_CNNBRASIL_8m33s_Lula prevê “confusão” para fazer valer escala 5x2; veja análise   CNN PRIME",
       "5Hl9tQRSd-E | [VIDEO]_19/11/26_20:31_CNNBRASIL_4m35s_Caso Master vai definir relação de Lula com Congresso, diz professor   WW E",
       "6E_q678_TuE | [VIDEO]_19/11/26_20:08_CNNBRASIL_4m42s_Selo de carne sem desmatamento estreia na China em 2027   CNN AGRO NEWS",
-      "Yaiyx3O2a1k | [VIDEO]_19/11/26_20:05_CNNBRASIL_134m46s_TRUMP, XI E PUTIN REJEITAM POSSÍVEL GUERRA NUCLEAR   HORA H",
-      "P0K3bGTocMc | [VIDEO]_19/11/26_20:04_CNNBRASIL_5m40s_Ajuste fiscal: Críticas feitas ao \"plano Moretti\" perdem força; entenda   H"
+      "Yaiyx3O2a1k | [VIDEO]_19/11/26_20:05_CNNBRASIL_134m46s_TRUMP, XI E PUTIN REJEITAM POSSÍVEL GUERRA NUCLEAR   HORA H"
     ]
   },
   {
@@ -358,10 +358,10 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "gnuuZe5XBwM",
-      "EQ9qiQ9M8Vs",
       "12pvLMizRw4",
       "r68Nl1YOZOw",
       "mjG2ZQLnUZQ",
+      "EQ9qiQ9M8Vs",
       "Yzl88xHgzyw",
       "gOoVRk-4cvA",
       "2Ivg8Wgc1rA",
@@ -384,10 +384,10 @@
     "playlistId": "",
     "carimbos": [
       "gnuuZe5XBwM | ((LIVE))_20/11/26_06:55_JOVEMPANNEWS_JORNAL DA MANHÃ - 2ª EDIÇÃO - 20/11/2026",
-      "EQ9qiQ9M8Vs | [VIDEO]_20/11/26_06:28_JOVEMPANNEWS_4m46s_Governo inicia campanha contra o racismo e violência contra a mulher na int",
       "12pvLMizRw4 | [VIDEO]_20/11/26_05:54_JOVEMPANNEWS_6m49s_Galípolo diz que alertou PF sobre fuga de Daniel Vorcaro",
       "r68Nl1YOZOw | [VIDEO]_20/11/26_05:27_JOVEMPANNEWS_4m12s_Calor, praia, umidade, frente fria e risco de temporais",
       "mjG2ZQLnUZQ | [VIDEO]_20/11/26_05:19_JOVEMPANNEWS_6m36s_Relator do ajuste fiscal mantém texto do Senado",
+      "EQ9qiQ9M8Vs | [VIDEO]_20/11/26_06:28_JOVEMPANNEWS_4m46s_Governo inicia campanha contra o racismo e violência contra a mulher na int",
       "Yzl88xHgzyw | [VIDEO]_19/11/26_22:29_JOVEMPANNEWS_4m43s_Violência contra a mulher: mais de 6 mil denúncias registradas até outubro",
       "gOoVRk-4cvA | [VIDEO]_19/11/26_22:11_JOVEMPANNEWS_4m14s_Previsão do tempo aponta calor e chuva para a sexta-feira (20) de feriado n",
       "2Ivg8Wgc1rA | [VIDEO]_19/11/26_21:42_JOVEMPANNEWS_6m41s_Federação MDB-PSDB segue travada nos estados",
@@ -411,8 +411,8 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
-      "Vrju7afCrKA",
       "i4EDh16Wn8M",
+      "Vrju7afCrKA",
       "M2oaD5IuoCU",
       "WoargAj9EYE",
       "d1Vf_GMKMaM",
@@ -445,8 +445,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Vrju7afCrKA | [VIDEO]_20/11/26_07:09_JORNALDARECORD_5m46s_Boletim JR 24 horas   1ª edição - 20/11/2026",
       "i4EDh16Wn8M | [VIDEO]_20/11/26_07:00_JORNALDARECORD_15m44s_JR 15 Min #1555   Trump, Xi Jinping e Putin: os interesses e as disputas po",
+      "Vrju7afCrKA | [VIDEO]_20/11/26_07:09_JORNALDARECORD_5m46s_Boletim JR 24 horas   1ª edição - 20/11/2026",
       "M2oaD5IuoCU | [VIDEO]_06/11/26_16:26_R7_74m01s_Live do Eliminado: Rikardo avalia sua participação em A Fazenda 18",
       "WoargAj9EYE | [VIDEO]_04/11/26_00:13_R7_134m01s_Aquecendo o Feno! Christina Rocha recebe Duda Wendling e Yuri Fuly",
       "d1Vf_GMKMaM | [VIDEO]_29/12/24_17:11_DOMINGORECORD_7m55s_Surpresa! Gêmeos cantores conhecem a dupla sertaneja Guilherme & Benuto",
@@ -515,7 +515,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "38CDknRQbTU | ((LIVE))_20/11/26_07:59_BANDJORNALISMO_[AO VIVO] AGROBAND - 20/11/2026",
+      "38CDknRQbTU | [VIDEO]_20/11/26_08:43_BANDJORNALISMO_32m06s_[AO VIVO] AGROBAND - 20/11/2026",
       "VFNmspEK7Z0 | [VIDEO]_20/11/26_08:19_BANDJORNALISMO_7m33s_Demora na reintegração preocupa o setor rural   Bandnews TV",
       "iBNDpgy1ZZE | [VIDEO]_20/11/26_07:41_BANDJORNALISMO_10m17s_Reforma no Judiciário voltam a ganhar espaço nas discussões   Bandnews TV",
       "1kyyK_1xAck | [VIDEO]_20/11/26_07:23_BANDPAULISTA_35m40s_[AO VIVO] Band Cidade - 19/11/2026   Band Paulista",
@@ -553,6 +553,7 @@
     "videoIds": [
       "DVzBcuWFj5s",
       "SZyGdtxBTQ4",
+      "IAOMF5r87cM",
       "AUoRb-Xwibo",
       "xNSPRFL__oc",
       "zLsVNxqIRCo",
@@ -560,7 +561,6 @@
       "We-6rvBGlc8",
       "LZt7qipFCZA",
       "QPse362v_nk",
-      "IAOMF5r87cM",
       "SdfpAgWR4K0",
       "6qd6FFtT8Nk",
       "fvwkuufYm9A",
@@ -587,6 +587,7 @@
     "carimbos": [
       "DVzBcuWFj5s | ((LIVE))_20/11/26_05:59_NOTÍCIASREDETV_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   20/11/2026",
       "SZyGdtxBTQ4 | ((LIVE))_20/11/26_05:59_REDETV!OFICIAL_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   20/11/2026",
+      "IAOMF5r87cM | [VIDEO]_20/11/26_08:31_REDETV!OFICIAL_58m56s_RedeTV! News - AO VIVO   19/11/2026",
       "AUoRb-Xwibo | [VIDEO]_20/11/26_00:30_NOTÍCIASREDETV_56m52s_Dinheiro na Conta (19/11/26)   Completo",
       "xNSPRFL__oc | [VIDEO]_19/11/26_22:05_REDETV!OFICIAL_47m56s_AO VIVO   RJ DO POVO   19/11/2026",
       "zLsVNxqIRCo | [VIDEO]_19/11/26_20:47_NOTÍCIASREDETV_273m16s_​[AO VIVO] REDETV! NOTÍCIAS 2ª EDIÇÃO   19/11/2026",
@@ -594,7 +595,6 @@
       "We-6rvBGlc8 | [VIDEO]_19/11/26_19:00_BYJÚLIAPEREIRA_4m38s_FESTA DE ANIVERSÁRIO DA SUZANNE   BY JÚLIA PEREIRA",
       "LZt7qipFCZA | [VIDEO]_19/11/26_18:15_NOTÍCIASREDETV_5m50s_FARO E MION NO MESMO PROGRAMA? Globo planeja quadro especial no Caldeirão,",
       "QPse362v_nk | [VIDEO]_19/11/26_18:13_NOTÍCIASREDETV_8m25s_SEPARAÇÃO E ENCONTRO POLÊMICO COM JORDANA! Ex de Cowboy conta tudo no 'A Ta",
-      "IAOMF5r87cM | [VIDEO]_19/11/26_17:03_REDETV!OFICIAL_58m42s_RedeTV! News - AO VIVO   19/11/2026",
       "SdfpAgWR4K0 | [VIDEO]_19/11/26_16:34_REDETV!ENTRETENIMENTO_5m44s_Da descoberta do câncer à cirurgia: Netinho de Paula conta tudo sobre o mom",
       "6qd6FFtT8Nk | [VIDEO]_19/11/26_16:02_REDETV!OFICIAL_4m05s_BNDES tem financiamento exclusivo para micro, pequenas e grandes empresas",
       "fvwkuufYm9A | [VIDEO]_19/11/26_15:15_REDETV!ENTRETENIMENTO_13m13s_Pegadinhas do João Kleber - 15/11/2026 (PARTE 4)",
@@ -688,6 +688,8 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "srBSnM0hY1s",
+      "2wLCN1cbAV0",
+      "vVzAFMdRwyc",
       "L2AMrzHB_jk",
       "h4Ha-PE68h8",
       "V5iCvfoCYj0",
@@ -714,14 +716,14 @@
       "7-Z6dF3HFCU",
       "l8gXhlIL3Rw",
       "TFwo1tS3Hy8",
-      "FfUfODFnH10",
-      "aq0bbCrQICA",
-      "VcXtckR5tDo"
+      "FfUfODFnH10"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "srBSnM0hY1s | ((LIVE))_20/11/26_06:00_CBNBRASIL_Jornal da CBN - 20/11/2026",
+      "2wLCN1cbAV0 | [VIDEO]_20/11/26_08:40_CBNBRASIL_4m50s_Consciência Negra: Governo Lula tem apenas três ministros negros; STF não t",
+      "vVzAFMdRwyc | [VIDEO]_20/11/26_08:38_CBNBRASIL_64m45s_Viva Voz - 19/11/2026",
       "L2AMrzHB_jk | [VIDEO]_20/11/26_08:17_CBNBRASIL_5m15s_Crise de segurança cibernética e o avanço da Inteligência Artificial",
       "h4Ha-PE68h8 | [VIDEO]_20/11/26_07:17_CBNBRASIL_120m01s_Ponto Final CBN - 19/11/2026",
       "V5iCvfoCYj0 | [VIDEO]_20/11/26_07:16_CBNBRASIL_25m19s_PGR analisa relação de ministros do STF com Vorcaro; julgamento da dosimetr",
@@ -748,9 +750,7 @@
       "7-Z6dF3HFCU | [VIDEO]_19/11/26_21:04_CBNBRASIL_15m57s_Vera Magalhães sobre novo ministério: Esse apelo me parece sempre presente",
       "l8gXhlIL3Rw | [VIDEO]_19/11/26_20:57_CBNBRASIL_18m55s_Bronzatto e o Ministério dos Idosos: Lula não pode confundir política públi",
       "TFwo1tS3Hy8 | [VIDEO]_19/11/26_19:59_CBNBRASIL_5m21s_Madrugadas em claro e exigência de folga no trabalho: GTA 6 mobiliza fãs no",
-      "FfUfODFnH10 | [VIDEO]_19/11/26_19:36_CBNBRASIL_4m05s_PVC: Palmeiras não pode perder a Libertadores agora e não vai ser fácil gan",
-      "aq0bbCrQICA | [VIDEO]_19/11/26_19:24_CBNBRASIL_20m59s_Lula fala em confusão com pacote fiscal e critica pressão por anúncio de mi",
-      "VcXtckR5tDo | [VIDEO]_19/11/26_19:03_CBNBRASIL_5m44s_Bela Megale: Lula diz a aliados que não vai abrir mão do Ministério de Mina"
+      "FfUfODFnH10 | [VIDEO]_19/11/26_19:36_CBNBRASIL_4m05s_PVC: Palmeiras não pode perder a Libertadores agora e não vai ser fácil gan"
     ]
   },
   {
@@ -827,9 +827,9 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "j5tXI3Lywgc",
       "k9kY1BTKnKY",
       "O18eZgi1pP8",
+      "j5tXI3Lywgc",
       "4QFzzWug1zY",
       "Og-sLqhw5G0",
       "PnnVWM-LySE",
@@ -847,9 +847,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "j5tXI3Lywgc | [VIDEO]_20/11/26_02:00_METRÓPOLES_10m04s_Uma explosão de ruídos na escuridão: como é andar em SP sem a visão",
       "k9kY1BTKnKY | [VIDEO]_20/11/26_01:13_RÁDIOCBN_5m41s_BC intervém no câmbio, mas dólar vai a R$ 5,93; Moraes libera dosimetria pa",
       "O18eZgi1pP8 | [VIDEO]_20/11/26_03:40_METRÓPOLES_23m16s_Moraes marca julgamento que pode reduzir pena de Bolsonaro e de condenados",
+      "j5tXI3Lywgc | [VIDEO]_20/11/26_02:00_METRÓPOLES_10m04s_Uma explosão de ruídos na escuridão: como é andar em SP sem a visão",
       "4QFzzWug1zY | [VIDEO]_19/11/26_21:31_RÁDIOCBN_4m17s_Vera Magalhães: Ministros de Lula são colocados como 'policial malvado' e p",
       "Og-sLqhw5G0 | [VIDEO]_19/11/26_21:23_RÁDIOCBN_7m02s_Bronzatto: Lula sinaliza que tem compromisso com ajuste fiscal, mas sem abr",
       "PnnVWM-LySE | [VIDEO]_19/11/26_21:16_RÁDIOCBN_8m34s_Vera Magalhães: Lula quer que o ministro da Segurança Pública seja um ex-go",
