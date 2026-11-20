@@ -10,9 +10,9 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
-      "7Qp_THN0qqw",
       "VKSS4JPCrhs",
       "0xQnVK1FEIY",
+      "7Qp_THN0qqw",
       "4TlY839UKeU",
       "MVYZKAyk-_I",
       "nCj4EB50DjQ",
@@ -43,9 +43,9 @@
     ],
     "playlistId": "",
     "carimbos": [
-      "7Qp_THN0qqw | [VIDEO]_20/11/26_00:59_GLOBONEWS_9m55s_Trauma real: ‘Josephine’ é baseado em estupro que pai e filhe de 8 anos tes",
       "VKSS4JPCrhs | [VIDEO]_20/11/26_11:38_GLOBONEWS_4m26s_Mendonça pede publicidade de documentos da PF que podem citar seu nome no c",
       "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda",
+      "7Qp_THN0qqw | [VIDEO]_20/11/26_00:59_GLOBONEWS_9m55s_Trauma real: ‘Josephine’ é baseado em estupro que pai e filhe de 8 anos tes",
       "4TlY839UKeU | [VIDEO]_19/11/26_19:43_GLOBONEWS_5m39s_Decreto de Lula esclarece cálculo da hora trabalhada com redução da jornada",
       "MVYZKAyk-_I | [VIDEO]_19/11/26_18:57_GLOBONEWS_12m36s_Moraes libera lei da dosimetria para o plenário do STF",
       "nCj4EB50DjQ | [VIDEO]_19/11/26_17:05_GLOBONEWS_6m45s_Encontro entre Trump, Xi Jinping e Putin tem cenas curiosas, gestos de cord",
@@ -150,6 +150,7 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "DnvqMUJLy-8",
+      "QrjN-xQieYI",
       "0TIBFwwH8iM",
       "N1jivpPyyu0",
       "S-agox7-Rjg",
@@ -177,13 +178,13 @@
       "wZTGTiH-Tiw",
       "gLRtIRMWxjM",
       "YKjZoGMGmuo",
-      "N56KYe4WqlE",
-      "7NlVvwlWpd4"
+      "N56KYe4WqlE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "DnvqMUJLy-8 | ((LIVE))_20/11/26_13:23_SBTNEWS_🔴 AO VIVO: CENTRAL DE NOTÍCIAS   20/11/2026",
+      "QrjN-xQieYI | [VIDEO]_20/11/26_14:44_SBTNEWS_10m14s_PF não encontrou conversas diretas entre Mendonça e Vorcaro, mostra relatór",
       "0TIBFwwH8iM | [VIDEO]_20/11/26_14:03_SBTNEWS_5m16s_Ministério da Pessoa Idosa: quais devem ser as prioridades do governo?   #R",
       "N1jivpPyyu0 | [VIDEO]_20/11/26_13:55_SBTNEWS_13m55s_Orçamento da Igualdade Racial cresce 129%, mas execução fica abaixo de 50% ",
       "S-agox7-Rjg | [VIDEO]_20/11/26_13:52_SBTNEWS_5m26s_Moraes vota para manter passaportes cancelados de Flávio Bolsonaro   #Radar",
@@ -211,8 +212,7 @@
       "wZTGTiH-Tiw | [VIDEO]_19/11/26_23:46_SBTNEWS_8m53s_EUA perdem certificado de país livre de sarampo após surto da doença   #New",
       "gLRtIRMWxjM | [VIDEO]_19/11/26_23:38_SBTNEWS_14m14s_Banco Central vende US$ 1 bilhão, mas dólar fecha novamente em alta   #News",
       "YKjZoGMGmuo | [VIDEO]_19/11/26_23:34_SBTNEWS_6m02s_Lula diz que anunciará ministros do próximo mandato quando quiser   #NewsNo",
-      "N56KYe4WqlE | [VIDEO]_19/11/26_23:30_SBTNEWS_13m29s_Escala 5x2 entra em vigor em 16 de dezembro, com duas folgas   #NewsNoite",
-      "7NlVvwlWpd4 | [VIDEO]_19/11/26_23:10_SBTNEWS_55m23s_SBT Brasil: assista à edição na íntegra desta quinta-feira (19/11/2026)   #"
+      "N56KYe4WqlE | [VIDEO]_19/11/26_23:30_SBTNEWS_13m29s_Escala 5x2 entra em vigor em 16 de dezembro, com duas folgas   #NewsNoite"
     ]
   },
   {
@@ -220,6 +220,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "avzKr17IA8k",
+      "xmDRSuSULGI",
       "ez22njdCcu8",
       "KKElQoqblEQ",
       "xihkIz45VU4",
@@ -247,20 +248,20 @@
       "UUByNXdzbR8",
       "BKH-M_PWAYU",
       "5-Pfw3YvTcs",
-      "o87wxvtpg6w",
-      "7thBQeOuqZE"
+      "o87wxvtpg6w"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "avzKr17IA8k | ((LIVE))_20/11/26_12:02_CNNBRASIL_AO VIVO: FACHIN MANTÉM PRISÃO DE DANIEL VORCARO   BASTIDORES CNN",
+      "xmDRSuSULGI | [VIDEO]_20/11/26_14:31_CNNBRASIL_8m41s_Aliados de Marinho não contam com voto de Michelle   BASTIDORES CNN",
       "ez22njdCcu8 | [VIDEO]_20/11/26_14:14_CNNBRASIL_4m22s_Rui Costa articula indicação de aliado para o Ministério dos Transportes   ",
       "KKElQoqblEQ | [VIDEO]_20/11/26_14:04_CNNBRASIL_60m45s_AO VIVO: TRUMP, XI E PUTIN DISCUTEM ARMAS NUCLEARES, GUERRAS E PETRÓLEO - F",
       "xihkIz45VU4 | [VIDEO]_20/11/26_14:00_CNNBRASIL_7m16s_Quem sai ganhando com o encontro entre Trump, Xi Jinping e Putin? Veja anál",
       "qcb_GyiZhqM | [VIDEO]_20/11/26_13:48_CNNBRASIL_11m50s_Trump, Xi e Putin: Foco é impedir novas potências nucleares, não reduzir ar",
       "EnIV3aqg9xE | [VIDEO]_20/11/26_13:48_CNNBRASIL_3m54s_Veja como a genética ajuda a definir o tratamento da epilepsia infantil   C",
       "RN-qKtDFA4A | [VIDEO]_20/11/26_13:40_CNNBRASIL_9m32s_Mesmo com ataques, ainda há chances de acordo entre Rússia e Ucrânia; enten",
-      "7K1DmBqcVkI | [VIDEO]_20/11/26_13:30_CNNBRASIL_4m42s_Europa fica de fora de encontro entre Trump, Xi e Putin e gera preocupação ",
+      "7K1DmBqcVkI | [VIDEO]_20/11/26_13:30_CNNBRASIL_4m42s_Europa fica de fora de encontro entre Trump, Xi e Putin e gera preocupação",
       "nHBPWzljvAQ | [VIDEO]_20/11/26_13:11_CNNBRASIL_20m13s_Relator do ajuste fiscal: Não podemos conter investimento público   BASTIDO",
       "t4KIdgve9YM | [VIDEO]_20/11/26_13:45_CNNBRASIL_3m11s_Cirurgia para epilepsia não deve ser vista como último recurso; entenda   C",
       "_tdqNGGaBfc | [VIDEO]_20/11/26_13:45_CNNBRASIL_2m23s_Epilepsia infantil: dieta cetogênica é uma forma de tratamento   CNN SINAIS",
@@ -281,8 +282,7 @@
       "UUByNXdzbR8 | [VIDEO]_20/11/26_08:29_CNNBRASIL_11m02s_Premiê diz esperar melhor acordo para Reino Unido antes de reunião com UE",
       "BKH-M_PWAYU | [VIDEO]_20/11/26_08:25_CNNBRASIL_8m37s_Mendonça pede que Fachin torne público relatório da PF que cita seu nome",
       "5-Pfw3YvTcs | [VIDEO]_20/11/26_06:39_CNNBRASIL_6m03s_COP31: rascunho de acordo não menciona combustíveis fósseis   CNN NOVO DIA",
-      "o87wxvtpg6w | [VIDEO]_20/11/26_06:25_CNNBRASIL_4m51s_PSD entra com novo recurso no STF e volta a pedir 2º turno no Rio   CNN NOV",
-      "7thBQeOuqZE | [VIDEO]_20/11/26_06:20_CNNBRASIL_8m25s_Moraes pautou dosimetria sem conversar com Fachin   CNN NOVO DIA"
+      "o87wxvtpg6w | [VIDEO]_20/11/26_06:25_CNNBRASIL_4m51s_PSD entra com novo recurso no STF e volta a pedir 2º turno no Rio   CNN NOV"
     ]
   },
   {
@@ -360,6 +360,9 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "lYCzBNowKK8",
+      "DFmv2BMZs0c",
+      "vzJRxPzDmxQ",
+      "xRusVrxPia8",
       "iLvFqaUVDZA",
       "Anm_fYWTmQs",
       "tsdR-iFMaXk",
@@ -391,6 +394,9 @@
     "playlistId": "",
     "carimbos": [
       "lYCzBNowKK8 | ((LIVE))_20/11/26_13:56_JOVEMPANNEWS_TEMPO REAL - 20/11/2026",
+      "DFmv2BMZs0c | [VIDEO]_20/11/26_14:43_JOVEMPANNEWS_7m35s_Supremo define data para avaliar regra de punições   TEMPO REAL",
+      "vzJRxPzDmxQ | [VIDEO]_20/11/26_14:35_JOVEMPANNEWS_5m02s_Governo de São Paulo busca perfil técnico para a Saúde   TEMPO REAL",
+      "xRusVrxPia8 | [VIDEO]_20/11/26_14:32_JOVEMPANNEWS_6m01s_Presidente nega pressa para anunciar novos ministros   TEMPO REAL",
       "iLvFqaUVDZA | [VIDEO]_20/11/26_14:28_JOVEMPANNEWS_4m57s_Procuradoria avalia dados do caso Master com prazo   TEMPO REAL",
       "Anm_fYWTmQs | [VIDEO]_20/11/26_14:25_JOVEMPANNEWS_4m05s_Galípolo rebate versão de ex-diretor sobre compra do Master   TEMPO REAL",
       "tsdR-iFMaXk | [VIDEO]_20/11/26_14:19_JOVEMPANNEWS_5m07s_Supremo nega soltura de Vorcaro e cita risco às apurações   TEMPO REAL",
@@ -457,8 +463,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "FK_eMV6PPjM | ((LIVE))_20/11/26_13:19_R7_Live do Eliminado: Bissoli avalia sua participação em A Fazenda 18",
-      "ZNPzoo5q-3g | ((LIVE))_20/11/26_13:17_RECORDOFICIAL_Live do Eliminado: Bissoli avalia sua participação em A Fazenda 18",
+      "FK_eMV6PPjM | [VIDEO]_20/11/26_14:43_R7_77m55s_Live do Eliminado: Bissoli avalia sua participação em A Fazenda 18",
+      "ZNPzoo5q-3g | [VIDEO]_20/11/26_14:41_RECORDOFICIAL_79m15s_Live do Eliminado: Bissoli avalia sua participação em A Fazenda 18",
       "i4EDh16Wn8M | [VIDEO]_20/11/26_07:00_JORNALDARECORD_15m44s_JR 15 Min #1555   Trump, Xi Jinping e Putin: os interesses e as disputas po",
       "tsWdxMW3IOI | [VIDEO]_20/11/26_12:17_HOJEEMDIA_26m33s_Lucas Bissoli, nono eliminado de A Fazenda 18, encara desafios do Celeiro d",
       "a9iYtFrEadI | [VIDEO]_20/11/26_12:13_HOJEEMDIA_6m25s_Casos de roubos e sequestros aumentam entre entregadores no Brasil",
@@ -563,12 +569,12 @@
     "numero": "09",
     "rem": "REDETV! COMBO",
     "videoIds": [
-      "t_1a7ryMFKg",
       "SZyGdtxBTQ4",
       "DVzBcuWFj5s",
       "IAOMF5r87cM",
       "vPZn1jjERLM",
       "lz7_MsSTaiU",
+      "t_1a7ryMFKg",
       "AUoRb-Xwibo",
       "xNSPRFL__oc",
       "zLsVNxqIRCo",
@@ -597,12 +603,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "t_1a7ryMFKg | [VIDEO]_20/11/26_13:19_NOTÍCIASREDETV_13m56s_Palmeiras e Flamengo passaram da restauração à hegemonia",
       "SZyGdtxBTQ4 | [VIDEO]_20/11/26_12:40_REDETV!OFICIAL_272m50s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   20/11/2026",
       "DVzBcuWFj5s | [VIDEO]_20/11/26_12:05_NOTÍCIASREDETV_273m01s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   20/11/2026",
       "IAOMF5r87cM | [VIDEO]_20/11/26_08:31_REDETV!OFICIAL_58m56s_RedeTV! News - AO VIVO   19/11/2026",
       "vPZn1jjERLM | [VIDEO]_20/11/26_09:06_REDETV!OFICIAL_29m57s_AO VIVO   RJ DO POVO   20/11/2026",
       "lz7_MsSTaiU | [VIDEO]_20/11/26_13:19_ESPORTESREDETV_13m56s_Da restauração à hegemonia, Palmeiras e Flamengo dominam o futebol sul-amer",
+      "t_1a7ryMFKg | [VIDEO]_20/11/26_13:19_NOTÍCIASREDETV_13m56s_Palmeiras e Flamengo passaram da restauração à hegemonia",
       "AUoRb-Xwibo | [VIDEO]_20/11/26_00:30_NOTÍCIASREDETV_56m52s_Dinheiro na Conta (19/11/26)   Completo",
       "xNSPRFL__oc | [VIDEO]_19/11/26_22:05_REDETV!OFICIAL_47m56s_AO VIVO   RJ DO POVO   19/11/2026",
       "zLsVNxqIRCo | [VIDEO]_19/11/26_20:47_NOTÍCIASREDETV_273m16s_​[AO VIVO] REDETV! NOTÍCIAS 2ª EDIÇÃO   19/11/2026",
@@ -702,6 +708,8 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "2DcjxxJLB0s",
+      "ZVtfYRmfWes",
+      "1EleSEeYnEw",
       "SfI0zjCLc4E",
       "AZRyiFkQcno",
       "FyZP2B4zRo0",
@@ -728,14 +736,14 @@
       "AOdh1gYspiQ",
       "2wLCN1cbAV0",
       "vVzAFMdRwyc",
-      "L2AMrzHB_jk",
-      "h4Ha-PE68h8",
-      "V5iCvfoCYj0"
+      "L2AMrzHB_jk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "2DcjxxJLB0s | ((LIVE))_20/11/26_14:01_CBNBRASIL_Estúdio CBN - 20/11/2026",
+      "ZVtfYRmfWes | [VIDEO]_20/11/26_14:44_CBNBRASIL_7m58s_Como Ashton Kutcher transformou apostas em startups em uma fortuna bilionár",
+      "1EleSEeYnEw | [VIDEO]_20/11/26_14:43_CBNBRASIL_5m19s_Luis Fernando Correia: Planos de saúde passam a cobrir teste genético para ",
       "SfI0zjCLc4E | [VIDEO]_20/11/26_14:26_CBNBRASIL_5m40s_Como profissionais negros estão ampliando espaço no mercado de vinhos",
       "AZRyiFkQcno | [VIDEO]_20/11/26_14:24_CBNBRASIL_5m39s_Suzana Barelli: Conheça Vinícius Santiago e Silvana Aluá, que quebram barre",
       "FyZP2B4zRo0 | [VIDEO]_20/11/26_14:16_CBNBRASIL_8m13s_Teco Medina: Como Ashton Kutcher virou bilionário apostando no Vale do Silí",
@@ -762,9 +770,7 @@
       "AOdh1gYspiQ | [VIDEO]_20/11/26_09:02_CBNBRASIL_4m04s_André Magno sobre risco de estourar bolha da IA após Anthropic: 'Mercado ai",
       "2wLCN1cbAV0 | [VIDEO]_20/11/26_08:40_CBNBRASIL_4m50s_Consciência Negra: Governo Lula tem apenas três ministros negros; STF não t",
       "vVzAFMdRwyc | [VIDEO]_20/11/26_08:38_CBNBRASIL_64m45s_Viva Voz - 19/11/2026",
-      "L2AMrzHB_jk | [VIDEO]_20/11/26_08:17_CBNBRASIL_5m15s_Crise de segurança cibernética e o avanço da Inteligência Artificial",
-      "h4Ha-PE68h8 | [VIDEO]_20/11/26_07:17_CBNBRASIL_120m01s_Ponto Final CBN - 19/11/2026",
-      "V5iCvfoCYj0 | [VIDEO]_20/11/26_07:16_CBNBRASIL_25m19s_PGR analisa relação de ministros do STF com Vorcaro; julgamento da dosimetr"
+      "L2AMrzHB_jk | [VIDEO]_20/11/26_08:17_CBNBRASIL_5m15s_Crise de segurança cibernética e o avanço da Inteligência Artificial"
     ]
   },
   {
@@ -842,6 +848,7 @@
     "rem": "METRÓPOLES",
     "videoIds": [
       "Xc0OsqX2u38",
+      "Ttsf0CHh29k",
       "cRSBj9tue6Q",
       "S2DZKt4H3Is",
       "N32Xi1ceg4A",
@@ -874,7 +881,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Xc0OsqX2u38 | ((LIVE))_20/11/26_13:02_METRÓPOLES_Reinaldo Azevedo - Dosimetria: Bolsonaro na mesma; STF-PGR: ministros e Vor",
+      "Xc0OsqX2u38 | [VIDEO]_20/11/26_14:40_METRÓPOLES_93m05s_Reinaldo Azevedo - Dosimetria: Bolsonaro na mesma; STF-PGR: ministros e Vor",
+      "Ttsf0CHh29k | [VIDEO]_20/11/26_14:32_METRÓPOLES_7m34s_Fogo amigo no governo Lula? Janones vira motivo de disputa na esquerda",
       "cRSBj9tue6Q | [VIDEO]_20/11/26_14:13_METRÓPOLES_25m04s_Reinaldo Azevedo - Disputa pelo Senado envolve Bolsonaro e ofensiva do PL c",
       "S2DZKt4H3Is | [VIDEO]_20/11/26_13:56_METRÓPOLES_6m11s_Janones ganha força com Lula e muda o jogo político dentro da esquerda",
       "N32Xi1ceg4A | [VIDEO]_20/11/26_13:55_METRÓPOLES_9m15s_Reinaldo Azevedo - STF vai julgar Lei da Dosimetria, mas situação de Bolson",
