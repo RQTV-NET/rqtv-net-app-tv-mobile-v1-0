@@ -10,6 +10,8 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "VKSS4JPCrhs",
+      "0xQnVK1FEIY",
       "7Qp_THN0qqw",
       "4TlY839UKeU",
       "MVYZKAyk-_I",
@@ -37,11 +39,12 @@
       "RodoQvp5iaw",
       "UhwkV9WQfYg",
       "aJMDiwfsvWI",
-      "GbN788kzkmg",
-      "r_sO-Y6P6_w"
+      "GbN788kzkmg"
     ],
     "playlistId": "",
     "carimbos": [
+      "VKSS4JPCrhs | [VIDEO]_20/11/26_11:38_GLOBONEWS_4m26s_Mendonça pede publicidade de documentos da PF que podem citar seu nome no c",
+      "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda  ",
       "7Qp_THN0qqw | [VIDEO]_20/11/26_00:59_GLOBONEWS_9m55s_Trauma real: ‘Josephine’ é baseado em estupro que pai e filhe de 8 anos tes",
       "4TlY839UKeU | [VIDEO]_19/11/26_19:43_GLOBONEWS_5m39s_Decreto de Lula esclarece cálculo da hora trabalhada com redução da jornada",
       "MVYZKAyk-_I | [VIDEO]_19/11/26_18:57_GLOBONEWS_12m36s_Moraes libera lei da dosimetria para o plenário do STF",
@@ -69,8 +72,7 @@
       "RodoQvp5iaw | [VIDEO]_17/11/26_14:34_G1_4m58s_JH: Senado retoma votação do Pacote Fiscal",
       "UhwkV9WQfYg | [VIDEO]_17/11/26_11:33_G1_3m56s_Bem Estar: 18 estados registram aumento nos casos de Covid",
       "aJMDiwfsvWI | [VIDEO]_17/11/26_10:37_G1_10m38s_Big techs: Câmara deve votar nesta terça projeto que regulamenta mercados d",
-      "GbN788kzkmg | [VIDEO]_17/11/26_07:58_G1_36m14s_Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fis",
-      "r_sO-Y6P6_w | [VIDEO]_17/11/26_07:01_G1_4m20s_Previsão o tempo: chuvas intensas na Bahia e alerta de temporais em 10 capi"
+      "GbN788kzkmg | [VIDEO]_17/11/26_07:58_G1_36m14s_Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fis"
     ]
   },
   {
@@ -148,6 +150,8 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "l9kG1i76QzE",
+      "qa1hElERmV8",
+      "yWxhQqRJN5g",
       "81Hn_7sw13g",
       "nT9_IkJjo_Q",
       "X9zBi1SY7Js",
@@ -174,14 +178,14 @@
       "IMswmwGBkjg",
       "hoSUtpbf2CQ",
       "sBiB1rdCkxA",
-      "05v7ZX5Ivik",
-      "4b-2p7m55Pk",
-      "y6HZzJ14IpE"
+      "05v7ZX5Ivik"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "l9kG1i76QzE | ((LIVE))_20/11/26_10:53_SBTNEWS_🔴 AO VIVO: RADAR NEWS   20/11/2026",
+      "qa1hElERmV8 | [VIDEO]_20/11/26_11:45_SBTNEWS_15m23s_PF não encontra mensagens entre Mendonça e Vorcaro   #RadarNews",
+      "yWxhQqRJN5g | [VIDEO]_20/11/26_11:32_SBTNEWS_10m37s_Carros elétricos e híbridos podem chegar a 40% em 2027   #NewsManhã",
       "81Hn_7sw13g | [VIDEO]_20/11/26_11:06_SBTNEWS_165m00s_NEWS MANHÃ   20/11/2026",
       "nT9_IkJjo_Q | [VIDEO]_20/11/26_10:40_SBTNEWS_10m59s_Senado aprova R$ 13,5 bilhões para empresas afetadas por tarifaço   #NewsMa",
       "X9zBi1SY7Js | [VIDEO]_20/11/26_10:28_SBTJORNALISMO_6m24s_GCM é baleado durante tentativa de assalto no centro de SP   #SeLigaBrasil",
@@ -208,9 +212,7 @@
       "IMswmwGBkjg | [VIDEO]_19/11/26_20:53_SBTNEWS_12m09s_Trump, Xi e Putin: encontro ficou abaixo das expectativas, diz professor",
       "hoSUtpbf2CQ | [VIDEO]_19/11/26_20:39_SBTNEWS_6m58s_PF faz relatórios sobre 4 ministros do STF no caso Master   #JornaldoSBTNew",
       "sBiB1rdCkxA | [VIDEO]_19/11/26_20:37_SBTNEWS_140m05s_JORNAL DO SBT NEWS   19/11/2026",
-      "05v7ZX5Ivik | [VIDEO]_19/11/26_20:34_SBTNEWS_4m32s_Previsão do tempo: feriado será de calor e temporais em todo o Brasil   #SB",
-      "4b-2p7m55Pk | [VIDEO]_19/11/26_20:32_SBTNEWS_4m57s_Em reunião histórica, Trump, Putin e Xi Jinping prometem evitar guerra nucl",
-      "y6HZzJ14IpE | [VIDEO]_19/11/26_20:19_SBTNEWS_17m14s_Lula assina decreto sobre fim da escala 6x1   #JornaldoSBTNews"
+      "05v7ZX5Ivik | [VIDEO]_19/11/26_20:34_SBTNEWS_4m32s_Previsão do tempo: feriado será de calor e temporais em todo o Brasil   #SB"
     ]
   },
   {
@@ -218,6 +220,8 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "c_C4S3wuzZw",
+      "iZYRYmaUYHM",
+      "YJsrd7lrNJs",
       "COZzxNtQ_OQ",
       "EqPkGouN5v4",
       "OL7zWB-656E",
@@ -244,14 +248,14 @@
       "SedHjrJbsQ0",
       "m3gj3i3JGPk",
       "-9DIdsbsz_U",
-      "JpNRzTEnuXM",
-      "G6XAMpXzYP0",
-      "ZBCs0hNBu9Y"
+      "JpNRzTEnuXM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "c_C4S3wuzZw | ((LIVE))_20/11/26_08:51_CNNBRASIL_AO VIVO:  FACHIN TIRA SIGILO DE RELATÓRIO SOBRE MENDONÇA - LIVE CNN",
+      "iZYRYmaUYHM | [VIDEO]_20/11/26_11:43_CNNBRASIL_6m10s_Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro ",
+      "YJsrd7lrNJs | [VIDEO]_20/11/26_11:31_CNNBRASIL_5m26s_Justiça torna réus acusados por incêndio que matou 11 em pousada do RS   LI",
       "COZzxNtQ_OQ | [VIDEO]_20/11/26_11:27_CNNBRASIL_12m09s_Fundação Palmares: Temos que ter representantes no STF   LIVE CNN",
       "EqPkGouN5v4 | [VIDEO]_20/11/26_10:41_CNNBRASIL_5m36s_Termina nesta sexta (20), o prazo para solicitar a reaplicação do Enem 2026",
       "OL7zWB-656E | [VIDEO]_20/11/26_10:28_CNNBRASIL_3m58s_Seu Jorge e outros artistas se apresentam em SP nesta sexta (20)   LIVE CNN",
@@ -278,9 +282,7 @@
       "SedHjrJbsQ0 | [VIDEO]_19/11/26_22:58_CNNBRASIL_17m52s_Análise: Mercado expõe insatisfação com ajuste fiscal do governo   WW",
       "m3gj3i3JGPk | [VIDEO]_19/11/26_22:43_CNNBRASIL_4m05s_Lula 4 precisa de plano econômico estrutural, não de soluções de curto praz",
       "-9DIdsbsz_U | [VIDEO]_19/11/26_22:29_CNNBRASIL_4m15s_Crise do BB vai mudar acesso ao crédito rural, diz diretor do Santander   C",
-      "JpNRzTEnuXM | [VIDEO]_19/11/26_22:26_CNNBRASIL_5m02s_Lula e mercado escalam queda de braço; veja análise   WW",
-      "G6XAMpXzYP0 | [VIDEO]_19/11/26_22:05_CNNBRASIL_100m07s_MORAES PAUTA JULGAMENTO SOBRE DOSIMETRIA PARA DIA 4/12   CNN PRIME TIME",
-      "ZBCs0hNBu9Y | [VIDEO]_19/11/26_21:52_CNNBRASIL_5m57s_Lula usa o tempo a seu favor na escolha de ministros   CNN PRIME TIME"
+      "JpNRzTEnuXM | [VIDEO]_19/11/26_22:26_CNNBRASIL_5m02s_Lula e mercado escalam queda de braço; veja análise   WW"
     ]
   },
   {
@@ -415,9 +417,9 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
-      "Hkt9XZ1r1UQ",
       "Vrju7afCrKA",
       "i4EDh16Wn8M",
+      "Hkt9XZ1r1UQ",
       "M2oaD5IuoCU",
       "WoargAj9EYE",
       "d1Vf_GMKMaM",
@@ -449,9 +451,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Hkt9XZ1r1UQ | [VIDEO]_20/11/26_10:28_FALABRASIL_4m16s_Dois homens são presos por maus-tratos e morte de cães em diferentes regiõe",
       "Vrju7afCrKA | [VIDEO]_20/11/26_07:09_JORNALDARECORD_5m46s_Boletim JR 24 horas   1ª edição - 20/11/2026",
       "i4EDh16Wn8M | [VIDEO]_20/11/26_07:00_JORNALDARECORD_15m44s_JR 15 Min #1555   Trump, Xi Jinping e Putin: os interesses e as disputas po",
+      "Hkt9XZ1r1UQ | [VIDEO]_20/11/26_10:28_FALABRASIL_4m16s_Dois homens são presos por maus-tratos e morte de cães em diferentes regiõe",
       "M2oaD5IuoCU | [VIDEO]_06/11/26_16:26_R7_74m01s_Live do Eliminado: Rikardo avalia sua participação em A Fazenda 18",
       "WoargAj9EYE | [VIDEO]_04/11/26_00:13_R7_134m01s_Aquecendo o Feno! Christina Rocha recebe Duda Wendling e Yuri Fuly",
       "d1Vf_GMKMaM | [VIDEO]_29/12/24_17:11_DOMINGORECORD_7m55s_Surpresa! Gêmeos cantores conhecem a dupla sertaneja Guilherme & Benuto",
@@ -485,6 +487,7 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
+      "vQceU5Oe9DE",
       "U_OeApLm5lU",
       "P8tBsSaurFk",
       "Q29f915RV_0",
@@ -513,12 +516,12 @@
       "WQMga5bgLdM",
       "NZts6SFklqo",
       "jFqIEOWWfeY",
-      "7TwBeW7Pbko",
-      "hyu3Zi3yOeo"
+      "7TwBeW7Pbko"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "vQceU5Oe9DE | [VIDEO]_20/11/26_11:32_BANDJORNALISMO_13m04s_Edson Fachin aceita pedido de Mendonça e levanta sigilo de relatório",
       "U_OeApLm5lU | [VIDEO]_20/11/26_11:06_BANDJORNALISMO_122m01s_[AO VIVO] Vai viajar? Veja situação das estradas em SP neste feriado   BORA",
       "P8tBsSaurFk | [VIDEO]_20/11/26_11:03_BANDJORNALISMO_8m39s_Fortaleza recebe mais de 100 mil turistas no feriado, diz",
       "Q29f915RV_0 | [VIDEO]_20/11/26_09:52_BANDJORNALISMO_4m05s_Rio de Janeiro recebe turistas e tem praias lotadas no feriado",
@@ -547,8 +550,7 @@
       "WQMga5bgLdM | [VIDEO]_05/11/26_17:03_MANHÃNABAND_8m57s_Como escolher tratamentos estéticos na Black Friday? Dra. Regiane Carvalho",
       "NZts6SFklqo | [VIDEO]_05/11/26_16:37_MANHÃNABAND_8m30s_Mapeamento de retina e fundo de olho: A importância da prevenção com Dr. Is",
       "jFqIEOWWfeY | [VIDEO]_05/11/26_16:11_MANHÃNABAND_8m33s_Implantes dentários: Adeus à dentadura e resgate da autoestima com Dr. Edua",
-      "7TwBeW7Pbko | [VIDEO]_04/11/26_12:13_MANHÃNABAND_6m06s_Aniversário Assaí 52 anos: Prêmios, ofertas de hortifrúti e festa no MANHÃ",
-      "hyu3Zi3yOeo | [VIDEO]_04/11/26_07:23_TVBANDPAULISTA_29m27s_[AO VIVO] Band Cidade - 03/11/2026   Band Paulista"
+      "7TwBeW7Pbko | [VIDEO]_04/11/26_12:13_MANHÃNABAND_6m06s_Aniversário Assaí 52 anos: Prêmios, ofertas de hortifrúti e festa no MANHÃ"
     ]
   },
   {
@@ -762,6 +764,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "rR8-G0Evk4c",
+      "a-yKdlJdTLw",
       "V9SGehdHt4s",
       "gtTAfi606vQ",
       "E3Zv7-9tLwU",
@@ -789,13 +792,13 @@
       "v-DV2lnrwi0",
       "fWPbwCm2Cjw",
       "oM6mjBYUc-w",
-      "j9q_g_F2bHw",
-      "MBJlhs-mwF8"
+      "j9q_g_F2bHw"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "rR8-G0Evk4c | ((LIVE))_20/11/26_09:54_REVISTAOESTE_OESTE COM ELAS - 20/11/2026",
+      "a-yKdlJdTLw | [VIDEO]_20/11/26_11:45_REVISTAOESTE_16m29s_Lula rebate mercado financeiro e Bruna Allemann analisa risco fiscal",
       "V9SGehdHt4s | [VIDEO]_20/11/26_11:27_REVISTAOESTE_9m04s_Edson Fachin decide futuro do STF em nova edição da Revista Oeste",
       "gtTAfi606vQ | [VIDEO]_20/11/26_11:20_REVISTAOESTE_7m34s_Senado gasta mais de 11 mil reais em novo retrato de Davi Alcolumbre",
       "E3Zv7-9tLwU | [VIDEO]_20/11/26_11:00_REVISTAOESTE_6m54s_PF inclui André Mendonça em relatório sobre Daniel Vorcaro",
@@ -823,8 +826,7 @@
       "v-DV2lnrwi0 | [VIDEO]_19/11/26_19:32_REVISTAOESTE_7m59s_CASO MASTER: Fachin dá 15 dias para PGR avaliar relatório sobre ministros d",
       "fWPbwCm2Cjw | [VIDEO]_19/11/26_19:25_REVISTAOESTE_5m54s_'BOLSA IPHONE': Justiça autoriza Senado a retomar farra de R$ 6 milhões com",
       "oM6mjBYUc-w | [VIDEO]_19/11/26_19:20_REVISTAOESTE_13m44s_URGENTE: Moraes libera ações da dosimetria para julgamento no STF em dezemb",
-      "j9q_g_F2bHw | [VIDEO]_19/11/26_19:18_REVISTAOESTE_12m29s_EXCLUSIVO! Van Hattem acusa Dino de cercear defesa: 'Perseguição judicial à",
-      "MBJlhs-mwF8 | [VIDEO]_19/11/26_18:54_REVISTAOESTE_14m39s_'TESOURAÇO': Alcolumbre joga firme com Lula e Senado aprova ajuste fiscal d"
+      "j9q_g_F2bHw | [VIDEO]_19/11/26_19:18_REVISTAOESTE_12m29s_EXCLUSIVO! Van Hattem acusa Dino de cercear defesa: 'Perseguição judicial à"
     ]
   },
   {
@@ -832,6 +834,8 @@
     "rem": "METRÓPOLES",
     "videoIds": [
       "DPGUBLnqXR4",
+      "hAi-WTzdWlg",
+      "yO-Dups8zyM",
       "k9kY1BTKnKY",
       "O18eZgi1pP8",
       "Tr--HDhtRHo",
@@ -854,6 +858,8 @@
     "playlistId": "",
     "carimbos": [
       "DPGUBLnqXR4 | ((LIVE))_20/11/26_11:01_METRÓPOLES_AO VIVO: Fachin libera relatório sobre Mendonça e Vorcaro   Documento sobre",
+      "hAi-WTzdWlg | [VIDEO]_20/11/26_11:40_METRÓPOLES_11m19s_Master: Mendonça pede “ampla publicidade” ao relatório da PF que o menciona",
+      "yO-Dups8zyM | [VIDEO]_20/11/26_11:36_METRÓPOLES_60m31s_AO VIVO: Moraes marca julgamento da pena de golpistas. Lula critica mercado",
       "k9kY1BTKnKY | [VIDEO]_20/11/26_01:13_RÁDIOCBN_5m41s_BC intervém no câmbio, mas dólar vai a R$ 5,93; Moraes libera dosimetria pa",
       "O18eZgi1pP8 | [VIDEO]_20/11/26_03:40_METRÓPOLES_23m16s_Moraes marca julgamento que pode reduzir pena de Bolsonaro e de condenados",
       "Tr--HDhtRHo | [VIDEO]_20/11/26_10:04_METRÓPOLES_54m46s_Virginia, Neymar e mais polêmicas   Famosos no BBB27   TELEFONE SEM FILTRO",
