@@ -289,6 +289,7 @@
     "numero": "05",
     "rem": "CNN MONEY",
     "videoIds": [
+      "aT_gFK7tFhY",
       "NJzeNhV8kBU",
       "g8t9EcogaFc",
       "yUxE5YBDacs",
@@ -317,13 +318,13 @@
       "j-TkFbT0wFk",
       "ZdhKBYXsp4s",
       "xx4ztoXywrg",
-      "V-hrs6EpWCY",
-      "sxBUYHoLqtI"
+      "V-hrs6EpWCY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "NJzeNhV8kBU | ((LIVE))_20/11/26_20:47_CNNMONEY_AO VIVO: CNN MONEY - 20/11/2026",
+      "aT_gFK7tFhY | ((LIVE))_21/11/26_06:57_CNNMONEY_AO VIVO: CNN MONEY - 21/11/2026",
+      "NJzeNhV8kBU | [VIDEO]_19/11/26_07:41_CNNBRASILMONEY_608m56s_AO VIVO: CNN MONEY - 20/11/2026",
       "g8t9EcogaFc | [VIDEO]_20/11/26_21:12_CNNMONEY_106m46s_RESENHA DO DINHEIRO - 20/11/2026   CNN MONEY",
       "yUxE5YBDacs | [VIDEO]_20/11/26_19:49_CNNMONEY_135m25s_AO VIVO: FECHAMENTO DE MERCADO - 20/11/2026   CNN MONEY",
       "1cV9m1YqGP0 | [VIDEO]_20/11/26_19:15_CNNMONEY_22m48s_Pacote de ajuste fiscal atual não é passo na direção certa, diz pesquisador",
@@ -351,8 +352,7 @@
       "j-TkFbT0wFk | [VIDEO]_19/11/26_21:24_CNNMONEY_177m26s_AO VIVO: FECHAMENTO DE MERCADO - 19/11/2026   CNN MONEY",
       "ZdhKBYXsp4s | [VIDEO]_19/11/26_20:46_CNNMONEY_27m01s_CONEXÃO INFRA ENTREVISTA GABRIEL FAJARDO, DIRETOR DE CONCESSOES E PARCERIAS",
       "xx4ztoXywrg | [VIDEO]_19/11/26_20:28_CNNMONEY_64m50s_CAPITAL INSIGHTS ENTREVISTA MILENA SEABRA, DIRETORA DA FACULDADE BELAVISTA",
-      "V-hrs6EpWCY | [VIDEO]_19/11/26_17:29_CNNMONEY_135m50s_AO VIVO: MONEY NEWS III - 19/11/2026   CNN MONEY",
-      "sxBUYHoLqtI | [VIDEO]_19/11/26_15:43_CNNMONEY_162m55s_AO VIVO: MONEY NEWS II - 19/11/2026   CNN MONEY"
+      "V-hrs6EpWCY | [VIDEO]_19/11/26_17:29_CNNMONEY_135m50s_AO VIVO: MONEY NEWS III - 19/11/2026   CNN MONEY"
     ]
   },
   {
@@ -360,8 +360,8 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "wF3ljzjwYUQ",
-      "c8PgQngDV54",
       "Xq99l35wmtQ",
+      "c8PgQngDV54",
       "9v1sO2HgI-Y",
       "BHrzdOfKRak",
       "G0Grr1O36iI",
@@ -394,8 +394,8 @@
     "playlistId": "",
     "carimbos": [
       "wF3ljzjwYUQ | ((LIVE))_21/11/26_05:54_JOVEMPANNEWS_JORNAL DA MANHÃ - 21/11/2026",
-      "c8PgQngDV54 | [VIDEO]_21/11/26_05:00_JOVEMPANNEWS_27m39s_ELAINE PÁDUA   VIVA BEM - 21/11/26",
       "Xq99l35wmtQ | [VIDEO]_21/11/26_05:30_JOVEMPANNEWS_28m15s_Fábio Félix analisa os desafios do mandato e a força das urnas no DF   JP P",
+      "c8PgQngDV54 | [VIDEO]_21/11/26_05:00_JOVEMPANNEWS_27m39s_ELAINE PÁDUA   VIVA BEM - 21/11/26",
       "9v1sO2HgI-Y | [VIDEO]_20/11/26_23:39_JOVEMPANNEWS_9m42s_Faesp repudia ajuste fiscal e alerta para risco de elevação nos custos",
       "BHrzdOfKRak | [VIDEO]_20/11/26_23:22_JOVEMPANNEWS_7m21s_Trump aproxima potências e pode beneficiar a economia brasileira? Jackson C",
       "G0Grr1O36iI | [VIDEO]_20/11/26_22:45_JOVEMPANNEWS_14m31s_Caso Van Hattem: julgamento no STF vai ao plenário; professor analisa decis",
@@ -1049,6 +1049,7 @@
     "numero": "16",
     "rem": "BBC BRASIL",
     "videoIds": [
+      "Xox_1TZ6_eQ",
       "NNQZ3O6deJU",
       "OZxRp5ZOH7g",
       "vEq6EZZpc-o",
@@ -1066,6 +1067,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "Xox_1TZ6_eQ | [VIDEO]_21/11/26_07:00_BBCBRASIL_4m56s_O que é o zeptoverso descoberto por cientistas, mundo 100 bilhões de vezes ",
       "NNQZ3O6deJU | [VIDEO]_19/11/26_17:00_BBCBRASIL_7m00s_O que aconteceu com a tentativa de Bukele de transformar El Salvador no 'pá",
       "OZxRp5ZOH7g | [VIDEO]_19/11/26_07:00_BBCBRASIL_17m06s_Lipedema: a 'nova doença' que causa acúmulo de gordura nas pernas e braços",
       "vEq6EZZpc-o | [VIDEO]_17/11/26_17:00_BBCBRASIL_12m13s_O que a Nasa gravou para os alienígenas no Disco de Ouro",
