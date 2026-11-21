@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "9W14ZEQ2aqg",
       "hmXUvhnGtKc",
       "riPZhO3Lk-0",
       "0xQnVK1FEIY",
@@ -38,11 +39,11 @@
       "XJrSTrYxt5M",
       "1SFZyMe25bo",
       "5jQ3TRjGH8U",
-      "Zmmm59NSeNM",
-      "Au3C1Z0TirM"
+      "Zmmm59NSeNM"
     ],
     "playlistId": "",
     "carimbos": [
+      "9W14ZEQ2aqg | [VIDEO]_21/11/26_00:06_GLOBONEWS_6m19s_Beleza negra movimenta mercado milionário no Brasil",
       "hmXUvhnGtKc | [VIDEO]_20/11/26_22:54_GLOBONEWS_6m35s_Acordo entre Reino Unido e UE confirma o fracasso do Brexit, diz Fernando A",
       "riPZhO3Lk-0 | [VIDEO]_20/11/26_17:26_GLOBONEWS_10m31s_'Por Você': cena de médico e menino negro em novela viraliza",
       "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda",
@@ -71,8 +72,7 @@
       "XJrSTrYxt5M | [VIDEO]_18/11/26_06:20_G1_5m14s_Previsão do tempo: risco de temporais em grande parte; confira o tempo no f",
       "1SFZyMe25bo | [VIDEO]_18/11/26_06:06_G1_7m28s_Senado adia votação dos destaques do pacote fiscal após risco de derrota do",
       "5jQ3TRjGH8U | [VIDEO]_17/11/26_18:09_G1_4m59s_GTA VI bate recorde histórico de pré-vendas",
-      "Zmmm59NSeNM | [VIDEO]_17/11/26_16:25_G1_5m23s_Homem é preso após deixar coroas de flores para policiais vivos no RJ",
-      "Au3C1Z0TirM | [VIDEO]_17/11/26_14:59_G1_5m11s_JH: EUA perde status de país livre do Sarampo"
+      "Zmmm59NSeNM | [VIDEO]_17/11/26_16:25_G1_5m23s_Homem é preso após deixar coroas de flores para policiais vivos no RJ"
     ]
   },
   {
@@ -220,6 +220,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "B5f7YF6CYcc",
+      "Nf5z4mtMz-k",
       "zw6U8gBCqq0",
       "eZrXwRmjgXU",
       "HFbMMnowuIE",
@@ -247,13 +248,13 @@
       "hioLVEm8FcE",
       "XiBhWAnQHCA",
       "xRJ3yXxm9jQ",
-      "Wp5wIXcVKjk",
-      "fIK_X01_6_E"
+      "Wp5wIXcVKjk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "B5f7YF6CYcc | ((LIVE))_20/11/26_23:21_CNNBRASIL_AO VIVO: CNN MADRUGADA - 21/11/2026",
+      "Nf5z4mtMz-k | [VIDEO]_21/11/26_00:01_CNNBRASIL_13m01s_Qual o impacto de julgamento sobre dosimetria ainda em 2026?   O GRANDE DEB",
       "zw6U8gBCqq0 | [VIDEO]_20/11/26_23:46_CNNBRASIL_7m37s_Fim da escala 6x1 é avanço ou desafio econômico?   O GRANDE DEBATE",
       "eZrXwRmjgXU | [VIDEO]_20/11/26_23:34_CNNBRASIL_17m12s_Análise: Trump tenta proteger EUA ao proibir datacenters fora de território",
       "HFbMMnowuIE | [VIDEO]_20/11/26_23:32_CNNBRASIL_22m33s_QUAL O IMPACTO DE JULGAMENTO SOBRE DOSIMETRIA AINDA EM 2026?   O GRANDE DEB",
@@ -281,8 +282,7 @@
       "hioLVEm8FcE | [VIDEO]_20/11/26_17:56_CNNBRASIL_5m14s_Putin quer encerrar a guerra na Ucrânia por meios diplomáticos, diz Trump",
       "XiBhWAnQHCA | [VIDEO]_20/11/26_17:46_CNNBRASIL_9m39s_Médicos avaliam se Bolsonaro precisará de cirurgia; Cardiologista irá para",
       "xRJ3yXxm9jQ | [VIDEO]_20/11/26_17:42_CNNBRASIL_4m52s_Partido Progressistas quer emplacar David Uip na saúde em São Paulo   CNN 3",
-      "Wp5wIXcVKjk | [VIDEO]_20/11/26_17:21_CNNBRASIL_12m42s_Bolsonaro é levado a hospital em Brasília após sentir dores abdominais   CN",
-      "fIK_X01_6_E | [VIDEO]_20/11/26_17:14_CNNBRASIL_5m34s_Gilmar Mendes não vê problema em abrir sigilo de relatórios sobre STF e Mas"
+      "Wp5wIXcVKjk | [VIDEO]_20/11/26_17:21_CNNBRASIL_12m42s_Bolsonaro é levado a hospital em Brasília após sentir dores abdominais   CN"
     ]
   },
   {
@@ -488,6 +488,7 @@
     "rem": "BAND JORNALISMO",
     "videoIds": [
       "W5YYo-ECL_E",
+      "4Sebx6ocNZw",
       "MdVdEKFxp2c",
       "0b1HjzqW7CQ",
       "GKVBum4DQ24",
@@ -515,13 +516,13 @@
       "38CDknRQbTU",
       "VFNmspEK7Z0",
       "iBNDpgy1ZZE",
-      "1kyyK_1xAck",
-      "Vs1lCnpC7TU"
+      "1kyyK_1xAck"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "W5YYo-ECL_E | ((LIVE))_20/11/26_23:50_BANDJORNALISMO_[AO VIVO] JORNAL DA NOITE - 20/11/2026",
+      "4Sebx6ocNZw | [VIDEO]_21/11/26_00:13_BANDJORNALISMO_4m20s_Tempestade em Tupanciretã (RS) deixa três mortos e mais de 50 feridos",
       "MdVdEKFxp2c | [VIDEO]_20/11/26_23:30_BANDJORNALISMO_27m04s_Questão de Regra recebe Leonardo Mesquita, copresidente executivo da Cury C",
       "0b1HjzqW7CQ | [VIDEO]_20/11/26_22:49_BANDJORNALISMO_27m23s_Novo ministério da Fazenda ainda está em especulação   BandNews TV",
       "GKVBum4DQ24 | [VIDEO]_20/11/26_19:30_BANDJORNALISMO_3m52s_Tempestade devasta cidade no RS e deixa três mortos; veja estragos",
@@ -549,8 +550,7 @@
       "38CDknRQbTU | [VIDEO]_20/11/26_08:43_BANDJORNALISMO_26m23s_[AO VIVO] AGROBAND - 20/11/2026",
       "VFNmspEK7Z0 | [VIDEO]_20/11/26_08:19_BANDJORNALISMO_7m33s_Demora na reintegração preocupa o setor rural   Bandnews TV",
       "iBNDpgy1ZZE | [VIDEO]_20/11/26_07:41_BANDJORNALISMO_10m17s_Reforma no Judiciário voltam a ganhar espaço nas discussões   Bandnews TV",
-      "1kyyK_1xAck | [VIDEO]_20/11/26_07:23_BANDPAULISTA_35m40s_[AO VIVO] Band Cidade - 19/11/2026   Band Paulista",
-      "Vs1lCnpC7TU | [VIDEO]_20/11/26_07:18_BANDJORNALISMO_8m45s_Brasil e Paraguai retomam debate sobre tarifa de itaipu   Bandnews TV"
+      "1kyyK_1xAck | [VIDEO]_20/11/26_07:23_BANDPAULISTA_35m40s_[AO VIVO] Band Cidade - 19/11/2026   Band Paulista"
     ]
   },
   {
