@@ -10,8 +10,8 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
-      "9W14ZEQ2aqg",
       "Jjxv2oqaWAM",
+      "9W14ZEQ2aqg",
       "hmXUvhnGtKc",
       "riPZhO3Lk-0",
       "0xQnVK1FEIY",
@@ -43,8 +43,8 @@
     ],
     "playlistId": "",
     "carimbos": [
-      "9W14ZEQ2aqg | [VIDEO]_21/11/26_00:06_GLOBONEWS_6m19s_Beleza negra movimenta mercado milionário no Brasil",
       "Jjxv2oqaWAM | [VIDEO]_21/11/26_09:48_GLOBONEWS_8m42s_Casos de Covid-19 aumentam no Brasil e Rio de Janeiro está em nível de aler",
+      "9W14ZEQ2aqg | [VIDEO]_21/11/26_00:06_GLOBONEWS_6m19s_Beleza negra movimenta mercado milionário no Brasil",
       "hmXUvhnGtKc | [VIDEO]_20/11/26_22:54_GLOBONEWS_6m35s_Acordo entre Reino Unido e UE confirma o fracasso do Brexit, diz Fernando A",
       "riPZhO3Lk-0 | [VIDEO]_20/11/26_17:26_GLOBONEWS_10m31s_'Por Você': cena de médico e menino negro em novela viraliza",
       "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda",
@@ -79,8 +79,8 @@
     "numero": "02",
     "rem": "SBT: AOVIVO/PROGRAMAS",
     "videoIds": [
-      "xNLd9jtI9bY",
       "_jE1TIGlpoU",
+      "xNLd9jtI9bY",
       "2WIW5yI9wfs",
       "zOtzA5ox8cY",
       "Lrz0dPoEvbU",
@@ -113,8 +113,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "xNLd9jtI9bY | [VIDEO]_21/11/26_10:46_THENOITE_10m20s_Deborah Blanco explica como funcionavam os bastidores da música internacion",
       "_jE1TIGlpoU | [VIDEO]_21/11/26_18:45_PROGRAMADORATINHO_51m29s_Ratinho se irrita, para o programa e CLIMA FICA TENSO no estúdio    Program",
+      "xNLd9jtI9bY | [VIDEO]_21/11/26_10:46_THENOITE_10m20s_Deborah Blanco explica como funcionavam os bastidores da música internacion",
       "2WIW5yI9wfs | [VIDEO]_20/11/26_18:00_FOFOCALIZANDO_22m45s_Gracyanne Barbosa tem salário retido após dívidas milionárias de Belo   Fof",
       "zOtzA5ox8cY | [VIDEO]_20/11/26_20:00_CÂMERASESCONDIDASSBT_4m44s_Pegadinha Carrie, a Estranha   Câmeras Escondidas",
       "Lrz0dPoEvbU | [VIDEO]_20/11/26_19:30_FOFOCALIZANDO_7m43s_No The Voice Brasil, Diogo Nogueira entrega bastidores da produção   Fofoca",
@@ -150,6 +150,8 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "gCj4t7WvjrQ",
+      "QyX2PFBZVEo",
+      "Adv0ACK5AzA",
       "inUaBg7TH-M",
       "UuXmpZBV870",
       "uychi7s7oZ8",
@@ -176,14 +178,14 @@
       "_Yi76M8LMVk",
       "pn2P-PyKjp0",
       "iVLQ81dG1AA",
-      "5znOQvncQ1s",
-      "aNksu6s0Ebg",
-      "nio27vYt5r4"
+      "5znOQvncQ1s"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "gCj4t7WvjrQ | ((LIVE))_21/11/26_18:50_SBTNEWS_🔴 AO VIVO: JORNAL DO SBT NEWS   21/11/2026",
+      "QyX2PFBZVEo | [VIDEO]_21/11/26_20:40_SBTNEWS_17m17s_Economista critica pacote de ajuste fiscal e fala de risco de estagflação e",
+      "Adv0ACK5AzA | [VIDEO]_21/11/26_20:36_SBTNEWS_5m45s_Temporal deixa cinco mortos e mais de 200 feridos no RS   #JornaldoSBTNews",
       "inUaBg7TH-M | [VIDEO]_21/11/26_20:08_SBTNEWS_8m27s_Caso Suzane von Richthofen: projeto quer impedir lucro de condenados com do",
       "UuXmpZBV870 | [VIDEO]_21/11/26_20:01_SBTNEWS_8m28s_Lei amplia para 20 anos prazo para vítimas de abuso na infância pedirem ind",
       "uychi7s7oZ8 | [VIDEO]_21/11/26_19:35_SBTNEWS_18m38s_Lula sugere cerveja entre Trump, Xi e Putin para buscar paz   #NewsSábado",
@@ -210,9 +212,7 @@
       "_Yi76M8LMVk | [VIDEO]_21/11/26_10:10_SBTNEWS_4m04s_Análise: Putin e Xi saem vitoriosos de reunião trilateral com Trump   #Mapa",
       "pn2P-PyKjp0 | [VIDEO]_21/11/26_10:07_SBTNEWS_125m06s_NEWS SÁBADO (1ª EDIÇÃO)   21/11/2026",
       "iVLQ81dG1AA | [VIDEO]_21/11/26_10:05_SBTNEWS_7m24s_Questões genéricas e ausência de guerras: o que ficou do encontro de Trump,",
-      "5znOQvncQ1s | [VIDEO]_21/11/26_10:00_SBTNEWS_50m14s_Ética e Direito: imortal da ABL analisa limites da lei e sociedade   Ética",
-      "aNksu6s0Ebg | [VIDEO]_21/11/26_09:57_SBTNEWS_8m28s_Gilmar Mendes diz não ver problema em abertura de sigilo de relatório sobre",
-      "nio27vYt5r4 | [VIDEO]_21/11/26_09:33_SBTNEWS_5m43s_Bolsonaro é internado após dores abdominais e médico não descarta nova ciru"
+      "5znOQvncQ1s | [VIDEO]_21/11/26_10:00_SBTNEWS_50m14s_Ética e Direito: imortal da ABL analisa limites da lei e sociedade   Ética"
     ]
   },
   {
@@ -220,6 +220,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "rMKIfOd6HYE",
+      "WsJexfd37EM",
       "6rXzP0ZhRnw",
       "SR1oaJnRLmc",
       "YX59rv7UxLQ",
@@ -247,13 +248,13 @@
       "Nf5z4mtMz-k",
       "zw6U8gBCqq0",
       "eZrXwRmjgXU",
-      "HFbMMnowuIE",
-      "ZjK6EsynHfA"
+      "HFbMMnowuIE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "rMKIfOd6HYE | ((LIVE))_21/11/26_19:52_CNNBRASIL_AO VIVO: PGR AVALIA SE MINISTROS DO STF DEVEM SER INVESTIGADOS   CNN PRIME ",
+      "WsJexfd37EM | [VIDEO]_21/11/26_20:36_CNNBRASIL_5m42s_Chuvas no RS já atingem 38 cidades e deixam 5 mortos em Tupanciretã   CNN P",
       "6rXzP0ZhRnw | [VIDEO]_21/11/26_20:23_CNNBRASIL_4m28s_Michelle chega ao Brasil após internação de Jair Bolsonaro   CNN PRIME TIME",
       "SR1oaJnRLmc | [VIDEO]_21/11/26_20:06_CNNBRASIL_4m43s_Falta de pressa de Lula faz preço do dólar subir; veja análise   CNN AGORA",
       "YX59rv7UxLQ | [VIDEO]_21/11/26_20:05_CNNBRASIL_28m01s_CNN SINAIS VITAIS - DR. KALIL ENTREVISTA: EPILEPSIA   21/11/2026",
@@ -281,8 +282,7 @@
       "Nf5z4mtMz-k | [VIDEO]_21/11/26_00:01_CNNBRASIL_13m01s_Qual o impacto de julgamento sobre dosimetria ainda em 2026?   O GRANDE DEB",
       "zw6U8gBCqq0 | [VIDEO]_20/11/26_23:46_CNNBRASIL_7m37s_Fim da escala 6x1 é avanço ou desafio econômico?   O GRANDE DEBATE",
       "eZrXwRmjgXU | [VIDEO]_20/11/26_23:34_CNNBRASIL_17m12s_Análise: Trump tenta proteger EUA ao proibir datacenters fora de território",
-      "HFbMMnowuIE | [VIDEO]_20/11/26_23:32_CNNBRASIL_22m33s_QUAL O IMPACTO DE JULGAMENTO SOBRE DOSIMETRIA AINDA EM 2026?   O GRANDE DEB",
-      "ZjK6EsynHfA | [VIDEO]_20/11/26_23:31_CNNBRASIL_14m20s_Análise: EUA tentam conter avanço do agro brasileiro na Ásia   WW"
+      "HFbMMnowuIE | [VIDEO]_20/11/26_23:32_CNNBRASIL_22m33s_QUAL O IMPACTO DE JULGAMENTO SOBRE DOSIMETRIA AINDA EM 2026?   O GRANDE DEB"
     ]
   },
   {
@@ -429,10 +429,10 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
-      "8YtCCXXrz2g",
       "Kp7q3KEWnZg",
       "MlwWIHc9Ifw",
       "awWeaqmW0fg",
+      "8YtCCXXrz2g",
       "AOepJ8vITf0",
       "44-lBQ2TY54",
       "a9iYtFrEadI",
@@ -461,10 +461,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "8YtCCXXrz2g | [VIDEO]_21/11/26_10:30_FALABRASIL_6m03s_Mulheres Positivas: Empreendedora transforma paixão por ginástica em academ",
       "Kp7q3KEWnZg | [VIDEO]_21/11/26_09:45_FALABRASIL_10m41s_Feriado prolongado e calorão lotam praias brasileiras neste sábado (21)",
       "MlwWIHc9Ifw | [VIDEO]_21/11/26_01:14_JORNALDARECORD_11m38s_Estado de saúde de Jair Bolsonaro volta a gerar preocupação",
       "awWeaqmW0fg | [VIDEO]_21/11/26_10:33_FALABRASIL_5m21s_Fala Brasil acompanha Chá Revelação em praia do Rio de Janeiro",
+      "8YtCCXXrz2g | [VIDEO]_21/11/26_10:30_FALABRASIL_6m03s_Mulheres Positivas: Empreendedora transforma paixão por ginástica em academ",
       "AOepJ8vITf0 | [VIDEO]_20/11/26_22:47_JORNALDARECORD_53m00s_Assista à íntegra do Jornal da Record   20/11/2026",
       "44-lBQ2TY54 | [VIDEO]_20/11/26_22:13_RECORD/DOMINGOESPETACULAR/BALANÇOGERAL_26m38s_Dizi Cast #40   Asya entrou no jogo da Derin! Veja o desfecho da melhor sem",
       "a9iYtFrEadI | [VIDEO]_20/11/26_12:13_HOJEEMDIA_6m25s_Casos de roubos e sequestros aumentam entre entregadores no Brasil",
@@ -495,7 +495,6 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
-      "d9FiojCPN8c",
       "SV3JMogAxWs",
       "anHwQDHV9Hs",
       "AgSv6Injz6c",
@@ -528,7 +527,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "d9FiojCPN8c | ((LIVE))_21/11/26_19:19_BANDJORNALISMO_[AO VIVO] Sobem para cinco mortos após temporal em Tupanciretã (RS)   JORNA",
       "SV3JMogAxWs | [VIDEO]_21/11/26_20:26_BANDJORNALISMO_4m26s_Gilmar Mendes defende fim de sigilo em relatórios sobre ministros do STF",
       "anHwQDHV9Hs | [VIDEO]_21/11/26_17:42_BANDJORNALISMO_19m32s_Dólar segue em alta, mesmo após BC realizar leilão   BandNews TV",
       "AgSv6Injz6c | [VIDEO]_21/11/26_15:00_MELHORDATARDE_14m56s_Kamyla Maria surpreende ao revelar abusos e exploração de Hytalo Santos   A",
@@ -563,6 +561,7 @@
     "numero": "09",
     "rem": "REDETV! COMBO",
     "videoIds": [
+      "iT9WRTrcdLs",
       "0meVrTBgGcg",
       "zPvQynslB6I",
       "yc8UbT3c1mo",
@@ -577,7 +576,6 @@
       "JOGJTdwBCDg",
       "dt2WRzs4gaY",
       "Qe-6kdpQds4",
-      "iT9WRTrcdLs",
       "CZh2GyeIeEw",
       "Nc47YcBLiAo",
       "hjK1-5ZhQqw",
@@ -597,6 +595,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "iT9WRTrcdLs | [VIDEO]_21/11/26_20:36_REDETV!OFICIAL_60m05s_RedeTV! News - AO VIVO   21/11/2026",
       "0meVrTBgGcg | [VIDEO]_21/11/26_19:44_REDETV!OFICIAL_8m06s_Mulher cai de cara no chão, fica desacordada e mobiliza equipe de resgate",
       "zPvQynslB6I | [VIDEO]_21/11/26_19:43_NOTÍCIASREDETV_8m06s_Mulher cai de cara no chão, fica desacordada e mobiliza equipe de resgate",
       "yc8UbT3c1mo | [VIDEO]_21/11/26_19:42_REDETV!OFICIAL_6m16s_Suspeita de traumatismo craniano: Mulher fica inconsciente após moto atingi",
@@ -611,7 +610,6 @@
       "JOGJTdwBCDg | [VIDEO]_21/11/26_19:35_NOTÍCIASREDETV_5m17s_Morador de rua é esfaqueado no tórax após briga",
       "dt2WRzs4gaY | [VIDEO]_21/11/26_19:34_NOTÍCIASREDETV_6m18s_Motoqueiro fica ferido após ser atingido em acidente de trânsito",
       "Qe-6kdpQds4 | [VIDEO]_21/11/26_19:33_REDETV!OFICIAL_6m18s_Motoqueiro fica ferido após ser atingido em acidente de trânsito",
-      "iT9WRTrcdLs | [VIDEO]_21/11/26_19:20_NOTÍCIASREDETV_59m53s_RedeTV! News - AO VIVO   21/11/2026",
       "CZh2GyeIeEw | [VIDEO]_21/11/26_19:14_NOTÍCIASREDETV_56m32s_Operação de Resgate   Completo (20/11/26)",
       "Nc47YcBLiAo | [VIDEO]_21/11/26_19:10_REDETV!OFICIAL_56m32s_Operação de Resgate   Completo (20/11/26)",
       "hjK1-5ZhQqw | [VIDEO]_21/11/26_09:17_REDETV!OFICIAL_60m11s_RedeTV! News - AO VIVO   20/11/2026",
@@ -704,8 +702,8 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "36ndLTH8N3o",
-      "mHKMOphlKhI",
       "Q947xtK2Q3U",
+      "mHKMOphlKhI",
       "T7COI7OkRNU",
       "SDDGyYU4xRg",
       "i4dL41HFZkw",
@@ -738,8 +736,8 @@
     "playlistId": "",
     "carimbos": [
       "36ndLTH8N3o | ((LIVE))_21/11/26_19:36_CBNBRASIL_Show da Notícia - 21/11/2026",
-      "mHKMOphlKhI | [VIDEO]_21/11/26_19:36_CBNBRASIL_262m56s_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU",
       "Q947xtK2Q3U | [VIDEO]_21/11/26_14:26_RÁDIOCBN_237m04s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
+      "mHKMOphlKhI | [VIDEO]_21/11/26_19:36_CBNBRASIL_262m56s_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU",
       "T7COI7OkRNU | [VIDEO]_16/11/26_11:21_RÁDIOCBN_25m28s_Jornal da CBN - 17/10/2026",
       "SDDGyYU4xRg | [VIDEO]_20/11/26_15:29_RÁDIOCBN_182m13s_Revista CBN - 21/11/2026",
       "i4dL41HFZkw | [VIDEO]_21/11/26_12:08_CBNBRASIL_178m11s_CBN Noite Total - 20/11/2026",
@@ -774,12 +772,12 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "HSfcn4thoL4",
-      "Nt1mYa5jbUU",
       "QKjOoG8L9YA",
       "j9F4QnLHNCA",
       "f4qKnhpsCdg",
       "j_BKBSex2sw",
       "mnW69DGSzkg",
+      "Nt1mYa5jbUU",
       "wpdlOXwRUV8",
       "H9NHj2C7M2Y",
       "jTxhpnXb8ts",
@@ -808,12 +806,12 @@
     "playlistId": "",
     "carimbos": [
       "HSfcn4thoL4 | ((LIVE))_21/11/26_19:55_REVISTAOESTE_OUTRA COISA, COM GUILHERME FIUZA - 21/11/2026",
-      "Nt1mYa5jbUU | [VIDEO]_21/11/26_19:30_REVISTAOESTE_30m16s_SAIBA COMO O EXERCÍCIO PROTEGE SUA SAÚDE   OESTE SAÚDE, COM DRA. DENISE STE",
       "QKjOoG8L9YA | [VIDEO]_21/11/26_12:50_REVISTAOESTE_4m43s_Sabina diz que estilo de vida é mais determinante que genética na demência",
       "j9F4QnLHNCA | [VIDEO]_21/11/26_11:45_REVISTAOESTE_20m00s_OESTE EM REVISTA, COM BRANCA NUNES - Matéria edição 350, por Dagomir Marque",
       "f4qKnhpsCdg | [VIDEO]_21/11/26_09:05_REVISTAOESTE_4m50s_Alimentação e hábitos protegem saúde do cérebro após os 40 anos   AFA, com",
       "j_BKBSex2sw | [VIDEO]_21/11/26_18:00_REVISTAOESTE_90m12s_OESTE SEM FILTRO MELHORES MOMENTOS   SÁBADO 21/11/26",
       "mnW69DGSzkg | [VIDEO]_21/11/26_16:00_REVISTAOESTE_120m08s_OESTE COM ELAS, MELHORES MOMENTOS   SÁBADO 21/11/26",
+      "Nt1mYa5jbUU | [VIDEO]_21/11/26_19:30_REVISTAOESTE_30m16s_SAIBA COMO O EXERCÍCIO PROTEGE SUA SAÚDE   OESTE SAÚDE, COM DRA. DENISE STE",
       "wpdlOXwRUV8 | [VIDEO]_21/11/26_10:00_REVISTAOESTE_117m54s_DE LESTE A OESTE - 20/11/2026   CRISTÃOS SOB PERSEGUIÇÃO - UMA TRAGÉDIA DE",
       "H9NHj2C7M2Y | [VIDEO]_21/11/26_09:30_REVISTAOESTE_9m38s_Populismo do governo Lula promove onda de demissões no mercado",
       "jTxhpnXb8ts | [VIDEO]_21/11/26_14:00_REVISTAOESTE_120m08s_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   SÁBADO 21/11/26",
@@ -843,11 +841,11 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "Ko1CyQ8Uo10",
       "WAn-SLt3eho",
       "swaBkF1gN9U",
       "YisLHTWyXBU",
       "ecPPoMgsLXk",
+      "Ko1CyQ8Uo10",
       "gymmSGdzyqo",
       "gz4Bdh4j78o",
       "HvGM5_x_Qro",
@@ -877,11 +875,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Ko1CyQ8Uo10 | [VIDEO]_21/11/26_06:04_METRÓPOLES_61m30s_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
       "WAn-SLt3eho | [VIDEO]_21/11/26_12:24_METRÓPOLES_14m42s_Íntegra: relator do projeto de ajuste fiscal se reúne com o PL na segunda-f",
       "swaBkF1gN9U | [VIDEO]_21/11/26_12:04_METRÓPOLES_59m11s_Atualizações sobre a saúde de Bolsonaro   Velório de Gabriel Félix será pri",
       "YisLHTWyXBU | [VIDEO]_21/11/26_11:32_METRÓPOLES_3m59s_Bolsonaro pode passar por nova cirurgia após internação; saiba atualizações",
       "ecPPoMgsLXk | [VIDEO]_21/11/26_01:26_METRÓPOLES_18m14s_Lula reage ao mercado, à imprensa, critica tentativa de ganhos por \"boatari",
+      "Ko1CyQ8Uo10 | [VIDEO]_21/11/26_06:04_METRÓPOLES_61m30s_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
       "gymmSGdzyqo | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m34s_Joice Hasselmann revela que faz parte de um processo de criação de um novo",
       "gz4Bdh4j78o | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m47s_Joice Hasselmann explica denúncia de invasão ao seu apartamento",
       "HvGM5_x_Qro | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m25s_Joice Hasselmann expõe os motivos do rompimento com Carla Zambelli",
@@ -1735,8 +1733,8 @@
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [
-      "c7Q3S6bMuG8",
       "B1mRgmWWwD8",
+      "c7Q3S6bMuG8",
       "oIuupOu2sMY",
       "yeH5FffwGFQ",
       "4h5t6M9BUpY",
@@ -1755,8 +1753,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "B1mRgmWWwD8 | [VIDEO]_21/11/26_14:12_ACELERADOS_98m11s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 1 - INTERLAGOS (SP) - Sábado (21/11) -",
+      "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "oIuupOu2sMY | [VIDEO]_18/11/26_19:00_ACELERADOS_21m35s_O CARRO DA LUCIA E DO JASON DO GTA VI E DODGE VIPER SR I 1993 NA VOLTA RÁPI",
       "yeH5FffwGFQ | [VIDEO]_17/11/26_18:30_ACELERADOS_12m08s_DODGE DAKOTA V8 X RAM DAKOTA DIESEL! Quem leva o duelo de gerações da picap",
       "4h5t6M9BUpY | [VIDEO]_16/11/26_18:23_ACELERADOS_21m28s_GERSON VENCE AS DUAS CORRIDAS DA PORSCHE CUP na preliminar da F1 em disputa",
