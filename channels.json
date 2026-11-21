@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "hmXUvhnGtKc",
       "riPZhO3Lk-0",
       "0xQnVK1FEIY",
       "7Qp_THN0qqw",
@@ -38,11 +39,11 @@
       "1SFZyMe25bo",
       "5jQ3TRjGH8U",
       "Zmmm59NSeNM",
-      "Au3C1Z0TirM",
-      "RodoQvp5iaw"
+      "Au3C1Z0TirM"
     ],
     "playlistId": "",
     "carimbos": [
+      "hmXUvhnGtKc | [VIDEO]_20/11/26_22:54_GLOBONEWS_6m35s_Acordo entre Reino Unido e UE confirma o fracasso do Brexit, diz Fernando A",
       "riPZhO3Lk-0 | [VIDEO]_20/11/26_17:26_GLOBONEWS_10m31s_'Por Você': cena de médico e menino negro em novela viraliza",
       "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda",
       "7Qp_THN0qqw | [VIDEO]_20/11/26_00:59_GLOBONEWS_9m55s_Trauma real: ‘Josephine’ é baseado em estupro que pai e filhe de 8 anos tes",
@@ -71,8 +72,7 @@
       "1SFZyMe25bo | [VIDEO]_18/11/26_06:06_G1_7m28s_Senado adia votação dos destaques do pacote fiscal após risco de derrota do",
       "5jQ3TRjGH8U | [VIDEO]_17/11/26_18:09_G1_4m59s_GTA VI bate recorde histórico de pré-vendas",
       "Zmmm59NSeNM | [VIDEO]_17/11/26_16:25_G1_5m23s_Homem é preso após deixar coroas de flores para policiais vivos no RJ",
-      "Au3C1Z0TirM | [VIDEO]_17/11/26_14:59_G1_5m11s_JH: EUA perde status de país livre do Sarampo",
-      "RodoQvp5iaw | [VIDEO]_17/11/26_14:34_G1_4m58s_JH: Senado retoma votação do Pacote Fiscal"
+      "Au3C1Z0TirM | [VIDEO]_17/11/26_14:59_G1_5m11s_JH: EUA perde status de país livre do Sarampo"
     ]
   },
   {
@@ -80,12 +80,12 @@
     "rem": "SBT: AOVIVO/PROGRAMAS",
     "videoIds": [
       "uLqXRKXOB8E",
-      "Lrz0dPoEvbU",
       "zgHz5AUEzps",
       "MnR_iZad8dM",
       "6WPKFc6tMZw",
       "2WIW5yI9wfs",
       "zOtzA5ox8cY",
+      "Lrz0dPoEvbU",
       "LXGZml6F0qI",
       "c5aq9Vpf09U",
       "pbbM3904E8M",
@@ -114,12 +114,12 @@
     "playlistId": "",
     "carimbos": [
       "uLqXRKXOB8E | ((LIVE))_03/11/26_17:13_SBT_SBT  Ao Vivo",
-      "Lrz0dPoEvbU | [VIDEO]_20/11/26_19:30_FOFOCALIZANDO_7m43s_No The Voice Brasil, Diogo Nogueira entrega bastidores da produção   Fofoca",
       "zgHz5AUEzps | [VIDEO]_20/11/26_18:45_FOFOCALIZANDO_28m27s_Memphis Depay está na pista? Descubra o que o jogador anda fazendo   Fofoca",
       "MnR_iZad8dM | [VIDEO]_20/11/26_18:45_PROGRAMADORATINHO_49m00s_Ás vezes dá aquela VONTADEZINHA de tirar a roupa, né?   Programa do Ratinho",
       "6WPKFc6tMZw | [VIDEO]_20/11/26_18:15_FOFOCALIZANDO_10m11s_Prêmio Potência reúne estrelas e celebra a cultura negra   Fofocalizando (2",
       "2WIW5yI9wfs | [VIDEO]_20/11/26_18:00_FOFOCALIZANDO_22m45s_Gracyanne Barbosa tem salário retido após dívidas milionárias de Belo   Fof",
       "zOtzA5ox8cY | [VIDEO]_20/11/26_20:00_CÂMERASESCONDIDASSBT_4m44s_Pegadinha Carrie, a Estranha   Câmeras Escondidas",
+      "Lrz0dPoEvbU | [VIDEO]_20/11/26_19:30_FOFOCALIZANDO_7m43s_No The Voice Brasil, Diogo Nogueira entrega bastidores da produção   Fofoca",
       "LXGZml6F0qI | [VIDEO]_20/11/26_17:45_FOFOCALIZANDO_9m11s_Relembre os momentos icônicos de Vera Verão no Piscinão de Ramos   Fofocali",
       "c5aq9Vpf09U | [VIDEO]_20/11/26_15:04_THENOITE_49m40s_Entrevista com Eduardo Costa   The Noite (19/11/26)",
       "pbbM3904E8M | [VIDEO]_19/11/26_19:30_FOFOCALIZANDO_9m39s_Tudo o que está rolando no mundo dos famosos!   Fofocalizando (19/11/26)",
@@ -219,10 +219,12 @@
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
-      "a2JK37UkNQg",
+      "HFbMMnowuIE",
+      "YKPW3_q4S2o",
       "V0G0Qc5GCsY",
       "xFNRwQOAW7E",
       "P-YkqIaXXG0",
+      "a2JK37UkNQg",
       "R1J-iAQaDD8",
       "ZTmaQlrQMOk",
       "EP-pQuBNsvw",
@@ -246,18 +248,18 @@
       "PCK81jWqdnQ",
       "fdgwmxrcyK4",
       "jgCTt9NF23s",
-      "avzKr17IA8k",
-      "jVEo_NJo7SA",
-      "lCJQ0l2ZyyU"
+      "avzKr17IA8k"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "a2JK37UkNQg | ((LIVE))_20/11/26_21:51_CNNBRASIL_AO VIVO: MANOBRA DA PF VIRA ATESTADO A FAVOR DE ANDRÉ MENDONÇA   WW",
+      "HFbMMnowuIE | ((LIVE))_20/11/26_22:50_CNNBRASIL_AO VIVO: QUAL O IMPACTO DE JULGAMENTO SOBRE DOSIMETRIA AINDA EM 2026?   O G",
+      "YKPW3_q4S2o | [VIDEO]_20/11/26_22:50_CNNBRASIL_16m35s_Análise: Mendonça se antecipa e pede fim de sigilo de relatório   WW",
       "V0G0Qc5GCsY | [VIDEO]_20/11/26_22:27_CNNBRASIL_5m01s_Manobra da PF vira atestado a favor de André Mendonça; veja análise   WW",
       "xFNRwQOAW7E | [VIDEO]_20/11/26_22:23_CNNBRASIL_4m16s_Trump pressiona Congresso americano por nova lei agrícola nos EUA   CNN AGR",
-      "P-YkqIaXXG0 | [VIDEO]_20/11/26_22:07_CNNBRASIL_129m30s_AO VIVO: MÉDICOS AVALIAM SE JAIR BOLSONARO PRECISARÁ DE CIRURGIA   CNN PRIM",
-      "R1J-iAQaDD8 | [VIDEO]_20/11/26_21:48_CNNBRASIL_4m27s_Atlético-MG e Boca Juniors decidem a Sul-americana; veja como está o clima ",
+      "P-YkqIaXXG0 | [VIDEO]_20/11/26_22:07_CNNBRASIL_129m30s_MÉDICOS AVALIAM SE JAIR BOLSONARO PRECISARÁ DE CIRURGIA   CNN PRIME TIME",
+      "a2JK37UkNQg | [VIDEO]_19/11/26_23:21_CNNBRASIL_68m37s_AO VIVO: MANOBRA DA PF VIRA ATESTADO A FAVOR DE ANDRÉ MENDONÇA   WW",
+      "R1J-iAQaDD8 | [VIDEO]_20/11/26_21:48_CNNBRASIL_4m27s_Atlético-MG e Boca Juniors decidem a Sul-americana; veja como está o clima",
       "ZTmaQlrQMOk | [VIDEO]_20/11/26_21:06_CNNBRASIL_6m24s_Trump chamou Putin de amigo; Zelensky diz à CNN: “Para nós, é um assassino”",
       "EP-pQuBNsvw | [VIDEO]_20/11/26_21:01_CNNBRASIL_4m44s_Brasil não vê impacto imediato de fala de Trump; veja no Conexão Agro   CNN",
       "nrTs-v81aDs | [VIDEO]_20/11/26_20:59_CNNBRASIL_3m59s_Trump sobre os datacenters impacta o mercado de IA; veja análise   CNN PRIM",
@@ -280,9 +282,7 @@
       "PCK81jWqdnQ | [VIDEO]_20/11/26_16:48_CNNBRASIL_8m33s_Trump diz que não permitirá a empresas construir data centers fora dos EUA",
       "fdgwmxrcyK4 | [VIDEO]_20/11/26_16:24_CNNBRASIL_9m21s_Ministério da Segurança Pública e do Idoso; veja possíveis nomes   CNN 360°",
       "jgCTt9NF23s | [VIDEO]_20/11/26_15:41_CNNBRASIL_4m20s_PF diz não ter achado registro de diálogo direto entre Mendonça e Vorcaro",
-      "avzKr17IA8k | [VIDEO]_20/11/26_15:29_CNNBRASIL_195m03s_FACHIN MANTÉM PRISÃO DE DANIEL VORCARO   BASTIDORES CNN",
-      "jVEo_NJo7SA | [VIDEO]_20/11/26_15:27_CNNBRASIL_20m55s_Ministra: Cotas no ensino superior fazem revolução   BASTIDORES CNN",
-      "lCJQ0l2ZyyU | [VIDEO]_20/11/26_15:27_CNNBRASIL_3m50s_Grupo Boticário suspende por tempo indeterminado fábrica de R$ 1,8 bi em MG"
+      "avzKr17IA8k | [VIDEO]_20/11/26_15:29_CNNBRASIL_195m03s_FACHIN MANTÉM PRISÃO DE DANIEL VORCARO   BASTIDORES CNN"
     ]
   },
   {
@@ -290,12 +290,12 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "NJzeNhV8kBU",
-      "1cV9m1YqGP0",
       "UuSg9jtPQ7Y",
       "LDXtG6h2HDI",
       "CTJdqkPurHo",
       "g8t9EcogaFc",
       "yUxE5YBDacs",
+      "1cV9m1YqGP0",
       "ysum7b-xWXE",
       "9X9vS67XPMU",
       "nzVCYSEoVgE",
@@ -324,12 +324,12 @@
     "playlistId": "",
     "carimbos": [
       "NJzeNhV8kBU | ((LIVE))_20/11/26_20:47_CNNMONEY_AO VIVO: CNN MONEY - 20/11/2026",
-      "1cV9m1YqGP0 | [VIDEO]_20/11/26_19:15_CNNMONEY_22m48s_Pacote de ajuste fiscal atual não é passo na direção certa, diz pesquisador",
       "UuSg9jtPQ7Y | [VIDEO]_20/11/26_19:06_CNNMONEY_6m10s_Atendimento ambulatorial será foco da Oncoclínicas pós recuperação, diz CEO",
       "LDXtG6h2HDI | [VIDEO]_20/11/26_18:26_CNNMONEY_12m11s_Abrasel: Com 5x2, bares e restaurantes não sabem se abrirão todos os dias",
       "CTJdqkPurHo | [VIDEO]_20/11/26_18:11_CNNMONEY_8m10s_Cenário atual indica manutenção da taxa de juros, diz Aod Cunha   FECHAMENT",
       "g8t9EcogaFc | [VIDEO]_20/11/26_21:12_CNNMONEY_106m46s_RESENHA DO DINHEIRO - 20/11/2026   CNN MONEY",
       "yUxE5YBDacs | [VIDEO]_20/11/26_19:49_CNNMONEY_135m25s_AO VIVO: FECHAMENTO DE MERCADO - 20/11/2026   CNN MONEY",
+      "1cV9m1YqGP0 | [VIDEO]_20/11/26_19:15_CNNMONEY_22m48s_Pacote de ajuste fiscal atual não é passo na direção certa, diz pesquisador",
       "ysum7b-xWXE | [VIDEO]_20/11/26_17:25_CNNMONEY_128m05s_AO VIVO: MONEY NEWS III - 20/11/2026   CNN MONEY",
       "9X9vS67XPMU | [VIDEO]_20/11/26_17:20_CNNMONEY_11m13s_Com a nova jornada de trabalho, aumento do custo da mão de obra será de 10%",
       "nzVCYSEoVgE | [VIDEO]_20/11/26_17:04_CNNMONEY_10m18s_Mercado externo não ajuda o real neste momento, diz economista   MONEY NEWS",
@@ -429,6 +429,7 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
+      "AOepJ8vITf0",
       "44-lBQ2TY54",
       "a9iYtFrEadI",
       "ZVIjAb3aXPg",
@@ -456,6 +457,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "AOepJ8vITf0 | [VIDEO]_20/11/26_22:47_JORNALDARECORD_53m00s_Assista à íntegra do Jornal da Record   20/11/2026",
       "44-lBQ2TY54 | [VIDEO]_20/11/26_22:13_RECORD/DOMINGOESPETACULAR/BALANÇOGERAL_26m38s_Dizi Cast #40   Asya entrou no jogo da Derin! Veja o desfecho da melhor sem",
       "a9iYtFrEadI | [VIDEO]_20/11/26_12:13_HOJEEMDIA_6m25s_Casos de roubos e sequestros aumentam entre entregadores no Brasil",
       "ZVIjAb3aXPg | [VIDEO]_20/11/26_12:08_HOJEEMDIA_9m51s_Quero Envelhecer Assim: Idosa de 83 anos faz sucesso dançando em bailes no",
@@ -485,6 +487,7 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
+      "0b1HjzqW7CQ",
       "GKVBum4DQ24",
       "StTTaxK-jIE",
       "_4ad9lETifE",
@@ -513,12 +516,12 @@
       "1kyyK_1xAck",
       "Vs1lCnpC7TU",
       "MBL5zBlbJLo",
-      "dJPynB6AwFU",
-      "nIZJ4Njpj7g"
+      "dJPynB6AwFU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "0b1HjzqW7CQ | [VIDEO]_20/11/26_22:49_BANDJORNALISMO_27m23s_Novo ministério da Fazenda ainda está em especulação   BandNews TV",
       "GKVBum4DQ24 | [VIDEO]_20/11/26_19:30_BANDJORNALISMO_3m52s_Tempestade devasta cidade no RS e deixa três mortos; veja estragos",
       "StTTaxK-jIE | [VIDEO]_20/11/26_20:34_BANDJORNALISMO_58m56s_Tempestade com ventos de 114 km/h deixa 3 mortos no RS   JORNAL DA BAND - 2",
       "_4ad9lETifE | [VIDEO]_20/11/26_20:27_BANDJORNALISMO_4m44s_Chapada Diamantina se destaca na produção de vinhos e alimentos na Bahia",
@@ -547,8 +550,7 @@
       "1kyyK_1xAck | [VIDEO]_20/11/26_07:23_BANDPAULISTA_35m40s_[AO VIVO] Band Cidade - 19/11/2026   Band Paulista",
       "Vs1lCnpC7TU | [VIDEO]_20/11/26_07:18_BANDJORNALISMO_8m45s_Brasil e Paraguai retomam debate sobre tarifa de itaipu   Bandnews TV",
       "MBL5zBlbJLo | [VIDEO]_20/11/26_02:34_BANDPAULISTA_43m36s_[AO VIVO] Boa Tarde Paulista - 19/11/2026   Band Paulista",
-      "dJPynB6AwFU | [VIDEO]_20/11/26_02:14_BANDPAULISTA_47m58s_[AO VIVO] Os Donos da Bola Regional - 19/11/2026   Band Paulista",
-      "nIZJ4Njpj7g | [VIDEO]_20/11/26_01:14_BANDJORNALISMO_80m05s_[AO VIVO] JORNAL DA NOITE - 19/11/2026"
+      "dJPynB6AwFU | [VIDEO]_20/11/26_02:14_BANDPAULISTA_47m58s_[AO VIVO] Os Donos da Bola Regional - 19/11/2026   Band Paulista"
     ]
   },
   {
@@ -835,6 +837,7 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
+      "HfRxRFp_bJk",
       "sRd0tmJtl04",
       "eZ5GpvJLV5E",
       "9a1u-MvqngE",
@@ -863,12 +866,12 @@
       "Tr--HDhtRHo",
       "j5tXI3Lywgc",
       "4QFzzWug1zY",
-      "Og-sLqhw5G0",
-      "PnnVWM-LySE"
+      "Og-sLqhw5G0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "HfRxRFp_bJk | [VIDEO]_20/11/26_22:50_METRÓPOLES_4m48s_Veja as falas: Brasil e EUA divergem na OEA sobre combate a “narcoterrorist",
       "sRd0tmJtl04 | [VIDEO]_20/11/26_18:21_METRÓPOLES_14m26s_Mulher negra no STF: movimentos cobram indicação de Lula",
       "eZ5GpvJLV5E | [VIDEO]_20/11/26_18:02_METRÓPOLES_5m27s_Defesa de Vorcaro diz que Fachin “viola a Constituição” ao manter ex-banque",
       "9a1u-MvqngE | [VIDEO]_20/11/26_17:51_METRÓPOLES_17m31s_Por que Trump citou o Brasil ao falar de uma possível guerra com a China?",
@@ -897,18 +900,17 @@
       "Tr--HDhtRHo | [VIDEO]_20/11/26_10:04_METRÓPOLES_54m46s_Virginia, Neymar e mais polêmicas   Famosos no BBB27   TELEFONE SEM FILTRO",
       "j5tXI3Lywgc | [VIDEO]_20/11/26_02:00_METRÓPOLES_10m04s_Uma explosão de ruídos na escuridão: como é andar em SP sem a visão",
       "4QFzzWug1zY | [VIDEO]_19/11/26_21:31_RÁDIOCBN_4m17s_Vera Magalhães: Ministros de Lula são colocados como 'policial malvado' e p",
-      "Og-sLqhw5G0 | [VIDEO]_19/11/26_21:23_RÁDIOCBN_7m02s_Bronzatto: Lula sinaliza que tem compromisso com ajuste fiscal, mas sem abr",
-      "PnnVWM-LySE | [VIDEO]_19/11/26_21:16_RÁDIOCBN_8m34s_Vera Magalhães: Lula quer que o ministro da Segurança Pública seja um ex-go"
+      "Og-sLqhw5G0 | [VIDEO]_19/11/26_21:23_RÁDIOCBN_7m02s_Bronzatto: Lula sinaliza que tem compromisso com ajuste fiscal, mas sem abr"
     ]
   },
   {
     "numero": "14",
     "rem": "TV BRASIL",
     "videoIds": [
-      "dwHzDzHqvjI",
       "tahT8gOa2K8",
       "7Q3bHS_Ov0w",
       "6e8NUKALHNQ",
+      "dwHzDzHqvjI",
       "-D8ojJCGG8w",
       "mF7VPt3IpeY",
       "Rtvqzb6An8Y",
@@ -939,10 +941,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "dwHzDzHqvjI | [VIDEO]_20/11/26_16:00_TVBRASIL_113m56s_SEM CENSURA RECEBE SAMUEL DE ASSIS, ANA PAULA XONGANI E EMERSON ROCHA",
       "tahT8gOa2K8 | [VIDEO]_20/11/26_20:02_TVBRASIL_58m36s_Repórter Brasil, 20/11/2026",
       "7Q3bHS_Ov0w | [VIDEO]_20/11/26_19:12_TVBRASIL_35m28s_COPA DELAS   Sorriso e Gabi Barbieri são as convidadas de hoje",
       "6e8NUKALHNQ | [VIDEO]_20/11/26_14:02_TVBRASIL_59m02s_Repórter Brasil Tarde, 20/11/2026",
+      "dwHzDzHqvjI | [VIDEO]_20/11/26_16:00_TVBRASIL_113m56s_SEM CENSURA RECEBE SAMUEL DE ASSIS, ANA PAULA XONGANI E EMERSON ROCHA",
       "-D8ojJCGG8w | [VIDEO]_19/11/26_20:03_TVBRASIL_60m05s_Repórter Brasil, 19/11/2026",
       "mF7VPt3IpeY | [VIDEO]_19/11/26_18:02_TVBRASIL_117m50s_SEM CENSURA RECEBE SÉRGIO MALHEIROS, LINN DA QUEBRADA E BARBÁRA REIS",
       "Rtvqzb6An8Y | [VIDEO]_19/11/26_14:02_TVBRASIL_59m02s_Repórter Brasil Tarde, 19/11/2026",
@@ -975,8 +977,8 @@
     "numero": "15",
     "rem": "TV SENADO",
     "videoIds": [
-      "uxxea309YqA",
       "fO9TK7mbYwE",
+      "uxxea309YqA",
       "TIVjSUMTK-k",
       "TO3oHDGPbh0",
       "muy5u4gY9w0",
@@ -1009,8 +1011,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "uxxea309YqA | [VIDEO]_20/11/26_16:25_TVSENADO_9m30s_Edson Davi: CDH realiza diligências no RJ para acompanhar desaparecimento d",
       "fO9TK7mbYwE | [VIDEO]_20/11/26_18:06_TVSENADO_25m22s_População negra: política de saúde busca enfrentar vulnerabilidade",
+      "uxxea309YqA | [VIDEO]_20/11/26_16:25_TVSENADO_9m30s_Edson Davi: CDH realiza diligências no RJ para acompanhar desaparecimento d",
       "TIVjSUMTK-k | [VIDEO]_19/11/26_23:06_TVSENADO_5m34s_Diligências em Bacabal (MA) acompanham buscas por crianças desaparecidas",
       "TO3oHDGPbh0 | [VIDEO]_19/11/26_21:41_TVSENADO_4m55s_Edson Davi: desaparecimento do menino de 6 anos, no Rio, mobiliza Comissão",
       "muy5u4gY9w0 | [VIDEO]_19/11/26_21:22_TVSENADO_714m58s_Ao vivo - TV Senado",
@@ -1662,8 +1664,8 @@
     "rem": "TURBO",
     "videoIds": [
       "SJaHx62vtU8",
-      "6TWyvahZZjo",
       "Vg36QTamJdA",
+      "6TWyvahZZjo",
       "di8qIRKmiaU",
       "Z2XeSYNhUsk",
       "p7b1sIapdPA",
@@ -1684,8 +1686,8 @@
     "playlistId": "",
     "carimbos": [
       "SJaHx62vtU8 | ((LIVE))_19/11/26_15:53_TURBO_ACELERAÇÃO TOTAL 🏁 MARATONA Corridas Proibidas e mais",
-      "6TWyvahZZjo | [VIDEO]_20/11/26_12:00_TURBO_43m53s_Relíquia de 1931 vai virar uma cafeteria sobre rodas   Texas Metal",
       "Vg36QTamJdA | [VIDEO]_20/11/26_19:00_TURBO_10m18s_Mustang dourado de Jimmy e Helen conquista uma nova compradora   Viciado em",
+      "6TWyvahZZjo | [VIDEO]_20/11/26_12:00_TURBO_43m53s_Relíquia de 1931 vai virar uma cafeteria sobre rodas   Texas Metal",
       "di8qIRKmiaU | [VIDEO]_19/11/26_19:00_TURBO_10m04s_Hilux encara os terrenos mais difíceis da Austrália   Joias sobre rodas: To",
       "Z2XeSYNhUsk | [VIDEO]_18/11/26_19:00_TURBO_8m07s_Dave e Kevin posicionam os primeiros carros na SEMA   Carros Irados   Disco",
       "p7b1sIapdPA | [VIDEO]_17/11/26_19:00_TURBO_8m27s_Anthony surpreende Debbie Wiggins com uma Ducati personalizada   Viciado em",
