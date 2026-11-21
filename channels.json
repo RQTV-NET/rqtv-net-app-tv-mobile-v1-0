@@ -185,7 +185,7 @@
     "carimbos": [
       "qT2RSVOciWI | ((LIVE))_20/11/26_23:04_SBTNEWS_SBT NOTÍCIAS   21/11/2026",
       "eGInRRoBGvk | [VIDEO]_20/11/26_23:59_SBTNEWS_14m30s_Entidades patronais cobram clareza sobre decreto do fim da escala 6x1   #Ne",
-      "t1RxektWizg | [VIDEO]_20/11/26_23:51_SBTNEWS_17m40s_Deputada Dandara Tonantzin debate políticas de igualdade racial no Brasil  ",
+      "t1RxektWizg | [VIDEO]_20/11/26_23:51_SBTNEWS_17m40s_Deputada Dandara Tonantzin debate políticas de igualdade racial no Brasil",
       "NXsQm_XuUoo | [VIDEO]_20/11/26_23:16_SBTJORNALISMO_81m08s_SBT Cidades: assista à edição na íntegra desta sexta-feira (20/11/2026)   #",
       "CDcsAWEoLlI | [VIDEO]_20/11/26_23:09_SBTNEWS_157m30s_NEWS NOITE   20/11/2026",
       "YsQu_aDc4nU | [VIDEO]_20/11/26_22:04_SBTNEWS_8m48s_Gilmar Mendes comenta discussão sobre impeachment de ministros do STF   #Ne",
@@ -429,6 +429,7 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
+      "MlwWIHc9Ifw",
       "AOepJ8vITf0",
       "44-lBQ2TY54",
       "a9iYtFrEadI",
@@ -457,6 +458,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "MlwWIHc9Ifw | [VIDEO]_21/11/26_01:14_JORNALDARECORD_11m38s_Estado de saúde de Jair Bolsonaro volta a gerar preocupação",
       "AOepJ8vITf0 | [VIDEO]_20/11/26_22:47_JORNALDARECORD_53m00s_Assista à íntegra do Jornal da Record   20/11/2026",
       "44-lBQ2TY54 | [VIDEO]_20/11/26_22:13_RECORD/DOMINGOESPETACULAR/BALANÇOGERAL_26m38s_Dizi Cast #40   Asya entrou no jogo da Derin! Veja o desfecho da melhor sem",
       "a9iYtFrEadI | [VIDEO]_20/11/26_12:13_HOJEEMDIA_6m25s_Casos de roubos e sequestros aumentam entre entregadores no Brasil",
@@ -488,6 +490,7 @@
     "rem": "BAND JORNALISMO",
     "videoIds": [
       "W5YYo-ECL_E",
+      "n-Ssmm56dk8",
       "4Sebx6ocNZw",
       "MdVdEKFxp2c",
       "0b1HjzqW7CQ",
@@ -515,13 +518,13 @@
       "hXwqlAXL_BA",
       "38CDknRQbTU",
       "VFNmspEK7Z0",
-      "iBNDpgy1ZZE",
-      "1kyyK_1xAck"
+      "iBNDpgy1ZZE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "W5YYo-ECL_E | ((LIVE))_20/11/26_23:50_BANDJORNALISMO_[AO VIVO] JORNAL DA NOITE - 20/11/2026",
+      "W5YYo-ECL_E | [VIDEO]_21/11/26_01:15_BANDJORNALISMO_80m05s_[AO VIVO] JORNAL DA NOITE - 20/11/2026",
+      "n-Ssmm56dk8 | [VIDEO]_21/11/26_01:05_BANDJORNALISMO_5m27s_Vinhos do cerrado ganham prêmios e impulsionam turismo no Distrito Federal ",
       "4Sebx6ocNZw | [VIDEO]_21/11/26_00:13_BANDJORNALISMO_4m20s_Tempestade em Tupanciretã (RS) deixa três mortos e mais de 50 feridos",
       "MdVdEKFxp2c | [VIDEO]_20/11/26_23:30_BANDJORNALISMO_27m04s_Questão de Regra recebe Leonardo Mesquita, copresidente executivo da Cury C",
       "0b1HjzqW7CQ | [VIDEO]_20/11/26_22:49_BANDJORNALISMO_27m23s_Novo ministério da Fazenda ainda está em especulação   BandNews TV",
@@ -549,8 +552,7 @@
       "hXwqlAXL_BA | [VIDEO]_20/11/26_09:04_BANDJORNALISMO_4m19s_Cafeicultura: produção cresce e diversifica lavouras em Roraima   AgroBand",
       "38CDknRQbTU | [VIDEO]_20/11/26_08:43_BANDJORNALISMO_26m23s_[AO VIVO] AGROBAND - 20/11/2026",
       "VFNmspEK7Z0 | [VIDEO]_20/11/26_08:19_BANDJORNALISMO_7m33s_Demora na reintegração preocupa o setor rural   Bandnews TV",
-      "iBNDpgy1ZZE | [VIDEO]_20/11/26_07:41_BANDJORNALISMO_10m17s_Reforma no Judiciário voltam a ganhar espaço nas discussões   Bandnews TV",
-      "1kyyK_1xAck | [VIDEO]_20/11/26_07:23_BANDPAULISTA_35m40s_[AO VIVO] Band Cidade - 19/11/2026   Band Paulista"
+      "iBNDpgy1ZZE | [VIDEO]_20/11/26_07:41_BANDJORNALISMO_10m17s_Reforma no Judiciário voltam a ganhar espaço nas discussões   Bandnews TV"
     ]
   },
   {
@@ -697,6 +699,8 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "-1qlEasLZEc",
+      "ZIs4NUavQTA",
       "i4dL41HFZkw",
       "A6FI2R0LYOI",
       "mGdYJuLTtg8",
@@ -724,13 +728,13 @@
       "0IaCxf44kaA",
       "ZVtfYRmfWes",
       "FyZP2B4zRo0",
-      "aWJhfuTrQ9g",
-      "t4MABr2UEyc",
-      "ldZh9iNX_dE"
+      "aWJhfuTrQ9g"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "-1qlEasLZEc | [VIDEO]_21/11/26_01:27_CBNBRASIL_173m07s_CBN São Paulo - 20/11/2026",
+      "ZIs4NUavQTA | [VIDEO]_21/11/26_01:11_CBNBRASIL_6m46s_PF indica que Mendonça não trocou mensagens com Vorcaro; temporal deixa trê",
       "i4dL41HFZkw | [VIDEO]_20/11/26_15:24_RÁDIOCBN_177m47s_CBN Noite Total - 20/11/2026",
       "A6FI2R0LYOI | [VIDEO]_20/11/26_20:43_CBNBRASIL_20m44s_'Não quero vender minha alma para um contrato': Jeniffer Nascimento explica",
       "mGdYJuLTtg8 | [VIDEO]_20/11/26_20:35_CBNBRASIL_4m54s_'Eu não esperava': Jeniffer Nascimento revela que se surpreendeu com a pers",
@@ -758,9 +762,7 @@
       "0IaCxf44kaA | [VIDEO]_20/11/26_14:53_CBNBRASIL_5m17s_Thássius Veloso: Apagões na tecnologia são sinal de que a internet pode par",
       "ZVtfYRmfWes | [VIDEO]_20/11/26_14:44_CBNBRASIL_7m58s_Como Ashton Kutcher transformou apostas em startups em uma fortuna bilionár",
       "FyZP2B4zRo0 | [VIDEO]_20/11/26_14:16_CBNBRASIL_8m13s_Teco Medina: Como Ashton Kutcher virou bilionário apostando no Vale do Silí",
-      "aWJhfuTrQ9g | [VIDEO]_20/11/26_13:47_CBNBRASIL_5m09s_Lutador de jiu-jítsu preso por torturar namorada tem histórico de agressões",
-      "t4MABr2UEyc | [VIDEO]_20/11/26_13:16_CBNBRASIL_6m55s_Tragédia em Tupanciretã: Ventos de até 114 km/h devastaram cidade no RS; ou",
-      "ldZh9iNX_dE | [VIDEO]_20/11/26_13:06_CBNBRASIL_5m15s_Movimento prepara carta a Lula pedindo mais espaço para negros em seu 4º ma"
+      "aWJhfuTrQ9g | [VIDEO]_20/11/26_13:47_CBNBRASIL_5m09s_Lutador de jiu-jítsu preso por torturar namorada tem histórico de agressões"
     ]
   },
   {
@@ -837,6 +839,7 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
+      "ecPPoMgsLXk",
       "gymmSGdzyqo",
       "gz4Bdh4j78o",
       "HvGM5_x_Qro",
@@ -865,13 +868,13 @@
       "SD37ABCZHlk",
       "-NdyQc8v0Uk",
       "hAi-WTzdWlg",
-      "yO-Dups8zyM",
-      "DPGUBLnqXR4"
+      "yO-Dups8zyM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "gymmSGdzyqo | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m34s_Joice Hasselmann revela que faz parte de um processo de criação de um novo ",
+      "ecPPoMgsLXk | [VIDEO]_21/11/26_01:26_METRÓPOLES_18m14s_Lula reage ao mercado, à imprensa, critica tentativa de ganhos por \"boatari",
+      "gymmSGdzyqo | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m34s_Joice Hasselmann revela que faz parte de um processo de criação de um novo",
       "gz4Bdh4j78o | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m47s_Joice Hasselmann explica denúncia de invasão ao seu apartamento",
       "HvGM5_x_Qro | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m25s_Joice Hasselmann expõe os motivos do rompimento com Carla Zambelli",
       "pE0Qec0vq20 | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m01s_Joice Hasselmann explica relação com Carlos Bolsonaro",
@@ -899,8 +902,7 @@
       "SD37ABCZHlk | [VIDEO]_20/11/26_12:21_METRÓPOLES_6m11s_Reforma do Judiciário: o que precisa mudar após o escândalo do Banco Master",
       "-NdyQc8v0Uk | [VIDEO]_20/11/26_12:01_METRÓPOLES_14m03s_PF diz que não houve troca de mensagens entre Mendonça e Vorcaro",
       "hAi-WTzdWlg | [VIDEO]_20/11/26_11:40_METRÓPOLES_7m19s_Mendonça abre sigilo de relatório da PF: o que os documentos revelam?",
-      "yO-Dups8zyM | [VIDEO]_20/11/26_11:36_METRÓPOLES_60m31s_AO VIVO: Moraes marca julgamento da pena de golpistas. Lula critica mercado",
-      "DPGUBLnqXR4 | [VIDEO]_20/11/26_10:08_METRÓPOLES_91m40s_AO VIVO: Fachin libera relatório sobre Mendonça e Vorcaro   Documento sobre"
+      "yO-Dups8zyM | [VIDEO]_20/11/26_11:36_METRÓPOLES_60m31s_AO VIVO: Moraes marca julgamento da pena de golpistas. Lula critica mercado"
     ]
   },
   {
