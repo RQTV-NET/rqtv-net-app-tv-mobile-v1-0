@@ -184,7 +184,7 @@
     "playlistId": "",
     "carimbos": [
       "pn2P-PyKjp0 | ((LIVE))_21/11/26_07:56_SBTNEWS_NEWS SÁBADO (1ª EDIÇÃO)   21/11/2026",
-      "qT2RSVOciWI | ((LIVE))_20/11/26_23:04_SBTNEWS_SBT NOTÍCIAS   21/11/2026",
+      "qT2RSVOciWI | [VIDEO]_19/11/26_06:51_SBTNEWS_547m21s_SBT NOTÍCIAS   21/11/2026",
       "eGInRRoBGvk | [VIDEO]_20/11/26_23:59_SBTNEWS_14m30s_Entidades patronais cobram clareza sobre decreto do fim da escala 6x1   #Ne",
       "t1RxektWizg | [VIDEO]_20/11/26_23:51_SBTNEWS_17m40s_Deputada Dandara Tonantzin debate políticas de igualdade racial no Brasil",
       "NXsQm_XuUoo | [VIDEO]_20/11/26_23:16_SBTJORNALISMO_81m08s_SBT Cidades: assista à edição na íntegra desta sexta-feira (20/11/2026)   #",
@@ -220,8 +220,8 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "ITjXg0bFTLg",
-      "Nf5z4mtMz-k",
       "B5f7YF6CYcc",
+      "Nf5z4mtMz-k",
       "zw6U8gBCqq0",
       "eZrXwRmjgXU",
       "HFbMMnowuIE",
@@ -254,8 +254,8 @@
     "playlistId": "",
     "carimbos": [
       "ITjXg0bFTLg | ((LIVE))_21/11/26_05:51_CNNBRASIL_AO VIVO: CNN NEWSROOM - 21/11/2026",
-      "Nf5z4mtMz-k | [VIDEO]_21/11/26_00:01_CNNBRASIL_13m01s_Qual o impacto de julgamento sobre dosimetria ainda em 2026?   O GRANDE DEB",
       "B5f7YF6CYcc | [VIDEO]_21/11/26_06:19_CNNBRASIL_398m04s_AO VIVO: CNN MADRUGADA - 21/11/2026",
+      "Nf5z4mtMz-k | [VIDEO]_21/11/26_00:01_CNNBRASIL_13m01s_Qual o impacto de julgamento sobre dosimetria ainda em 2026?   O GRANDE DEB",
       "zw6U8gBCqq0 | [VIDEO]_20/11/26_23:46_CNNBRASIL_7m37s_Fim da escala 6x1 é avanço ou desafio econômico?   O GRANDE DEBATE",
       "eZrXwRmjgXU | [VIDEO]_20/11/26_23:34_CNNBRASIL_17m12s_Análise: Trump tenta proteger EUA ao proibir datacenters fora de território",
       "HFbMMnowuIE | [VIDEO]_20/11/26_23:32_CNNBRASIL_22m33s_QUAL O IMPACTO DE JULGAMENTO SOBRE DOSIMETRIA AINDA EM 2026?   O GRANDE DEB",
@@ -360,6 +360,7 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "wF3ljzjwYUQ",
+      "u4AlvB0sdBE",
       "w_abkHYud1M",
       "YqzCSp8oVLY",
       "5E9G1nYaHbo",
@@ -387,13 +388,13 @@
       "DFmv2BMZs0c",
       "gNQQZCgR0ZQ",
       "hq9b373WrkQ",
-      "Cn1AUbT4HPQ",
-      "vzJRxPzDmxQ"
+      "Cn1AUbT4HPQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "wF3ljzjwYUQ | ((LIVE))_21/11/26_05:54_JOVEMPANNEWS_JORNAL DA MANHÃ - 21/11/2026",
+      "u4AlvB0sdBE | [VIDEO]_21/11/26_08:09_JOVEMPANNEWS_4m45s_Zanin interrompe julgamento de Van Hattem no STF",
       "w_abkHYud1M | [VIDEO]_21/11/26_07:57_JOVEMPANNEWS_6m52s_\"Crescimento do gasto brasileiro não é sustentável\" diz diretor do Ibmec so",
       "YqzCSp8oVLY | [VIDEO]_21/11/26_07:35_JOVEMPANNEWS_4m56s_“Contratação é exponencialmente mais cara”, diz Jesualdo sobre solução de M",
       "5E9G1nYaHbo | [VIDEO]_21/11/26_07:06_JOVEMPANNEWS_4m52s_Trump afirma que reunião trilateral foi ‘extremamente positiva’",
@@ -421,8 +422,7 @@
       "DFmv2BMZs0c | [VIDEO]_20/11/26_14:43_JOVEMPANNEWS_7m35s_Supremo define data para avaliar regra de punições   TEMPO REAL",
       "gNQQZCgR0ZQ | [VIDEO]_20/11/26_15:57_JOVEMPANNEWS_4m40s_Crime organizado gera prejuízo de R$ 440 bi ao país   TEMPO REAL",
       "hq9b373WrkQ | [VIDEO]_20/11/26_15:50_JOVEMPANNEWS_4m15s_Dólar sobe e B3 perde R$ 17 bi; Denise Campos de Toledo   TEMPO REAL",
-      "Cn1AUbT4HPQ | [VIDEO]_20/11/26_15:38_JOVEMPANNEWS_5m04s_Bares e comércio reagem a decreto de Lula sobre jornada   TEMPO REAL",
-      "vzJRxPzDmxQ | [VIDEO]_20/11/26_14:35_JOVEMPANNEWS_5m02s_Governo de São Paulo busca perfil técnico para a Saúde   TEMPO REAL"
+      "Cn1AUbT4HPQ | [VIDEO]_20/11/26_15:38_JOVEMPANNEWS_5m04s_Bares e comércio reagem a decreto de Lula sobre jornada   TEMPO REAL"
     ]
   },
   {
@@ -700,10 +700,10 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "OOPtOD_n4TE",
-      "ZIs4NUavQTA",
       "uNO5Q0mwKE4",
       "JkZCWZZTptw",
       "-1qlEasLZEc",
+      "ZIs4NUavQTA",
       "i4dL41HFZkw",
       "A6FI2R0LYOI",
       "mGdYJuLTtg8",
@@ -734,10 +734,10 @@
     "playlistId": "",
     "carimbos": [
       "OOPtOD_n4TE | ((LIVE))_21/11/26_06:04_CBNBRASIL_Jornal da CBN - 21/11/2026",
-      "ZIs4NUavQTA | [VIDEO]_21/11/26_01:11_CBNBRASIL_6m46s_PF indica que Mendonça não trocou mensagens com Vorcaro; temporal deixa trê",
       "uNO5Q0mwKE4 | [VIDEO]_21/11/26_02:14_CBNBRASIL_117m17s_CBN Brasil - 20/11/2026",
       "JkZCWZZTptw | [VIDEO]_21/11/26_06:38_CBNBRASIL_87m31s_Ponto Final CBN - 20/11/2026",
       "-1qlEasLZEc | [VIDEO]_21/11/26_01:27_CBNBRASIL_173m07s_CBN São Paulo - 20/11/2026",
+      "ZIs4NUavQTA | [VIDEO]_21/11/26_01:11_CBNBRASIL_6m46s_PF indica que Mendonça não trocou mensagens com Vorcaro; temporal deixa trê",
       "i4dL41HFZkw | [VIDEO]_20/11/26_15:24_RÁDIOCBN_177m47s_CBN Noite Total - 20/11/2026",
       "A6FI2R0LYOI | [VIDEO]_20/11/26_20:43_CBNBRASIL_20m44s_'Não quero vender minha alma para um contrato': Jeniffer Nascimento explica",
       "mGdYJuLTtg8 | [VIDEO]_20/11/26_20:35_CBNBRASIL_4m54s_'Eu não esperava': Jeniffer Nascimento revela que se surpreendeu com a pers",
@@ -839,8 +839,8 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "Ko1CyQ8Uo10",
       "ecPPoMgsLXk",
+      "Ko1CyQ8Uo10",
       "gymmSGdzyqo",
       "gz4Bdh4j78o",
       "HvGM5_x_Qro",
@@ -873,8 +873,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Ko1CyQ8Uo10 | [VIDEO]_21/11/26_06:04_METRÓPOLES_61m30s_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
       "ecPPoMgsLXk | [VIDEO]_21/11/26_01:26_METRÓPOLES_18m14s_Lula reage ao mercado, à imprensa, critica tentativa de ganhos por \"boatari",
+      "Ko1CyQ8Uo10 | [VIDEO]_21/11/26_06:04_METRÓPOLES_61m30s_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
       "gymmSGdzyqo | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m34s_Joice Hasselmann revela que faz parte de um processo de criação de um novo",
       "gz4Bdh4j78o | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m47s_Joice Hasselmann explica denúncia de invasão ao seu apartamento",
       "HvGM5_x_Qro | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m25s_Joice Hasselmann expõe os motivos do rompimento com Carla Zambelli",
@@ -1067,7 +1067,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Xox_1TZ6_eQ | [VIDEO]_21/11/26_07:00_BBCBRASIL_4m56s_O que é o zeptoverso descoberto por cientistas, mundo 100 bilhões de vezes ",
+      "Xox_1TZ6_eQ | [VIDEO]_21/11/26_07:00_BBCBRASIL_4m56s_O que é o zeptoverso descoberto por cientistas, mundo 100 bilhões de vezes",
       "NNQZ3O6deJU | [VIDEO]_19/11/26_17:00_BBCBRASIL_7m00s_O que aconteceu com a tentativa de Bukele de transformar El Salvador no 'pá",
       "OZxRp5ZOH7g | [VIDEO]_19/11/26_07:00_BBCBRASIL_17m06s_Lipedema: a 'nova doença' que causa acúmulo de gordura nas pernas e braços",
       "vEq6EZZpc-o | [VIDEO]_17/11/26_17:00_BBCBRASIL_12m13s_O que a Nasa gravou para os alienígenas no Disco de Ouro",
