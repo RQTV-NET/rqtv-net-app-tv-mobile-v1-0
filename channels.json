@@ -1508,7 +1508,6 @@
       "1RUH_mEuf3w",
       "hAprYdGWKVQ",
       "vhG_qRIOgWU",
-      "Bj_U8GPh_rw",
       "meXu6pbJE2Y",
       "Q6Gdn8cS-G0",
       "4DaOXkex_xg",
@@ -1542,7 +1541,6 @@
       "1RUH_mEuf3w | ((LIVE))_21/11/26_10:55_SPORTYNET_BORUSSIA MONCHENGLABACH X BORUSSIA DORTMUND AO VIVO E COM IMAGENS   RODADA ",
       "hAprYdGWKVQ | [VIDEO]_21/11/26_10:45_LITORALNEWS_4m47s_NICE X PSG AO VIVO COM IMAGENS   CAZÉ TV AO VIVO   JOGO DO PSG HOJE",
       "vhG_qRIOgWU | [VIDEO]_21/11/26_09:57_LITORALNEWS_4m23s_CHELSEA X LEEDS AO VIVO COM IMAGENS   ESPN AO VIVO   DISNEY+ AO VIVO",
-      "Bj_U8GPh_rw | [VIDEO]_21/11/26_08:30_LITORALNEWS_4m18s_MANCHESTER CITY X FULHAM AO VIVO COM IMAGENS   ESPN AO VIVO   DISNEY+ AO VI",
       "meXu6pbJE2Y | [VIDEO]_20/11/26_00:09_LITORALNEWS_249m00s_SÃO PAULO X FLUMINENSE AO VIVO COM IMAGEM NA GE TV AO VIVO   SÃO PAULO AO V",
       "Q6Gdn8cS-G0 | [VIDEO]_20/11/26_10:51_CANALGOAT_75m26s_NOVORIZONTINO E JUVENTUDE NA ELITE! SÉRIE B VAI PEGAR FOGO COM OS PLAYOFFS",
       "4DaOXkex_xg | [VIDEO]_20/11/26_16:42_CANALGOAT_154m48s_AL AHLI X AL NASSR   JOGO COMPLETO   SAUDI PRO LEAGUE",
@@ -1815,6 +1813,7 @@
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
+      "8pgHaCQt5bw",
       "CFJ7Ep1IkJI",
       "QlJbHIh-DdA",
       "cdUsLYV4jv8",
@@ -1843,12 +1842,12 @@
       "WOguipPjSsw",
       "K29tYS-7fOA",
       "lxjmJmMlLoo",
-      "F4znX6ADFaM",
-      "NbRgSR8W5ao"
+      "F4znX6ADFaM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "8pgHaCQt5bw | [VIDEO]_21/11/26_11:26_TECHCIÊNCIA2A_9m49s_Por que ninguém estava preparado para o terremoto na Colômbia",
       "CFJ7Ep1IkJI | [VIDEO]_21/11/26_00:22_TECHCIÊNCIA2C_180m01s_3 HORAS DE CURIOSIDADES SOBRE O ESPAÇO 🚀🤯",
       "QlJbHIh-DdA | [VIDEO]_20/11/26_16:08_TECHCIÊNCIA2A_87m50s_Supervulcão italiano está despertando e preocupa os cientistas!",
       "cdUsLYV4jv8 | [VIDEO]_20/11/26_10:00_TECHCIÊNCIA2A_9m51s_Estão construindo o megatúnel mais profundo do mundo",
@@ -1877,8 +1876,7 @@
       "WOguipPjSsw | [VIDEO]_17/11/26_19:00_TECHCIÊNCIA2C_27m59s_Netanyahu perdeu? A disputa pelo poder em Israel explicada",
       "K29tYS-7fOA | [VIDEO]_17/11/26_17:00_TECHCIÊNCIA2A_94m30s_O único lago do mundo sem fundo",
       "lxjmJmMlLoo | [VIDEO]_17/11/26_15:30_TECHCIÊNCIA2A_38m37s_Arqueólogos descobriram uma tecnologia misteriosa em uma pirâmide esquecida",
-      "F4znX6ADFaM | [VIDEO]_17/11/26_15:00_TECHCIÊNCIA2B_14m59s_Minha Amiga Pobre De Repente Se Tornou A Aluna Mais Rica Da Escola",
-      "NbRgSR8W5ao | [VIDEO]_17/11/26_13:30_TECHCIÊNCIA2A_10m15s_O homem que construiu a Grande Pirâmide mantinha um diário — e nós o encont"
+      "F4znX6ADFaM | [VIDEO]_17/11/26_15:00_TECHCIÊNCIA2B_14m59s_Minha Amiga Pobre De Repente Se Tornou A Aluna Mais Rica Da Escola"
     ]
   },
   {
@@ -1941,6 +1939,7 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
+      "bbIK0j3A4aU",
       "l5eEU2i88J0",
       "h8zQccqKJGs",
       "X54Hr7St4-E",
@@ -1969,13 +1968,13 @@
       "BSCi5IUxnNc",
       "Jy9Rx7DCP1c",
       "BAFy4nOZNN8",
-      "HQ-o5ZgTw8s",
-      "nGX-SxLzFCU"
+      "HQ-o5ZgTw8s"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "l5eEU2i88J0 | ((LIVE))_21/11/26_10:02_TVEVANGELIZAR_Santa Missa em honra de Nossa Senhora da Apresentação - Porto Calvo/AL   21",
+      "bbIK0j3A4aU | ((LIVE))_21/11/26_11:30_TVEVANGELIZAR_Pauta Aberta Entrevista: Rosa Maria - Prefeita de Pinhais   21/11/26",
+      "l5eEU2i88J0 | [VIDEO]_19/11/26_15:12_TVEVANGELIZAR_85m13s_Santa Missa em honra de Nossa Senhora da Apresentação - Porto Calvo/AL   21",
       "h8zQccqKJGs | [VIDEO]_21/11/26_04:04_TVEVANGELIZAR_56m21s_ADORAÇÃO AO SANTÍSSIMO DA MADRUGADA   21/11/26",
       "X54Hr7St4-E | [VIDEO]_21/11/26_09:30_TVEVANGELIZAR_28m49s_MESCS   Lumen Jovem com Mateus Moraes   21/11/26",
       "XkzTobdoEnA | [VIDEO]_21/11/26_06:00_TVEVANGELIZAR_35m10s_Sábado: Mistérios Gozosos   21/11/26   Terço Mariano com  @PadreManzottiOfi",
@@ -2003,8 +2002,7 @@
       "BSCi5IUxnNc | [VIDEO]_20/11/26_07:16_TVEVANGELIZAR_62m06s_Santa Missa em honra ao Padre Cícero direto de Juazeiro do Norte/CE   20/11",
       "Jy9Rx7DCP1c | [VIDEO]_19/11/26_22:03_TVEVANGELIZAR_58m26s_NOVENA DE NOSSA SENHORA DAS GRAÇAS   DIA 4   Clamor da Noite com William Te",
       "BAFy4nOZNN8 | [VIDEO]_19/11/26_22:00_TVEVANGELIZAR_47m19s_Experiência de Deus com @PadreManzottiOficial   19/11/26",
-      "HQ-o5ZgTw8s | [VIDEO]_19/11/26_20:18_TVEVANGELIZAR_75m21s_Jesus Eucarístico, livrai-nos do mal   Adoração ao Santíssimo com @PadreMan",
-      "nGX-SxLzFCU | [VIDEO]_19/11/26_19:26_TVEVANGELIZAR_56m26s_O caminho que dá sentido à vida   Noite de Oração com Pe. Cleberson Evangel"
+      "HQ-o5ZgTw8s | [VIDEO]_19/11/26_20:18_TVEVANGELIZAR_75m21s_Jesus Eucarístico, livrai-nos do mal   Adoração ao Santíssimo com @PadreMan"
     ]
   },
   {
@@ -2093,6 +2091,8 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "fYWQIasQ5HI",
+      "1Mn-RuaVXLg",
       "Ns5e5jKTh0s",
       "g4AWrRnfBKs",
       "z7cPPMdISCM",
@@ -2120,13 +2120,13 @@
       "-igBM4nOPho",
       "pbTkicVN5KA",
       "0o7jLEjQDE4",
-      "PGJdohJOZD4",
-      "3tOy5IcizwI",
-      "ROootR2Fm58"
+      "PGJdohJOZD4"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "fYWQIasQ5HI | [VIDEO]_21/11/26_11:40_RECORDCABOVERDE_26m33s_Lucas Bissoli,nono eliminado de A Fazenda 18,encara desafios do Celeiro da ",
+      "1Mn-RuaVXLg | [VIDEO]_21/11/26_11:30_RECORDCABOVERDE_9m51s_Quero Envelhecer Assim: Idosa de 83 anos faz sucesso dançando em bailes no ",
       "Ns5e5jKTh0s | [VIDEO]_21/11/26_10:40_RECORDCABOVERDE_7m35s_A FAZENDA:Bissoli diz que nunca entendeu rivalidade com Tina e critica peoa",
       "g4AWrRnfBKs | [VIDEO]_21/11/26_10:30_RECORDCABOVERDE_8m09s_A FAZENDA: Barão da piscadinha! Bissoli fala sobre flertes com peoas   Cabi",
       "z7cPPMdISCM | [VIDEO]_21/11/26_10:20_RECORDCABOVERDE_4m23s_A FAZENDA: Bissoli explica afastamento de Renata e comenta sentimentos da a",
@@ -2154,9 +2154,7 @@
       "-igBM4nOPho | [VIDEO]_20/11/26_13:10_RECORDCABOVERDE_6m46s_A FAZENDA: Alfredo volta da Roça e Fran cai no choro",
       "pbTkicVN5KA | [VIDEO]_20/11/26_13:00_RECORDCABOVERDE_5m05s_A FAZENDA: Fran alerta Darlin sobre brincadeiras envolvendo Thaíde",
       "0o7jLEjQDE4 | [VIDEO]_20/11/26_12:50_RECORDCABOVERDE_6m42s_A FAZENDA: No Fuzenda,Murilo nega fazer parte da Alcateia ‘Nunca fui um lob",
-      "PGJdohJOZD4 | [VIDEO]_20/11/26_12:40_RECORDCABOVERDE_5m33s_A FAZENDA: Peões fazem campanha por Darlin e irritam Fran e Bissoli",
-      "3tOy5IcizwI | [VIDEO]_20/11/26_12:30_RECORDCABOVERDE_8m25s_A FAZENDA: Ana deixa Erthal de fora das tarefas do trato dos animais",
-      "ROootR2Fm58 | [VIDEO]_20/11/26_12:20_RECORDCABOVERDE_4m11s_A FAZENDA: Alfredo,Bissoli e Darlin apostam que Thaíde não chegará ao Top 1"
+      "PGJdohJOZD4 | [VIDEO]_20/11/26_12:40_RECORDCABOVERDE_5m33s_A FAZENDA: Peões fazem campanha por Darlin e irritam Fran e Bissoli"
     ]
   },
   {
