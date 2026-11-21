@@ -1328,6 +1328,7 @@
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
       "CVrUbEFgl4I",
+      "0F35cuTxWUA",
       "IvVxAJr7TqY",
       "ExlOXaV9u0c",
       "T-w1xeL-mvA",
@@ -1355,13 +1356,13 @@
       "joqIPwMGdz4",
       "gJ-vzzdfbak",
       "k1jxW-l9JHs",
-      "J_5No97BT0A",
-      "4wtXIUZiAeY"
+      "J_5No97BT0A"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "CVrUbEFgl4I | ((LIVE))_21/11/26_08:34_JOVEMPANESPORTES_AO VIVO: WOLFSBURG X HOLSTEIN KIEL   BUNDESLIGA 2   12ª RODADA",
+      "0F35cuTxWUA | [VIDEO]_21/11/26_10:30_JOVEMPANESPORTES_67m09s_MARCELO PORTUGAL GOUVÊA: \"O MEU PLANO para o SÃO PAULO é...\" ENTREVISTA com",
       "IvVxAJr7TqY | [VIDEO]_20/11/26_13:30_JOVEMPANESPORTES_23m17s_\"FIQUEM ATENTOS! ISSO PODE DECIDIR O REBAIXAMENTO porque...\" GRENAL no Z4 e",
       "ExlOXaV9u0c | [VIDEO]_20/11/26_13:00_JOVEMPANESPORTES_31m39s_\"Os CARAS FICAM PU*** POR QUÊ??? O SÃO PAULO é um CLUBE TÓXICO! NÃO CHEGOU",
       "T-w1xeL-mvA | [VIDEO]_20/11/26_14:36_JOVEMPANESPORTES_13m16s_\"SINCERAMENTE?? Pra mim, o ATLÉTICO-MG contra o BOCA JUNIORS nessa FINAL NÃ",
@@ -1389,14 +1390,14 @@
       "joqIPwMGdz4 | [VIDEO]_18/11/26_12:40_JOVEMPANESPORTES_17m44s_\"A MOBILIZAÇÃO TEM QUE SER ENORME! Gente, o FLAMENGO hoje...\" MAURO CEZAR F",
       "gJ-vzzdfbak | [VIDEO]_17/11/26_18:30_JOVEMPANESPORTES_33m59s_QUE AULA! \"É URGENTE que a SELEÇÃO BRASILEIRA FAÇA ISSO! E o ANCELOTTI DEVE",
       "k1jxW-l9JHs | [VIDEO]_17/11/26_14:29_JOVEMPANESPORTES_14m41s_MAURO CEZAR: \"EU TORÇO para que ISSO SE ESTENDA PELO MUNDO! Os JOGADORES TÊ",
-      "J_5No97BT0A | [VIDEO]_17/11/26_14:09_JOVEMPANESPORTES_125m55s_BRASIL GOLEIA SINGAPURA; FLAMENGO APRESENTA ORÇAMENTO DE 2027; PROBLEMAS NO",
-      "4wtXIUZiAeY | [VIDEO]_17/11/26_13:55_JOVEMPANESPORTES_19m20s_\"POR QUE há um SILÊNCIO SOBRE ISSO??? Gente, o PALMEIRAS deveria...\" MAURO"
+      "J_5No97BT0A | [VIDEO]_17/11/26_14:09_JOVEMPANESPORTES_125m55s_BRASIL GOLEIA SINGAPURA; FLAMENGO APRESENTA ORÇAMENTO DE 2027; PROBLEMAS NO"
     ]
   },
   {
     "numero": "35",
     "rem": "BAND ESPORTES",
     "videoIds": [
+      "hjHBTkloTYQ",
       "BOSuuSP0bFI",
       "bly2y0O2nIw",
       "jZVZYAWcQdw",
@@ -1425,12 +1426,12 @@
       "TjJxMNpeGg8",
       "kDkSP47vhgY",
       "JzFMyrL96KY",
-      "sI11m_6cLsQ",
-      "KPPgEwdHF0I"
+      "sI11m_6cLsQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "hjHBTkloTYQ | ((LIVE))_21/11/26_10:30_BANDESPORTES_FLAMENGO E PALMEIRAS PODEM DECIDIR TÍTULO DO BRASILEIRÃO NESTE FINAL DE SEM",
       "BOSuuSP0bFI | ((LIVE))_21/11/26_09:52_BANDESPORTES_[AO VIVO] USCS x ECONOMIA MACKENZIE AO VIVO   FINAL DO FUTEBOL NDU - 21/11/",
       "bly2y0O2nIw | ((LIVE))_21/11/26_08:59_BANDESPORTES_[AO VIVO] PORSCHE CUP EM INTERLAGOS 2026 - CLASSIFICAÇÃO",
       "jZVZYAWcQdw | [VIDEO]_21/11/26_09:40_BANDESPORTES_88m31s_[AO VIVO] SAIL GP - ETAPA DE DUBAI   21/11/2026 - DIA 1",
@@ -1459,8 +1460,7 @@
       "TjJxMNpeGg8 | [VIDEO]_19/11/26_18:15_JOGOABERTO_5m47s_PALPITE: SÃO PAULO X FLUMINENSE E VASCO X INTER, PELO BRASILEIRÃO",
       "kDkSP47vhgY | [VIDEO]_19/11/26_18:00_JOGOABERTO_97m04s_FLAMENGO VENCE, PALMEIRAS PERDE E CORINTHIANS GOLEIA BOTAFOGO   REAPRESENTA",
       "JzFMyrL96KY | [VIDEO]_19/11/26_16:47_JOGOABERTO_5m53s_FLAMENGO VENCE ATHLETICO-PR E FICA BEM PERTO DO TÍTULO; JOGO ABERTO COMENTA",
-      "sI11m_6cLsQ | [VIDEO]_19/11/26_15:57_JOGOABERTO_6m56s_RONALDO EXALTA KAIO CÉSAR APÓS GOLEADA: “ELE FEZ A DIFERENÇA\"",
-      "KPPgEwdHF0I | [VIDEO]_19/11/26_15:55_JOGOABERTO_4m24s_SANTOS VENCE CORITIBA E SONHA COM A LIBERTADORES; JOGO ABERTO COMENTA"
+      "sI11m_6cLsQ | [VIDEO]_19/11/26_15:57_JOGOABERTO_6m56s_RONALDO EXALTA KAIO CÉSAR APÓS GOLEADA: “ELE FEZ A DIFERENÇA\""
     ]
   },
   {
@@ -1954,11 +1954,11 @@
     "rem": "TV EVANGELIZAR",
     "videoIds": [
       "l5eEU2i88J0",
-      "X54Hr7St4-E",
       "XkzTobdoEnA",
       "fNyAraLY8wI",
       "ULHz1Ja1Snc",
       "h8zQccqKJGs",
+      "X54Hr7St4-E",
       "FO2NtK8OZpE",
       "JsaY6yNF9bs",
       "Z9st-jzBfvs",
@@ -1988,11 +1988,11 @@
     "playlistId": "",
     "carimbos": [
       "l5eEU2i88J0 | ((LIVE))_21/11/26_10:02_TVEVANGELIZAR_Santa Missa em honra de Nossa Senhora da Apresentação - Maceió RN   21/11/2",
-      "X54Hr7St4-E | [VIDEO]_21/11/26_09:30_TVEVANGELIZAR_28m49s_MESCS   Lumen Jovem com Mateus Moraes   21/11/26",
       "XkzTobdoEnA | [VIDEO]_21/11/26_06:00_TVEVANGELIZAR_35m10s_Sábado: Mistérios Gozosos   21/11/26   Terço Mariano com  @PadreManzottiOfi",
       "fNyAraLY8wI | [VIDEO]_21/11/26_04:00_TVEVANGELIZAR_19m34s_Oração da Manhã   21/11/2026   com @PadreManzottiOficial",
       "ULHz1Ja1Snc | [VIDEO]_21/11/26_03:09_TVEVANGELIZAR_182m11s_Rosário da Meia-Noite + Ligados pela Fé   21/11/26",
       "h8zQccqKJGs | [VIDEO]_21/11/26_04:04_TVEVANGELIZAR_56m21s_ADORAÇÃO AO SANTÍSSIMO DA MADRUGADA   21/11/26",
+      "X54Hr7St4-E | [VIDEO]_21/11/26_09:30_TVEVANGELIZAR_28m49s_MESCS   Lumen Jovem com Mateus Moraes   21/11/26",
       "FO2NtK8OZpE | [VIDEO]_20/11/26_14:55_TVEVANGELIZAR_6m38s_Comportamento do cristão na Igreja   YouCat _Ando",
       "JsaY6yNF9bs | [VIDEO]_20/11/26_17:00_TVEVANGELIZAR_19m17s_Dia da Consciência Negra amplia debate sobre igualdade racial    20/11/26",
       "Z9st-jzBfvs | [VIDEO]_20/11/26_22:02_TVEVANGELIZAR_55m21s_NOVENA DE NOSSA SENHORA DAS GRAÇAS   DIA 5   Clamor da Noite com William Te",
@@ -2105,6 +2105,8 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "Ns5e5jKTh0s",
+      "g4AWrRnfBKs",
       "z7cPPMdISCM",
       "QZrUvi5JUcU",
       "QKlDRidARog",
@@ -2132,13 +2134,13 @@
       "0o7jLEjQDE4",
       "PGJdohJOZD4",
       "3tOy5IcizwI",
-      "ROootR2Fm58",
-      "sPm7ZWdWlZs",
-      "wYMtwmTVa6c"
+      "ROootR2Fm58"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "Ns5e5jKTh0s | [VIDEO]_21/11/26_10:40_RECORDCABOVERDE_7m35s_A FAZENDA:Bissoli diz que nunca entendeu rivalidade com Tina e critica peoa",
+      "g4AWrRnfBKs | [VIDEO]_21/11/26_10:30_RECORDCABOVERDE_8m09s_A FAZENDA: Barão da piscadinha! Bissoli fala sobre flertes com peoas   Cabi",
       "z7cPPMdISCM | [VIDEO]_21/11/26_10:20_RECORDCABOVERDE_4m23s_A FAZENDA: Bissoli explica afastamento de Renata e comenta sentimentos da a",
       "QZrUvi5JUcU | [VIDEO]_20/11/26_15:50_RECORDCABOVERDE_5m19s_Jovem é encontrada morta após fugir para mata durante perseguição do ex em",
       "QKlDRidARog | [VIDEO]_20/11/26_17:10_RECORDCABOVERDE_4m02s_REIS - A ESPERANÇA: Asa retira o título de rainha de Maaca e surpreende o p",
@@ -2166,9 +2168,7 @@
       "0o7jLEjQDE4 | [VIDEO]_20/11/26_12:50_RECORDCABOVERDE_6m42s_A FAZENDA: No Fuzenda,Murilo nega fazer parte da Alcateia ‘Nunca fui um lob",
       "PGJdohJOZD4 | [VIDEO]_20/11/26_12:40_RECORDCABOVERDE_5m33s_A FAZENDA: Peões fazem campanha por Darlin e irritam Fran e Bissoli",
       "3tOy5IcizwI | [VIDEO]_20/11/26_12:30_RECORDCABOVERDE_8m25s_A FAZENDA: Ana deixa Erthal de fora das tarefas do trato dos animais",
-      "ROootR2Fm58 | [VIDEO]_20/11/26_12:20_RECORDCABOVERDE_4m11s_A FAZENDA: Alfredo,Bissoli e Darlin apostam que Thaíde não chegará ao Top 1",
-      "sPm7ZWdWlZs | [VIDEO]_20/11/26_12:00_RECORDCABOVERDE_7m25s_ACERTA OU CAIA: Jogo inédito! Gêmeas Bia e Branca disputam prêmio do episód",
-      "wYMtwmTVa6c | [VIDEO]_20/11/26_11:50_RECORDCABOVERDE_7m43s_ACERTA OU CAIA: Mônica tenta tirar Bia da liderança"
+      "ROootR2Fm58 | [VIDEO]_20/11/26_12:20_RECORDCABOVERDE_4m11s_A FAZENDA: Alfredo,Bissoli e Darlin apostam que Thaíde não chegará ao Top 1"
     ]
   },
   {
