@@ -10,8 +10,8 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
-      "9W14ZEQ2aqg",
       "Jjxv2oqaWAM",
+      "9W14ZEQ2aqg",
       "hmXUvhnGtKc",
       "riPZhO3Lk-0",
       "0xQnVK1FEIY",
@@ -43,8 +43,8 @@
     ],
     "playlistId": "",
     "carimbos": [
-      "9W14ZEQ2aqg | [VIDEO]_21/11/26_00:06_GLOBONEWS_6m19s_Beleza negra movimenta mercado milionário no Brasil",
       "Jjxv2oqaWAM | [VIDEO]_21/11/26_09:48_GLOBONEWS_8m42s_Casos de Covid-19 aumentam no Brasil e Rio de Janeiro está em nível de aler",
+      "9W14ZEQ2aqg | [VIDEO]_21/11/26_00:06_GLOBONEWS_6m19s_Beleza negra movimenta mercado milionário no Brasil",
       "hmXUvhnGtKc | [VIDEO]_20/11/26_22:54_GLOBONEWS_6m35s_Acordo entre Reino Unido e UE confirma o fracasso do Brexit, diz Fernando A",
       "riPZhO3Lk-0 | [VIDEO]_20/11/26_17:26_GLOBONEWS_10m31s_'Por Você': cena de médico e menino negro em novela viraliza",
       "0xQnVK1FEIY | [VIDEO]_20/11/26_11:30_GLOBONEWS_13m08s_Desigualdade racial na educação reflete no mercado de trabalho e na renda",
@@ -220,8 +220,8 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "VjPCL4Ydloo",
-      "Qb8P_WEY37E",
       "fOB9ahzgE48",
+      "Qb8P_WEY37E",
       "jNr4_DxYb7M",
       "izn5ae7s_4w",
       "Gn8WIiyWaN4",
@@ -254,8 +254,8 @@
     "playlistId": "",
     "carimbos": [
       "VjPCL4Ydloo | ((LIVE))_21/11/26_15:19_CNNBRASIL_AO VIVO: Buenos Aires: A nova gastronomia portenha   CNN Viagem & Gastronom",
+      "fOB9ahzgE48 | [VIDEO]_21/11/26_15:32_CNNBRASIL_54m15s_AO VIVO: CNN SÉRIES ORIGINAIS - CIRCUIT BREAKER \"DIGITALIZAÇÃO\"   21/11/202",
       "Qb8P_WEY37E | [VIDEO]_21/11/26_15:23_CNNBRASIL_15m27s_Quarta morte é confirmada após tempestade em Tupanciretã (RS), diz hospital",
-      "fOB9ahzgE48 | [VIDEO]_20/11/26_18:11_CNNBRASIL_54m00s_AO VIVO: CNN SÉRIES ORIGINAIS - CIRCUIT BREAKER \"DIGITALIZAÇÃO\"   21/11/202",
       "jNr4_DxYb7M | [VIDEO]_21/11/26_12:33_CNNBRASIL_7m27s_“Precisamos ter cuidado”, diz Gilmar sobre reforma no Judiciário   CNN AGOR",
       "izn5ae7s_4w | [VIDEO]_21/11/26_10:25_CNNBRASIL_4m30s_Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
       "Gn8WIiyWaN4 | [VIDEO]_21/11/26_09:59_CNNBRASIL_7m48s_PGR avalia se relatórios da PF sobre ministros justificam investigação   CN",
@@ -360,6 +360,7 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "U5ceGlv_9fA",
+      "1DUUy2QIagg",
       "fBs4SbQMjio",
       "GChbo-zG78k",
       "y1vXHwdPZrk",
@@ -387,13 +388,13 @@
       "vqBWcc45ngs",
       "yLEWe6PF9bI",
       "dEwY9lIAuVo",
-      "-cBqBbLLDRc",
-      "q7JnILtbuFs"
+      "-cBqBbLLDRc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "U5ceGlv_9fA | ((LIVE))_21/11/26_14:55_JOVEMPANNEWS_FAST NEWS - 2° EDIÇÃO - 20/11/26",
+      "1DUUy2QIagg | [VIDEO]_21/11/26_15:41_JOVEMPANNEWS_16m30s_Dólar, ajuste fiscal no Brasil e queda global na bolsa; Álvaro Bandeira ana",
       "fBs4SbQMjio | [VIDEO]_21/11/26_15:14_JOVEMPANNEWS_6m49s_Pacote de ajuste fiscal segue para votação na Câmara dos Deputados nesta se",
       "GChbo-zG78k | [VIDEO]_21/11/26_14:09_JOVEMPANNEWS_4m20s_México captura narcotraficante que está entre os dez mais procurados pelo F",
       "y1vXHwdPZrk | [VIDEO]_21/11/26_14:04_JOVEMPANNEWS_6m52s_“Pacote não teria o tamanho desejado para resolver o problema”, diz economi",
@@ -421,18 +422,17 @@
       "vqBWcc45ngs | [VIDEO]_20/11/26_20:46_JOVEMPANNEWS_7m04s_Moraes afirma que fuga de Flávio Bolsonaro tenta obstruir investigação",
       "yLEWe6PF9bI | [VIDEO]_20/11/26_20:34_JOVEMPANNEWS_10m44s_PF não identifica diálogos entre Mendonça e Vorcaro",
       "dEwY9lIAuVo | [VIDEO]_20/11/26_20:02_JOVEMPANNEWS_4m15s_Tomografia de Jair Bolsonaro constata obstrução quase total do intestino de",
-      "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta",
-      "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs"
+      "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta"
     ]
   },
   {
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
-      "8YtCCXXrz2g",
       "Kp7q3KEWnZg",
       "MlwWIHc9Ifw",
       "awWeaqmW0fg",
+      "8YtCCXXrz2g",
       "AOepJ8vITf0",
       "44-lBQ2TY54",
       "a9iYtFrEadI",
@@ -461,10 +461,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "8YtCCXXrz2g | [VIDEO]_21/11/26_10:30_FALABRASIL_6m03s_Mulheres Positivas: Empreendedora transforma paixão por ginástica em academ",
       "Kp7q3KEWnZg | [VIDEO]_21/11/26_09:45_FALABRASIL_10m41s_Feriado prolongado e calorão lotam praias brasileiras neste sábado (21)",
       "MlwWIHc9Ifw | [VIDEO]_21/11/26_01:14_JORNALDARECORD_11m38s_Estado de saúde de Jair Bolsonaro volta a gerar preocupação",
       "awWeaqmW0fg | [VIDEO]_21/11/26_10:33_FALABRASIL_5m21s_Fala Brasil acompanha Chá Revelação em praia do Rio de Janeiro",
+      "8YtCCXXrz2g | [VIDEO]_21/11/26_10:30_FALABRASIL_6m03s_Mulheres Positivas: Empreendedora transforma paixão por ginástica em academ",
       "AOepJ8vITf0 | [VIDEO]_20/11/26_22:47_JORNALDARECORD_53m00s_Assista à íntegra do Jornal da Record   20/11/2026",
       "44-lBQ2TY54 | [VIDEO]_20/11/26_22:13_RECORD/DOMINGOESPETACULAR/BALANÇOGERAL_26m38s_Dizi Cast #40   Asya entrou no jogo da Derin! Veja o desfecho da melhor sem",
       "a9iYtFrEadI | [VIDEO]_20/11/26_12:13_HOJEEMDIA_6m25s_Casos de roubos e sequestros aumentam entre entregadores no Brasil",
@@ -695,8 +695,9 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
-      "T7COI7OkRNU",
+      "Q947xtK2Q3U",
       "mHKMOphlKhI",
+      "T7COI7OkRNU",
       "SDDGyYU4xRg",
       "i4dL41HFZkw",
       "h4kgX-wv34A",
@@ -723,14 +724,14 @@
       "1wLZTe8enOU",
       "EvK17k5P2_0",
       "lj0cGWtqBH4",
-      "2DcjxxJLB0s",
-      "0jyNlp9zjRU"
+      "2DcjxxJLB0s"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "T7COI7OkRNU | ((LIVE))_21/11/26_15:08_CBNBRASIL_Jornal da CBN - 17/10/2026",
+      "Q947xtK2Q3U | ((LIVE))_21/11/26_15:35_CBNBRASIL_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
       "mHKMOphlKhI | ((LIVE))_21/11/26_15:05_CBNBRASIL_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU",
+      "T7COI7OkRNU | [VIDEO]_16/11/26_11:21_RÁDIOCBN_25m28s_Jornal da CBN - 17/10/2026",
       "SDDGyYU4xRg | [VIDEO]_20/11/26_15:29_RÁDIOCBN_182m13s_Revista CBN - 21/11/2026",
       "i4dL41HFZkw | [VIDEO]_21/11/26_12:08_CBNBRASIL_178m11s_CBN Noite Total - 20/11/2026",
       "h4kgX-wv34A | [VIDEO]_20/11/26_15:27_RÁDIOCBN_116m53s_CBN São Paulo - 21/11/2026",
@@ -757,8 +758,7 @@
       "1wLZTe8enOU | [VIDEO]_20/11/26_18:07_CBNBRASIL_58m50s_CBN Primeiras Notícias - 20/11/2026",
       "EvK17k5P2_0 | [VIDEO]_20/11/26_17:24_CBNBRASIL_4m43s_Jair Bolsonaro é levado para hospital após sentir fortes dores abdominais,",
       "lj0cGWtqBH4 | [VIDEO]_20/11/26_17:21_CBNBRASIL_4m46s_Relatório da PF aponta que não foi encontrada nenhuma mensagem entre Mendon",
-      "2DcjxxJLB0s | [VIDEO]_20/11/26_17:21_CBNBRASIL_181m25s_Estúdio CBN - 20/11/2026",
-      "0jyNlp9zjRU | [VIDEO]_20/11/26_17:00_CBNBRASIL_24m28s_CBN AUTOESPORTE: fomos à CHINA descobrir os planos do GRUPO CHERY para o BR"
+      "2DcjxxJLB0s | [VIDEO]_20/11/26_17:21_CBNBRASIL_181m25s_Estúdio CBN - 20/11/2026"
     ]
   },
   {
@@ -766,11 +766,11 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "jTxhpnXb8ts",
-      "f4qKnhpsCdg",
       "H9NHj2C7M2Y",
       "wpdlOXwRUV8",
       "QKjOoG8L9YA",
       "j9F4QnLHNCA",
+      "f4qKnhpsCdg",
       "f3dHER8bOVU",
       "AIxVicGduRc",
       "ptFy0GpiK2Q",
@@ -800,11 +800,11 @@
     "playlistId": "",
     "carimbos": [
       "jTxhpnXb8ts | ((LIVE))_21/11/26_14:00_REVISTAOESTE_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   SÁBADO 21/11/26",
-      "f4qKnhpsCdg | [VIDEO]_21/11/26_09:05_REVISTAOESTE_4m50s_Alimentação e hábitos protegem saúde do cérebro após os 40 anos   AFA, com",
       "H9NHj2C7M2Y | [VIDEO]_21/11/26_09:30_REVISTAOESTE_9m38s_Populismo do governo Lula promove onda de demissões no mercado",
       "wpdlOXwRUV8 | [VIDEO]_21/11/26_10:00_REVISTAOESTE_117m54s_DE LESTE A OESTE - 20/11/2026   CRISTÃOS SOB PERSEGUIÇÃO - UMA TRAGÉDIA DE",
       "QKjOoG8L9YA | [VIDEO]_21/11/26_12:50_REVISTAOESTE_4m43s_Sabina diz que estilo de vida é mais determinante que genética na demência",
       "j9F4QnLHNCA | [VIDEO]_21/11/26_11:45_REVISTAOESTE_20m00s_OESTE EM REVISTA, COM BRANCA NUNES - Matéria edição 350, por Dagomir Marque",
+      "f4qKnhpsCdg | [VIDEO]_21/11/26_09:05_REVISTAOESTE_4m50s_Alimentação e hábitos protegem saúde do cérebro após os 40 anos   AFA, com",
       "f3dHER8bOVU | [VIDEO]_20/11/26_22:41_REVISTAOESTE_126m41s_DE LESTE A OESTE - 20/11/2026   CRISTÃOS SOB PERSEGUIÇÃO - UMA TRAGÉDIA DE",
       "AIxVicGduRc | [VIDEO]_20/11/26_22:30_REVISTAOESTE_10m46s_Economistas analisam o buraco econômico que Lula jogou o Brasil",
       "ptFy0GpiK2Q | [VIDEO]_20/11/26_21:50_REVISTAOESTE_10m45s_MASTER: Presidente do BC afirma que alertou PF sobre risco de fuga de Vorca",
@@ -835,11 +835,11 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "Ko1CyQ8Uo10",
       "WAn-SLt3eho",
       "swaBkF1gN9U",
       "YisLHTWyXBU",
       "ecPPoMgsLXk",
+      "Ko1CyQ8Uo10",
       "gymmSGdzyqo",
       "gz4Bdh4j78o",
       "HvGM5_x_Qro",
@@ -869,11 +869,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Ko1CyQ8Uo10 | [VIDEO]_21/11/26_06:04_METRÓPOLES_61m30s_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
       "WAn-SLt3eho | [VIDEO]_21/11/26_12:24_METRÓPOLES_14m42s_Íntegra: relator do projeto de ajuste fiscal se reúne com o PL na segunda-f",
       "swaBkF1gN9U | [VIDEO]_21/11/26_12:04_METRÓPOLES_59m11s_Atualizações sobre a saúde de Bolsonaro   Velório de Gabriel Félix será pri",
       "YisLHTWyXBU | [VIDEO]_21/11/26_11:32_METRÓPOLES_3m59s_Bolsonaro pode passar por nova cirurgia após internação; saiba atualizações",
       "ecPPoMgsLXk | [VIDEO]_21/11/26_01:26_METRÓPOLES_18m14s_Lula reage ao mercado, à imprensa, critica tentativa de ganhos por \"boatari",
+      "Ko1CyQ8Uo10 | [VIDEO]_21/11/26_06:04_METRÓPOLES_61m30s_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
       "gymmSGdzyqo | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m34s_Joice Hasselmann revela que faz parte de um processo de criação de um novo",
       "gz4Bdh4j78o | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m47s_Joice Hasselmann explica denúncia de invasão ao seu apartamento",
       "HvGM5_x_Qro | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m25s_Joice Hasselmann expõe os motivos do rompimento com Carla Zambelli",
@@ -1723,8 +1723,8 @@
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [
-      "c7Q3S6bMuG8",
       "B1mRgmWWwD8",
+      "c7Q3S6bMuG8",
       "oIuupOu2sMY",
       "yeH5FffwGFQ",
       "4h5t6M9BUpY",
@@ -1743,8 +1743,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "B1mRgmWWwD8 | [VIDEO]_21/11/26_14:12_ACELERADOS_98m11s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 1 - INTERLAGOS (SP) - Sábado (21/11) -",
+      "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "oIuupOu2sMY | [VIDEO]_18/11/26_19:00_ACELERADOS_21m35s_O CARRO DA LUCIA E DO JASON DO GTA VI E DODGE VIPER SR I 1993 NA VOLTA RÁPI",
       "yeH5FffwGFQ | [VIDEO]_17/11/26_18:30_ACELERADOS_12m08s_DODGE DAKOTA V8 X RAM DAKOTA DIESEL! Quem leva o duelo de gerações da picap",
       "4h5t6M9BUpY | [VIDEO]_16/11/26_18:23_ACELERADOS_21m28s_GERSON VENCE AS DUAS CORRIDAS DA PORSCHE CUP na preliminar da F1 em disputa",
