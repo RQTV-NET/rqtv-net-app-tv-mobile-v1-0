@@ -254,7 +254,7 @@
     "playlistId": "",
     "carimbos": [
       "ITjXg0bFTLg | ((LIVE))_21/11/26_05:51_CNNBRASIL_AO VIVO: CNN NEWSROOM - 21/11/2026",
-      "B5f7YF6CYcc | [VIDEO]_20/11/26_18:20_CNNBRASIL_397m49s_AO VIVO: CNN MADRUGADA - 21/11/2026",
+      "B5f7YF6CYcc | [VIDEO]_21/11/26_06:19_CNNBRASIL_398m04s_AO VIVO: CNN MADRUGADA - 21/11/2026",
       "Nf5z4mtMz-k | [VIDEO]_21/11/26_00:01_CNNBRASIL_13m01s_Qual o impacto de julgamento sobre dosimetria ainda em 2026?   O GRANDE DEB",
       "zw6U8gBCqq0 | [VIDEO]_20/11/26_23:46_CNNBRASIL_7m37s_Fim da escala 6x1 é avanço ou desafio econômico?   O GRANDE DEBATE",
       "eZrXwRmjgXU | [VIDEO]_20/11/26_23:34_CNNBRASIL_17m12s_Análise: Trump tenta proteger EUA ao proibir datacenters fora de território",
@@ -489,6 +489,7 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
+      "4RJbfhZTgIU",
       "El7mHVvpmvA",
       "W5YYo-ECL_E",
       "n-Ssmm56dk8",
@@ -517,12 +518,12 @@
       "Q29f915RV_0",
       "mm-juuPTmZk",
       "HvJK_isos3U",
-      "hXwqlAXL_BA",
-      "38CDknRQbTU"
+      "hXwqlAXL_BA"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "4RJbfhZTgIU | [VIDEO]_21/11/26_06:30_BANDPAULISTA_25m23s_AGRO BAND - 21/11/2026   Band Paulista",
       "El7mHVvpmvA | [VIDEO]_21/11/26_02:17_BANDPAULISTA_49m17s_[AO VIVO] Os Donos da Bola Regional - 20/11/2026   Band Paulista",
       "W5YYo-ECL_E | [VIDEO]_21/11/26_01:15_BANDJORNALISMO_80m05s_[AO VIVO] JORNAL DA NOITE - 20/11/2026",
       "n-Ssmm56dk8 | [VIDEO]_21/11/26_01:05_BANDJORNALISMO_5m27s_Vinhos do cerrado ganham prêmios e impulsionam turismo no Distrito Federal",
@@ -551,8 +552,7 @@
       "Q29f915RV_0 | [VIDEO]_20/11/26_09:52_BANDJORNALISMO_4m05s_Rio de Janeiro recebe turistas e tem praias lotadas no feriado   Bora Brasi",
       "mm-juuPTmZk | [VIDEO]_20/11/26_09:27_BANDJORNALISMO_4m19s_Navio Sirius: pesquisa impulsionou agro e biodiversidade",
       "HvJK_isos3U | [VIDEO]_20/11/26_09:10_BANDJORNALISMO_4m41s_Criação de coelhos: produção de carne tem espaço para crescer   AgroBand",
-      "hXwqlAXL_BA | [VIDEO]_20/11/26_09:04_BANDJORNALISMO_4m19s_Cafeicultura: produção cresce e diversifica lavouras em Roraima   AgroBand",
-      "38CDknRQbTU | [VIDEO]_20/11/26_08:43_BANDJORNALISMO_26m23s_[AO VIVO] AGROBAND - 20/11/2026"
+      "hXwqlAXL_BA | [VIDEO]_20/11/26_09:04_BANDJORNALISMO_4m19s_Cafeicultura: produção cresce e diversifica lavouras em Roraima   AgroBand"
     ]
   },
   {
@@ -700,9 +700,9 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "OOPtOD_n4TE",
-      "uNO5Q0mwKE4",
       "-1qlEasLZEc",
       "ZIs4NUavQTA",
+      "uNO5Q0mwKE4",
       "i4dL41HFZkw",
       "A6FI2R0LYOI",
       "mGdYJuLTtg8",
@@ -734,9 +734,9 @@
     "playlistId": "",
     "carimbos": [
       "OOPtOD_n4TE | ((LIVE))_21/11/26_06:04_CBNBRASIL_Jornal da CBN - 21/11/2026",
-      "uNO5Q0mwKE4 | [VIDEO]_21/11/26_02:14_CBNBRASIL_117m17s_CBN Brasil - 20/11/2026",
       "-1qlEasLZEc | [VIDEO]_21/11/26_01:27_CBNBRASIL_173m07s_CBN São Paulo - 20/11/2026",
       "ZIs4NUavQTA | [VIDEO]_21/11/26_01:11_CBNBRASIL_6m46s_PF indica que Mendonça não trocou mensagens com Vorcaro; temporal deixa trê",
+      "uNO5Q0mwKE4 | [VIDEO]_21/11/26_02:14_CBNBRASIL_117m17s_CBN Brasil - 20/11/2026",
       "i4dL41HFZkw | [VIDEO]_20/11/26_15:24_RÁDIOCBN_177m47s_CBN Noite Total - 20/11/2026",
       "A6FI2R0LYOI | [VIDEO]_20/11/26_20:43_CBNBRASIL_20m44s_'Não quero vender minha alma para um contrato': Jeniffer Nascimento explica",
       "mGdYJuLTtg8 | [VIDEO]_20/11/26_20:35_CBNBRASIL_4m54s_'Eu não esperava': Jeniffer Nascimento revela que se surpreendeu com a pers",
