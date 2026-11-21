@@ -1088,12 +1088,12 @@
       "RjzEIqqYrc4",
       "T1efkRIfyJM",
       "q-abbpI42es",
-      "DbfDfSDShlg",
       "RkqTJhSr9e0",
       "OMN2eqS5y5c",
       "4LFUJtqboY4",
       "FbuudNa7ako",
       "kvCWpIAf5bk",
+      "DbfDfSDShlg",
       "PD777Apbnls",
       "uj3ua2ddfsc",
       "d86cfzSyLMQ",
@@ -1122,12 +1122,12 @@
       "RjzEIqqYrc4 | ((LIVE))_21/11/26_16:30_CAZÉTV_AO VIVO (SOM AMBIENTE): STRASBOURG X STADE BRESTOIS   LIGUE 1 26/27   11ª R",
       "T1efkRIfyJM | ((LIVE))_21/11/26_16:05_CAZÉTV_AO VIVO: MÔNACO X AUXERRE   LIGUE 1 26/27   11ª RODADA",
       "q-abbpI42es | ((LIVE))_21/11/26_13:29_CAZÉTV_AO VIVO: REAL MADRID X CELTA   LALIGA 26/27   13ª RODADA",
-      "DbfDfSDShlg | [VIDEO]_21/11/26_16:03_CAZÉTV_15m00s_COMPACTO: NICE 2 X 3 PARIS SAINT-GERMAIN   LIGUE 1 26/27   11ª RODADA",
       "RkqTJhSr9e0 | [VIDEO]_21/11/26_15:44_CAZÉTV_5m44s_MELHORES MOMENTOS: NICE 2 X 3 PARIS SAINT-GERMAIN   LIGUE 1 26/27   11ª ROD",
       "OMN2eqS5y5c | [VIDEO]_21/11/26_15:25_CAZÉTV_168m37s_JOGO COMPLETO: NICE X PARIS SAINT-GERMAIN   LIGUE 1 26/27   11ª RODADA",
       "4LFUJtqboY4 | [VIDEO]_21/11/26_15:09_CAZÉTV_5m28s_MELHORES MOMENTOS: RAYO VALLECANO 0 x 1 VALENCIA   LALIGA 26/27   13ª RODAD",
       "FbuudNa7ako | [VIDEO]_21/11/26_14:37_CAZÉTV_5m18s_MELHORES MOMENTOS: BRASIL 2 X 1 IRLANDA   COPA DO MUNDO SUB-17 2026   1ª RO",
       "kvCWpIAf5bk | [VIDEO]_21/11/26_14:19_CAZÉTV_131m09s_JOGO COMPLETO: RAYO VALLECANO X VALENCIA   LALIGA 26/27   13ª RODADA",
+      "DbfDfSDShlg | [VIDEO]_21/11/26_16:03_CAZÉTV_15m00s_COMPACTO: NICE 2 X 3 PARIS SAINT-GERMAIN   LIGUE 1 26/27   11ª RODADA",
       "PD777Apbnls | [VIDEO]_21/11/26_14:04_CAZÉTV_5m49s_MELHORES MOMENTOS: UNION BERLIN 1 X 5 RB LEIPZIG   BUNDESLIGA 26/27   10ª R",
       "uj3ua2ddfsc | [VIDEO]_21/11/26_14:01_CAZÉTV_159m50s_JOGO COMPLETO: BRASIL X IRLANDA   COPA DO MUNDO SUB-17 2026   1ª RODADA",
       "d86cfzSyLMQ | [VIDEO]_21/11/26_13:31_CAZÉTV_155m54s_JOGO COMPLETO: UNION BERLIN X RB LEIPZIG   BUNDESLIGA 26/27   10ª RODADA",
@@ -1155,9 +1155,9 @@
     "videoIds": [
       "waVMxopbyKI",
       "Jb8_tiAM5Rk",
-      "1UREXmd7H_Q",
       "MOi1Rs0Q5BY",
       "qyPe3Zkdzx0",
+      "1UREXmd7H_Q",
       "yEWT7BKJIM0",
       "3EHUDi_oFTA",
       "CbtaDJWmOmo",
@@ -1189,9 +1189,9 @@
     "carimbos": [
       "waVMxopbyKI | ((LIVE))_21/11/26_15:45_GETV_AO VIVO: SÃO JOSÉ X CRUZEIRO   SUPERLIGA MASCULINA 2026/27   ge tv",
       "Jb8_tiAM5Rk | ((LIVE))_21/11/26_14:30_GETV_PALMEIRAS X FLAMENGO   AO VIVO E COM IMAGENS   BRASILEIRÃO 2026   ge tv",
-      "1UREXmd7H_Q | [VIDEO]_21/11/26_14:34_GETV_120m08s_PALMEIRAS X FLAMENGO   RELEMBRE OS ÚLTIMOS CONFRONTOS PELO BRASILEIRÃO!   g",
       "MOi1Rs0Q5BY | [VIDEO]_21/11/26_14:08_GETV_4m13s_BRASIL 2 X 1 IRLANDA   MELHORES MOMENTOS   COPA DO MUNDO SUB-17   sportv",
       "qyPe3Zkdzx0 | [VIDEO]_21/11/26_02:38_GETV_3m59s_MAX VERSTAPPEN HERDA POLE DE ANTONELLI E SAI NA FRENTE NO GP DE LAS VEGAS",
+      "1UREXmd7H_Q | [VIDEO]_21/11/26_14:34_GETV_120m08s_PALMEIRAS X FLAMENGO   RELEMBRE OS ÚLTIMOS CONFRONTOS PELO BRASILEIRÃO!   g",
       "yEWT7BKJIM0 | [VIDEO]_20/11/26_21:00_GETV_158m13s_JOGO COMPLETO: GOIÁS X MONTES CLAROS   SUPERLIGA MASCULINA DE VÔLEI 2026/27",
       "3EHUDi_oFTA | [VIDEO]_20/11/26_17:00_GETV_4m44s_SELEÇÃO FEMININA ENCARA O JAPÃO EM AMISTOSO   Olho Nelas   sportv",
       "CbtaDJWmOmo | [VIDEO]_20/11/26_01:16_GETV_230m35s_AO VIVO: INDIANAPOLIS COLTS X HOUSTON TEXANS   NFL 2026/27   ge tv",
@@ -1257,6 +1257,7 @@
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
+      "bwjYGYSdv90",
       "fY2wmFsk3xE",
       "f7u3OgdP5TM",
       "gudFg4bDNcU",
@@ -1285,12 +1286,12 @@
       "OAYEJkPbY5M",
       "KmYRV20LEkc",
       "F7Gszm0FJjU",
-      "sI6Ej4AbYPk",
-      "0Hgzv0KvZqU"
+      "sI6Ej4AbYPk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "bwjYGYSdv90 | ((LIVE))_21/11/26_17:00_ESPNBRASIL_ATLÉTICO-MG X BOCA JUNIORS AO VIVO: FINAL DA SUL-AMERICANA   ABRE O JOGO E ",
       "fY2wmFsk3xE | [VIDEO]_21/11/26_16:54_ESPNBRASIL_6m16s_GREENWOOD FAZ NO ÚLTIMO LANCE E FENERBAHÇE EMPATA COM KOCAELISPOR NO TURCO ",
       "f7u3OgdP5TM | [VIDEO]_21/11/26_16:45_ESPNBRASIL_11m27s_WESLEY DÁ ASSISTÊNCIA, MALEN FAZ 4 GOLS E ROMA GOLEIA O PARMA FORA DE CASA ",
       "gudFg4bDNcU | [VIDEO]_21/11/26_16:33_ESPNBRASIL_10m29s_JOGAÇO! ALCARAZ VIRA CONTRA SHELTON E ESTÁ NA FINAL DO ATP FINALS   MELHORE",
@@ -1319,8 +1320,7 @@
       "OAYEJkPbY5M | [VIDEO]_20/11/26_00:11_ESPNBRASIL_12m06s_COLETIVA FLUMINENSE: MARCÃO FALA APÓS JOGO CONTRA O SÃO PAULO PELO BRASILEI",
       "KmYRV20LEkc | [VIDEO]_20/11/26_01:04_ESPNBRASIL_91m36s_SÃO PAULO 0x1 FLUMINENSE: PÓS-JOGO   TUDO DE VASCO 2x1 INTERNACIONAL   LINH",
       "F7Gszm0FJjU | [VIDEO]_19/11/26_22:47_ESPNBRASIL_31m16s_COLETIVA DO VASCO AO VIVO: PEDRO EMANUEL FALA APÓS VITÓRIA CONTRA O INTERNA",
-      "sI6Ej4AbYPk | [VIDEO]_19/11/26_22:10_ESPNBRASIL_13m10s_COLETIVA INTERNACIONAL: EDUARDO BAPTISTA FALA APÓS JOGO CONTRA O VASCO PELO",
-      "0Hgzv0KvZqU | [VIDEO]_19/11/26_21:35_ESPNBRASIL_9m33s_AMÉRICA BRASILEÑA #2 - REGULAMENTO FAVORECEU BRASILEIROS E EXPLICA 'HEGEMON"
+      "sI6Ej4AbYPk | [VIDEO]_19/11/26_22:10_ESPNBRASIL_13m10s_COLETIVA INTERNACIONAL: EDUARDO BAPTISTA FALA APÓS JOGO CONTRA O VASCO PELO"
     ]
   },
   {
@@ -1329,10 +1329,10 @@
     "videoIds": [
       "yFTJApjN88w",
       "UJ4eMUxT1yY",
-      "7z8flDGd_9w",
       "CVrUbEFgl4I",
       "0F35cuTxWUA",
       "HeIZlUhTZJ4",
+      "7z8flDGd_9w",
       "IvVxAJr7TqY",
       "ExlOXaV9u0c",
       "T-w1xeL-mvA",
@@ -1363,10 +1363,10 @@
     "carimbos": [
       "yFTJApjN88w | ((LIVE))_21/11/26_16:13_JOVEMPANESPORTES_CORRIDA STR - 21/11/2026",
       "UJ4eMUxT1yY | ((LIVE))_21/11/26_13:05_JOVEMPANESPORTES_PALMEIRAS X FLAMENGO AO VIVO!   BRASILEIRÃO   21/11/2026",
-      "7z8flDGd_9w | [VIDEO]_21/11/26_13:32_JOVEMPANESPORTES_155m15s_BORUSSIA MÖNCHENGLADBACH X BORUSSIA DORTMUND   JOGO COMPLETO   BUNDESLIGA",
       "CVrUbEFgl4I | [VIDEO]_21/11/26_11:06_JOVEMPANESPORTES_142m01s_WOLFSBURG X HOLSTEIN KIEL   JOGO COMPLETO   BUNDESLIGA 2   12ª RODADA",
       "0F35cuTxWUA | [VIDEO]_21/11/26_10:30_JOVEMPANESPORTES_67m09s_MARCELO PORTUGAL GOUVÊA: \"O MEU PLANO para o SÃO PAULO é...\" ENTREVISTA com",
       "HeIZlUhTZJ4 | [VIDEO]_21/11/26_13:37_JOVEMPANESPORTES_8m03s_NOVO LÍDER! BORUSSIA DORTMUND VENCE COM FRANGO DO GOLEIRO E ULTRAPASSA O BA",
+      "7z8flDGd_9w | [VIDEO]_21/11/26_13:32_JOVEMPANESPORTES_155m15s_BORUSSIA MÖNCHENGLADBACH X BORUSSIA DORTMUND   JOGO COMPLETO   BUNDESLIGA",
       "IvVxAJr7TqY | [VIDEO]_20/11/26_13:30_JOVEMPANESPORTES_23m17s_\"FIQUEM ATENTOS! ISSO PODE DECIDIR O REBAIXAMENTO porque...\" GRENAL no Z4 e",
       "ExlOXaV9u0c | [VIDEO]_20/11/26_13:00_JOVEMPANESPORTES_31m39s_\"Os CARAS FICAM PU*** POR QUÊ??? O SÃO PAULO é um CLUBE TÓXICO! NÃO CHEGOU",
       "T-w1xeL-mvA | [VIDEO]_20/11/26_14:36_JOVEMPANESPORTES_13m16s_\"SINCERAMENTE?? Pra mim, o ATLÉTICO-MG contra o BOCA JUNIORS nessa FINAL NÃ",
@@ -1765,9 +1765,9 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
-      "SjukspevG4A",
       "LSSdfwohn1M",
       "Vz5ub-fCmmY",
+      "SjukspevG4A",
       "DFctKHBFC-M",
       "9mb7wUM5nX0",
       "Lf8bqHaAeHU",
@@ -1799,9 +1799,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "SjukspevG4A | [VIDEO]_21/11/26_08:16_TECHCIÊNCIA1B_43m16s_CLARÃO NO CÉU DA PARAÍBA!   Olhar Digital News   20/11/2026",
       "LSSdfwohn1M | [VIDEO]_21/11/26_14:00_TECHCIÊNCIA1D_14m42s_Quando a sua comida NÃO é real: o problema da IA nos apps de delivery",
       "Vz5ub-fCmmY | [VIDEO]_21/11/26_12:03_TECHCIÊNCIA1C_15m22s_O Cenário Sombrio do Brasil em 2050 Que a Inteligência Artificial Revelou",
+      "SjukspevG4A | [VIDEO]_21/11/26_08:16_TECHCIÊNCIA1B_43m16s_CLARÃO NO CÉU DA PARAÍBA!   Olhar Digital News   20/11/2026",
       "DFctKHBFC-M | [VIDEO]_20/11/26_21:40_TECHCIÊNCIA1A_19m00s_A BATALHA DE MIDWAY: JAPÃO X ESTADOS UNIDOS - SALA DE GUERRA",
       "9mb7wUM5nX0 | [VIDEO]_20/11/26_21:20_TECHCIÊNCIA1A_15m43s_JAPÃO CONTRA O MUNDO - SALA DE GUERRA",
       "Lf8bqHaAeHU | [VIDEO]_20/11/26_21:00_TECHCIÊNCIA1A_12m21s_O CONFLITO DO PACÍFICO: A OUTRA SEGUNDA GUERRA MUNDIAL - SALA DE GUERRA",
@@ -1835,6 +1835,7 @@
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
+      "R-ndjP27sFI",
       "8FTdhWEYayg",
       "oAvDp0GWkFk",
       "8pgHaCQt5bw",
@@ -1863,12 +1864,12 @@
       "RRTdub0zVlA",
       "MHFqX-uD9Tk",
       "WDVtKSHt10Y",
-      "U8AC-dTGY-k",
-      "2iv82hCm7UA"
+      "U8AC-dTGY-k"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "R-ndjP27sFI | ((LIVE))_21/11/26_17:00_TECHCIÊNCIA2A_A China está construindo o túnel ferroviário submarino mais longo do mundo",
       "8FTdhWEYayg | [VIDEO]_21/11/26_16:30_TECHCIÊNCIA2A_172m43s_Terremoto duplo na Costa Oeste ameaça os EUA, e cientistas estão preocupado",
       "oAvDp0GWkFk | [VIDEO]_21/11/26_12:00_TECHCIÊNCIA2C_27m11s_EUA x Irã: o que impede (ou não) um ataque nuclear",
       "8pgHaCQt5bw | [VIDEO]_21/11/26_11:26_TECHCIÊNCIA2A_9m49s_Por que ninguém estava preparado para o terremoto na Colômbia",
@@ -1897,16 +1898,15 @@
       "RRTdub0zVlA | [VIDEO]_18/11/26_17:00_TECHCIÊNCIA2A_90m58s_Esta pequena faixa de terra desencadeou o efeito dominó mais assustador da",
       "MHFqX-uD9Tk | [VIDEO]_18/11/26_15:00_TECHCIÊNCIA2A_134m57s_O Solo Sob Utah Está Se Partindo — Por Que Ninguém Fala Sobre Isso?",
       "WDVtKSHt10Y | [VIDEO]_18/11/26_13:30_TECHCIÊNCIA2A_120m49s_Cientistas dizem que o megalodonte era mais inteligente do que se imaginava",
-      "U8AC-dTGY-k | [VIDEO]_18/11/26_12:06_TECHCIÊNCIA2A_87m47s_Decágono gigante é descoberto em Saturno",
-      "2iv82hCm7UA | [VIDEO]_17/11/26_22:34_TECHCIÊNCIA2C_120m01s_2 HORAS DE CURIOSIDADES QUE VOCÊ NÃO SABIA 🤯🧠"
+      "U8AC-dTGY-k | [VIDEO]_18/11/26_12:06_TECHCIÊNCIA2A_87m47s_Decágono gigante é descoberto em Saturno"
     ]
   },
   {
     "numero": "90",
     "rem": "ARTE & CRIATIVIDADE",
     "videoIds": [
-      "E65W035r4fM",
       "F_bLCHSXzC4",
+      "E65W035r4fM",
       "8ApeDDDXgEo",
       "YambQkF9fMo",
       "qf597gEUqOQ",
@@ -1933,8 +1933,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "E65W035r4fM | [VIDEO]_21/11/26_14:00_IDEIASINCRÍVEIS_41m45s_⏱️ DICAS PARA PAIS NAS MANHÃS CORRIDAS: GANHE TEMPO 🔥",
       "F_bLCHSXzC4 | [VIDEO]_21/11/26_09:00_IDEIASINCRÍVEIS_129m44s_📱 Artesanatos arco-íris do TikTok: quais funcionam de verdade? 🌈",
+      "E65W035r4fM | [VIDEO]_21/11/26_14:00_IDEIASINCRÍVEIS_41m45s_⏱️ DICAS PARA PAIS NAS MANHÃS CORRIDAS: GANHE TEMPO 🔥",
       "8ApeDDDXgEo | [VIDEO]_19/11/26_09:00_IDEIASINCRÍVEIS_63m40s_✨ Artes simples com papel e papelão, com resultados incríveis 💡",
       "YambQkF9fMo | [VIDEO]_18/11/26_09:00_IDEIASINCRÍVEIS_68m12s_🌈 ARTESANATOS COLORIDOS COM RESINA EPÓXI E COLA QUENTE 🔥",
       "qf597gEUqOQ | [VIDEO]_17/11/26_14:00_IDEIASINCRÍVEIS_121m38s_💡 GADGETS INTELIGENTES PARA QUEM VIVE NA CORRERIA 😍",
@@ -1964,12 +1964,12 @@
     "rem": "TV EVANGELIZAR",
     "videoIds": [
       "QofwHyiPsaw",
-      "nwO_GPEQwTs",
       "2C0OPthVySk",
       "2E0VTtSFnPw",
       "l5eEU2i88J0",
       "KahtRFXNAGI",
       "YdiMmP-XXGM",
+      "nwO_GPEQwTs",
       "uOThITonumU",
       "bbIK0j3A4aU",
       "h8zQccqKJGs",
@@ -1998,12 +1998,12 @@
     "playlistId": "",
     "carimbos": [
       "QofwHyiPsaw | ((LIVE))_21/11/26_16:32_TVEVANGELIZAR_Santa Missa com Pe. Reginaldo Manzotti - Santuário Nossa Senhora Aparecida ",
-      "nwO_GPEQwTs | [VIDEO]_21/11/26_14:08_TVEVANGELIZAR_27m56s_MARANATHA COM DANILO DYBA   21/11/26",
       "2C0OPthVySk | [VIDEO]_21/11/26_13:30_TVEVANGELIZAR_17m35s_Se nos preparamos para uma festa, por que não para Deus?   Turma do Padre D",
       "2E0VTtSFnPw | [VIDEO]_21/11/26_13:15_TVEVANGELIZAR_5m18s_Oração da Tarde   21/11/26   com @PadreManzottiOficial",
       "l5eEU2i88J0 | [VIDEO]_21/11/26_15:12_TVEVANGELIZAR_85m46s_Santa Missa em honra de Nossa Senhora da Apresentação - Porto Calvo/AL   21",
       "KahtRFXNAGI | [VIDEO]_21/11/26_15:00_TVEVANGELIZAR_25m45s_Terço e 3º dia da Novena de Jesus das Santas Chagas   21/11/26",
       "YdiMmP-XXGM | [VIDEO]_21/11/26_14:30_TVEVANGELIZAR_26m06s_Vícios: prevenção e cuidado   Pastoral em Ação   21/11/26",
+      "nwO_GPEQwTs | [VIDEO]_21/11/26_14:08_TVEVANGELIZAR_27m56s_MARANATHA COM DANILO DYBA   21/11/26",
       "uOThITonumU | [VIDEO]_21/11/26_13:09_TVEVANGELIZAR_72m06s_Santa Missa do Meio-Dia   21/11/26",
       "bbIK0j3A4aU | [VIDEO]_21/11/26_11:30_TVEVANGELIZAR_23m18s_Pauta Aberta Entrevista: Rosa Maria - Prefeita de Pinhais   21/11/26",
       "h8zQccqKJGs | [VIDEO]_21/11/26_04:04_TVEVANGELIZAR_56m21s_ADORAÇÃO AO SANTÍSSIMO DA MADRUGADA   21/11/26",
@@ -2115,12 +2115,12 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
-      "HQnXoH0QNfk",
       "hA9epuksYdU",
       "D9TLo2e1gzk",
       "0hFH5pkvcy8",
       "YRl5ZbJ75RM",
       "0ZhuzwJUfe8",
+      "HQnXoH0QNfk",
       "vTHLTGcf674",
       "jEYY0462cNM",
       "VjBv_SC8v_M",
@@ -2149,12 +2149,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "HQnXoH0QNfk | [VIDEO]_21/11/26_15:00_RECORDCABOVERDE_12m11s_A HORA DA VENENOSA: Gabriel Félix, noivo de Bell Abreu, morre aos 29 anos a",
       "hA9epuksYdU | [VIDEO]_21/11/26_14:50_RECORDCABOVERDE_10m19s_Estudante de 19 anos desaparece a caminho do estágio; câmeras mostram Higor",
       "D9TLo2e1gzk | [VIDEO]_21/11/26_14:40_RECORDCABOVERDE_8m01s_Homem perde perna em acidente e motorista foge sem prestar socorro ele se e",
       "0hFH5pkvcy8 | [VIDEO]_21/11/26_14:00_RECORDCABOVERDE_11m01s_Gerente de RH denuncia calote de empresário após venda de carro no interior",
       "YRl5ZbJ75RM | [VIDEO]_21/11/26_13:50_RECORDCABOVERDE_4m47s_Skatista de 28 anos morre em acidente com ônibus na zona oeste de São Paulo",
       "0ZhuzwJUfe8 | [VIDEO]_21/11/26_15:40_RECORDCABOVERDE_5m05s_REIS - A ESPERANÇA: Asa e Azuba quase se beijam, mas decidem esperar pelo c",
+      "HQnXoH0QNfk | [VIDEO]_21/11/26_15:00_RECORDCABOVERDE_12m11s_A HORA DA VENENOSA: Gabriel Félix, noivo de Bell Abreu, morre aos 29 anos a",
       "vTHLTGcf674 | [VIDEO]_21/11/26_13:40_RECORDCABOVERDE_8m38s_Criminoso procurado por tráfico e roubos a bancos é executado com sobrinho",
       "jEYY0462cNM | [VIDEO]_21/11/26_13:30_RECORDCABOVERDE_7m20s_Reportagem do Dia: Guarda reage a assalto e troca tiros com criminosos no c",
       "VjBv_SC8v_M | [VIDEO]_21/11/26_12:50_RECORDCABOVERDE_5m39s_A FAZENDA: Renata desabafa com Erthal e Thaíde ‘Prefiro jogar só’",
