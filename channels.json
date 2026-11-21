@@ -184,7 +184,7 @@
     "playlistId": "",
     "carimbos": [
       "pn2P-PyKjp0 | ((LIVE))_21/11/26_07:56_SBTNEWS_NEWS SÁBADO (1ª EDIÇÃO)   21/11/2026",
-      "qT2RSVOciWI | [VIDEO]_19/11/26_06:51_SBTNEWS_547m21s_SBT NOTÍCIAS   21/11/2026",
+      "qT2RSVOciWI | [VIDEO]_21/11/26_08:25_SBTNEWS_547m21s_SBT NOTÍCIAS   21/11/2026",
       "eGInRRoBGvk | [VIDEO]_20/11/26_23:59_SBTNEWS_14m30s_Entidades patronais cobram clareza sobre decreto do fim da escala 6x1   #Ne",
       "t1RxektWizg | [VIDEO]_20/11/26_23:51_SBTNEWS_17m40s_Deputada Dandara Tonantzin debate políticas de igualdade racial no Brasil",
       "NXsQm_XuUoo | [VIDEO]_20/11/26_23:16_SBTJORNALISMO_81m08s_SBT Cidades: assista à edição na íntegra desta sexta-feira (20/11/2026)   #",
@@ -220,8 +220,8 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "ITjXg0bFTLg",
-      "B5f7YF6CYcc",
       "Nf5z4mtMz-k",
+      "B5f7YF6CYcc",
       "zw6U8gBCqq0",
       "eZrXwRmjgXU",
       "HFbMMnowuIE",
@@ -254,8 +254,8 @@
     "playlistId": "",
     "carimbos": [
       "ITjXg0bFTLg | ((LIVE))_21/11/26_05:51_CNNBRASIL_AO VIVO: CNN NEWSROOM - 21/11/2026",
-      "B5f7YF6CYcc | [VIDEO]_21/11/26_06:19_CNNBRASIL_398m04s_AO VIVO: CNN MADRUGADA - 21/11/2026",
       "Nf5z4mtMz-k | [VIDEO]_21/11/26_00:01_CNNBRASIL_13m01s_Qual o impacto de julgamento sobre dosimetria ainda em 2026?   O GRANDE DEB",
+      "B5f7YF6CYcc | [VIDEO]_21/11/26_06:19_CNNBRASIL_398m04s_AO VIVO: CNN MADRUGADA - 21/11/2026",
       "zw6U8gBCqq0 | [VIDEO]_20/11/26_23:46_CNNBRASIL_7m37s_Fim da escala 6x1 é avanço ou desafio econômico?   O GRANDE DEBATE",
       "eZrXwRmjgXU | [VIDEO]_20/11/26_23:34_CNNBRASIL_17m12s_Análise: Trump tenta proteger EUA ao proibir datacenters fora de território",
       "HFbMMnowuIE | [VIDEO]_20/11/26_23:32_CNNBRASIL_22m33s_QUAL O IMPACTO DE JULGAMENTO SOBRE DOSIMETRIA AINDA EM 2026?   O GRANDE DEB",
@@ -700,6 +700,7 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "OOPtOD_n4TE",
+      "tKTijJtlrPs",
       "uNO5Q0mwKE4",
       "JkZCWZZTptw",
       "-1qlEasLZEc",
@@ -715,7 +716,6 @@
       "zpToe-Ly1VA",
       "-A9ZmfMxBm0",
       "QzWXOiOzDWo",
-      "tKTijJtlrPs",
       "GJ6Km3FwgsM",
       "06MpOTXKij4",
       "1wLZTe8enOU",
@@ -734,6 +734,7 @@
     "playlistId": "",
     "carimbos": [
       "OOPtOD_n4TE | ((LIVE))_21/11/26_06:04_CBNBRASIL_Jornal da CBN - 21/11/2026",
+      "tKTijJtlrPs | [VIDEO]_21/11/26_08:17_CBNBRASIL_94m36s_Fim de Expediente recebe a atriz Jennifer Nascimento - 20/11/26",
       "uNO5Q0mwKE4 | [VIDEO]_21/11/26_02:14_CBNBRASIL_117m17s_CBN Brasil - 20/11/2026",
       "JkZCWZZTptw | [VIDEO]_21/11/26_06:38_CBNBRASIL_87m31s_Ponto Final CBN - 20/11/2026",
       "-1qlEasLZEc | [VIDEO]_21/11/26_01:27_CBNBRASIL_173m07s_CBN São Paulo - 20/11/2026",
@@ -749,7 +750,6 @@
       "zpToe-Ly1VA | [VIDEO]_20/11/26_20:15_CBNBRASIL_16m19s_Jeniffer Nascimento descobriu que queria ser artista assistindo ao Gugu: 'P",
       "-A9ZmfMxBm0 | [VIDEO]_20/11/26_20:05_CBNBRASIL_19m58s_Jeniffer Nascimento não acreditou ser a 2ª pessoa mais influente do país: '",
       "QzWXOiOzDWo | [VIDEO]_20/11/26_19:29_CBNBRASIL_8m26s_Vorcaro e Fábio Faria discutiram criar instituto para Alexandre de Moraes e",
-      "tKTijJtlrPs | [VIDEO]_19/11/26_13:02_RÁDIOCBN_94m19s_Fim de Expediente recebe a atriz Jennifer Nascimento - 20/11/26",
       "GJ6Km3FwgsM | [VIDEO]_20/11/26_19:00_CBNBRASIL_4m15s_PVC: Tem um monte de coisa que joga contra o Atlético-MG na final com o Boc",
       "06MpOTXKij4 | [VIDEO]_20/11/26_18:16_CBNBRASIL_39m55s_Panorama da Semana: o pacote fiscal, a escala 5x2 e a crise na PF",
       "1wLZTe8enOU | [VIDEO]_20/11/26_18:07_CBNBRASIL_58m50s_CBN Primeiras Notícias - 20/11/2026",
@@ -839,8 +839,8 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "ecPPoMgsLXk",
       "Ko1CyQ8Uo10",
+      "ecPPoMgsLXk",
       "gymmSGdzyqo",
       "gz4Bdh4j78o",
       "HvGM5_x_Qro",
@@ -873,8 +873,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "ecPPoMgsLXk | [VIDEO]_21/11/26_01:26_METRÓPOLES_18m14s_Lula reage ao mercado, à imprensa, critica tentativa de ganhos por \"boatari",
       "Ko1CyQ8Uo10 | [VIDEO]_21/11/26_06:04_METRÓPOLES_61m30s_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
+      "ecPPoMgsLXk | [VIDEO]_21/11/26_01:26_METRÓPOLES_18m14s_Lula reage ao mercado, à imprensa, critica tentativa de ganhos por \"boatari",
       "gymmSGdzyqo | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m34s_Joice Hasselmann revela que faz parte de um processo de criação de um novo",
       "gz4Bdh4j78o | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m47s_Joice Hasselmann explica denúncia de invasão ao seu apartamento",
       "HvGM5_x_Qro | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m25s_Joice Hasselmann expõe os motivos do rompimento com Carla Zambelli",
