@@ -220,6 +220,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "FjivCxRWjvM",
+      "HO0w8liqiYo",
       "_42SN6th-SE",
       "H8b9Ldc9GQ4",
       "Lh2D0YJ6nZE",
@@ -247,13 +248,13 @@
       "_mWcjSYRLKU",
       "pcMRMzfKLRo",
       "GSRY8ykHWCc",
-      "OBOyldVxKBo",
-      "Yeg-ziPPMtc"
+      "OBOyldVxKBo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "FjivCxRWjvM | ((LIVE))_22/11/26_09:20_CNNBRASIL_AO VIVO: BOLSONARO SEGUE INTERNADO EM UTI PELO TERCEIRO DIA - CNN AGORA MAN",
+      "HO0w8liqiYo | [VIDEO]_22/11/26_10:32_CNNBRASIL_10m01s_Paraná tem dois tornados em um único dia, confirma Simepar   CNN AGORA",
       "_42SN6th-SE | [VIDEO]_22/11/26_10:11_CNNBRASIL_5m10s_Unesp 2027:  mais de 65 mil estudantes fazem a 1ª fase neste domingo   CNN ",
       "H8b9Ldc9GQ4 | [VIDEO]_22/11/26_10:05_CNNBRASIL_9m32s_EL Niño vai continuar forte até início de 2027; especialista explica   CNN ",
       "Lh2D0YJ6nZE | [VIDEO]_22/11/26_09:55_CNNBRASIL_5m47s_Governo reconhece calamidade pública em Tupanciretã (RS) após temporal   CN",
@@ -281,8 +282,7 @@
       "_mWcjSYRLKU | [VIDEO]_21/11/26_17:20_CNNBRASIL_59m36s_BOLSONARO ESTÁ NA UTI COM ABDÔMEN OBSTRUÍDO, DIZ BOLETIM - CNN AGORA TARDE",
       "pcMRMzfKLRo | [VIDEO]_21/11/26_17:08_CNNBRASIL_3m57s_Ataque russo mata criança e profissional de saúde na Ucrânia, diz autoridad",
       "GSRY8ykHWCc | [VIDEO]_21/11/26_16:39_CNNBRASIL_5m58s_Planalto estuda fusão de ministérios da Justiça e Direitos Humanos   CNN AG",
-      "OBOyldVxKBo | [VIDEO]_21/11/26_16:24_CNNBRASIL_4m46s_Bolsonaro está internado em UTI com “abdômen agudo obstrutivo”, diz boletim",
-      "Yeg-ziPPMtc | [VIDEO]_21/11/26_15:47_CNNBRASIL_14m38s_Lula rebate críticas de “companheiros” a ajuste fiscal e elogia Moretti   B"
+      "OBOyldVxKBo | [VIDEO]_21/11/26_16:24_CNNBRASIL_4m46s_Bolsonaro está internado em UTI com “abdômen agudo obstrutivo”, diz boletim"
     ]
   },
   {
@@ -359,6 +359,7 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
+      "It9vXbFsw6A",
       "zRerIpAFq8Y",
       "BXJdSm6eluY",
       "C8K9sTckRZ0",
@@ -387,12 +388,12 @@
       "GChbo-zG78k",
       "y1vXHwdPZrk",
       "JjCyxBi_7Qo",
-      "lmJXCvg2MXQ",
-      "2fUtK21EWCg"
+      "lmJXCvg2MXQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "It9vXbFsw6A | ((LIVE))_22/11/26_10:25_JOVEMPANNEWS_FAST NEWS - 1° EDIÇÃO - 22/11/26",
       "zRerIpAFq8Y | [VIDEO]_22/11/26_10:00_JOVEMPANNEWS_27m55s_DETROIT: CAPITAL DO AUTOMÓVEL / TANK 400 DA GWM    MÁQUINAS NA PAN - 21/11/",
       "BXJdSm6eluY | [VIDEO]_22/11/26_09:50_JOVEMPANNEWS_6m07s_Poliana Banqueri analisa impacto do decreto da escala 5x2 nas empresas",
       "C8K9sTckRZ0 | [VIDEO]_22/11/26_09:28_JOVEMPANNEWS_5m00s_Produtores rurais enfrentam falta de estrutura   HORA H DO AGRO",
@@ -421,8 +422,7 @@
       "GChbo-zG78k | [VIDEO]_21/11/26_14:09_JOVEMPANNEWS_4m20s_México captura narcotraficante que está entre os dez mais procurados pelo F",
       "y1vXHwdPZrk | [VIDEO]_21/11/26_14:04_JOVEMPANNEWS_6m52s_“Pacote não teria o tamanho desejado para resolver o problema”, diz economi",
       "JjCyxBi_7Qo | [VIDEO]_21/11/26_13:46_JOVEMPANNEWS_20m20s_Brasil lidera ranking de empreendedorismo na América Latina; especialista a",
-      "lmJXCvg2MXQ | [VIDEO]_21/11/26_13:12_JOVEMPANNEWS_15m51s_Por que o mercado reagiu mal após as eleições? Especialista responde   ECON",
-      "2fUtK21EWCg | [VIDEO]_21/11/26_12:36_JOVEMPANNEWS_5m03s_“As margens de lucro foram muito espremidas”, diz economista sobre crise no"
+      "lmJXCvg2MXQ | [VIDEO]_21/11/26_13:12_JOVEMPANNEWS_15m51s_Por que o mercado reagiu mal após as eleições? Especialista responde   ECON"
     ]
   },
   {
@@ -497,8 +497,8 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
-      "PP8OeGKP93E",
       "aHchWK5AXSs",
+      "PP8OeGKP93E",
       "B5uC3U0A7n4",
       "SV3JMogAxWs",
       "MEbJ7tUDOc8",
@@ -531,8 +531,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "PP8OeGKP93E | [VIDEO]_22/11/26_09:31_BANDJORNALISMO_13m03s_Casos de Covid-19 voltam a crescer no Brasil   BandNews TV",
       "aHchWK5AXSs | [VIDEO]_22/11/26_00:00_BANDJORNALISMO_6m04s_'Tinha muito medo de ser preso', diz Ivan Lins sobre afastamento da polític",
+      "PP8OeGKP93E | [VIDEO]_22/11/26_09:31_BANDJORNALISMO_13m03s_Casos de Covid-19 voltam a crescer no Brasil   BandNews TV",
       "B5uC3U0A7n4 | [VIDEO]_21/11/26_23:35_BANDJORNALISMO_63m00s_[AO VIVO]  A LUTA PELA ABOLIÇÃO - DOCUMENTO BAND - 21/11/2026",
       "SV3JMogAxWs | [VIDEO]_21/11/26_20:26_BANDJORNALISMO_4m26s_Gilmar Mendes defende fim de sigilo em relatórios sobre ministros do STF",
       "MEbJ7tUDOc8 | [VIDEO]_21/11/26_19:00_BANDPAULISTA_24m21s_PROGRAMA DNA - 21/11/2026 - DANIELE FERNANDES   Band Paulista",
@@ -708,12 +708,12 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "78REK_E4oAU",
-      "36ndLTH8N3o",
       "Iy2e3HSwQ_c",
       "8MqmeCXes4Q",
       "T7COI7OkRNU",
       "SDDGyYU4xRg",
       "nEunxUTl13A",
+      "36ndLTH8N3o",
       "QJPc9TXHQ8I",
       "Q947xtK2Q3U",
       "h4kgX-wv34A",
@@ -742,12 +742,12 @@
     "playlistId": "",
     "carimbos": [
       "78REK_E4oAU | ((LIVE))_22/11/26_09:30_CBNBRASIL_CBN Esportes - 22/11/26",
-      "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026",
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
       "8MqmeCXes4Q | [VIDEO]_22/11/26_09:06_CBNBRASIL_183m05s_Jornal da CBN - 22/11/2026",
       "T7COI7OkRNU | [VIDEO]_22/11/26_03:35_CBNBRASIL_25m24s_Jornal da CBN - 17/10/2026",
       "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
       "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
+      "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026",
       "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "Q947xtK2Q3U | [VIDEO]_22/11/26_07:39_CBNBRASIL_237m11s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
       "h4kgX-wv34A | [VIDEO]_22/11/26_00:05_CBNBRASIL_117m11s_CBN São Paulo - 21/11/2026",
@@ -777,8 +777,8 @@
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
-      "CtoZEN5X1EY",
       "hUTpYOyEQrs",
+      "CtoZEN5X1EY",
       "HSfcn4thoL4",
       "Nt1mYa5jbUU",
       "j_BKBSex2sw",
@@ -811,8 +811,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "CtoZEN5X1EY | [VIDEO]_22/11/26_09:00_REVISTAOESTE_9m20s_Economista explica a polêmica do Banco do Brasil com o agro",
       "hUTpYOyEQrs | [VIDEO]_22/11/26_00:19_REVISTAOESTE_96m36s_OESTE CULTURA: O FENÔMENO GRAND THEFT AUTO - (21/11/26)",
+      "CtoZEN5X1EY | [VIDEO]_22/11/26_09:00_REVISTAOESTE_9m20s_Economista explica a polêmica do Banco do Brasil com o agro",
       "HSfcn4thoL4 | [VIDEO]_21/11/26_22:48_REVISTAOESTE_163m25s_OUTRA COISA, COM GUILHERME FIUZA - 21/11/2026",
       "Nt1mYa5jbUU | [VIDEO]_21/11/26_19:30_REVISTAOESTE_30m16s_SAIBA COMO O EXERCÍCIO PROTEGE SUA SAÚDE   OESTE SAÚDE, COM DRA. DENISE STE",
       "j_BKBSex2sw | [VIDEO]_21/11/26_18:00_REVISTAOESTE_90m12s_OESTE SEM FILTRO MELHORES MOMENTOS   SÁBADO 21/11/26",
