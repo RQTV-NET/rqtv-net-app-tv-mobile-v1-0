@@ -219,6 +219,7 @@
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
+      "kVj3PEECYks",
       "PDM7J2jOel0",
       "wv2_wVsa3rc",
       "BGby3hs26jk",
@@ -247,13 +248,13 @@
       "uXH2PlOJMCA",
       "jNr4_DxYb7M",
       "F1WMlNnLoqM",
-      "kDj5ieCHwcc",
-      "izn5ae7s_4w"
+      "kDj5ieCHwcc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "PDM7J2jOel0 | ((LIVE))_21/11/26_23:20_CNNBRASIL_AO VIVO: CNN MADRUGADA - 22/11/2026",
+      "kVj3PEECYks | ((LIVE))_22/11/26_05:48_CNNBRASIL_AO VIVO: CNN NEWSROOM - 22/11/2026",
+      "PDM7J2jOel0 | [VIDEO]_20/11/26_01:05_CNNBRASIL_399m43s_AO VIVO: CNN MADRUGADA - 22/11/2026",
       "wv2_wVsa3rc | [VIDEO]_22/11/26_00:00_CNNBRASIL_8m26s_Japão mira aproximação com Brasil e aceita transferir tecnologia para miner",
       "BGby3hs26jk | [VIDEO]_21/11/26_23:30_CNNBRASIL_4m41s_Temporal atinge 99% dos habitantes de Tupanciretã (RS); moradores mostram a",
       "kvyNIjKeIA0 | [VIDEO]_21/11/26_23:00_CNNBRASIL_10m20s_GTA VI provocou aumento nos pedidos de férias e folgas para lançamento   DE",
@@ -281,14 +282,14 @@
       "uXH2PlOJMCA | [VIDEO]_21/11/26_13:39_CNNBRASIL_157m47s_CHUVAS NO RS ATINGEM 33 MUNICÍPIOS E DEIXAM 3 MORTOS - CNN AGORA MANHÃ",
       "jNr4_DxYb7M | [VIDEO]_21/11/26_12:33_CNNBRASIL_7m27s_“Precisamos ter cuidado”, diz Gilmar sobre reforma no Judiciário   CNN AGOR",
       "F1WMlNnLoqM | [VIDEO]_21/11/26_11:10_CNNBRASIL_6m40s_Banco de dados do FBI é alvo de ataque cibernético   CNN AGORA",
-      "kDj5ieCHwcc | [VIDEO]_21/11/26_10:42_CNNBRASIL_10m04s_RS volta a ter previsão de tempestades; coronel explica situação após tempo",
-      "izn5ae7s_4w | [VIDEO]_21/11/26_10:25_CNNBRASIL_4m30s_Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA"
+      "kDj5ieCHwcc | [VIDEO]_21/11/26_10:42_CNNBRASIL_10m04s_RS volta a ter previsão de tempestades; coronel explica situação após tempo"
     ]
   },
   {
     "numero": "05",
     "rem": "CNN MONEY",
     "videoIds": [
+      "VaSxNODZVdo",
       "aT_gFK7tFhY",
       "NJzeNhV8kBU",
       "g8t9EcogaFc",
@@ -317,12 +318,12 @@
       "Lut5x-o1g8k",
       "j-TkFbT0wFk",
       "ZdhKBYXsp4s",
-      "xx4ztoXywrg",
-      "V-hrs6EpWCY"
+      "xx4ztoXywrg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "VaSxNODZVdo | ((LIVE))_22/11/26_05:58_CNNMONEY_AO VIVO: CNN MONEY - 22/11/2026",
       "aT_gFK7tFhY | ((LIVE))_21/11/26_06:57_CNNMONEY_AO VIVO: CNN MONEY - 21/11/2026",
       "NJzeNhV8kBU | [VIDEO]_21/11/26_09:32_CNNMONEY_608m25s_AO VIVO: CNN MONEY - 20/11/2026",
       "g8t9EcogaFc | [VIDEO]_20/11/26_21:12_CNNMONEY_106m46s_RESENHA DO DINHEIRO - 20/11/2026   CNN MONEY",
@@ -351,8 +352,7 @@
       "Lut5x-o1g8k | [VIDEO]_19/11/26_21:29_CNNMONEY_59m51s_CNN SÉRIES ORIGINAIS: CIRCUIT BREAKER - 19/11/2026   CNN MONEY",
       "j-TkFbT0wFk | [VIDEO]_19/11/26_21:24_CNNMONEY_177m26s_AO VIVO: FECHAMENTO DE MERCADO - 19/11/2026   CNN MONEY",
       "ZdhKBYXsp4s | [VIDEO]_19/11/26_20:46_CNNMONEY_27m01s_CONEXÃO INFRA ENTREVISTA GABRIEL FAJARDO, DIRETOR DE CONCESSOES E PARCERIAS",
-      "xx4ztoXywrg | [VIDEO]_19/11/26_20:28_CNNMONEY_64m50s_CAPITAL INSIGHTS ENTREVISTA MILENA SEABRA, DIRETORA DA FACULDADE BELAVISTA",
-      "V-hrs6EpWCY | [VIDEO]_19/11/26_17:29_CNNMONEY_135m50s_AO VIVO: MONEY NEWS III - 19/11/2026   CNN MONEY"
+      "xx4ztoXywrg | [VIDEO]_19/11/26_20:28_CNNMONEY_64m50s_CAPITAL INSIGHTS ENTREVISTA MILENA SEABRA, DIRETORA DA FACULDADE BELAVISTA"
     ]
   },
   {
@@ -707,10 +707,11 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
-      "SDDGyYU4xRg",
+      "8MqmeCXes4Q",
       "QJPc9TXHQ8I",
       "h4kgX-wv34A",
       "T7COI7OkRNU",
+      "SDDGyYU4xRg",
       "OOPtOD_n4TE",
       "mHKMOphlKhI",
       "Q947xtK2Q3U",
@@ -735,16 +736,16 @@
       "GJ6Km3FwgsM",
       "06MpOTXKij4",
       "1wLZTe8enOU",
-      "EvK17k5P2_0",
-      "lj0cGWtqBH4"
+      "EvK17k5P2_0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
+      "8MqmeCXes4Q | ((LIVE))_22/11/26_05:58_CBNBRASIL_Jornal da CBN - 22/11/2026",
       "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "h4kgX-wv34A | [VIDEO]_22/11/26_00:05_CBNBRASIL_117m11s_CBN São Paulo - 21/11/2026",
       "T7COI7OkRNU | [VIDEO]_22/11/26_03:35_CBNBRASIL_25m24s_Jornal da CBN - 17/10/2026",
+      "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
       "OOPtOD_n4TE | [VIDEO]_21/11/26_21:05_CBNBRASIL_175m35s_Jornal da CBN - 21/11/2026",
       "mHKMOphlKhI | [VIDEO]_21/11/26_19:36_CBNBRASIL_262m56s_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU",
       "Q947xtK2Q3U | [VIDEO]_21/11/26_14:26_CBNBRASIL_237m04s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
@@ -769,8 +770,7 @@
       "GJ6Km3FwgsM | [VIDEO]_20/11/26_19:00_CBNBRASIL_4m15s_PVC: Tem um monte de coisa que joga contra o Atlético-MG na final com o Boc",
       "06MpOTXKij4 | [VIDEO]_20/11/26_18:16_CBNBRASIL_39m55s_Panorama da Semana: o pacote fiscal, a escala 5x2 e a crise na PF",
       "1wLZTe8enOU | [VIDEO]_20/11/26_18:07_CBNBRASIL_58m50s_CBN Primeiras Notícias - 20/11/2026",
-      "EvK17k5P2_0 | [VIDEO]_20/11/26_17:24_CBNBRASIL_4m43s_Jair Bolsonaro é levado para hospital após sentir fortes dores abdominais,",
-      "lj0cGWtqBH4 | [VIDEO]_20/11/26_17:21_CBNBRASIL_4m46s_Relatório da PF aponta que não foi encontrada nenhuma mensagem entre Mendon"
+      "EvK17k5P2_0 | [VIDEO]_20/11/26_17:24_CBNBRASIL_4m43s_Jair Bolsonaro é levado para hospital após sentir fortes dores abdominais,"
     ]
   },
   {
