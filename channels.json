@@ -1537,9 +1537,9 @@
     "numero": "39",
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
-      "rhsuPK2_Q0A",
       "xcvrssDncok",
       "imlN5b_vuCs",
+      "rhsuPK2_Q0A",
       "RJE8DiDENcw",
       "6SgfQWrd-1g",
       "REbPGKPBtzM",
@@ -1566,9 +1566,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "rhsuPK2_Q0A | [VIDEO]_22/11/26_00:21_LITORALNEWS_232m28s_ATLÉTICO-MG X BOCA JUNIORS AO VIVO COM IMAGEM NA CAZE TV AO VIVO   GALO AO",
       "xcvrssDncok | [VIDEO]_22/11/26_00:07_SPORTYNET_137m31s_UNAM PUMAS X MONTERREY: AO VIVO, COM IMAGENS E EXCLUSIVO  RODADA 17 - APERT",
       "imlN5b_vuCs | [VIDEO]_22/11/26_00:35_LITORALNEWS_171m11s_CHAPECOENSE X CRUZEIRO AO VIVO COM IMAGENS NO PREMIERE AO VIVO   JOGO DO CR",
+      "rhsuPK2_Q0A | [VIDEO]_22/11/26_00:21_LITORALNEWS_232m28s_ATLÉTICO-MG X BOCA JUNIORS AO VIVO COM IMAGEM NA CAZE TV AO VIVO   GALO AO",
       "RJE8DiDENcw | [VIDEO]_21/11/26_22:23_LITORALNEWS_15m01s_“ERA OBRIGAÇÃO” FLAMENGO CAMPEÃO BRASILEIRO PELA DÉCIMA VEZ! “O BRASIL INTE",
       "6SgfQWrd-1g | [VIDEO]_21/11/26_22:05_SPORTYNET_138m36s_SANTOS LAGUNA X LEÓN: AO VIVO, COM IMAGENS E EXCLUSIVO   RODADA 17 - APERTU",
       "REbPGKPBtzM | [VIDEO]_21/11/26_22:02_CANALGOAT_174m02s_BOCA JUNIORS X ATLÉTICO-MG   FINAL   JOGO COMPLETO   CONMEBOL SUDAMERICANA",
@@ -2061,6 +2061,7 @@
     "numero": "110",
     "rem": "SBT PROGRAMAS",
     "videoIds": [
+      "aPzCxQ42x4s",
       "KSMPCOTl23U",
       "_jE1TIGlpoU",
       "osM9kVWhdV0",
@@ -2089,12 +2090,12 @@
       "6rKLufZh2fY",
       "rzxDIi8RheU",
       "xCHrGTIGASY",
-      "UduZEZwXzug",
-      "iUivZ8yijGQ"
+      "UduZEZwXzug"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "aPzCxQ42x4s | ((LIVE))_22/11/26_02:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_Pixote X Jeito Moleque   Viva A Noite (21/11/26)",
       "KSMPCOTl23U | ((LIVE))_21/11/26_17:36_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_SBT Ao Vivo",
       "_jE1TIGlpoU | [VIDEO]_21/11/26_18:45_PROGRAMADORATINHO_51m29s_Ratinho se irrita, para o programa e CLIMA FICA TENSO no estúdio    Program",
       "osM9kVWhdV0 | [VIDEO]_21/11/26_16:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_58m31s_SONIA ABRÃO RELEMBRA histórias com SILVIO SANTOS e recebe LUCAS GUIMARÃES",
@@ -2123,8 +2124,7 @@
       "6rKLufZh2fY | [VIDEO]_17/11/26_15:11_THENOITE_42m49s_Entrevista com Sandro Dias: o desafio da maior rampa de skate do mundo   Th",
       "rzxDIi8RheU | [VIDEO]_16/11/26_20:30_PROGRAMASILVIOSANTOS_46m02s_Quem Sabe Mais? Ep.7   Programa Silvio Santos (15/11/26)",
       "xCHrGTIGASY | [VIDEO]_16/11/26_20:15_CÂMERASESCONDIDASSBT_19m28s_Pegadinhas de Paquera - Compilado   Câmeras Escondidas",
-      "UduZEZwXzug | [VIDEO]_16/11/26_19:45_FOFOCALIZANDO_13m45s_Patricia Abravanel e Diogo Nogueira viralizam com interação   Fofocalizando",
-      "iUivZ8yijGQ | [VIDEO]_16/11/26_19:30_PROGRAMASILVIOSANTOS_57m43s_Show de Calouros - COMPLETO   Programa Silvio Santos (15/11/26)"
+      "UduZEZwXzug | [VIDEO]_16/11/26_19:45_FOFOCALIZANDO_13m45s_Patricia Abravanel e Diogo Nogueira viralizam com interação   Fofocalizando"
     ]
   },
   {
