@@ -220,8 +220,8 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "kVj3PEECYks",
-      "PDM7J2jOel0",
       "wv2_wVsa3rc",
+      "PDM7J2jOel0",
       "BGby3hs26jk",
       "kvyNIjKeIA0",
       "0sAcogwNvFQ",
@@ -254,8 +254,8 @@
     "playlistId": "",
     "carimbos": [
       "kVj3PEECYks | ((LIVE))_22/11/26_05:48_CNNBRASIL_AO VIVO: CNN NEWSROOM - 22/11/2026",
-      "PDM7J2jOel0 | [VIDEO]_22/11/26_06:11_CNNBRASIL_400m01s_AO VIVO: CNN MADRUGADA - 22/11/2026",
       "wv2_wVsa3rc | [VIDEO]_22/11/26_00:00_CNNBRASIL_8m26s_Japão mira aproximação com Brasil e aceita transferir tecnologia para miner",
+      "PDM7J2jOel0 | [VIDEO]_22/11/26_06:11_CNNBRASIL_400m01s_AO VIVO: CNN MADRUGADA - 22/11/2026",
       "BGby3hs26jk | [VIDEO]_21/11/26_23:30_CNNBRASIL_4m41s_Temporal atinge 99% dos habitantes de Tupanciretã (RS); moradores mostram a",
       "kvyNIjKeIA0 | [VIDEO]_21/11/26_23:00_CNNBRASIL_10m20s_GTA VI provocou aumento nos pedidos de férias e folgas para lançamento   DE",
       "0sAcogwNvFQ | [VIDEO]_21/11/26_22:17_CNNBRASIL_5m34s_COP31 é prorrogada sem expectativa de acordo final; entenda   CNN PRIME TIM",
@@ -360,6 +360,8 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "7snvFY3nePs",
+      "VciWly5iGFA",
+      "V1h34HZv5ZY",
       "N7xR0V47txE",
       "SRCqg_a86B0",
       "X-iB4P-36-A",
@@ -386,14 +388,14 @@
       "UXvhy4XtV8c",
       "hD6HBcKKJro",
       "iiVjeWzU8VQ",
-      "pbYC3UpLVGE",
-      "Fht3C4WwUsc",
-      "fqKUQCOQAr0"
+      "pbYC3UpLVGE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "7snvFY3nePs | ((LIVE))_22/11/26_06:53_JOVEMPANNEWS_JORNAL DA MANHÃ - 22/11/2026",
+      "VciWly5iGFA | [VIDEO]_22/11/26_07:56_JOVEMPANNEWS_7m44s_Gesner Oliveira analisa impacto do ajuste fiscal e alta do dólar",
+      "V1h34HZv5ZY | [VIDEO]_22/11/26_07:48_JOVEMPANNEWS_7m56s_Cade pode ganhar poder para punir redes sociais antes de infração",
       "N7xR0V47txE | [VIDEO]_22/11/26_07:11_JOVEMPANNEWS_5m08s_Sobe para cinco o número de mortes após chuvas em Tupanciretã",
       "SRCqg_a86B0 | [VIDEO]_21/11/26_21:53_JOVEMPANNEWS_6m57s_Pedro Araújo analisa impactos da escala 6x1 nas empresas",
       "X-iB4P-36-A | [VIDEO]_21/11/26_21:23_JOVEMPANNEWS_14m48s_\"Vamos sofrer rotatividade da mão de obra\", diz Paulo Sérgio João sobre fim",
@@ -420,9 +422,7 @@
       "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site",
       "hD6HBcKKJro | [VIDEO]_20/11/26_18:32_OSPINGOSNOSIS_6m46s_Após pedido de destaque de Zanin julgamento de Marcel van Hattem será prese",
       "iiVjeWzU8VQ | [VIDEO]_20/11/26_18:27_OSPINGOSNOSIS_13m50s_PF não encontra diálogo direto entre Vorcaro e André Mendonça após quebra d",
-      "pbYC3UpLVGE | [VIDEO]_19/11/26_20:38_OSPINGOSNOSIS_8m08s_Rogério Marinho critica governo e aponta alta de preços",
-      "Fht3C4WwUsc | [VIDEO]_19/11/26_20:36_OSPINGOSNOSIS_14m27s_Comentaristas discutem proposta para taxação de grandes fortunas",
-      "fqKUQCOQAr0 | [VIDEO]_19/11/26_20:32_OSPINGOSNOSIS_5m07s_PGR denuncia Flávio Bolsonaro por calúnia contra Lula"
+      "pbYC3UpLVGE | [VIDEO]_19/11/26_20:38_OSPINGOSNOSIS_8m08s_Rogério Marinho critica governo e aponta alta de preços"
     ]
   },
   {
