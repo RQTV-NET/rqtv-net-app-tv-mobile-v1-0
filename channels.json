@@ -359,6 +359,8 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
+      "7snvFY3nePs",
+      "N7xR0V47txE",
       "SRCqg_a86B0",
       "X-iB4P-36-A",
       "ITPcIH3uMT0",
@@ -386,13 +388,13 @@
       "iiVjeWzU8VQ",
       "pbYC3UpLVGE",
       "Fht3C4WwUsc",
-      "fqKUQCOQAr0",
-      "RE1QJm7a4xU",
-      "7MhjjxZwooc"
+      "fqKUQCOQAr0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "7snvFY3nePs | ((LIVE))_22/11/26_06:53_JOVEMPANNEWS_JORNAL DA MANHÃ - 22/11/2026",
+      "N7xR0V47txE | [VIDEO]_22/11/26_07:11_JOVEMPANNEWS_5m08s_Sobe para cinco o número de mortes após chuvas em Tupanciretã",
       "SRCqg_a86B0 | [VIDEO]_21/11/26_21:53_JOVEMPANNEWS_6m57s_Pedro Araújo analisa impactos da escala 6x1 nas empresas",
       "X-iB4P-36-A | [VIDEO]_21/11/26_21:23_JOVEMPANNEWS_14m48s_\"Vamos sofrer rotatividade da mão de obra\", diz Paulo Sérgio João sobre fim",
       "ITPcIH3uMT0 | [VIDEO]_21/11/26_20:52_JOVEMPANNEWS_18m52s_Reação do mercado financeiro ao pacote fiscal do governo; Tony Volpon anali",
@@ -420,9 +422,7 @@
       "iiVjeWzU8VQ | [VIDEO]_20/11/26_18:27_OSPINGOSNOSIS_13m50s_PF não encontra diálogo direto entre Vorcaro e André Mendonça após quebra d",
       "pbYC3UpLVGE | [VIDEO]_19/11/26_20:38_OSPINGOSNOSIS_8m08s_Rogério Marinho critica governo e aponta alta de preços",
       "Fht3C4WwUsc | [VIDEO]_19/11/26_20:36_OSPINGOSNOSIS_14m27s_Comentaristas discutem proposta para taxação de grandes fortunas",
-      "fqKUQCOQAr0 | [VIDEO]_19/11/26_20:32_OSPINGOSNOSIS_5m07s_PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
-      "RE1QJm7a4xU | [VIDEO]_19/11/26_20:31_OSPINGOSNOSIS_5m58s_“Governo impostor, só pensa em mais impostos”, diz Carlos Portinho",
-      "7MhjjxZwooc | [VIDEO]_19/11/26_19:22_OSPINGOSNOSIS_12m21s_Rogério Marinho classifica votação do ajuste fiscal no Senado como “derrota"
+      "fqKUQCOQAr0 | [VIDEO]_19/11/26_20:32_OSPINGOSNOSIS_5m07s_PGR denuncia Flávio Bolsonaro por calúnia contra Lula"
     ]
   },
   {
@@ -708,10 +708,10 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "8MqmeCXes4Q",
-      "SDDGyYU4xRg",
       "QJPc9TXHQ8I",
       "h4kgX-wv34A",
       "T7COI7OkRNU",
+      "SDDGyYU4xRg",
       "OOPtOD_n4TE",
       "mHKMOphlKhI",
       "Q947xtK2Q3U",
@@ -742,10 +742,10 @@
     "playlistId": "",
     "carimbos": [
       "8MqmeCXes4Q | ((LIVE))_22/11/26_05:58_CBNBRASIL_Jornal da CBN - 22/11/2026",
-      "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
       "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "h4kgX-wv34A | [VIDEO]_22/11/26_00:05_CBNBRASIL_117m11s_CBN São Paulo - 21/11/2026",
       "T7COI7OkRNU | [VIDEO]_22/11/26_03:35_CBNBRASIL_25m24s_Jornal da CBN - 17/10/2026",
+      "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
       "OOPtOD_n4TE | [VIDEO]_21/11/26_21:05_CBNBRASIL_175m35s_Jornal da CBN - 21/11/2026",
       "mHKMOphlKhI | [VIDEO]_21/11/26_19:36_CBNBRASIL_262m56s_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU",
       "Q947xtK2Q3U | [VIDEO]_21/11/26_14:26_CBNBRASIL_237m04s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
