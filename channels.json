@@ -1537,9 +1537,9 @@
     "numero": "39",
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
-      "rhsuPK2_Q0A",
       "xcvrssDncok",
       "imlN5b_vuCs",
+      "rhsuPK2_Q0A",
       "RJE8DiDENcw",
       "6SgfQWrd-1g",
       "REbPGKPBtzM",
@@ -1566,9 +1566,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "rhsuPK2_Q0A | [VIDEO]_22/11/26_00:21_LITORALNEWS_232m28s_ATLÉTICO-MG X BOCA JUNIORS AO VIVO COM IMAGEM NA CAZE TV AO VIVO   GALO AO",
       "xcvrssDncok | [VIDEO]_22/11/26_00:07_SPORTYNET_137m31s_UNAM PUMAS X MONTERREY: AO VIVO, COM IMAGENS E EXCLUSIVO  RODADA 17 - APERT",
       "imlN5b_vuCs | [VIDEO]_22/11/26_00:35_LITORALNEWS_171m11s_CHAPECOENSE X CRUZEIRO AO VIVO COM IMAGENS NO PREMIERE AO VIVO   JOGO DO CR",
+      "rhsuPK2_Q0A | [VIDEO]_22/11/26_00:21_LITORALNEWS_232m28s_ATLÉTICO-MG X BOCA JUNIORS AO VIVO COM IMAGEM NA CAZE TV AO VIVO   GALO AO",
       "RJE8DiDENcw | [VIDEO]_21/11/26_22:23_LITORALNEWS_15m01s_“ERA OBRIGAÇÃO” FLAMENGO CAMPEÃO BRASILEIRO PELA DÉCIMA VEZ! “O BRASIL INTE",
       "6SgfQWrd-1g | [VIDEO]_21/11/26_22:05_SPORTYNET_138m36s_SANTOS LAGUNA X LEÓN: AO VIVO, COM IMAGENS E EXCLUSIVO   RODADA 17 - APERTU",
       "REbPGKPBtzM | [VIDEO]_21/11/26_22:02_CANALGOAT_174m02s_BOCA JUNIORS X ATLÉTICO-MG   FINAL   JOGO COMPLETO   CONMEBOL SUDAMERICANA",
@@ -1979,6 +1979,7 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
+      "9sO8BZwlJeY",
       "Ct3GFbEmr5E",
       "l5eEU2i88J0",
       "KahtRFXNAGI",
@@ -2007,12 +2008,12 @@
       "DX0jXixPuWg",
       "9nRoEVo2q7Y",
       "0B6QOdLSSvE",
-      "6ehQkqv3D1Y",
-      "Ay_BOP7AvNo"
+      "6ehQkqv3D1Y"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "9sO8BZwlJeY | ((LIVE))_22/11/26_05:44_TVEVANGELIZAR_Santa Missa em Honra a Santa Rita de Cássia - Maringá/PR   22/11/26",
       "Ct3GFbEmr5E | [VIDEO]_22/11/26_04:00_TVEVANGELIZAR_20m02s_Oração da Manhã   22/11/2026   com @PadreManzottiOficial",
       "l5eEU2i88J0 | [VIDEO]_21/11/26_15:12_TVEVANGELIZAR_85m46s_Santa Missa em honra de Nossa Senhora da Apresentação - Porto Calvo/AL   21",
       "KahtRFXNAGI | [VIDEO]_21/11/26_15:00_TVEVANGELIZAR_25m45s_Terço e 3º dia da Novena de Jesus das Santas Chagas   21/11/26",
@@ -2041,8 +2042,7 @@
       "DX0jXixPuWg | [VIDEO]_20/11/26_14:30_TVEVANGELIZAR_24m52s_Hora Boa Pra Evangelizar com Fabiana Wantuch   20/11/26",
       "9nRoEVo2q7Y | [VIDEO]_20/11/26_13:15_TVEVANGELIZAR_5m20s_Oração da Tarde   20/11/26   com @PadreManzottiOficial",
       "0B6QOdLSSvE | [VIDEO]_20/11/26_13:07_TVEVANGELIZAR_68m16s_Santa Missa do Meio-Dia com Pe. Jorge Fortunato    20/11/26",
-      "6ehQkqv3D1Y | [VIDEO]_20/11/26_12:46_TVEVANGELIZAR_45m57s_Aprender a esperar em Deus   Pequena Via com Pe. Fernando de Souza   20/11/",
-      "Ay_BOP7AvNo | [VIDEO]_20/11/26_10:18_TVEVANGELIZAR_30m56s_Coração que acolhe   20/11/26   Com a Palavra - Com Pe. Everson Kloster"
+      "6ehQkqv3D1Y | [VIDEO]_20/11/26_12:46_TVEVANGELIZAR_45m57s_Aprender a esperar em Deus   Pequena Via com Pe. Fernando de Souza   20/11/"
     ]
   },
   {
