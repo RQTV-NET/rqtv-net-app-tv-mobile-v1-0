@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "0AnvP57LAn0",
       "h8EBK5jqtCo",
       "M9s8ftB7tis",
       "DJS6I6Js4GE",
@@ -38,11 +39,11 @@
       "7Qp_THN0qqw",
       "SDqH6FF8XzA",
       "0Rhk-DnQwFE",
-      "cHn5AcdPxIU",
-      "F0UKKxzFX4s"
+      "cHn5AcdPxIU"
     ],
     "playlistId": "",
     "carimbos": [
+      "0AnvP57LAn0 | [VIDEO]_22/11/26_13:56_G1(JORNALHOJE/MATÉRIAS)_2m28s_Quatro pessoas morrem e uma fica ferida em acidente grave em Ipojuca, Perna",
       "h8EBK5jqtCo | [VIDEO]_21/11/26_22:57_JORNALNACIONAL(JN)_11m23s_JN: Joe Wallach, um dos responsáveis pela consolidação da Globo, é homenage",
       "M9s8ftB7tis | [VIDEO]_21/11/26_22:42_JORNALNACIONAL(JN)_3m02s_JN: Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta anual",
       "DJS6I6Js4GE | [VIDEO]_21/11/26_22:34_JORNALNACIONAL(JN)_2m26s_JN: Dois tornados deixam 50 mil casas sem luz no Paraná",
@@ -71,8 +72,7 @@
       "7Qp_THN0qqw | [VIDEO]_20/11/26_00:59_GLOBONEWS_9m55s_Trauma real: ‘Josephine’ é baseado em estupro que pai e filhe de 8 anos tes",
       "SDqH6FF8XzA | [VIDEO]_19/11/26_21:58_GLOBONEWS_3m12s_Muçulmanos devem superar cristãos até 2035",
       "0Rhk-DnQwFE | [VIDEO]_19/11/26_20:44_JORNALNACIONAL(JN)_2m40s_JN: Anthropic faz maior oferta de ações da história e dispara na estreia em",
-      "cHn5AcdPxIU | [VIDEO]_19/11/26_20:35_JORNALNACIONAL(JN)_2m27s_JN: Lula declara compromisso com equilíbrio das contas públicas em cerimôni",
-      "F0UKKxzFX4s | [VIDEO]_19/11/26_20:32_JORNALNACIONAL(JN)_8m08s_JN: Encontro de China, EUA e Rússia termina com compromisso para reduzir ri"
+      "cHn5AcdPxIU | [VIDEO]_19/11/26_20:35_JORNALNACIONAL(JN)_2m27s_JN: Lula declara compromisso com equilíbrio das contas públicas em cerimôni"
     ]
   },
   {
@@ -150,6 +150,7 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "XmN3ClDzQiI",
+      "wAPi4BRRHYQ",
       "cO5Rqo56Q_U",
       "gCj4t7WvjrQ",
       "QyX2PFBZVEo",
@@ -177,13 +178,13 @@
       "uhcECewFLSM",
       "ORPMbB5HUe8",
       "NXsQm_XuUoo",
-      "ToltskEhrqs",
-      "IjTv0Pl7Y7k"
+      "ToltskEhrqs"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "XmN3ClDzQiI | ((LIVE))_21/11/26_20:58_SBTNEWS_SBT NEWS AO VIVO",
+      "wAPi4BRRHYQ | [VIDEO]_22/11/26_14:00_SBTJORNALISMO_2m11s_Robótica avança no tratamento do câncer de próstata, com operações à distân",
       "cO5Rqo56Q_U | [VIDEO]_22/11/26_13:00_SBTNEWS_56m59s_Entenda os impactos do fim da escala 6x1 em serviços públicos e moradia   P",
       "gCj4t7WvjrQ | [VIDEO]_21/11/26_21:07_SBTNEWS_131m01s_JORNAL DO SBT NEWS   21/11/2026",
       "QyX2PFBZVEo | [VIDEO]_21/11/26_20:40_SBTNEWS_17m17s_Economista critica pacote de ajuste fiscal e fala de risco de estagflação e",
@@ -211,8 +212,7 @@
       "uhcECewFLSM | [VIDEO]_21/11/26_08:42_SBTJORNALISMO_3m53s_Fachin mantém prisão preventiva de Daniel Vorcaro no caso Master   #SBTNotí",
       "ORPMbB5HUe8 | [VIDEO]_21/11/26_08:30_SBTJORNALISMO_4m22s_Temporal deixa 3 mortos e cerca de 60 feridos em Tupanciretã, no RS   #SBTN",
       "NXsQm_XuUoo | [VIDEO]_20/11/26_23:16_SBTJORNALISMO_81m08s_SBT Cidades: assista à edição na íntegra desta sexta-feira (20/11/2026)   #",
-      "ToltskEhrqs | [VIDEO]_20/11/26_20:19_SBTJORNALISMO_8m15s_Jovem de 19 anos desaparece após sair de Guarulhos para estágio em SP   #SB",
-      "IjTv0Pl7Y7k | [VIDEO]_20/11/26_20:09_SBTJORNALISMO_6m20s_Exposição Natal Colorido começa no Parque Shopping Maia, em Guarulhos   #SB"
+      "ToltskEhrqs | [VIDEO]_20/11/26_20:19_SBTJORNALISMO_8m15s_Jovem de 19 anos desaparece após sair de Guarulhos para estágio em SP   #SB"
     ]
   },
   {
@@ -359,12 +359,12 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
-      "HCSsqHInwZ8",
       "uArjk4xLOJY",
       "M_xiVLPBTcg",
       "TxoDRLF1ddQ",
       "hqXhhwp-ee4",
       "W8qcs91vEY8",
+      "HCSsqHInwZ8",
       "BXJdSm6eluY",
       "C8K9sTckRZ0",
       "Gt2PgFnNmNQ",
@@ -393,12 +393,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "HCSsqHInwZ8 | [VIDEO]_22/11/26_12:40_JOVEMPANNEWS_13m57s_Carlos Bocuhy analisa impasse climático e papel do petróleo na COP31",
       "uArjk4xLOJY | [VIDEO]_22/11/26_12:23_JOVEMPANNEWS_21m59s_Sebastião Melo analisa impacto da escala 6x1 e ajuste nas contas",
       "M_xiVLPBTcg | [VIDEO]_22/11/26_11:53_JOVEMPANNEWS_5m36s_Chefe da Educação na Coreia do Sul cai após fraude com IA",
       "TxoDRLF1ddQ | [VIDEO]_22/11/26_11:42_JOVEMPANNEWS_4m04s_Restrição a compensação fiscal gera alerta no setor produtivo",
       "hqXhhwp-ee4 | [VIDEO]_22/11/26_11:28_JOVEMPANNEWS_17m41s_Vitória Régia projeta políticas de proteção às mulheres negras",
       "W8qcs91vEY8 | [VIDEO]_22/11/26_13:01_JOVEMPANNEWS_5m41s_Guilherme Wünsch aponta papel dos sindicatos na transição para 5x2",
+      "HCSsqHInwZ8 | [VIDEO]_22/11/26_12:40_JOVEMPANNEWS_13m57s_Carlos Bocuhy analisa impasse climático e papel do petróleo na COP31",
       "BXJdSm6eluY | [VIDEO]_22/11/26_09:50_JOVEMPANNEWS_6m07s_Poliana Banqueri analisa impacto do decreto da escala 5x2 nas empresas",
       "C8K9sTckRZ0 | [VIDEO]_22/11/26_09:28_JOVEMPANNEWS_5m00s_Produtores rurais enfrentam falta de estrutura   HORA H DO AGRO",
       "Gt2PgFnNmNQ | [VIDEO]_22/11/26_09:14_JOVEMPANNEWS_4m36s_Copom alerta para impacto do El Niño na inflação e na conta de luz",
@@ -497,6 +497,8 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
+      "Aeai_b4_vmw",
+      "ShatBTJj8FM",
       "PP8OeGKP93E",
       "sjr2pu8GGBY",
       "SIhWmqBbg2c",
@@ -524,13 +526,13 @@
       "ezqut6o-rnQ",
       "G4-o0UDNwKw",
       "EN0iCgVeszg",
-      "s5H0XwfN6Zs",
-      "aMk3Kf6dqwM",
-      "EkHtRxATkyM"
+      "s5H0XwfN6Zs"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "Aeai_b4_vmw | [VIDEO]_22/11/26_14:00_MELHORDATARDE_2m33s_Diogo Nogueira dá cantada em Patrícia durante programa e leva invertida   A",
+      "ShatBTJj8FM | [VIDEO]_22/11/26_14:00_BANDJORNALISMO_2m31s_Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil   Ac",
       "PP8OeGKP93E | [VIDEO]_22/11/26_09:31_BANDJORNALISMO_13m03s_Casos de Covid-19 voltam a crescer no Brasil   BandNews TV",
       "sjr2pu8GGBY | [VIDEO]_22/11/26_12:39_BANDJORNALISMO_8m54s_Indicador do Custo Brasil atinge R$ 3,5 trilhões   BandNews TV",
       "SIhWmqBbg2c | [VIDEO]_22/11/26_12:11_BANDJORNALISMO_13m34s_Black Friday deve movimentar R$ 11 Bi em 2026   BandNewsTV",
@@ -558,9 +560,7 @@
       "ezqut6o-rnQ | [VIDEO]_20/11/26_16:06_MELHORDATARDE_5m39s_Murilo Benício revela perda de 12 kg com acompanhamento médico   Melhor da",
       "G4-o0UDNwKw | [VIDEO]_20/11/26_15:49_MELHORDATARDE_4m03s_Serginho Groisman descarta aposentadoria e celebra 26 anos   Melhor da Tard",
       "EN0iCgVeszg | [VIDEO]_20/11/26_15:45_MELHORDATARDE_4m37s_Ex-BBB e Aracy Balabanian: os romances de Antônio Fagundes   Melhor da Tard",
-      "s5H0XwfN6Zs | [VIDEO]_20/11/26_15:20_MELHORDATARDE_4m55s_Famosas debatem autoestima, beleza e pressão estética em evento   Melhor da",
-      "aMk3Kf6dqwM | [VIDEO]_20/11/26_15:07_MELHORDATARDE_4m30s_Acessórios de luxo de jogadores chamam atenção pelos valores milionários",
-      "EkHtRxATkyM | [VIDEO]_20/11/26_15:00_MELHORDATARDE_4m33s_Futebol inspira ensaios de cueca com Neymar, Messi e Cristiano   Melhor da"
+      "s5H0XwfN6Zs | [VIDEO]_20/11/26_15:20_MELHORDATARDE_4m55s_Famosas debatem autoestima, beleza e pressão estética em evento   Melhor da"
     ]
   },
   {
@@ -708,12 +708,12 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "7GA6ZB6mK3s",
-      "8MqmeCXes4Q",
       "T7COI7OkRNU",
       "SDDGyYU4xRg",
       "78REK_E4oAU",
       "36ndLTH8N3o",
       "Iy2e3HSwQ_c",
+      "8MqmeCXes4Q",
       "nEunxUTl13A",
       "QJPc9TXHQ8I",
       "Q947xtK2Q3U",
@@ -742,12 +742,12 @@
     "playlistId": "",
     "carimbos": [
       "7GA6ZB6mK3s | ((LIVE))_22/11/26_12:01_CBNBRASIL_Revista CBN - 22/11/2026",
-      "8MqmeCXes4Q | [VIDEO]_22/11/26_09:06_CBNBRASIL_183m05s_Jornal da CBN - 22/11/2026",
       "T7COI7OkRNU | [VIDEO]_22/11/26_03:35_CBNBRASIL_25m24s_Jornal da CBN - 17/10/2026",
       "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
       "78REK_E4oAU | [VIDEO]_22/11/26_05:52_RÁDIOCBN_151m37s_CBN Esportes - 22/11/26",
       "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026",
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
+      "8MqmeCXes4Q | [VIDEO]_22/11/26_09:06_CBNBRASIL_183m05s_Jornal da CBN - 22/11/2026",
       "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
       "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "Q947xtK2Q3U | [VIDEO]_22/11/26_07:39_CBNBRASIL_237m11s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
@@ -847,12 +847,12 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "u4423R6-Yg4",
       "jvGfDN4gJMk",
       "B0Cbu1BGLRo",
       "FEMktLtJ-_8",
       "gIESRyXtlnA",
       "B0grBLOeS54",
+      "u4423R6-Yg4",
       "vNJN2BVup2Q",
       "WAn-SLt3eho",
       "swaBkF1gN9U",
@@ -881,12 +881,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "u4423R6-Yg4 | [VIDEO]_22/11/26_11:46_METRÓPOLES_12m58s_ESCALA 5x2: o que muda na vida dos trabalhadores a partir de 16 de dezembro",
       "jvGfDN4gJMk | [VIDEO]_22/11/26_11:26_METRÓPOLES_10m45s_Íntegra: cirurgião que já operou Bolsonaro analisa internação do ex-preside",
       "B0Cbu1BGLRo | [VIDEO]_22/11/26_10:23_METRÓPOLES_59m19s_AO VIVO: entrevista com médico que já operou Bolsonaro   Tempestade no RS v",
       "FEMktLtJ-_8 | [VIDEO]_22/11/26_12:39_METRÓPOLES_5m26s_Flamengo campeão do Brasileirão, Boca Juniors levantta a taça e Verstappen",
       "gIESRyXtlnA | [VIDEO]_22/11/26_12:20_METRÓPOLES_5m24s_Cidade devastada no RS recebe reforço federal após mortes e destruição",
       "B0grBLOeS54 | [VIDEO]_22/11/26_12:06_METRÓPOLES_9m01s_Alerta no RS: Bombeiros revelam como se proteger de tempestades devastadora",
+      "u4423R6-Yg4 | [VIDEO]_22/11/26_11:46_METRÓPOLES_12m58s_ESCALA 5x2: o que muda na vida dos trabalhadores a partir de 16 de dezembro",
       "vNJN2BVup2Q | [VIDEO]_22/11/26_03:22_METRÓPOLES_13m56s_Moraes, o problema do STF com os vazamentos de Vorcaro e o futuro da presid",
       "WAn-SLt3eho | [VIDEO]_21/11/26_12:24_METRÓPOLES_14m42s_Íntegra: relator do projeto de ajuste fiscal se reúne com o PL na segunda-f",
       "swaBkF1gN9U | [VIDEO]_21/11/26_12:04_METRÓPOLES_59m11s_Atualizações sobre a saúde de Bolsonaro   Velório de Gabriel Félix será pri",
