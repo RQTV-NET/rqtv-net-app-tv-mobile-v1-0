@@ -219,6 +219,8 @@
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
+      "8tIWJmPzm2w",
+      "3G_KNiX7M88",
       "GdnZDi_uN3c",
       "fucTWHuipdc",
       "_majkCrEMu8",
@@ -246,13 +248,14 @@
       "bX9bbNe17Uk",
       "VeUDIMn9ElY",
       "tMOGZlwJkvo",
-      "3iqm3Cd4WJY",
-      "_mWcjSYRLKU"
+      "3iqm3Cd4WJY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "GdnZDi_uN3c | [VIDEO]_22/11/26_17:20_CNNBRASIL_66m41s_AO VIVO: MÉDICOS NÃO DESCARTAM CIRURGIA DE BOLSONARO - CNN AGORA TARDE II",
+      "8tIWJmPzm2w | [VIDEO]_22/11/26_17:44_CNNBRASIL_2m59s_Mosquito com bactéria reduz em 68% infecções por dengue em Belo Horizonte  ",
+      "3G_KNiX7M88 | [VIDEO]_22/11/26_17:42_CNNBRASIL_7m05s_Médicos não descartam fazer cirurgia em Jair Bolsonaro; entenda   CNN AGORA",
+      "GdnZDi_uN3c | [VIDEO]_22/11/26_17:20_CNNBRASIL_66m41s_MÉDICOS NÃO DESCARTAM CIRURGIA DE BOLSONARO - CNN AGORA TARDE II",
       "fucTWHuipdc | [VIDEO]_22/11/26_17:02_CNNBRASIL_4m43s_Lavouras de soja e empresas agro são atingidas por temporal em Tupanciretã ",
       "_majkCrEMu8 | [VIDEO]_22/11/26_12:25_CNNBRASIL_4m33s_Inspirado em Bukele, governo do Haiti anuncia construção de três prisões",
       "OdmlbUdpLoc | [VIDEO]_22/11/26_15:00_CNNBRASIL_68m25s_GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE I",
@@ -279,8 +282,7 @@
       "bX9bbNe17Uk | [VIDEO]_21/11/26_19:18_CNNBRASIL_7m10s_Integrante da direção do Cidadania avalia decisão de Zanin sobre suspensão",
       "VeUDIMn9ElY | [VIDEO]_21/11/26_18:40_CNNBRASIL_7m19s_Flamengo empata com Palmeiras e vence Brasileirão pelo segundo ano seguido",
       "tMOGZlwJkvo | [VIDEO]_21/11/26_18:28_CNNBRASIL_14m31s_Moraes autoriza visita de familiares a Jair Bolsonaro   BOLETIM CNN",
-      "3iqm3Cd4WJY | [VIDEO]_21/11/26_17:26_CNNBRASIL_4m29s_Lula presta solidariedade e garante esforços após temporal em Tupanciretã (",
-      "_mWcjSYRLKU | [VIDEO]_21/11/26_17:20_CNNBRASIL_59m36s_BOLSONARO ESTÁ NA UTI COM ABDÔMEN OBSTRUÍDO, DIZ BOLETIM - CNN AGORA TARDE"
+      "3iqm3Cd4WJY | [VIDEO]_21/11/26_17:26_CNNBRASIL_4m29s_Lula presta solidariedade e garante esforços após temporal em Tupanciretã ("
     ]
   },
   {
@@ -357,6 +359,7 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
+      "R0AVScjVbbA",
       "_847c_-ELSQ",
       "cYadrtbI9ZM",
       "iZiwadaJ2yA",
@@ -385,12 +388,12 @@
       "k8y14wcMLfU",
       "N7xR0V47txE",
       "Z62BLDPN_z4",
-      "SRCqg_a86B0",
-      "X-iB4P-36-A"
+      "SRCqg_a86B0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "R0AVScjVbbA | [VIDEO]_22/11/26_17:37_JOVEMPANNEWS_19m49s_Deputado Domingos Sávio avalia expectativas para votação do ajuste fiscal",
       "_847c_-ELSQ | [VIDEO]_22/11/26_17:03_JOVEMPANNEWS_4m03s_Limite a crédito tributário em ajuste fiscal preocupa empresas",
       "cYadrtbI9ZM | [VIDEO]_22/11/26_16:51_JOVEMPANNEWS_13m26s_Governo e mercado divergem sobre ajuste fiscal, especialista comenta",
       "iZiwadaJ2yA | [VIDEO]_22/11/26_16:41_JOVEMPANNEWS_5m09s_Câmara deve votar ajuste fiscal na próxima segunda-feira (23)",
@@ -419,8 +422,7 @@
       "k8y14wcMLfU | [VIDEO]_22/11/26_07:41_JOVEMPANNEWS_2m54s_Natal e Black Friday impulsionam 530 mil empregos extras no país",
       "N7xR0V47txE | [VIDEO]_22/11/26_07:11_JOVEMPANNEWS_5m08s_Sobe para cinco o número de mortes após chuvas em Tupanciretã",
       "Z62BLDPN_z4 | [VIDEO]_21/11/26_21:59_JOVEMPANNEWS_2m17s_Casos de mpox crescem no Brasil e preocupam autoridades e população   JP SA",
-      "SRCqg_a86B0 | [VIDEO]_21/11/26_21:53_JOVEMPANNEWS_6m57s_Pedro Araújo analisa impactos da escala 6x1 nas empresas",
-      "X-iB4P-36-A | [VIDEO]_21/11/26_21:23_JOVEMPANNEWS_14m48s_\"Vamos sofrer rotatividade da mão de obra\", diz Paulo Sérgio João sobre fim"
+      "SRCqg_a86B0 | [VIDEO]_21/11/26_21:53_JOVEMPANNEWS_6m57s_Pedro Araújo analisa impactos da escala 6x1 nas empresas"
     ]
   },
   {
@@ -497,12 +499,12 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
-      "sjr2pu8GGBY",
       "SIMpYRcZLzw",
       "xnZQXE2prIg",
       "EDFfco2stk4",
       "CzQDBW_MQQs",
       "ShatBTJj8FM",
+      "sjr2pu8GGBY",
       "ri9vsuAznG8",
       "PP8OeGKP93E",
       "vzuyp4f4eSo",
@@ -531,12 +533,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "sjr2pu8GGBY | [VIDEO]_22/11/26_12:39_BANDJORNALISMO_8m54s_Indicador do Custo Brasil atinge R$ 3,5 trilhões   BandNews TV",
       "SIMpYRcZLzw | [VIDEO]_22/11/26_11:00_BANDJORNALISMO_2m47s_Tráfico e falsificação de canetas emagrecedoras colocam saúde em risco   Ac",
       "xnZQXE2prIg | [VIDEO]_22/11/26_15:28_BANDJORNALISMO_12m51s_Fraude: golpes por PIX atrapalham doações   BandNews TV",
       "EDFfco2stk4 | [VIDEO]_22/11/26_15:00_BANDJORNALISMO_4m02s_Sem verba para virar museu, histórico navio Sirius afunda no litoral do Rio",
       "CzQDBW_MQQs | [VIDEO]_22/11/26_15:00_MELHORDATARDE_2m33s_Diogo Nogueira dá cantada em Patrícia durante programa e leva invertida   A",
       "ShatBTJj8FM | [VIDEO]_22/11/26_14:00_BANDJORNALISMO_2m31s_Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil   Ac",
+      "sjr2pu8GGBY | [VIDEO]_22/11/26_12:39_BANDJORNALISMO_8m54s_Indicador do Custo Brasil atinge R$ 3,5 trilhões   BandNews TV",
       "ri9vsuAznG8 | [VIDEO]_22/11/26_10:00_BANDJORNALISMO_2m00s_SUS amplia exames de glaucoma, mas regiões mostram desigualdade   Aconteceu",
       "PP8OeGKP93E | [VIDEO]_22/11/26_09:31_BANDJORNALISMO_13m03s_Casos de Covid-19 voltam a crescer no Brasil   BandNews TV",
       "vzuyp4f4eSo | [VIDEO]_21/11/26_20:46_BANDJORNALISMO_2m57s_Paraibuna investe em prevenção e amplia atendimento gratuito em saúde bucal",
@@ -707,10 +709,10 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
-      "QJPc9TXHQ8I",
       "nEunxUTl13A",
       "Iy2e3HSwQ_c",
       "Q947xtK2Q3U",
+      "QJPc9TXHQ8I",
       "mHKMOphlKhI",
       "uNO5Q0mwKE4",
       "ZIs4NUavQTA",
@@ -741,10 +743,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
       "Q947xtK2Q3U | [VIDEO]_22/11/26_07:39_CBNBRASIL_237m11s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
+      "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "mHKMOphlKhI | [VIDEO]_21/11/26_19:36_CBNBRASIL_262m56s_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU",
       "uNO5Q0mwKE4 | [VIDEO]_21/11/26_02:14_CBNBRASIL_117m17s_CBN Brasil - 20/11/2026",
       "ZIs4NUavQTA | [VIDEO]_21/11/26_01:11_CBNBRASIL_6m46s_PF indica que Mendonça não trocou mensagens com Vorcaro; temporal deixa trê",
@@ -777,10 +779,10 @@
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
-      "CtoZEN5X1EY",
       "hUTpYOyEQrs",
       "3K7GQf5Oadg",
       "G8vzP5CXTtw",
+      "CtoZEN5X1EY",
       "Nt1mYa5jbUU",
       "jTxhpnXb8ts",
       "wpdlOXwRUV8",
@@ -811,10 +813,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "CtoZEN5X1EY | [VIDEO]_22/11/26_09:00_REVISTAOESTE_9m20s_Economista explica a polêmica do Banco do Brasil com o agro",
       "hUTpYOyEQrs | [VIDEO]_22/11/26_00:19_REVISTAOESTE_96m36s_OESTE CULTURA: O FENÔMENO GRAND THEFT AUTO - (21/11/26)",
       "3K7GQf5Oadg | [VIDEO]_22/11/26_15:00_REVISTAOESTE_10m06s_COMO GRAND THEFT AUTO CONQUISTOU O MUNDO DOS GAMES?",
       "G8vzP5CXTtw | [VIDEO]_22/11/26_14:00_REVISTAOESTE_120m08s_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   DOMINGO 22/11/26",
+      "CtoZEN5X1EY | [VIDEO]_22/11/26_09:00_REVISTAOESTE_9m20s_Economista explica a polêmica do Banco do Brasil com o agro",
       "Nt1mYa5jbUU | [VIDEO]_21/11/26_19:30_REVISTAOESTE_30m16s_SAIBA COMO O EXERCÍCIO PROTEGE SUA SAÚDE   OESTE SAÚDE, COM DRA. DENISE STE",
       "jTxhpnXb8ts | [VIDEO]_21/11/26_14:00_REVISTAOESTE_120m08s_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   SÁBADO 21/11/26",
       "wpdlOXwRUV8 | [VIDEO]_21/11/26_10:00_REVISTAOESTE_117m54s_DE LESTE A OESTE - 20/11/2026   CRISTÃOS SOB PERSEGUIÇÃO - UMA TRAGÉDIA DE",
@@ -847,12 +849,12 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "FEMktLtJ-_8",
       "GCwNq_w9U4M",
       "xq9bCxNuq7M",
       "IfyWEcxKEQ4",
       "0H2Xi88r-kg",
       "ERO8Zi8NJGA",
+      "FEMktLtJ-_8",
       "gIESRyXtlnA",
       "B0grBLOeS54",
       "IFu7eIR5wOc",
@@ -881,12 +883,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "FEMktLtJ-_8 | [VIDEO]_22/11/26_12:39_METRÓPOLES_5m26s_Flamengo campeão do Brasileirão, Boca Juniors levantta a taça e Verstappen",
       "GCwNq_w9U4M | [VIDEO]_22/11/26_12:37_METRÓPOLES_2m03s_Casal é preso com arma e drogas após denúncia de furto de carro no DF",
       "xq9bCxNuq7M | [VIDEO]_22/11/26_12:25_METRÓPOLES_3m04s_Homem ameaça criança com faca e espanca companheira e enteado no Entorno",
       "IfyWEcxKEQ4 | [VIDEO]_22/11/26_15:51_METRÓPOLES_2m27s_Pé Grande existe? Arquivos oficiais dos EUA revelam detalhes misteriosos",
       "0H2Xi88r-kg | [VIDEO]_22/11/26_15:43_METRÓPOLES_2m16s_México captura narcotraficante que está entre os dez mais procurados pelo F",
       "ERO8Zi8NJGA | [VIDEO]_22/11/26_15:06_METRÓPOLES_2m01s_Turista morto no Rio era influencer dos EUA e estava no Brasil havia 2 dias",
+      "FEMktLtJ-_8 | [VIDEO]_22/11/26_12:39_METRÓPOLES_5m26s_Flamengo campeão do Brasileirão, Boca Juniors levantta a taça e Verstappen",
       "gIESRyXtlnA | [VIDEO]_22/11/26_12:20_METRÓPOLES_5m24s_Cidade devastada no RS recebe reforço federal após mortes e destruição",
       "B0grBLOeS54 | [VIDEO]_22/11/26_12:06_METRÓPOLES_9m01s_Alerta no RS: Bombeiros revelam como se proteger de tempestades devastadora",
       "IFu7eIR5wOc | [VIDEO]_22/11/26_12:46_METRÓPOLES_2m59s_Durante briga no Entorno, homem toma enxada de rival e o mata com 17 golpes",
@@ -1777,9 +1779,9 @@
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [
-      "7aSz_lJ-aZA",
       "t1JBtI3Lr8w",
       "iTKFgA1_qhA",
+      "7aSz_lJ-aZA",
       "B1mRgmWWwD8",
       "c7Q3S6bMuG8",
       "oIuupOu2sMY",
@@ -1800,9 +1802,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "7aSz_lJ-aZA | [VIDEO]_22/11/26_12:00_WEBMOTORS_23m12s_Garupa de Moto, Validade dos Pneus e BMW M235   Webmotors TV - 22/11/2026",
       "t1JBtI3Lr8w | [VIDEO]_22/11/26_10:59_ACELERADOS_120m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 2 - INTERLAGOS (SP) - Domingo (22/11)",
       "iTKFgA1_qhA | [VIDEO]_22/11/26_14:02_ACELERADOS_58m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 3 - INTERLAGOS (SP) - Domingo (22/11)",
+      "7aSz_lJ-aZA | [VIDEO]_22/11/26_12:00_WEBMOTORS_23m12s_Garupa de Moto, Validade dos Pneus e BMW M235   Webmotors TV - 22/11/2026",
       "B1mRgmWWwD8 | [VIDEO]_21/11/26_14:12_ACELERADOS_98m11s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 1 - INTERLAGOS (SP) - Sábado (21/11) -",
       "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "oIuupOu2sMY | [VIDEO]_18/11/26_19:00_ACELERADOS_21m35s_O CARRO DA LUCIA E DO JASON DO GTA VI E DODGE VIPER SR I 1993 NA VOLTA RÁPI",
