@@ -149,8 +149,8 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
-      "cO5Rqo56Q_U",
       "XmN3ClDzQiI",
+      "cO5Rqo56Q_U",
       "gCj4t7WvjrQ",
       "QyX2PFBZVEo",
       "Adv0ACK5AzA",
@@ -183,8 +183,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "cO5Rqo56Q_U | ((LIVE))_22/11/26_13:00_SBTNEWS_Entenda os impactos do fim da escala 6x1 em serviços públicos e moradia   P",
       "XmN3ClDzQiI | ((LIVE))_21/11/26_20:58_SBTNEWS_SBT NEWS AO VIVO",
+      "cO5Rqo56Q_U | [VIDEO]_22/11/26_13:00_SBTNEWS_56m59s_Entenda os impactos do fim da escala 6x1 em serviços públicos e moradia   P",
       "gCj4t7WvjrQ | [VIDEO]_21/11/26_21:07_SBTNEWS_131m01s_JORNAL DO SBT NEWS   21/11/2026",
       "QyX2PFBZVEo | [VIDEO]_21/11/26_20:40_SBTNEWS_17m17s_Economista critica pacote de ajuste fiscal e fala de risco de estagflação e",
       "Adv0ACK5AzA | [VIDEO]_21/11/26_20:36_SBTNEWS_5m45s_Temporal deixa cinco mortos e mais de 200 feridos no RS   #JornaldoSBTNews",
@@ -219,9 +219,10 @@
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
-      "XI5m00HmrFM",
+      "OdmlbUdpLoc",
       "FjivCxRWjvM",
       "K8KMr9jT2dE",
+      "XI5m00HmrFM",
       "_majkCrEMu8",
       "_42SN6th-SE",
       "H8b9Ldc9GQ4",
@@ -247,15 +248,15 @@
       "KWKwCfhvGJg",
       "bX9bbNe17Uk",
       "VeUDIMn9ElY",
-      "tMOGZlwJkvo",
-      "3iqm3Cd4WJY"
+      "tMOGZlwJkvo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "XI5m00HmrFM | ((LIVE))_22/11/26_12:51_CNNBRASIL_AO VIVO: O GRANDE DEBATE - Edição Fim de Semana - 22/11/2026",
+      "OdmlbUdpLoc | ((LIVE))_22/11/26_13:49_CNNBRASIL_AO VIVO: GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE",
       "FjivCxRWjvM | [VIDEO]_22/11/26_13:14_CNNBRASIL_221m20s_BOLSONARO SEGUE INTERNADO EM UTI PELO TERCEIRO DIA - CNN AGORA MANHÃ",
       "K8KMr9jT2dE | [VIDEO]_22/11/26_13:07_CNNBRASIL_4m34s_Sul tem previsão de tempestades com granizo e vendaval, alerta Inmet   CNN ",
+      "XI5m00HmrFM | [VIDEO]_20/11/26_00:59_CNNBRASIL_69m23s_AO VIVO: O GRANDE DEBATE - Edição Fim de Semana - 22/11/2026",
       "_majkCrEMu8 | [VIDEO]_22/11/26_12:25_CNNBRASIL_4m33s_Inspirado em Bukele, governo do Haiti anuncia construção de três prisões",
       "_42SN6th-SE | [VIDEO]_22/11/26_10:11_CNNBRASIL_5m10s_Unesp 2027:  mais de 65 mil estudantes fazem a 1ª fase neste domingo   CNN",
       "H8b9Ldc9GQ4 | [VIDEO]_22/11/26_10:05_CNNBRASIL_9m32s_EL Niño vai continuar forte até início de 2027; especialista explica   CNN",
@@ -281,8 +282,7 @@
       "KWKwCfhvGJg | [VIDEO]_21/11/26_19:34_CNNBRASIL_34m38s_FLAMENGO EMPATA COM PALMEIRAS E CONQUISTA CAMPEONATO BRASILEIRO   CNN AGORA",
       "bX9bbNe17Uk | [VIDEO]_21/11/26_19:18_CNNBRASIL_7m10s_Integrante da direção do Cidadania avalia decisão de Zanin sobre suspensão",
       "VeUDIMn9ElY | [VIDEO]_21/11/26_18:40_CNNBRASIL_7m19s_Flamengo empata com Palmeiras e vence Brasileirão pelo segundo ano seguido",
-      "tMOGZlwJkvo | [VIDEO]_21/11/26_18:28_CNNBRASIL_14m31s_Moraes autoriza visita de familiares a Jair Bolsonaro   BOLETIM CNN",
-      "3iqm3Cd4WJY | [VIDEO]_21/11/26_17:26_CNNBRASIL_4m29s_Lula presta solidariedade e garante esforços após temporal em Tupanciretã ("
+      "tMOGZlwJkvo | [VIDEO]_21/11/26_18:28_CNNBRASIL_14m31s_Moraes autoriza visita de familiares a Jair Bolsonaro   BOLETIM CNN"
     ]
   },
   {
@@ -497,10 +497,10 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
-      "SIhWmqBbg2c",
       "WN_nGBIKdR0",
       "PP8OeGKP93E",
       "sjr2pu8GGBY",
+      "SIhWmqBbg2c",
       "B5uC3U0A7n4",
       "SV3JMogAxWs",
       "MEbJ7tUDOc8",
@@ -531,10 +531,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "SIhWmqBbg2c | [VIDEO]_22/11/26_12:11_BANDJORNALISMO_13m34s_Black Friday deve movimentar R$ 11 Bi em 2026   BandNewsTV",
       "WN_nGBIKdR0 | [VIDEO]_22/11/26_11:41_BANDJORNALISMO_20m09s_Comissão aprova regras de prevenção e combate ao bullying   BandNews TV",
       "PP8OeGKP93E | [VIDEO]_22/11/26_09:31_BANDJORNALISMO_13m03s_Casos de Covid-19 voltam a crescer no Brasil   BandNews TV",
       "sjr2pu8GGBY | [VIDEO]_22/11/26_12:39_BANDJORNALISMO_8m54s_Indicador do Custo Brasil atinge R$ 3,5 trilhões   BandNews TV",
+      "SIhWmqBbg2c | [VIDEO]_22/11/26_12:11_BANDJORNALISMO_13m34s_Black Friday deve movimentar R$ 11 Bi em 2026   BandNewsTV",
       "B5uC3U0A7n4 | [VIDEO]_21/11/26_23:35_BANDJORNALISMO_63m00s_[AO VIVO]  A LUTA PELA ABOLIÇÃO - DOCUMENTO BAND - 21/11/2026",
       "SV3JMogAxWs | [VIDEO]_21/11/26_20:26_BANDJORNALISMO_4m26s_Gilmar Mendes defende fim de sigilo em relatórios sobre ministros do STF",
       "MEbJ7tUDOc8 | [VIDEO]_21/11/26_19:00_BANDPAULISTA_24m21s_PROGRAMA DNA - 21/11/2026 - DANIELE FERNANDES   Band Paulista",
@@ -708,12 +708,12 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "7GA6ZB6mK3s",
-      "36ndLTH8N3o",
       "Iy2e3HSwQ_c",
       "8MqmeCXes4Q",
       "T7COI7OkRNU",
       "SDDGyYU4xRg",
       "78REK_E4oAU",
+      "36ndLTH8N3o",
       "nEunxUTl13A",
       "QJPc9TXHQ8I",
       "Q947xtK2Q3U",
@@ -742,12 +742,12 @@
     "playlistId": "",
     "carimbos": [
       "7GA6ZB6mK3s | ((LIVE))_22/11/26_12:01_CBNBRASIL_Revista CBN - 22/11/2026",
-      "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026",
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
       "8MqmeCXes4Q | [VIDEO]_22/11/26_09:06_CBNBRASIL_183m05s_Jornal da CBN - 22/11/2026",
       "T7COI7OkRNU | [VIDEO]_22/11/26_03:35_CBNBRASIL_25m24s_Jornal da CBN - 17/10/2026",
       "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
       "78REK_E4oAU | [VIDEO]_22/11/26_05:52_RÁDIOCBN_151m37s_CBN Esportes - 22/11/26",
+      "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026",
       "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
       "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "Q947xtK2Q3U | [VIDEO]_22/11/26_07:39_CBNBRASIL_237m11s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
@@ -777,6 +777,8 @@
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
+      "G8vzP5CXTtw",
+      "5BGX75TppYc",
       "M_y4BNh_OAU",
       "hUTpYOyEQrs",
       "CtoZEN5X1EY",
@@ -804,13 +806,13 @@
       "SEwyPw-M-XU",
       "K7Hlr_eW8OY",
       "s_FjS8WRRRc",
-      "1w9K_KA3-a8",
-      "bIKsMzsY37s",
-      "-XACL4WhlMc"
+      "1w9K_KA3-a8"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "G8vzP5CXTtw | ((LIVE))_22/11/26_14:00_REVISTAOESTE_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   DOMINGO 22/11/26",
+      "5BGX75TppYc | [VIDEO]_22/11/26_14:00_REVISTAOESTE_8m51s_GTA VI vai ser o maior sucesso do ano?",
       "M_y4BNh_OAU | [VIDEO]_22/11/26_13:00_REVISTAOESTE_8m33s_ROBERT PATTINSON é oficialmente o novo JAMES BOND do cinema!",
       "hUTpYOyEQrs | [VIDEO]_22/11/26_00:19_REVISTAOESTE_96m36s_OESTE CULTURA: O FENÔMENO GRAND THEFT AUTO - (21/11/26)",
       "CtoZEN5X1EY | [VIDEO]_22/11/26_09:00_REVISTAOESTE_9m20s_Economista explica a polêmica do Banco do Brasil com o agro",
@@ -838,21 +840,19 @@
       "SEwyPw-M-XU | [VIDEO]_20/11/26_20:00_REVISTAOESTE_30m20s_Hábitos saudáveis podem ajudar a prevenir a demência   AFA, com Joice Maffe",
       "K7Hlr_eW8OY | [VIDEO]_20/11/26_19:49_REVISTAOESTE_5m06s_Lula anuncia ministério para idosos em meio ao descontrole nas contas públi",
       "s_FjS8WRRRc | [VIDEO]_20/11/26_19:36_REVISTAOESTE_10m57s_MORAES MANDOU PRENDER: M0rte de Clezão na Papuda completa três anos",
-      "1w9K_KA3-a8 | [VIDEO]_20/11/26_19:19_REVISTAOESTE_8m48s_MILEI X LULA: Argentina inaugura 1ª loja da Tesla e afunda Brasil na vangua",
-      "bIKsMzsY37s | [VIDEO]_20/11/26_19:03_REVISTAOESTE_11m36s_Jornalista 'pesadelo de Moraes' cobra cooperação dos EUA no caso Filipe Mar",
-      "-XACL4WhlMc | [VIDEO]_20/11/26_18:41_REVISTAOESTE_9m03s_CASO MASTER: Mendonça age na contramão de Moraes e torna público relatório"
+      "1w9K_KA3-a8 | [VIDEO]_20/11/26_19:19_REVISTAOESTE_8m48s_MILEI X LULA: Argentina inaugura 1ª loja da Tesla e afunda Brasil na vangua"
     ]
   },
   {
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "gIESRyXtlnA",
       "B0grBLOeS54",
       "u4423R6-Yg4",
       "jvGfDN4gJMk",
       "B0Cbu1BGLRo",
       "FEMktLtJ-_8",
+      "gIESRyXtlnA",
       "vNJN2BVup2Q",
       "WAn-SLt3eho",
       "swaBkF1gN9U",
@@ -881,12 +881,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "gIESRyXtlnA | [VIDEO]_22/11/26_12:20_METRÓPOLES_5m24s_Cidade devastada no RS recebe reforço federal após mortes e destruição",
       "B0grBLOeS54 | [VIDEO]_22/11/26_12:06_METRÓPOLES_9m01s_Alerta no RS: Bombeiros revelam como se proteger de tempestades devastadora",
       "u4423R6-Yg4 | [VIDEO]_22/11/26_11:46_METRÓPOLES_12m58s_ESCALA 5x2: o que muda na vida dos trabalhadores a partir de 16 de dezembro",
       "jvGfDN4gJMk | [VIDEO]_22/11/26_11:26_METRÓPOLES_10m45s_Íntegra: cirurgião que já operou Bolsonaro analisa internação do ex-preside",
       "B0Cbu1BGLRo | [VIDEO]_22/11/26_10:23_METRÓPOLES_59m19s_AO VIVO: entrevista com médico que já operou Bolsonaro   Tempestade no RS v",
       "FEMktLtJ-_8 | [VIDEO]_22/11/26_12:39_METRÓPOLES_5m26s_Flamengo campeão do Brasileirão, Boca Juniors levantta a taça e Verstappen",
+      "gIESRyXtlnA | [VIDEO]_22/11/26_12:20_METRÓPOLES_5m24s_Cidade devastada no RS recebe reforço federal após mortes e destruição",
       "vNJN2BVup2Q | [VIDEO]_22/11/26_03:22_METRÓPOLES_13m56s_Moraes, o problema do STF com os vazamentos de Vorcaro e o futuro da presid",
       "WAn-SLt3eho | [VIDEO]_21/11/26_12:24_METRÓPOLES_14m42s_Íntegra: relator do projeto de ajuste fiscal se reúne com o PL na segunda-f",
       "swaBkF1gN9U | [VIDEO]_21/11/26_12:04_METRÓPOLES_59m11s_Atualizações sobre a saúde de Bolsonaro   Velório de Gabriel Félix será pri",
@@ -1788,7 +1788,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "iTKFgA1_qhA | ((LIVE))_22/11/26_13:01_ACELERADOS_PORSCHE CUP BRASIL AO VIVO - CORRIDA 3 - INTERLAGOS (SP) - Domingo (22/11) ",
+      "iTKFgA1_qhA | [VIDEO]_17/11/26_15:39_ACELERADOS_58m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 3 - INTERLAGOS (SP) - Domingo (22/11) ",
       "t1JBtI3Lr8w | [VIDEO]_22/11/26_10:59_ACELERADOS_120m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 2 - INTERLAGOS (SP) - Domingo (22/11)",
       "7aSz_lJ-aZA | [VIDEO]_22/11/26_12:00_WEBMOTORS_23m12s_Garupa de Moto, Validade dos Pneus e BMW M235   Webmotors TV - 22/11/2026",
       "B1mRgmWWwD8 | [VIDEO]_21/11/26_14:12_ACELERADOS_98m11s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 1 - INTERLAGOS (SP) - Sábado (21/11) -",
