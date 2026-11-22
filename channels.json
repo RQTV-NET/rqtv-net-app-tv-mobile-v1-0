@@ -10,9 +10,9 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
-      "n5UiFDo_KCM",
       "0AnvP57LAn0",
       "JDbqBA1RA4s",
+      "n5UiFDo_KCM",
       "h8EBK5jqtCo",
       "VX-Jn-g5tw0",
       "M9s8ftB7tis",
@@ -43,9 +43,9 @@
     ],
     "playlistId": "",
     "carimbos": [
-      "n5UiFDo_KCM | [VIDEO]_22/11/26_11:41_G1(JORNALHOJE/MATÉRIAS)_2m41s_Nakagawa: Lula sinaliza um 'caminho do meio' com plano Moretti",
       "0AnvP57LAn0 | [VIDEO]_22/11/26_13:56_G1(JORNALHOJE/MATÉRIAS)_2m28s_Quatro pessoas morrem e uma fica ferida em acidente grave em Ipojuca, Perna",
       "JDbqBA1RA4s | [VIDEO]_22/11/26_12:46_G1(JORNALHOJE/MATÉRIAS)_2m31s_38 mil casas seguem sem luz no Paraná após dois tornados em um dia",
+      "n5UiFDo_KCM | [VIDEO]_22/11/26_11:41_G1(JORNALHOJE/MATÉRIAS)_2m41s_Nakagawa: Lula sinaliza um 'caminho do meio' com plano Moretti",
       "h8EBK5jqtCo | [VIDEO]_21/11/26_22:57_JORNALNACIONAL(JN)_11m23s_JN: Joe Wallach, um dos responsáveis pela consolidação da Globo, é homenage",
       "VX-Jn-g5tw0 | [VIDEO]_21/11/26_22:49_G1(JORNALHOJE/MATÉRIAS)_3m33s_JN: Data centers nos EUA poluem mais que alguns países",
       "M9s8ftB7tis | [VIDEO]_21/11/26_22:42_JORNALNACIONAL(JN)_3m02s_JN: Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta anual",
@@ -359,6 +359,8 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
+      "l6lpgJiCqZQ",
+      "BMc6N7QuxsI",
       "A2SjUu1dnZg",
       "NzYUa4-lxSo",
       "uArjk4xLOJY",
@@ -386,13 +388,13 @@
       "S9yaC6DigZI",
       "UPA3yfwLS_E",
       "-cBqBbLLDRc",
-      "q7JnILtbuFs",
-      "UXvhy4XtV8c",
-      "hD6HBcKKJro"
+      "q7JnILtbuFs"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "l6lpgJiCqZQ | [VIDEO]_22/11/26_15:31_JOVEMPANNEWS_9m00s_Ajuste fiscal entra no radar do Mercado",
+      "BMc6N7QuxsI | [VIDEO]_22/11/26_15:30_JOVEMPANNEWS_3m13s_COP-31: países não chegam a acordo sobre o clima",
       "A2SjUu1dnZg | [VIDEO]_22/11/26_15:28_JOVEMPANNEWS_3m31s_Chuvas intensas deixam Belo Horizonte e Triângulo Mineiro em alerta",
       "NzYUa4-lxSo | [VIDEO]_22/11/26_15:28_JOVEMPANNEWS_2m57s_Jair Bolsonaro segue internado na UTI sem previsão de alta",
       "uArjk4xLOJY | [VIDEO]_22/11/26_12:23_JOVEMPANNEWS_21m59s_Sebastião Melo analisa impacto da escala 6x1 e ajuste nas contas",
@@ -420,9 +422,7 @@
       "S9yaC6DigZI | [VIDEO]_21/11/26_20:02_JOVEMPANNEWS_4m04s_Tesla estreia na Argentina com dois modelos de carros elétricos",
       "UPA3yfwLS_E | [VIDEO]_21/11/26_19:59_JOVEMPANNEWS_12m16s_\"Vai afetar aqui o Brasil\", diz Luciano Fracola sobre restrições dos EUA pa",
       "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta",
-      "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs",
-      "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site",
-      "hD6HBcKKJro | [VIDEO]_20/11/26_18:32_OSPINGOSNOSIS_6m46s_Após pedido de destaque de Zanin julgamento de Marcel van Hattem será prese"
+      "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs"
     ]
   },
   {
@@ -709,10 +709,10 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
-      "QJPc9TXHQ8I",
       "nEunxUTl13A",
       "Iy2e3HSwQ_c",
       "Q947xtK2Q3U",
+      "QJPc9TXHQ8I",
       "mHKMOphlKhI",
       "uNO5Q0mwKE4",
       "ZIs4NUavQTA",
@@ -743,10 +743,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
       "Q947xtK2Q3U | [VIDEO]_22/11/26_07:39_CBNBRASIL_237m11s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
+      "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "mHKMOphlKhI | [VIDEO]_21/11/26_19:36_CBNBRASIL_262m56s_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU",
       "uNO5Q0mwKE4 | [VIDEO]_21/11/26_02:14_CBNBRASIL_117m17s_CBN Brasil - 20/11/2026",
       "ZIs4NUavQTA | [VIDEO]_21/11/26_01:11_CBNBRASIL_6m46s_PF indica que Mendonça não trocou mensagens com Vorcaro; temporal deixa trê",
@@ -849,6 +849,7 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
+      "0H2Xi88r-kg",
       "ERO8Zi8NJGA",
       "FEMktLtJ-_8",
       "GCwNq_w9U4M",
@@ -877,12 +878,12 @@
       "JxQMUpYRgiQ",
       "h6sOWcSUq68",
       "HfRxRFp_bJk",
-      "HhpyIMatAWc",
-      "JzY_chMeWm8"
+      "HhpyIMatAWc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "0H2Xi88r-kg | [VIDEO]_22/11/26_15:43_METRÓPOLES_2m16s_México captura narcotraficante que está entre os dez mais procurados pelo F",
       "ERO8Zi8NJGA | [VIDEO]_22/11/26_15:06_METRÓPOLES_2m01s_Turista morto no Rio era influencer dos EUA e estava no Brasil havia 2 dias",
       "FEMktLtJ-_8 | [VIDEO]_22/11/26_12:39_METRÓPOLES_5m26s_Flamengo campeão do Brasileirão, Boca Juniors levantta a taça e Verstappen",
       "GCwNq_w9U4M | [VIDEO]_22/11/26_12:37_METRÓPOLES_2m03s_Casal é preso com arma e drogas após denúncia de furto de carro no DF",
@@ -911,8 +912,7 @@
       "JxQMUpYRgiQ | [VIDEO]_20/11/26_23:38_METRÓPOLES_8m10s_Joice revela que atuou como media training de Bolsonaro",
       "h6sOWcSUq68 | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m09s_Joice Hasselmann revela bastidores da tentativa de Golpe",
       "HfRxRFp_bJk | [VIDEO]_20/11/26_22:50_METRÓPOLES_4m48s_Veja as falas: Brasil e EUA divergem na OEA sobre combate a “narcoterrorist",
-      "HhpyIMatAWc | [VIDEO]_20/11/26_21:06_METRÓPOLES_85m45s_PAVINATTO AO VIVO • 20/11• C4GUEI E ANDREI: FACHIN JOGA SUJO, MAS MENDONÇA",
-      "JzY_chMeWm8 | [VIDEO]_20/11/26_20:40_METRÓPOLES_6m56s_Piauí e os esqueletos no armário do Itaú"
+      "HhpyIMatAWc | [VIDEO]_20/11/26_21:06_METRÓPOLES_85m45s_PAVINATTO AO VIVO • 20/11• C4GUEI E ANDREI: FACHIN JOGA SUJO, MAS MENDONÇA"
     ]
   },
   {
@@ -1777,9 +1777,9 @@
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [
-      "t1JBtI3Lr8w",
       "iTKFgA1_qhA",
       "7aSz_lJ-aZA",
+      "t1JBtI3Lr8w",
       "B1mRgmWWwD8",
       "c7Q3S6bMuG8",
       "oIuupOu2sMY",
@@ -1800,9 +1800,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "t1JBtI3Lr8w | [VIDEO]_22/11/26_10:59_ACELERADOS_120m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 2 - INTERLAGOS (SP) - Domingo (22/11)",
       "iTKFgA1_qhA | [VIDEO]_22/11/26_14:02_ACELERADOS_58m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 3 - INTERLAGOS (SP) - Domingo (22/11)",
       "7aSz_lJ-aZA | [VIDEO]_22/11/26_12:00_WEBMOTORS_23m12s_Garupa de Moto, Validade dos Pneus e BMW M235   Webmotors TV - 22/11/2026",
+      "t1JBtI3Lr8w | [VIDEO]_22/11/26_10:59_ACELERADOS_120m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 2 - INTERLAGOS (SP) - Domingo (22/11)",
       "B1mRgmWWwD8 | [VIDEO]_21/11/26_14:12_ACELERADOS_98m11s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 1 - INTERLAGOS (SP) - Sábado (21/11) -",
       "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "oIuupOu2sMY | [VIDEO]_18/11/26_19:00_ACELERADOS_21m35s_O CARRO DA LUCIA E DO JASON DO GTA VI E DODGE VIPER SR I 1993 NA VOLTA RÁPI",
