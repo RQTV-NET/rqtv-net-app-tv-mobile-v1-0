@@ -1172,6 +1172,7 @@
     "rem": "GeTV",
     "videoIds": [
       "QrxLzNfrZuo",
+      "8PRN1qv7CaI",
       "Kv5PSj3ggKE",
       "voWbg-1Mpbs",
       "iZzq6oY8OEY",
@@ -1199,13 +1200,13 @@
       "3EHUDi_oFTA",
       "CbtaDJWmOmo",
       "Z3ow-IHNjg0",
-      "PjkG8MDfZc8",
-      "l27IR7DmSco"
+      "PjkG8MDfZc8"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "QrxLzNfrZuo | ((LIVE))_22/11/26_16:59_GETV_AO VIVO: JACKSONVILLE JAGUARS X NEW YORK GIANTS   NFL 2026/27   ge tv",
+      "8PRN1qv7CaI | [VIDEO]_22/11/26_20:05_GETV_12m26s_MELHORES MOMENTOS DO TROFÉU ROBERTO MARINHO DE HIPISMO   sportv",
       "Kv5PSj3ggKE | [VIDEO]_22/11/26_19:02_GETV_2m24s_CAMPEÃO! JOSÉ LUIZ GUIMARÃES DE CARVALHO VENCE 39ª EDIÇÃO DO TROFÉU ROBERTO",
       "voWbg-1Mpbs | [VIDEO]_22/11/26_18:16_GETV_7m26s_ATHLETICO-PR 4 X 2 REMO   MELHORES MOMENTOS   36ª RODADA   BRASILEIRÃO 2026",
       "iZzq6oY8OEY | [VIDEO]_22/11/26_18:00_GETV_11m34s_ARIZONA CARDINALS X KANSAS CITY CHIEFS   MELHORES MOMENTOS   SEMANA 11   NF",
@@ -1233,15 +1234,13 @@
       "3EHUDi_oFTA | [VIDEO]_20/11/26_17:00_GETV_4m44s_SELEÇÃO FEMININA ENCARA O JAPÃO EM AMISTOSO   Olho Nelas   sportv",
       "CbtaDJWmOmo | [VIDEO]_20/11/26_01:16_GETV_230m35s_AO VIVO: INDIANAPOLIS COLTS X HOUSTON TEXANS   NFL 2026/27   ge tv",
       "Z3ow-IHNjg0 | [VIDEO]_20/11/26_00:56_GETV_279m26s_JOGO COMPLETO: SÃO PAULO X FLUMINENSE   BRASILEIRÃO 2026   ge tv",
-      "PjkG8MDfZc8 | [VIDEO]_20/11/26_21:10_GETV_8m06s_GOIÁS 0 X 3 MONTES CLAROS   MELHORES MOMENTOS   5ª RODADA   SUPERLIGA MASCU",
-      "l27IR7DmSco | [VIDEO]_20/11/26_22:48_GETV_8m04s_PRAIA CLUBE 3 X 0 GUARULHOS   MELHHORES MOMENTOS   5ª RODADA   SUPERLIGA MA"
+      "PjkG8MDfZc8 | [VIDEO]_20/11/26_21:10_GETV_8m06s_GOIÁS 0 X 3 MONTES CLAROS   MELHORES MOMENTOS   5ª RODADA   SUPERLIGA MASCU"
     ]
   },
   {
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
-      "14xRr_VgK40",
       "it8PFMHf3i8",
       "i9H7ubLXKlo",
       "CuHWLalOvEs",
@@ -1259,12 +1258,12 @@
       "hp5cEUOfFPQ",
       "35ILaJdja4E",
       "3zH9LgZQhSs",
-      "7PPPG6yAfZQ"
+      "7PPPG6yAfZQ",
+      "14xRr_VgK40"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "14xRr_VgK40 | [VIDEO]_21/11/26_19:33_TNTSPORTSBRASIL_22m18s_FLAMENGO TEVE UM ANO MELHOR QUE O PALMEIRAS? DEBATEMOS O BICAMPEONATO RUBRO",
       "it8PFMHf3i8 | [VIDEO]_21/11/26_18:31_TNTSPORTSBRASIL_3m04s_SAMU LINO DECIDE NO FIM, E FLAMENGO É CAMPEÃO BRASILEIRO NO NUBANK PARQUE!",
       "i9H7ubLXKlo | [VIDEO]_21/11/26_13:04_TNTSPORTSBRASIL_3m12s_TRICOLOR APROVEITA EXPULSÃO, VENCE E AVANÇA NO PAULISTÃO FEMININO 2026   SÃ",
       "CuHWLalOvEs | [VIDEO]_21/11/26_11:00_TNTSPORTSBRASIL_38m04s_MILITÃO CONTA RESENHAS INÉDITAS DE MOURINHO, FASE DE VINI JR., ANCELOTTI E",
@@ -1282,7 +1281,8 @@
       "hp5cEUOfFPQ | [VIDEO]_18/11/26_23:34_TNTSPORTSBRASIL_204m35s_AO VIVO: FLAMENGO MAIS PERTO DO BI, PALMEIRAS TROPEÇA E BRASILEIRÃO PEGA FO",
       "35ILaJdja4E | [VIDEO]_22/11/26_18:20_TNTSPORTSBRASIL_4m49s_VERDÃO VIRA O JOGO COM GOLAÇOS E BOTA UMA MÃO NA TAÇA! CORINTHIANS 1X3 PALM",
       "3zH9LgZQhSs | [VIDEO]_22/11/26_18:14_TNTSPORTSBRASIL_156m37s_AO VIVO: CORINTHIANS X PALMEIRAS   FINAL - IDA   PAULISTÃO S-20 2026",
-      "7PPPG6yAfZQ | [VIDEO]_21/11/26_19:51_TNTSPORTSBRASIL_85m35s_AO VIVO: FLAMENGO CONQUISTA O BRASILEIRÃO NO NUBANK PARQUE! PRORROGAÇÃO"
+      "7PPPG6yAfZQ | [VIDEO]_21/11/26_19:51_TNTSPORTSBRASIL_85m35s_AO VIVO: FLAMENGO CONQUISTA O BRASILEIRÃO NO NUBANK PARQUE! PRORROGAÇÃO",
+      "14xRr_VgK40 | [VIDEO]_21/11/26_19:33_TNTSPORTSBRASIL_22m18s_FLAMENGO TEVE UM ANO MELHOR QUE O PALMEIRAS? DEBATEMOS O BICAMPEONATO RUBRO"
     ]
   },
   {
@@ -1290,12 +1290,12 @@
     "rem": "ESPN BRASIL",
     "videoIds": [
       "OLR7-2xE-mI",
-      "TpxB15lMAaU",
       "zqc93EaT_3M",
       "B026XuZPyA4",
       "lblxtdqn5zI",
       "tcWi5Xf1rcw",
       "HqmE5mBVDW0",
+      "TpxB15lMAaU",
       "Z28bnwjJ4B4",
       "DNGY1Rixmuc",
       "mhtlLRjfupQ",
@@ -1324,12 +1324,12 @@
     "playlistId": "",
     "carimbos": [
       "OLR7-2xE-mI | ((LIVE))_22/11/26_16:59_ESPNBRASIL_ATLÉTICO-GO X VILA NOVA AO VIVO: PLAYOFF DA SÉRIE B - ABRE O JOGO E NARRAÇÃ",
-      "TpxB15lMAaU | [VIDEO]_22/11/26_19:04_ESPNBRASIL_11m07s_KESSIÉ FAZ NO FIM, E ATALANTA E INTER DE MILÃO EMPATAM EM JOGAÇO NO ITALIAN",
-      "zqc93EaT_3M | [VIDEO]_22/11/26_18:59_ESPNBRASIL_10m17s_COM GOLS DE PULISIC E GONÇALO RAMOS, MILAN GOLEIA O FROSINONE NO ITALIANO  ",
+      "zqc93EaT_3M | [VIDEO]_22/11/26_18:59_ESPNBRASIL_10m17s_COM GOLS DE PULISIC E GONÇALO RAMOS, MILAN GOLEIA O FROSINONE NO ITALIANO",
       "B026XuZPyA4 | [VIDEO]_22/11/26_18:38_ESPNBRASIL_10m15s_CRICIÚMA CONTA COM GOLAÇO E SAI NA FRENTE CONTRA O FORTALEZA NO PLAYOFF   M",
       "lblxtdqn5zI | [VIDEO]_22/11/26_18:20_ESPNBRASIL_4m18s_ALCARAZ É DOMINANTE CONTRA ZVEREV E CONQUISTA PRIMEIRO ATP FINALS DA CARREI",
       "tcWi5Xf1rcw | [VIDEO]_22/11/26_17:29_ESPNBRASIL_13m43s_TEM ALGUMA CULPA? MANCHESTER UNITED É GOLEADO PELO LIVERPOOL NA ESTREIA DE",
       "HqmE5mBVDW0 | [VIDEO]_22/11/26_17:16_ESPNBRASIL_19m39s_INVASÃO ARGENTINA, RIVAL \"INFILTRADO\" E MAIS: TUDO O QUE VOCÊ NÃO VIU NA FI",
+      "TpxB15lMAaU | [VIDEO]_22/11/26_19:04_ESPNBRASIL_11m07s_KESSIÉ FAZ NO FIM, E ATALANTA E INTER DE MILÃO EMPATAM EM JOGAÇO NO ITALIAN",
       "Z28bnwjJ4B4 | [VIDEO]_22/11/26_17:04_ESPNBRASIL_94m36s_AO VIVO: LIVERPOOL 4x0 MANCHESTER UNITED E UMA MISSÃO COMPLICADÍSSIMA PARA",
       "DNGY1Rixmuc | [VIDEO]_22/11/26_16:58_ESPNBRASIL_8m09s_AMÉRICA BRASILEÑA #4 - A EDIÇÃO PANDÊMICA DE 2020 E O INÍCIO DA 'ERA ABEL F",
       "mhtlLRjfupQ | [VIDEO]_22/11/26_16:10_ESPNBRASIL_94m34s_NFL REDZONE AO VIVO: ASSISTA AO MELHOR DOS JOGOS DA SEMANA 11 DA NFL",
@@ -1429,12 +1429,12 @@
     "numero": "35",
     "rem": "BAND ESPORTES",
     "videoIds": [
-      "DShnXbrSRsc",
       "IwkamBAx_Cg",
       "naIXqAgelwo",
       "CXGrEot9Hdo",
       "ZSAzRY0AuP8",
       "TPy2fUh795Q",
+      "DShnXbrSRsc",
       "RV9JURF1eoI",
       "IdGXhPUDSLg",
       "50fNTcpCBtw",
@@ -1463,12 +1463,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "DShnXbrSRsc | [VIDEO]_22/11/26_17:30_JOGOABERTO_3m08s_BRUNO HENRIQUE E ARRASCAETA SÃO HOMENAGEADOS COM BUSTOS NO FLAMENGO   Acont",
       "IwkamBAx_Cg | [VIDEO]_22/11/26_16:45_BANDESPORTES_44m10s_AO VIVO E COM IMAGENS: FÓRMULA 4 - CORRIDA 3   ETAPA DE INTERLAGOS",
       "naIXqAgelwo | [VIDEO]_22/11/26_16:24_BANDESPORTES_9m51s_ALEX E DJALMINHA FALAM SOBRE A FALTA DE CAMISAS 10 NO FUTEBOL BRASILEIRO",
       "CXGrEot9Hdo | [VIDEO]_22/11/26_16:17_BANDESPORTES_7m23s_MANSÃO ONDE O REI PELÉ VIVEU ESTÁ ABANDONADA",
       "ZSAzRY0AuP8 | [VIDEO]_22/11/26_16:13_BANDESPORTES_242m00s_[AO VIVO] SHOW DO ESPORTE   22/11/2026",
       "TPy2fUh795Q | [VIDEO]_22/11/26_16:10_BANDESPORTES_2m02s_\"SANTOS É MUITO FAVORITO CONTRA O GRÊMIO\", DIZ ELIA JR",
+      "DShnXbrSRsc | [VIDEO]_22/11/26_17:30_JOGOABERTO_3m08s_BRUNO HENRIQUE E ARRASCAETA SÃO HOMENAGEADOS COM BUSTOS NO FLAMENGO   Acont",
       "RV9JURF1eoI | [VIDEO]_22/11/26_15:54_BANDESPORTES_10m35s_ELIA JR CRITICA DORIVAL E TITE",
       "IdGXhPUDSLg | [VIDEO]_22/11/26_14:49_BANDESPORTES_6m33s_ELIA JR FAZ A PRÉVIA DA FINAL DA LIBERTADORES ENTRE PALMEIRAS X ESTUDIANTES",
       "50fNTcpCBtw | [VIDEO]_22/11/26_14:30_JOGOABERTO_5m21s_ZOEIRA JOGO ABERTO: COMENTARISTAS RELEMBRAM OS TEMPOS DE ESCOLA   Aconteceu",
@@ -1499,6 +1499,7 @@
     "numero": "36",
     "rem": "SBT SPORTS",
     "videoIds": [
+      "Wuy8As9t2Cc",
       "sCZ3oDVCf68",
       "gHq_Z5m8xjY",
       "ANCPiVDhNlc",
@@ -1527,12 +1528,12 @@
       "iZIw0vNUS4c",
       "ggzO3ParZMM",
       "lvz-G1F42w0",
-      "9otD0V-_xVQ",
-      "9bMLoev6AIM"
+      "9otD0V-_xVQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "Wuy8As9t2Cc | [VIDEO]_22/11/26_20:00_SBTSPORTS_2m50s_QUEM SOBE PARA DISPUTAR A SÉRIE A DO BRASILEIRÃO EM 2027?",
       "sCZ3oDVCf68 | [VIDEO]_22/11/26_15:17_SBTSPORTS_3m23s_MAURO E TIAGO ANALISAM DERROTA DO GALO PARA O BOCA NA FINAL DA SUL-AMERICAN",
       "gHq_Z5m8xjY | [VIDEO]_22/11/26_14:59_SBTSPORTS_3m41s_CONFIRA COMO FOI O TÍTULO DO BOCA JUNIORS SOBRE O GALO NA FINAL DA SUL-AMER",
       "ANCPiVDhNlc | [VIDEO]_22/11/26_14:55_SBTSPORTS_5m39s_TUDO SOBRE O TÍTULO DO FLAMENGO NA CASA DO PALMEIRAS",
@@ -1561,8 +1562,7 @@
       "iZIw0vNUS4c | [VIDEO]_17/11/26_01:06_SBTSPORTS_6m46s_ANCELOTTI DEVE FICAR OU SAIR DA SELEÇÃO BRASILEIRA?",
       "ggzO3ParZMM | [VIDEO]_17/11/26_00:17_SBTSPORTS_57m29s_GALVÃO FC 16/11/26 - PROGRAMA COMPLETO",
       "lvz-G1F42w0 | [VIDEO]_16/11/26_14:16_SBTSPORTS_48m02s_SBT SPORTS - PROGRAMA COMPLETO I 15/11/2026",
-      "9otD0V-_xVQ | [VIDEO]_16/11/26_12:00_SBTSPORTS_4m06s_VIVENDO PIOR CRISE DA HISTÓRIA, CORINTHIANS PODE SOFRER INTERVENÇÃO JUDICIA",
-      "9bMLoev6AIM | [VIDEO]_14/11/26_10:00_SBTSPORTS_4m59s_QUEM É FAVORITO PARA A FINAL DA LIBERTADORES: PALMEIRAS OU ESTUDIANTES?"
+      "9otD0V-_xVQ | [VIDEO]_16/11/26_12:00_SBTSPORTS_4m06s_VIVENDO PIOR CRISE DA HISTÓRIA, CORINTHIANS PODE SOFRER INTERVENÇÃO JUDICIA"
     ]
   },
   {
@@ -1663,9 +1663,9 @@
     "numero": "40",
     "rem": "COMBATE",
     "videoIds": [
-      "exkvER7WmZE",
       "GEfnaJ34SvU",
       "dpmurH7lzoE",
+      "exkvER7WmZE",
       "Hy-46RA1quQ",
       "ysz_2oXXD-E",
       "th9TyG2ENuc",
@@ -1693,9 +1693,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "exkvER7WmZE | [VIDEO]_22/11/26_15:37_COMBATE_5m38s_OKTAGON: LUTADOR RESISTE À BLITZ E FINALIZA RIVAL COM GUILHOTINA   MELHORES",
       "GEfnaJ34SvU | [VIDEO]_22/11/26_09:00_COMBATE_14m36s_KINGS: NOITE MARCADA POR LUTAS INSANAS E PRESENÇAS ESTRELADAS   MELHORES MO",
       "dpmurH7lzoE | [VIDEO]_22/11/26_18:00_COMBATE_2m33s_RHOODES LIMA VAI ÀS LÁGRIMAS COM AGRADECIMENTO DE CHARLES DO BRONX POR NARR",
+      "exkvER7WmZE | [VIDEO]_22/11/26_15:37_COMBATE_5m38s_OKTAGON: LUTADOR RESISTE À BLITZ E FINALIZA RIVAL COM GUILHOTINA   MELHORES",
       "Hy-46RA1quQ | [VIDEO]_21/11/26_21:43_COMBATE_10m14s_MIKE TYSON MARCA PRESENÇA NO BRASIL E RECEBE HOMENAGEM   PARTICIPAÇÃO ESPEC",
       "ysz_2oXXD-E | [VIDEO]_21/11/26_20:46_COMBATE_113m30s_AO VIVO! KINGS CHAMPIONSHIP   TRÊS PRIMEIRAS LUTAS   Combate.globo",
       "th9TyG2ENuc | [VIDEO]_21/11/26_16:36_COMBATE_161m40s_AO VIVO! OKTAGON COMBAT 98   TRÊS PRIMEIRAS LUTAS   Combate.globo",
@@ -1725,12 +1725,12 @@
     "numero": "60",
     "rem": "RQTV·NET AGRO 1",
     "videoIds": [
-      "TgnFawksT20",
       "4mJ9hxtkMrA",
       "yoRx8Pjf6RE",
       "SrQIVXXdqLs",
       "fJiPQdi2RTs",
       "yPNByxZPhuc",
+      "TgnFawksT20",
       "6vdzQvT-DCA",
       "ih78KopJpLQ",
       "4GG4qVNpYJg",
@@ -1759,12 +1759,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "TgnFawksT20 | [VIDEO]_22/11/26_09:00_RICRURAL_2m55s_Expofrísia reúne produtores e apresenta novidades para o agronegócio",
       "4mJ9hxtkMrA | [VIDEO]_22/11/26_09:00_RICRURAL_9m44s_Receita do pão recheado com calabresa",
       "yoRx8Pjf6RE | [VIDEO]_22/11/26_09:00_RICRURAL_4m02s_Embrapa Soja tem novo chefe-geral e define prioridades até 2030",
       "SrQIVXXdqLs | [VIDEO]_22/11/26_09:00_RICRURAL_6m37s_Florada dos kiwis encanta visitantes em São Luiz do Purunã",
       "fJiPQdi2RTs | [VIDEO]_22/11/26_09:00_RICRURAL_6m24s_Dejetos de suínos ajudam na produção de biogás e na sanidade da granja",
       "yPNByxZPhuc | [VIDEO]_22/11/26_15:00_VALEAGRÍCOLA_7m22s_A FAMOSA CUCA ALEMÃ DE QUEIJO: VEJA COMO PREPARAR!",
+      "TgnFawksT20 | [VIDEO]_22/11/26_09:00_RICRURAL_2m55s_Expofrísia reúne produtores e apresenta novidades para o agronegócio",
       "6vdzQvT-DCA | [VIDEO]_22/11/26_09:00_RICRURAL_4m47s_Ex-jogador troca o futebol pela cafeicultura e conquista seguidores",
       "ih78KopJpLQ | [VIDEO]_22/11/26_09:00_RICRURAL_5m09s_Produção orgânica exige cuidados e regularização no campo",
       "4GG4qVNpYJg | [VIDEO]_22/11/26_08:00_RICRURAL_43m57s_Assista o RIC Rural ao vivo   22/11/2026",
@@ -1893,8 +1893,8 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
-      "um2Chdb9Fv4",
       "WdYRlQ28Eo8",
+      "um2Chdb9Fv4",
       "f_3Sr-3YM_E",
       "LgGT1K_J1iI",
       "_xaiW0332_E",
@@ -1927,8 +1927,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "um2Chdb9Fv4 | [VIDEO]_22/11/26_12:00_TECHCIÊNCIA1D_41m27s_Xiaomi perdeu o custo-benefício e despencou no Brasil? A marca ainda é rele",
       "WdYRlQ28Eo8 | [VIDEO]_22/11/26_14:43_TECHCIÊNCIA1C_15m36s_Vazaram as Instruções Secretas Que Controlam ChatGPT, Claude e Gemini por D",
+      "um2Chdb9Fv4 | [VIDEO]_22/11/26_12:00_TECHCIÊNCIA1D_41m27s_Xiaomi perdeu o custo-benefício e despencou no Brasil? A marca ainda é rele",
       "f_3Sr-3YM_E | [VIDEO]_21/11/26_20:45_TECHCIÊNCIA1A_15m59s_BOMBA ATÔMICA: A CARTADA FINAL DOS ESTADOS UNIDO - SALA DE GUERRA",
       "LgGT1K_J1iI | [VIDEO]_21/11/26_20:24_TECHCIÊNCIA1A_15m32s_A INVASÃO AMERICANA À ILHA DE OKINAWA - SALA DE GUERRA",
       "_xaiW0332_E | [VIDEO]_21/11/26_18:00_TECHCIÊNCIA1A_57m51s_AS PERGUNTAS NÃO RESPONDIDAS NO DOCUMENTÁRIO DE SUZANE NA NETFLIX - MELHORE",
@@ -1963,12 +1963,12 @@
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
-      "6WvSPuk5t5E",
       "ks1UJEkJTFM",
       "R-ndjP27sFI",
       "KmHHVJJHk5Y",
       "WRlpQ-eYTyQ",
       "enEiMraHxe8",
+      "6WvSPuk5t5E",
       "S474egKvJIE",
       "PVNTtdRo42U",
       "iWTyJIPvlrw",
@@ -1997,12 +1997,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "6WvSPuk5t5E | [VIDEO]_22/11/26_19:00_TECHCIÊNCIA2A_123m48s_Nossa galáxia vem crescendo ao consumir outras galáxias há bilhões de anos",
       "ks1UJEkJTFM | [VIDEO]_22/11/26_14:18_INCRÍVEL_173m50s_Pequenos vulcões escondem um perigo gigantesco que pode surpreender os cien",
       "R-ndjP27sFI | [VIDEO]_22/11/26_05:23_TECHCIÊNCIA2A_20m41s_A China está construindo o túnel ferroviário submarino mais longo do mundo",
       "KmHHVJJHk5Y | [VIDEO]_22/11/26_02:39_TECHCIÊNCIA2A_42m46s_Vulcão perigoso descoberto pode deixar os EUA ricos para sempre",
       "WRlpQ-eYTyQ | [VIDEO]_22/11/26_16:00_TECHCIÊNCIA2A_108m18s_Voyager 1 acaba de mudar tudo o que sabemos sobre o espaço",
       "enEiMraHxe8 | [VIDEO]_22/11/26_13:00_TECHCIÊNCIA2A_9m51s_Finalmente sabemos o que apagou um bilhão de anos do Grand Canyon",
+      "6WvSPuk5t5E | [VIDEO]_22/11/26_19:00_TECHCIÊNCIA2A_123m48s_Nossa galáxia vem crescendo ao consumir outras galáxias há bilhões de anos",
       "S474egKvJIE | [VIDEO]_22/11/26_10:06_TECHCIÊNCIA2A_91m57s_A “Porta do Inferno” da Ásia está se fechando — e isso pode ser perigoso!",
       "PVNTtdRo42U | [VIDEO]_21/11/26_20:12_TECHCIÊNCIA2C_180m01s_3 HORAS DE CURIOSIDADES DO BRASIL E DO MUNDO 🇧🇷🌍",
       "iWTyJIPvlrw | [VIDEO]_21/11/26_19:00_TECHCIÊNCIA2A_90m26s_O que existe no fundo da Fossa das Marianas que ainda assusta os cientistas",
@@ -2104,12 +2104,12 @@
     "rem": "TV EVANGELIZAR",
     "videoIds": [
       "UbGeKBvM3QU",
-      "Rejl_OHQDlw",
       "CVB0wVEPyd4",
       "uMzBNAi2O6Y",
       "2TtyaTcMAmw",
       "9I6S3s1KhCo",
       "hj6PpK9lu-0",
+      "Rejl_OHQDlw",
       "OOk1IkgKWaY",
       "m7QPj_QZiB8",
       "9sO8BZwlJeY",
@@ -2138,12 +2138,12 @@
     "playlistId": "",
     "carimbos": [
       "UbGeKBvM3QU | ((LIVE))_22/11/26_17:59_TVEVANGELIZAR_TV EVANGELIZAR - AO VIVO",
-      "Rejl_OHQDlw | [VIDEO]_22/11/26_14:30_TVEVANGELIZAR_26m18s_Catedral paróquia Cristo Rei - Toledo   Conhecendo Igrejas com Padre Anísio",
       "CVB0wVEPyd4 | [VIDEO]_22/11/26_13:15_TVEVANGELIZAR_4m20s_Oração da Tarde   22/11/26   com @PadreManzottiOficial",
       "uMzBNAi2O6Y | [VIDEO]_22/11/26_12:26_TVEVANGELIZAR_87m11s_Santa Missa das 11h   22/11/26",
       "2TtyaTcMAmw | [VIDEO]_22/11/26_10:30_TVEVANGELIZAR_19m08s_Homilia   22/11/26   Santa Missa Dominical com Pe. Reginaldo Manzotti",
       "9I6S3s1KhCo | [VIDEO]_22/11/26_09:00_TVEVANGELIZAR_53m01s_Quem vai curar a sua ferida?   Despertar para o Amor com @padreezequiel   2",
       "hj6PpK9lu-0 | [VIDEO]_22/11/26_15:00_TVEVANGELIZAR_26m04s_Terço e 4º dia da Novena de Jesus das Santas Chagas   22/11/26",
+      "Rejl_OHQDlw | [VIDEO]_22/11/26_14:30_TVEVANGELIZAR_26m18s_Catedral paróquia Cristo Rei - Toledo   Conhecendo Igrejas com Padre Anísio",
       "OOk1IkgKWaY | [VIDEO]_22/11/26_08:00_TVEVANGELIZAR_59m33s_Cristo Rei do Universo   22/11/26   Santa Missa Dominical com Pe. Reginaldo",
       "m7QPj_QZiB8 | [VIDEO]_22/11/26_07:30_TVEVANGELIZAR_25m42s_Silêncio de Deus   meditAÇÃO com @PadreChrystianShankar   22/11/26",
       "9sO8BZwlJeY | [VIDEO]_22/11/26_07:01_TVEVANGELIZAR_72m36s_Santa Missa em Honra a Santa Rita de Cássia - Maringá/PR   22/11/26",
@@ -2255,12 +2255,12 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
-      "38y2RSBVq4M",
       "sAIHOxsgLJ0",
       "zoRQ07P3psU",
       "5-H9SjSSrRg",
       "DQlCscp1uPA",
       "Ts7AjIvXgjY",
+      "38y2RSBVq4M",
       "ECBu1Tda_Kc",
       "V_s53nkt5gM",
       "bEOBeB2PuAw",
@@ -2289,12 +2289,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "38y2RSBVq4M | [VIDEO]_22/11/26_14:30_RECORDCABOVERDE_12m48s_A HORA DA VENENOSA: Stênio Garcia desabafa sobre filhas: “Agora querem me m",
       "sAIHOxsgLJ0 | [VIDEO]_22/11/26_13:50_RECORDCABOVERDE_4m13s_Bombeiros apagam incêndio e salvam idosa, mas família encontra corpo do mar",
       "zoRQ07P3psU | [VIDEO]_22/11/26_13:40_RECORDCABOVERDE_11m20s_Pai rapta o filho e ameaça a mãe da criança ele enviou cartas com exigência",
       "5-H9SjSSrRg | [VIDEO]_22/11/26_13:20_RECORDCABOVERDE_36m04s_Podcast das Venenosas: Ex e atual namorada de cantor Giovani trocam indiret",
       "DQlCscp1uPA | [VIDEO]_22/11/26_13:10_RECORDCABOVERDE_3m44s_Coruja invade carro de aplicativo em São José do Rio Pardo, no interior de",
       "Ts7AjIvXgjY | [VIDEO]_22/11/26_15:00_RECORDCABOVERDE_4m01s_REIS - A ESPERANÇA: Zinri tenta conquistar Siloé, e Onri fica furioso ao de",
+      "38y2RSBVq4M | [VIDEO]_22/11/26_14:30_RECORDCABOVERDE_12m48s_A HORA DA VENENOSA: Stênio Garcia desabafa sobre filhas: “Agora querem me m",
       "ECBu1Tda_Kc | [VIDEO]_22/11/26_12:50_RECORDCABOVERDE_6m34s_Jardineiro mata dentista para roubar carro e pagar dívida com agiotas em SP",
       "V_s53nkt5gM | [VIDEO]_22/11/26_12:30_RECORDCABOVERDE_12m55s_A FAZENDA: Acende Apaga a Luz: Peões curtem Festa Fim do Mundo; Renata romp",
       "bEOBeB2PuAw | [VIDEO]_22/11/26_12:00_RECORDCABOVERDE_5m16s_A FAZENDA: Renata rebate questionamento de Fran sobre estratégia na Roça ‘F",
