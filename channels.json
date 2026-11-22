@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "xfy2wgK5DGI",
       "0AnvP57LAn0",
       "JDbqBA1RA4s",
       "n5UiFDo_KCM",
@@ -38,11 +39,11 @@
       "woikRop4qx8",
       "XYwBRkdhud4",
       "GYn1Kt1U1ow",
-      "UfRb89DHT0g",
-      "88OVpQbN4Mw"
+      "UfRb89DHT0g"
     ],
     "playlistId": "",
     "carimbos": [
+      "xfy2wgK5DGI | [VIDEO]_22/11/26_15:46_G1(JORNALHOJE/MATÉRIAS)_3m46s_COP31 termina em fracasso e documento final é rejeitado na Turquia",
       "0AnvP57LAn0 | [VIDEO]_22/11/26_13:56_G1(JORNALHOJE/MATÉRIAS)_2m28s_Quatro pessoas morrem e uma fica ferida em acidente grave em Ipojuca, Perna",
       "JDbqBA1RA4s | [VIDEO]_22/11/26_12:46_G1(JORNALHOJE/MATÉRIAS)_2m31s_38 mil casas seguem sem luz no Paraná após dois tornados em um dia",
       "n5UiFDo_KCM | [VIDEO]_22/11/26_11:41_G1(JORNALHOJE/MATÉRIAS)_2m41s_Nakagawa: Lula sinaliza um 'caminho do meio' com plano Moretti",
@@ -71,8 +72,7 @@
       "woikRop4qx8 | [VIDEO]_20/11/26_20:49_JORNALNACIONAL(JN)_2m46s_JN: Longa estiagem leva reservatórios ao colapso no Agreste de Pernambuco",
       "XYwBRkdhud4 | [VIDEO]_20/11/26_20:45_JORNALNACIONAL(JN)_6m59s_JN: Temporal com ventos de mais de 100km/h destrói casas e deixa três morto",
       "GYn1Kt1U1ow | [VIDEO]_20/11/26_19:36_G1(JORNALHOJE/MATÉRIAS)_4m51s_TikTok lança ferramentas para identificar conteúdos de IA e deepfakes",
-      "UfRb89DHT0g | [VIDEO]_20/11/26_19:31_GLOBONEWS_20m02s_Trump quer afastar Brasil do mercado filipino",
-      "88OVpQbN4Mw | [VIDEO]_20/11/26_19:18_G1(JORNALHOJE/MATÉRIAS)_3m39s_Filipinas lideram compra de carne suína, mas são 22ºdestino das exportações"
+      "UfRb89DHT0g | [VIDEO]_20/11/26_19:31_GLOBONEWS_20m02s_Trump quer afastar Brasil do mercado filipino"
     ]
   },
   {
@@ -359,6 +359,8 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
+      "UXf6a1H4vi0",
+      "bQdKTMlGuR4",
       "l6lpgJiCqZQ",
       "BMc6N7QuxsI",
       "A2SjUu1dnZg",
@@ -386,13 +388,13 @@
       "lXMRWg81O50",
       "lIfGpUdwixs",
       "S9yaC6DigZI",
-      "UPA3yfwLS_E",
-      "-cBqBbLLDRc",
-      "q7JnILtbuFs"
+      "UPA3yfwLS_E"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "UXf6a1H4vi0 | [VIDEO]_22/11/26_15:56_JOVEMPANNEWS_9m38s_Brasil entra no foco dos EUA na guerra dos chips de IA, especialista coment",
+      "bQdKTMlGuR4 | [VIDEO]_22/11/26_15:54_JOVEMPANNEWS_6m19s_Disputa pela presidência da Câmara gera expectativas nos partidos",
       "l6lpgJiCqZQ | [VIDEO]_22/11/26_15:31_JOVEMPANNEWS_9m00s_Ajuste fiscal entra no radar do Mercado",
       "BMc6N7QuxsI | [VIDEO]_22/11/26_15:30_JOVEMPANNEWS_3m13s_COP-31: países não chegam a acordo sobre o clima",
       "A2SjUu1dnZg | [VIDEO]_22/11/26_15:28_JOVEMPANNEWS_3m31s_Chuvas intensas deixam Belo Horizonte e Triângulo Mineiro em alerta",
@@ -420,9 +422,7 @@
       "lXMRWg81O50 | [VIDEO]_21/11/26_20:21_JOVEMPANNEWS_15m23s_Semana do ajuste fiscal e composição de novo ministério; Emerson Saraiva an",
       "lIfGpUdwixs | [VIDEO]_21/11/26_20:07_JOVEMPANNEWS_6m18s_Mercado ilegal de jogos cresce no Brasil, aponta estudo",
       "S9yaC6DigZI | [VIDEO]_21/11/26_20:02_JOVEMPANNEWS_4m04s_Tesla estreia na Argentina com dois modelos de carros elétricos",
-      "UPA3yfwLS_E | [VIDEO]_21/11/26_19:59_JOVEMPANNEWS_12m16s_\"Vai afetar aqui o Brasil\", diz Luciano Fracola sobre restrições dos EUA pa",
-      "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta",
-      "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs"
+      "UPA3yfwLS_E | [VIDEO]_21/11/26_19:59_JOVEMPANNEWS_12m16s_\"Vai afetar aqui o Brasil\", diz Luciano Fracola sobre restrições dos EUA pa"
     ]
   },
   {
@@ -604,7 +604,7 @@
     "playlistId": "",
     "carimbos": [
       "rb2bJpdvaB0 | ((LIVE))_22/11/26_14:57_ESPORTESREDETV_CRICIÚMA X FORTALEZA - PLAYOFFS (JOGO 1)   #BezonaRedeTV! 2026",
-      "ZuF6eKpfzMA | [VIDEO]_22/11/26_14:55_NOTÍCIASREDETV_59m04s_Mega Sonho: Val Marchiori e Júnior & Cézar (21/11/26)   Completo",
+      "ZuF6eKpfzMA | [VIDEO]_22/11/26_14:55_NOTÍCIASREDETV_59m03s_Mega Sonho: Val Marchiori e Júnior & Cézar (21/11/26)   Completo",
       "UQknbR5Muj8 | [VIDEO]_21/11/26_23:25_REDETV!OFICIAL_10m16s_Polícia encontra arma escondida em fundo falso e prende homem com tornozele",
       "nJ_0T3q3iqA | [VIDEO]_21/11/26_23:25_NOTÍCIASREDETV_10m16s_Polícia encontra arma escondida em fundo falso e prende homem com tornozele",
       "e12271zdt-s | [VIDEO]_21/11/26_23:20_NOTÍCIASREDETV_7m23s_Moradores batem boca com policiais após prisão de traficantes",
@@ -709,10 +709,10 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
-      "nEunxUTl13A",
       "Iy2e3HSwQ_c",
       "Q947xtK2Q3U",
       "QJPc9TXHQ8I",
+      "nEunxUTl13A",
       "mHKMOphlKhI",
       "uNO5Q0mwKE4",
       "ZIs4NUavQTA",
@@ -743,10 +743,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
       "Q947xtK2Q3U | [VIDEO]_22/11/26_07:39_CBNBRASIL_237m11s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
       "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
+      "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
       "mHKMOphlKhI | [VIDEO]_21/11/26_19:36_CBNBRASIL_262m56s_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU",
       "uNO5Q0mwKE4 | [VIDEO]_21/11/26_02:14_CBNBRASIL_117m17s_CBN Brasil - 20/11/2026",
       "ZIs4NUavQTA | [VIDEO]_21/11/26_01:11_CBNBRASIL_6m46s_PF indica que Mendonça não trocou mensagens com Vorcaro; temporal deixa trê",
@@ -779,8 +779,8 @@
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
-      "G8vzP5CXTtw",
       "3K7GQf5Oadg",
+      "G8vzP5CXTtw",
       "CtoZEN5X1EY",
       "hUTpYOyEQrs",
       "Nt1mYa5jbUU",
@@ -813,8 +813,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "G8vzP5CXTtw | ((LIVE))_22/11/26_14:00_REVISTAOESTE_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   DOMINGO 22/11/26",
       "3K7GQf5Oadg | [VIDEO]_22/11/26_15:00_REVISTAOESTE_10m06s_COMO GRAND THEFT AUTO CONQUISTOU O MUNDO DOS GAMES?",
+      "G8vzP5CXTtw | [VIDEO]_22/11/26_14:00_REVISTAOESTE_120m08s_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   DOMINGO 22/11/26",
       "CtoZEN5X1EY | [VIDEO]_22/11/26_09:00_REVISTAOESTE_9m20s_Economista explica a polêmica do Banco do Brasil com o agro",
       "hUTpYOyEQrs | [VIDEO]_22/11/26_00:19_REVISTAOESTE_96m36s_OESTE CULTURA: O FENÔMENO GRAND THEFT AUTO - (21/11/26)",
       "Nt1mYa5jbUU | [VIDEO]_21/11/26_19:30_REVISTAOESTE_30m16s_SAIBA COMO O EXERCÍCIO PROTEGE SUA SAÚDE   OESTE SAÚDE, COM DRA. DENISE STE",
@@ -849,6 +849,7 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
+      "IfyWEcxKEQ4",
       "0H2Xi88r-kg",
       "ERO8Zi8NJGA",
       "FEMktLtJ-_8",
@@ -877,12 +878,12 @@
       "pE0Qec0vq20",
       "JxQMUpYRgiQ",
       "h6sOWcSUq68",
-      "HfRxRFp_bJk",
-      "HhpyIMatAWc"
+      "HfRxRFp_bJk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "IfyWEcxKEQ4 | [VIDEO]_22/11/26_15:51_METRÓPOLES_2m27s_Pé Grande existe? Arquivos oficiais dos EUA revelam detalhes misteriosos",
       "0H2Xi88r-kg | [VIDEO]_22/11/26_15:43_METRÓPOLES_2m16s_México captura narcotraficante que está entre os dez mais procurados pelo F",
       "ERO8Zi8NJGA | [VIDEO]_22/11/26_15:06_METRÓPOLES_2m01s_Turista morto no Rio era influencer dos EUA e estava no Brasil havia 2 dias",
       "FEMktLtJ-_8 | [VIDEO]_22/11/26_12:39_METRÓPOLES_5m26s_Flamengo campeão do Brasileirão, Boca Juniors levantta a taça e Verstappen",
@@ -911,8 +912,7 @@
       "pE0Qec0vq20 | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m01s_Joice Hasselmann explica relação com Carlos Bolsonaro",
       "JxQMUpYRgiQ | [VIDEO]_20/11/26_23:38_METRÓPOLES_8m10s_Joice revela que atuou como media training de Bolsonaro",
       "h6sOWcSUq68 | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m09s_Joice Hasselmann revela bastidores da tentativa de Golpe",
-      "HfRxRFp_bJk | [VIDEO]_20/11/26_22:50_METRÓPOLES_4m48s_Veja as falas: Brasil e EUA divergem na OEA sobre combate a “narcoterrorist",
-      "HhpyIMatAWc | [VIDEO]_20/11/26_21:06_METRÓPOLES_85m45s_PAVINATTO AO VIVO • 20/11• C4GUEI E ANDREI: FACHIN JOGA SUJO, MAS MENDONÇA"
+      "HfRxRFp_bJk | [VIDEO]_20/11/26_22:50_METRÓPOLES_4m48s_Veja as falas: Brasil e EUA divergem na OEA sobre combate a “narcoterrorist"
     ]
   },
   {
@@ -1777,9 +1777,9 @@
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [
-      "iTKFgA1_qhA",
       "7aSz_lJ-aZA",
       "t1JBtI3Lr8w",
+      "iTKFgA1_qhA",
       "B1mRgmWWwD8",
       "c7Q3S6bMuG8",
       "oIuupOu2sMY",
@@ -1800,9 +1800,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "iTKFgA1_qhA | [VIDEO]_22/11/26_14:02_ACELERADOS_58m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 3 - INTERLAGOS (SP) - Domingo (22/11)",
       "7aSz_lJ-aZA | [VIDEO]_22/11/26_12:00_WEBMOTORS_23m12s_Garupa de Moto, Validade dos Pneus e BMW M235   Webmotors TV - 22/11/2026",
       "t1JBtI3Lr8w | [VIDEO]_22/11/26_10:59_ACELERADOS_120m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 2 - INTERLAGOS (SP) - Domingo (22/11)",
+      "iTKFgA1_qhA | [VIDEO]_22/11/26_14:02_ACELERADOS_58m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 3 - INTERLAGOS (SP) - Domingo (22/11)",
       "B1mRgmWWwD8 | [VIDEO]_21/11/26_14:12_ACELERADOS_98m11s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 1 - INTERLAGOS (SP) - Sábado (21/11) -",
       "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "oIuupOu2sMY | [VIDEO]_18/11/26_19:00_ACELERADOS_21m35s_O CARRO DA LUCIA E DO JASON DO GTA VI E DODGE VIPER SR I 1993 NA VOLTA RÁPI",
