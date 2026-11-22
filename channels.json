@@ -219,6 +219,7 @@
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
+      "FjivCxRWjvM",
       "kVj3PEECYks",
       "PDM7J2jOel0",
       "wv2_wVsa3rc",
@@ -247,13 +248,13 @@
       "Qb8P_WEY37E",
       "uXH2PlOJMCA",
       "jNr4_DxYb7M",
-      "F1WMlNnLoqM",
-      "kDj5ieCHwcc"
+      "F1WMlNnLoqM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "kVj3PEECYks | ((LIVE))_22/11/26_05:48_CNNBRASIL_AO VIVO: CNN NEWSROOM - 22/11/2026",
+      "FjivCxRWjvM | ((LIVE))_22/11/26_09:20_CNNBRASIL_AO VIVO: CNN AGORA MANHÃ - 22/11/2026",
+      "kVj3PEECYks | [VIDEO]_20/11/26_01:03_CNNBRASIL_221m31s_AO VIVO: CNN NEWSROOM - 22/11/2026",
       "PDM7J2jOel0 | [VIDEO]_22/11/26_06:11_CNNBRASIL_400m01s_AO VIVO: CNN MADRUGADA - 22/11/2026",
       "wv2_wVsa3rc | [VIDEO]_22/11/26_00:00_CNNBRASIL_8m26s_Japão mira aproximação com Brasil e aceita transferir tecnologia para miner",
       "BGby3hs26jk | [VIDEO]_21/11/26_23:30_CNNBRASIL_4m41s_Temporal atinge 99% dos habitantes de Tupanciretã (RS); moradores mostram a",
@@ -281,8 +282,7 @@
       "Qb8P_WEY37E | [VIDEO]_21/11/26_15:23_CNNBRASIL_15m27s_Quarta morte é confirmada após tempestade em Tupanciretã (RS), diz hospital",
       "uXH2PlOJMCA | [VIDEO]_21/11/26_13:39_CNNBRASIL_157m47s_CHUVAS NO RS ATINGEM 33 MUNICÍPIOS E DEIXAM 3 MORTOS - CNN AGORA MANHÃ",
       "jNr4_DxYb7M | [VIDEO]_21/11/26_12:33_CNNBRASIL_7m27s_“Precisamos ter cuidado”, diz Gilmar sobre reforma no Judiciário   CNN AGOR",
-      "F1WMlNnLoqM | [VIDEO]_21/11/26_11:10_CNNBRASIL_6m40s_Banco de dados do FBI é alvo de ataque cibernético   CNN AGORA",
-      "kDj5ieCHwcc | [VIDEO]_21/11/26_10:42_CNNBRASIL_10m04s_RS volta a ter previsão de tempestades; coronel explica situação após tempo"
+      "F1WMlNnLoqM | [VIDEO]_21/11/26_11:10_CNNBRASIL_6m40s_Banco de dados do FBI é alvo de ataque cibernético   CNN AGORA"
     ]
   },
   {
@@ -360,6 +360,7 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "7snvFY3nePs",
+      "C8K9sTckRZ0",
       "Gt2PgFnNmNQ",
       "dbYRLA-zM_4",
       "fSAWKBnrEJk",
@@ -387,13 +388,13 @@
       "JjCyxBi_7Qo",
       "lmJXCvg2MXQ",
       "2fUtK21EWCg",
-      "-cBqBbLLDRc",
-      "q7JnILtbuFs"
+      "-cBqBbLLDRc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "7snvFY3nePs | ((LIVE))_22/11/26_06:53_JOVEMPANNEWS_JORNAL DA MANHÃ - 22/11/2026",
+      "C8K9sTckRZ0 | [VIDEO]_22/11/26_09:28_JOVEMPANNEWS_5m00s_Produtores rurais enfrentam falta de estrutura   HORA H DO AGRO",
       "Gt2PgFnNmNQ | [VIDEO]_22/11/26_09:14_JOVEMPANNEWS_4m36s_Copom alerta para impacto do El Niño na inflação e na conta de luz",
       "dbYRLA-zM_4 | [VIDEO]_22/11/26_09:08_JOVEMPANNEWS_14m31s_Paulo Pimenta anuncia ajuda emergencial ao RS e defende ajuste",
       "fSAWKBnrEJk | [VIDEO]_22/11/26_08:45_JOVEMPANNEWS_4m08s_Bloco europeu exige metas claras contra energia fóssil na COP31",
@@ -421,8 +422,7 @@
       "JjCyxBi_7Qo | [VIDEO]_21/11/26_13:46_JOVEMPANNEWS_20m20s_Brasil lidera ranking de empreendedorismo na América Latina; especialista a",
       "lmJXCvg2MXQ | [VIDEO]_21/11/26_13:12_JOVEMPANNEWS_15m51s_Por que o mercado reagiu mal após as eleições? Especialista responde   ECON",
       "2fUtK21EWCg | [VIDEO]_21/11/26_12:36_JOVEMPANNEWS_5m03s_“As margens de lucro foram muito espremidas”, diz economista sobre crise no",
-      "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta",
-      "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs"
+      "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta"
     ]
   },
   {
@@ -707,6 +707,7 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "78REK_E4oAU",
       "nEunxUTl13A",
       "36ndLTH8N3o",
       "Iy2e3HSwQ_c",
@@ -735,12 +736,12 @@
       "xIww_MHVqDc",
       "zpToe-Ly1VA",
       "-A9ZmfMxBm0",
-      "QzWXOiOzDWo",
-      "GJ6Km3FwgsM"
+      "QzWXOiOzDWo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "78REK_E4oAU | ((LIVE))_22/11/26_09:30_CBNBRASIL_CBN Esportes - 22/11/26",
       "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
       "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026",
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
@@ -769,8 +770,7 @@
       "xIww_MHVqDc | [VIDEO]_20/11/26_20:22_CBNBRASIL_12m14s_Jeniffer Nascimento: Produtores brancos compraram musical preto, colocaram",
       "zpToe-Ly1VA | [VIDEO]_20/11/26_20:15_CBNBRASIL_16m19s_Jeniffer Nascimento descobriu que queria ser artista assistindo ao Gugu: 'P",
       "-A9ZmfMxBm0 | [VIDEO]_20/11/26_20:05_CBNBRASIL_19m58s_Jeniffer Nascimento não acreditou ser a 2ª pessoa mais influente do país: '",
-      "QzWXOiOzDWo | [VIDEO]_20/11/26_19:29_CBNBRASIL_8m26s_Vorcaro e Fábio Faria discutiram criar instituto para Alexandre de Moraes e",
-      "GJ6Km3FwgsM | [VIDEO]_20/11/26_19:00_CBNBRASIL_4m15s_PVC: Tem um monte de coisa que joga contra o Atlético-MG na final com o Boc"
+      "QzWXOiOzDWo | [VIDEO]_20/11/26_19:29_CBNBRASIL_8m26s_Vorcaro e Fábio Faria discutiram criar instituto para Alexandre de Moraes e"
     ]
   },
   {
