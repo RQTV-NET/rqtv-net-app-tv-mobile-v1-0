@@ -220,12 +220,12 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "FjivCxRWjvM",
-      "HO0w8liqiYo",
       "_42SN6th-SE",
       "H8b9Ldc9GQ4",
       "Lh2D0YJ6nZE",
       "pDHCSy3S2Wo",
       "fMJt9XQSXa4",
+      "HO0w8liqiYo",
       "kVj3PEECYks",
       "PDM7J2jOel0",
       "wv2_wVsa3rc",
@@ -254,12 +254,12 @@
     "playlistId": "",
     "carimbos": [
       "FjivCxRWjvM | ((LIVE))_22/11/26_09:20_CNNBRASIL_AO VIVO: BOLSONARO SEGUE INTERNADO EM UTI PELO TERCEIRO DIA - CNN AGORA MAN",
-      "HO0w8liqiYo | [VIDEO]_22/11/26_10:32_CNNBRASIL_10m01s_Paraná tem dois tornados em um único dia, confirma Simepar   CNN AGORA",
       "_42SN6th-SE | [VIDEO]_22/11/26_10:11_CNNBRASIL_5m10s_Unesp 2027:  mais de 65 mil estudantes fazem a 1ª fase neste domingo   CNN",
       "H8b9Ldc9GQ4 | [VIDEO]_22/11/26_10:05_CNNBRASIL_9m32s_EL Niño vai continuar forte até início de 2027; especialista explica   CNN",
       "Lh2D0YJ6nZE | [VIDEO]_22/11/26_09:55_CNNBRASIL_5m47s_Governo reconhece calamidade pública em Tupanciretã (RS) após temporal   CN",
       "pDHCSy3S2Wo | [VIDEO]_22/11/26_09:42_CNNBRASIL_4m17s_Bolsonaro segue internado pelo terceiro dia em UTI e sem previsão de alta",
       "fMJt9XQSXa4 | [VIDEO]_22/11/26_10:48_CNNBRASIL_9m27s_Black Friday pode ter melhor faturamento desde 2014, projeta CNC   CNN AGOR",
+      "HO0w8liqiYo | [VIDEO]_22/11/26_10:32_CNNBRASIL_10m01s_Paraná tem dois tornados em um único dia, confirma Simepar   CNN AGORA",
       "kVj3PEECYks | [VIDEO]_22/11/26_09:39_CNNBRASIL_221m46s_AO VIVO: CNN NEWSROOM - 22/11/2026",
       "PDM7J2jOel0 | [VIDEO]_22/11/26_06:11_CNNBRASIL_400m01s_AO VIVO: CNN MADRUGADA - 22/11/2026",
       "wv2_wVsa3rc | [VIDEO]_22/11/26_00:00_CNNBRASIL_8m26s_Japão mira aproximação com Brasil e aceita transferir tecnologia para miner",
@@ -497,6 +497,7 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
+      "SIhWmqBbg2c",
       "WN_nGBIKdR0",
       "PP8OeGKP93E",
       "B5uC3U0A7n4",
@@ -525,12 +526,12 @@
       "s5H0XwfN6Zs",
       "aMk3Kf6dqwM",
       "EkHtRxATkyM",
-      "1kyyK_1xAck",
-      "MBL5zBlbJLo"
+      "1kyyK_1xAck"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "SIhWmqBbg2c | [VIDEO]_22/11/26_12:11_BANDJORNALISMO_13m34s_Black Friday deve movimentar R$ 11 Bi em 2026   BandNewsTV",
       "WN_nGBIKdR0 | [VIDEO]_22/11/26_11:41_BANDJORNALISMO_20m09s_Comissão aprova regras de prevenção e combate ao bullying   BandNews TV",
       "PP8OeGKP93E | [VIDEO]_22/11/26_09:31_BANDJORNALISMO_13m03s_Casos de Covid-19 voltam a crescer no Brasil   BandNews TV",
       "B5uC3U0A7n4 | [VIDEO]_21/11/26_23:35_BANDJORNALISMO_63m00s_[AO VIVO]  A LUTA PELA ABOLIÇÃO - DOCUMENTO BAND - 21/11/2026",
@@ -559,8 +560,7 @@
       "s5H0XwfN6Zs | [VIDEO]_20/11/26_15:20_MELHORDATARDE_4m55s_Famosas debatem autoestima, beleza e pressão estética em evento   Melhor da",
       "aMk3Kf6dqwM | [VIDEO]_20/11/26_15:07_MELHORDATARDE_4m30s_Acessórios de luxo de jogadores chamam atenção pelos valores milionários",
       "EkHtRxATkyM | [VIDEO]_20/11/26_15:00_MELHORDATARDE_4m33s_Futebol inspira ensaios de cueca com Neymar, Messi e Cristiano   Melhor da",
-      "1kyyK_1xAck | [VIDEO]_20/11/26_07:23_BANDPAULISTA_35m40s_[AO VIVO] Band Cidade - 19/11/2026   Band Paulista",
-      "MBL5zBlbJLo | [VIDEO]_20/11/26_02:34_BANDPAULISTA_43m36s_[AO VIVO] Boa Tarde Paulista - 19/11/2026   Band Paulista"
+      "1kyyK_1xAck | [VIDEO]_20/11/26_07:23_BANDPAULISTA_35m40s_[AO VIVO] Band Cidade - 19/11/2026   Band Paulista"
     ]
   },
   {
@@ -707,12 +707,13 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
-      "78REK_E4oAU",
+      "7GA6ZB6mK3s",
       "36ndLTH8N3o",
       "Iy2e3HSwQ_c",
       "8MqmeCXes4Q",
       "T7COI7OkRNU",
       "SDDGyYU4xRg",
+      "78REK_E4oAU",
       "nEunxUTl13A",
       "QJPc9TXHQ8I",
       "Q947xtK2Q3U",
@@ -735,18 +736,18 @@
       "7YWZ8tVhGkk",
       "xIww_MHVqDc",
       "zpToe-Ly1VA",
-      "-A9ZmfMxBm0",
-      "QzWXOiOzDWo"
+      "-A9ZmfMxBm0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "78REK_E4oAU | ((LIVE))_22/11/26_09:30_CBNBRASIL_CBN Esportes - 22/11/26",
+      "7GA6ZB6mK3s | ((LIVE))_22/11/26_12:01_CBNBRASIL_Revista CBN - 22/11/2026",
       "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026",
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
       "8MqmeCXes4Q | [VIDEO]_22/11/26_09:06_CBNBRASIL_183m05s_Jornal da CBN - 22/11/2026",
       "T7COI7OkRNU | [VIDEO]_22/11/26_03:35_CBNBRASIL_25m24s_Jornal da CBN - 17/10/2026",
       "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
+      "78REK_E4oAU | [VIDEO]_22/11/26_05:52_RÁDIOCBN_151m37s_CBN Esportes - 22/11/26",
       "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
       "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
       "Q947xtK2Q3U | [VIDEO]_22/11/26_07:39_CBNBRASIL_237m11s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
@@ -769,16 +770,15 @@
       "7YWZ8tVhGkk | [VIDEO]_20/11/26_20:28_CBNBRASIL_10m25s_Jeniffer Nascimento: Fui demitida de 'O Rei Leão' a uma semana da estreia p",
       "xIww_MHVqDc | [VIDEO]_20/11/26_20:22_CBNBRASIL_12m14s_Jeniffer Nascimento: Produtores brancos compraram musical preto, colocaram",
       "zpToe-Ly1VA | [VIDEO]_20/11/26_20:15_CBNBRASIL_16m19s_Jeniffer Nascimento descobriu que queria ser artista assistindo ao Gugu: 'P",
-      "-A9ZmfMxBm0 | [VIDEO]_20/11/26_20:05_CBNBRASIL_19m58s_Jeniffer Nascimento não acreditou ser a 2ª pessoa mais influente do país: '",
-      "QzWXOiOzDWo | [VIDEO]_20/11/26_19:29_CBNBRASIL_8m26s_Vorcaro e Fábio Faria discutiram criar instituto para Alexandre de Moraes e"
+      "-A9ZmfMxBm0 | [VIDEO]_20/11/26_20:05_CBNBRASIL_19m58s_Jeniffer Nascimento não acreditou ser a 2ª pessoa mais influente do país: '"
     ]
   },
   {
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
-      "CtoZEN5X1EY",
       "hUTpYOyEQrs",
+      "CtoZEN5X1EY",
       "HSfcn4thoL4",
       "Nt1mYa5jbUU",
       "j_BKBSex2sw",
@@ -811,8 +811,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "CtoZEN5X1EY | [VIDEO]_22/11/26_09:00_REVISTAOESTE_9m20s_Economista explica a polêmica do Banco do Brasil com o agro",
       "hUTpYOyEQrs | [VIDEO]_22/11/26_00:19_REVISTAOESTE_96m36s_OESTE CULTURA: O FENÔMENO GRAND THEFT AUTO - (21/11/26)",
+      "CtoZEN5X1EY | [VIDEO]_22/11/26_09:00_REVISTAOESTE_9m20s_Economista explica a polêmica do Banco do Brasil com o agro",
       "HSfcn4thoL4 | [VIDEO]_21/11/26_22:48_REVISTAOESTE_163m25s_OUTRA COISA, COM GUILHERME FIUZA - 21/11/2026",
       "Nt1mYa5jbUU | [VIDEO]_21/11/26_19:30_REVISTAOESTE_30m16s_SAIBA COMO O EXERCÍCIO PROTEGE SUA SAÚDE   OESTE SAÚDE, COM DRA. DENISE STE",
       "j_BKBSex2sw | [VIDEO]_21/11/26_18:00_REVISTAOESTE_90m12s_OESTE SEM FILTRO MELHORES MOMENTOS   SÁBADO 21/11/26",
@@ -847,6 +847,7 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
+      "B0grBLOeS54",
       "u4423R6-Yg4",
       "jvGfDN4gJMk",
       "B0Cbu1BGLRo",
@@ -875,12 +876,12 @@
       "Oyx811z-YF0",
       "9bTknP3BXQw",
       "Myi3Et4roZ8",
-      "Xc0OsqX2u38",
-      "S2DZKt4H3Is"
+      "Xc0OsqX2u38"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "B0grBLOeS54 | [VIDEO]_22/11/26_12:06_METRÓPOLES_9m01s_Alerta no RS: Bombeiros revelam como se proteger de tempestades devastadora",
       "u4423R6-Yg4 | [VIDEO]_22/11/26_11:46_METRÓPOLES_12m58s_ESCALA 5x2: o que muda na vida dos trabalhadores a partir de 16 de dezembro",
       "jvGfDN4gJMk | [VIDEO]_22/11/26_11:26_METRÓPOLES_10m45s_Íntegra: cirurgião que já operou Bolsonaro analisa internação do ex-preside",
       "B0Cbu1BGLRo | [VIDEO]_22/11/26_10:23_METRÓPOLES_59m19s_AO VIVO: entrevista com médico que já operou Bolsonaro   Tempestade no RS v",
@@ -909,8 +910,7 @@
       "Oyx811z-YF0 | [VIDEO]_20/11/26_14:56_METRÓPOLES_4m16s_GTA 6 X GTA 5: saiba tudo o que mudou no lançamento mais esperado da franqu",
       "9bTknP3BXQw | [VIDEO]_20/11/26_14:55_METRÓPOLES_19m50s_Reinaldo Azevedo - Galípolo demora a reagir ao dólar e mercado tenta impor",
       "Myi3Et4roZ8 | [VIDEO]_20/11/26_14:48_METRÓPOLES_13m26s_Reinaldo Azevedo - O que diferencia as situações de Moraes, Mendonça e Kass",
-      "Xc0OsqX2u38 | [VIDEO]_20/11/26_14:40_METRÓPOLES_93m05s_Reinaldo Azevedo - Dosimetria: Bolsonaro na mesma; STF-PGR: ministros e Vor",
-      "S2DZKt4H3Is | [VIDEO]_20/11/26_13:56_METRÓPOLES_6m11s_Janones ganha força com Lula e muda o jogo político dentro da esquerda"
+      "Xc0OsqX2u38 | [VIDEO]_20/11/26_14:40_METRÓPOLES_93m05s_Reinaldo Azevedo - Dosimetria: Bolsonaro na mesma; STF-PGR: ministros e Vor"
     ]
   },
   {
@@ -1778,7 +1778,7 @@
     "playlistId": "",
     "carimbos": [
       "7aSz_lJ-aZA | [VIDEO]_22/11/26_12:00_WEBMOTORS_23m12s_Garupa de Moto, Validade dos Pneus e BMW M235   Webmotors TV - 22/11/2026",
-      "t1JBtI3Lr8w | [VIDEO]_22/11/26_10:59_ACELERADOS_120m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 2 - INTERLAGOS (SP) - Domingo (22/11) ",
+      "t1JBtI3Lr8w | [VIDEO]_22/11/26_10:59_ACELERADOS_120m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 2 - INTERLAGOS (SP) - Domingo (22/11)",
       "B1mRgmWWwD8 | [VIDEO]_21/11/26_14:12_ACELERADOS_98m11s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 1 - INTERLAGOS (SP) - Sábado (21/11) -",
       "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "oIuupOu2sMY | [VIDEO]_18/11/26_19:00_ACELERADOS_21m35s_O CARRO DA LUCIA E DO JASON DO GTA VI E DODGE VIPER SR I 1993 NA VOLTA RÁPI",
