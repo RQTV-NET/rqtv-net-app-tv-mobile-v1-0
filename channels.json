@@ -1098,6 +1098,7 @@
       "tIM_T-D66iI",
       "tsmmAd5U064",
       "DkeKLWqMyqE",
+      "vRohHzrWf0Q",
       "KxLuGKmNDW8",
       "U783JSxqQlo",
       "v8kXxSlqiJA",
@@ -1123,15 +1124,15 @@
       "PD777Apbnls",
       "uj3ua2ddfsc",
       "d86cfzSyLMQ",
-      "ljdkObnCqyo",
-      "fqjgF95lZlk"
+      "ljdkObnCqyo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "tIM_T-D66iI | ((LIVE))_22/11/26_12:01_CAZÉTV_AO VIVO: RACING CLUB X REAL SOCIEDAD   LALIGA 26/27   13ª RODADA",
       "tsmmAd5U064 | ((LIVE))_22/11/26_10:44_CAZÉTV_AO VIVO: PARIS FC X ANGERS   LIGUE 1 26/27   11ª RODADA",
-      "DkeKLWqMyqE | [VIDEO]_12/11/26_09:00_CAZÉTV_187m19s_JOGO COMPLETO: BARCELONA X VILLARREAL   LALIGA 26/27   13ª RODADA",
+      "DkeKLWqMyqE | [VIDEO]_22/11/26_12:16_CAZÉTV_187m41s_JOGO COMPLETO: BARCELONA X VILLARREAL   LALIGA 26/27   13ª RODADA",
+      "vRohHzrWf0Q | [VIDEO]_22/11/26_12:10_CAZÉTV_14m35s_MELHORES MOMENTOS: BARCELONA 3 X 2 VILLARREAL   LALIGA 26/27   13ª RODADA",
       "KxLuGKmNDW8 | [VIDEO]_22/11/26_10:55_CAZÉTV_5m59s_MELHORES MOMENTOS: JUVENTUS X VENEZIA   SÉRIE A ITALIANA 26/27   12ª RODADA",
       "U783JSxqQlo | [VIDEO]_22/11/26_10:27_CAZÉTV_156m36s_JOGO COMPLETO: JUVENTUS X VENEZIA   SÉRIE A ITALIANA 26/27   12ª RODADA",
       "v8kXxSlqiJA | [VIDEO]_22/11/26_08:03_CAZÉTV_97m55s_AO VIVO: COPA DO MUNDO DE ESQUI ALPINO   LUCAS BRAATHEN NA DESCIDA EM GURGL",
@@ -1157,8 +1158,7 @@
       "PD777Apbnls | [VIDEO]_21/11/26_14:04_CAZÉTV_5m49s_MELHORES MOMENTOS: UNION BERLIN 1 X 5 RB LEIPZIG   BUNDESLIGA 26/27   10ª R",
       "uj3ua2ddfsc | [VIDEO]_21/11/26_14:01_CAZÉTV_159m50s_JOGO COMPLETO: BRASIL X IRLANDA   COPA DO MUNDO SUB-17 2026   1ª RODADA",
       "d86cfzSyLMQ | [VIDEO]_21/11/26_13:31_CAZÉTV_155m54s_JOGO COMPLETO: UNION BERLIN X RB LEIPZIG   BUNDESLIGA 26/27   10ª RODADA",
-      "ljdkObnCqyo | [VIDEO]_21/11/26_13:18_CAZÉTV_4m11s_MELHORES MOMENTOS: SÃO PAULO 2 X 0 SANTOS   PAULISTÃO F 2026   PLAY-IN (VOL",
-      "fqjgF95lZlk | [VIDEO]_21/11/26_13:09_CAZÉTV_167m40s_JOGO COMPLETO: SÃO PAULO X SANTOS   PAULISTÃO F 2026   PLAY-IN"
+      "ljdkObnCqyo | [VIDEO]_21/11/26_13:18_CAZÉTV_4m11s_MELHORES MOMENTOS: SÃO PAULO 2 X 0 SANTOS   PAULISTÃO F 2026   PLAY-IN (VOL"
     ]
   },
   {
@@ -1414,9 +1414,9 @@
     "rem": "BAND ESPORTES",
     "videoIds": [
       "ZSAzRY0AuP8",
-      "AwtV4qififA",
       "2sqRe1FxXus",
       "FRORrZK1Kf8",
+      "AwtV4qififA",
       "ztPT_bc3DM4",
       "kggECWD2Gng",
       "3shHeU9Qfkw",
@@ -1448,9 +1448,9 @@
     "playlistId": "",
     "carimbos": [
       "ZSAzRY0AuP8 | ((LIVE))_22/11/26_11:59_BANDESPORTES_[AO VIVO] SHOW DO ESPORTE   22/11/2026",
-      "AwtV4qififA | [VIDEO]_22/11/26_09:01_BANDESPORTES_34m25s_AO VIVO E COM IMAGENS: FÓRMULA 4 - CORRIDA 2   ETAPA DE INTERLAGOS",
       "2sqRe1FxXus | [VIDEO]_22/11/26_09:31_BANDESPORTES_87m31s_[AO VIVO] SAIL GP - ETAPA DE DUBAI   22/11/2026 - DIA 2",
       "FRORrZK1Kf8 | [VIDEO]_22/11/26_10:56_BANDESPORTES_109m16s_[AO VIVO] PORSCHE CUP EM INTERLAGOS 2026 - CORRIDA 2",
+      "AwtV4qififA | [VIDEO]_22/11/26_09:01_BANDESPORTES_34m25s_AO VIVO E COM IMAGENS: FÓRMULA 4 - CORRIDA 2   ETAPA DE INTERLAGOS",
       "ztPT_bc3DM4 | [VIDEO]_21/11/26_15:37_BANDESPORTES_6m38s_DAVISON FORTUNATO TRANSFORMA O SKATE EM OPORTUNIDADE",
       "kggECWD2Gng | [VIDEO]_21/11/26_15:15_BANDESPORTES_8m28s_LEITURA LABIAL: POPULAR E POLÊMICA NO FUTEBOL",
       "3shHeU9Qfkw | [VIDEO]_21/11/26_15:06_BANDESPORTES_7m44s_A IMPORTÂNCIA DA HIDRATAÇÃO NO BOM DESEMPENHO DOS PILOTOS",
@@ -1537,6 +1537,7 @@
     "numero": "39",
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
+      "oSHfG4Ve5wE",
       "WNqkf3-LPk4",
       "D4aesni67BA",
       "imlN5b_vuCs",
@@ -1566,6 +1567,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "oSHfG4Ve5wE | ((LIVE))_22/11/26_12:22_SPORTYNET_PANATHINAIKOS x OFI: AO VIVO, COM IMAGENS E EXCLUSIVO   RODADA 11   CAMPEON",
       "WNqkf3-LPk4 | ((LIVE))_22/11/26_11:21_CANALGOAT_AUGSBURG X MAINZ 05   AO VIVO E COM IMAGENS   BUNDESLIGA",
       "D4aesni67BA | [VIDEO]_22/11/26_11:31_CANALGOAT_127m25s_KAISERSLAUTERN X DYNAMO DRESDEN   JOGO COMPLETO   BUNDESLIGA 2",
       "imlN5b_vuCs | [VIDEO]_22/11/26_00:35_LITORALNEWS_171m11s_CHAPECOENSE X CRUZEIRO AO VIVO COM IMAGENS NO PREMIERE AO VIVO   JOGO DO CR",
@@ -1641,12 +1643,12 @@
     "numero": "60",
     "rem": "RQTV·NET AGRO 1",
     "videoIds": [
-      "fJiPQdi2RTs",
       "6vdzQvT-DCA",
       "ih78KopJpLQ",
       "4mJ9hxtkMrA",
       "yoRx8Pjf6RE",
       "SrQIVXXdqLs",
+      "fJiPQdi2RTs",
       "4GG4qVNpYJg",
       "lIRMo5dAHU8",
       "rfrvCSyJT0c",
@@ -1673,12 +1675,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "fJiPQdi2RTs | [VIDEO]_22/11/26_09:00_RICRURAL_6m24s_Dejetos de suínos ajudam na produção de biogás e na sanidade da granja",
       "6vdzQvT-DCA | [VIDEO]_22/11/26_09:00_RICRURAL_4m47s_Ex-jogador troca o futebol pela cafeicultura e conquista seguidores",
       "ih78KopJpLQ | [VIDEO]_22/11/26_09:00_RICRURAL_5m09s_Produção orgânica exige cuidados e regularização no campo",
       "4mJ9hxtkMrA | [VIDEO]_22/11/26_09:00_RICRURAL_9m44s_Receita do pão recheado com calabresa",
       "yoRx8Pjf6RE | [VIDEO]_22/11/26_09:00_RICRURAL_4m02s_Embrapa Soja tem novo chefe-geral e define prioridades até 2030",
       "SrQIVXXdqLs | [VIDEO]_22/11/26_09:00_RICRURAL_6m37s_Florada dos kiwis encanta visitantes em São Luiz do Purunã",
+      "fJiPQdi2RTs | [VIDEO]_22/11/26_09:00_RICRURAL_6m24s_Dejetos de suínos ajudam na produção de biogás e na sanidade da granja",
       "4GG4qVNpYJg | [VIDEO]_22/11/26_08:00_RICRURAL_43m57s_Assista o RIC Rural ao vivo   22/11/2026",
       "lIRMo5dAHU8 | [VIDEO]_21/11/26_12:00_VALEAGRÍCOLA_48m30s_VALE AGRÍCOLA 449 (21/11/2026)",
       "rfrvCSyJT0c | [VIDEO]_18/11/26_09:00_VALEAGRÍCOLA_9m01s_UMA CASA DE 100 ANOS E UMA FUGA INACREDITÁVEL: A história emocionante dos i",
@@ -1871,9 +1873,9 @@
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
-      "R-ndjP27sFI",
       "KmHHVJJHk5Y",
       "S474egKvJIE",
+      "R-ndjP27sFI",
       "aLdS3Iiy2x0",
       "Kxmpx6N_JT8",
       "PVNTtdRo42U",
@@ -1905,9 +1907,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "R-ndjP27sFI | [VIDEO]_22/11/26_05:23_TECHCIÊNCIA2A_20m41s_A China está construindo o túnel ferroviário submarino mais longo do mundo",
       "KmHHVJJHk5Y | [VIDEO]_22/11/26_02:39_TECHCIÊNCIA2A_42m46s_Vulcão perigoso descoberto pode deixar os EUA ricos para sempre",
       "S474egKvJIE | [VIDEO]_22/11/26_10:06_TECHCIÊNCIA2A_91m57s_A “Porta do Inferno” da Ásia está se fechando — e isso pode ser perigoso!",
+      "R-ndjP27sFI | [VIDEO]_22/11/26_05:23_TECHCIÊNCIA2A_20m41s_A China está construindo o túnel ferroviário submarino mais longo do mundo",
       "aLdS3Iiy2x0 | [VIDEO]_21/11/26_15:01_TECHCIÊNCIA2B_15m30s_Minha Madrasta Fez Meu Pai Se Livrar Do Meu Cabelo",
       "Kxmpx6N_JT8 | [VIDEO]_21/11/26_13:46_TECHCIÊNCIA2A_21m54s_Por que a fronteira entre o Alasca e o Canadá é o pior erro da geografia",
       "PVNTtdRo42U | [VIDEO]_21/11/26_20:12_TECHCIÊNCIA2C_180m01s_3 HORAS DE CURIOSIDADES DO BRASIL E DO MUNDO 🇧🇷🌍",
@@ -2033,7 +2035,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "uMzBNAi2O6Y | ((LIVE))_22/11/26_10:54_TVEVANGELIZAR_Santa Missa das 11h   22/11/26",
+      "uMzBNAi2O6Y | [VIDEO]_22/11/26_12:26_TVEVANGELIZAR_87m11s_Santa Missa das 11h   22/11/26",
       "XF7K6Q1N3ng | [VIDEO]_22/11/26_06:00_TVEVANGELIZAR_36m02s_Domingo: Mistérios Gloriosos   22/11/26   Terço Mariano com @PadreManzottiO",
       "Ct3GFbEmr5E | [VIDEO]_22/11/26_04:00_TVEVANGELIZAR_20m02s_Oração da Manhã   22/11/2026   com @PadreManzottiOficial",
       "9I6S3s1KhCo | [VIDEO]_22/11/26_09:00_TVEVANGELIZAR_53m01s_Quem vai curar a sua ferida?   Despertar para o Amor com @padreezequiel   2",
