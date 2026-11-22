@@ -10,8 +10,8 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
-      "9W14ZEQ2aqg",
       "Jjxv2oqaWAM",
+      "9W14ZEQ2aqg",
       "hmXUvhnGtKc",
       "UfRb89DHT0g",
       "vjG-E-v8CSE",
@@ -43,8 +43,8 @@
     ],
     "playlistId": "",
     "carimbos": [
-      "9W14ZEQ2aqg | [VIDEO]_21/11/26_00:06_GLOBONEWS_6m19s_Beleza negra movimenta mercado milionário no Brasil",
       "Jjxv2oqaWAM | [VIDEO]_21/11/26_09:48_GLOBONEWS_8m42s_Casos de Covid-19 aumentam no Brasil e Rio de Janeiro está em nível de aler",
+      "9W14ZEQ2aqg | [VIDEO]_21/11/26_00:06_GLOBONEWS_6m19s_Beleza negra movimenta mercado milionário no Brasil",
       "hmXUvhnGtKc | [VIDEO]_20/11/26_22:54_GLOBONEWS_6m35s_Acordo entre Reino Unido e UE confirma o fracasso do Brexit, diz Fernando A",
       "UfRb89DHT0g | [VIDEO]_20/11/26_19:31_GLOBONEWS_20m02s_Trump quer afastar Brasil do mercado filipino",
       "vjG-E-v8CSE | [VIDEO]_20/11/26_18:28_GLOBONEWS_4m14s_Pessoas escravizadas têm rostos reconstruído por inteligência artificial; e",
@@ -79,9 +79,10 @@
     "numero": "02",
     "rem": "SBT: AOVIVO/PROGRAMAS",
     "videoIds": [
-      "osM9kVWhdV0",
+      "KSMPCOTl23U",
       "xNLd9jtI9bY",
       "_jE1TIGlpoU",
+      "osM9kVWhdV0",
       "zOtzA5ox8cY",
       "Lrz0dPoEvbU",
       "zgHz5AUEzps",
@@ -107,15 +108,15 @@
       "dZkT7gVFYbU",
       "EZsHNOnz_jg",
       "xqZvYvnL_Lo",
-      "NUNevsCtX8E",
-      "ZyOZI8G8gmE"
+      "NUNevsCtX8E"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "osM9kVWhdV0 | [VIDEO]_21/11/26_16:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_58m31s_SONIA ABRÃO RELEMBRA histórias com SILVIO SANTOS e recebe LUCAS GUIMARÃES",
+      "KSMPCOTl23U | ((LIVE))_21/11/26_17:36_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_SBT Ao Vivo",
       "xNLd9jtI9bY | [VIDEO]_21/11/26_10:46_THENOITE_10m20s_Deborah Blanco explica como funcionavam os bastidores da música internacion",
       "_jE1TIGlpoU | [VIDEO]_21/11/26_18:45_PROGRAMADORATINHO_51m29s_Ratinho se irrita, para o programa e CLIMA FICA TENSO no estúdio    Program",
+      "osM9kVWhdV0 | [VIDEO]_21/11/26_16:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_58m31s_SONIA ABRÃO RELEMBRA histórias com SILVIO SANTOS e recebe LUCAS GUIMARÃES",
       "zOtzA5ox8cY | [VIDEO]_20/11/26_20:00_CÂMERASESCONDIDASSBT_4m44s_Pegadinha Carrie, a Estranha   Câmeras Escondidas",
       "Lrz0dPoEvbU | [VIDEO]_20/11/26_19:30_FOFOCALIZANDO_7m43s_No The Voice Brasil, Diogo Nogueira entrega bastidores da produção   Fofoca",
       "zgHz5AUEzps | [VIDEO]_20/11/26_18:45_FOFOCALIZANDO_28m27s_Memphis Depay está na pista? Descubra o que o jogador anda fazendo   Fofoca",
@@ -141,8 +142,7 @@
       "dZkT7gVFYbU | [VIDEO]_18/11/26_18:15_FOFOCALIZANDO_38m13s_Amado Batista vence recurso e é inocentado após falecimento de criança   Fo",
       "EZsHNOnz_jg | [VIDEO]_18/11/26_18:00_PROGRAMADORATINHO_51m43s_Ratinho SÓ QUER SABER DAS PELADONAS do balé   Programa do Ratinho (17/11/26",
       "xqZvYvnL_Lo | [VIDEO]_18/11/26_14:30_THENOITE_17m40s_Entrevista com Allan Coração   The Noite (17/11/26)",
-      "NUNevsCtX8E | [VIDEO]_18/11/26_14:00_THENOITE_29m31s_Entrevista com Alex Kendrick e elenco de \"A Virada\"   The Noite (17/11/26)",
-      "ZyOZI8G8gmE | [VIDEO]_17/11/26_22:24_PROGRAMADORATINHO_47m34s_INVASÃO AO VIVO! Ratinho se surpreende com invasão no Dez ou Mil!   Program"
+      "NUNevsCtX8E | [VIDEO]_18/11/26_14:00_THENOITE_29m31s_Entrevista com Alex Kendrick e elenco de \"A Virada\"   The Noite (17/11/26)"
     ]
   },
   {
@@ -219,6 +219,8 @@
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
+      "tIQ84SadAhg",
+      "eg-2-gvxFqs",
       "SJvNG5-XoXw",
       "rMKIfOd6HYE",
       "nNG4BPgJvbA",
@@ -246,13 +248,13 @@
       "izn5ae7s_4w",
       "Gn8WIiyWaN4",
       "U8B_wWw6GEA",
-      "ITjXg0bFTLg",
-      "Nf5z4mtMz-k",
-      "zw6U8gBCqq0"
+      "ITjXg0bFTLg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "tIQ84SadAhg | ((LIVE))_21/11/26_22:00_CNNBRASIL_Modelo de ensino público bem-sucedido é barrado pela Justiça em SP   DESTAQ",
+      "eg-2-gvxFqs | ((LIVE))_21/11/26_21:51_CNNBRASIL_AO VIVO: Mendoza: Vinhos e paisagens aos pés dos Andes   CNN VIAGEM & GASTR",
       "SJvNG5-XoXw | ((LIVE))_21/11/26_20:51_CNNBRASIL_AO VIVO: O GRANDE DEBATE - Edição Fim de Semana - 21/11/2026",
       "rMKIfOd6HYE | [VIDEO]_21/11/26_21:08_CNNBRASIL_69m36s_PGR AVALIA SE MINISTROS DO STF DEVEM SER INVESTIGADOS   CNN PRIME TIME - Ed",
       "nNG4BPgJvbA | [VIDEO]_21/11/26_21:00_CNNBRASIL_7m42s_EUA atacam local de lançamento de mísseis do Irã, diz fonte   DESTAQUES DA ",
@@ -280,9 +282,7 @@
       "izn5ae7s_4w | [VIDEO]_21/11/26_10:25_CNNBRASIL_4m30s_Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
       "Gn8WIiyWaN4 | [VIDEO]_21/11/26_09:59_CNNBRASIL_7m48s_PGR avalia se relatórios da PF sobre ministros justificam investigação   CN",
       "U8B_wWw6GEA | [VIDEO]_21/11/26_09:43_CNNBRASIL_4m58s_Chuvas no RS atingem 33 municípios e deixam mortos e feridos   CNN AGORA",
-      "ITjXg0bFTLg | [VIDEO]_21/11/26_09:42_CNNBRASIL_190m11s_CNN NEWSROOM - 21/11/2026",
-      "Nf5z4mtMz-k | [VIDEO]_21/11/26_00:01_CNNBRASIL_13m01s_Qual o impacto de julgamento sobre dosimetria ainda em 2026?   O GRANDE DEB",
-      "zw6U8gBCqq0 | [VIDEO]_20/11/26_23:46_CNNBRASIL_7m37s_Fim da escala 6x1 é avanço ou desafio econômico?   O GRANDE DEBATE"
+      "ITjXg0bFTLg | [VIDEO]_21/11/26_09:42_CNNBRASIL_190m11s_CNN NEWSROOM - 21/11/2026"
     ]
   },
   {
@@ -359,7 +359,7 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
-      "rOnsvyngCA4",
+      "SRCqg_a86B0",
       "X-iB4P-36-A",
       "ITPcIH3uMT0",
       "lXMRWg81O50",
@@ -393,7 +393,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "rOnsvyngCA4 | ((LIVE))_21/11/26_18:53_JOVEMPANNEWS_JORNAL JOVEM PAN - 21/11/26",
+      "SRCqg_a86B0 | [VIDEO]_21/11/26_21:53_JOVEMPANNEWS_6m57s_Pedro Araújo analisa impactos da escala 6x1 nas empresas",
       "X-iB4P-36-A | [VIDEO]_21/11/26_21:23_JOVEMPANNEWS_14m48s_\"Vamos sofrer rotatividade da mão de obra\", diz Paulo Sérgio João sobre fim",
       "ITPcIH3uMT0 | [VIDEO]_21/11/26_20:52_JOVEMPANNEWS_18m52s_Reação do mercado financeiro ao pacote fiscal do governo; Tony Volpon anali",
       "lXMRWg81O50 | [VIDEO]_21/11/26_20:21_JOVEMPANNEWS_15m23s_Semana do ajuste fiscal e composição de novo ministério; Emerson Saraiva an",
@@ -429,10 +429,10 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
-      "8YtCCXXrz2g",
       "Kp7q3KEWnZg",
       "MlwWIHc9Ifw",
       "awWeaqmW0fg",
+      "8YtCCXXrz2g",
       "AOepJ8vITf0",
       "44-lBQ2TY54",
       "o25U_GAVbmg",
@@ -461,10 +461,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "8YtCCXXrz2g | [VIDEO]_21/11/26_10:30_FALABRASIL_6m03s_Mulheres Positivas: Empreendedora transforma paixão por ginástica em academ",
       "Kp7q3KEWnZg | [VIDEO]_21/11/26_09:45_FALABRASIL_10m41s_Feriado prolongado e calorão lotam praias brasileiras neste sábado (21)",
       "MlwWIHc9Ifw | [VIDEO]_21/11/26_01:14_JORNALDARECORD_11m38s_Estado de saúde de Jair Bolsonaro volta a gerar preocupação",
       "awWeaqmW0fg | [VIDEO]_21/11/26_10:33_FALABRASIL_5m21s_Fala Brasil acompanha Chá Revelação em praia do Rio de Janeiro",
+      "8YtCCXXrz2g | [VIDEO]_21/11/26_10:30_FALABRASIL_6m03s_Mulheres Positivas: Empreendedora transforma paixão por ginástica em academ",
       "AOepJ8vITf0 | [VIDEO]_20/11/26_22:47_JORNALDARECORD_53m00s_Assista à íntegra do Jornal da Record   20/11/2026",
       "44-lBQ2TY54 | [VIDEO]_20/11/26_22:13_RECORD/DOMINGOESPETACULAR/BALANÇOGERAL_26m38s_Dizi Cast #40   Asya entrou no jogo da Derin! Veja o desfecho da melhor sem",
       "o25U_GAVbmg | [VIDEO]_20/11/26_17:37_JORNALDARECORD_4m08s_Ventos de 114 km/h destroem cidade de Tupanciretã, no Rio Grande do Sul",
@@ -495,12 +495,12 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
-      "MEbJ7tUDOc8",
       "anHwQDHV9Hs",
       "AgSv6Injz6c",
       "3OXdn1uxBTA",
       "NlCSIA8U4q4",
       "SV3JMogAxWs",
+      "MEbJ7tUDOc8",
       "jcTurMl3Vj4",
       "-0PIfFeRohg",
       "f24FUXUYKuE",
@@ -529,12 +529,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "MEbJ7tUDOc8 | [VIDEO]_21/11/26_19:00_BANDPAULISTA_24m21s_PROGRAMA DNA - 21/11/2026 - DANIELE FERNANDES   Band Paulista",
       "anHwQDHV9Hs | [VIDEO]_21/11/26_17:42_BANDJORNALISMO_19m32s_Dólar segue em alta, mesmo após BC realizar leilão   BandNews TV",
       "AgSv6Injz6c | [VIDEO]_21/11/26_15:00_MELHORDATARDE_14m56s_Kamyla Maria surpreende ao revelar abusos e exploração de Hytalo Santos   A",
       "3OXdn1uxBTA | [VIDEO]_21/11/26_13:36_BANDJORNALISMO_17m24s_Brasil é o 3° em exposição a golpes digitais   BandNews TV",
       "NlCSIA8U4q4 | [VIDEO]_21/11/26_13:14_BANDJORNALISMO_4m56s_Cannabis medicinal movimenta R$ 1 bilhão   BandNewsTV",
       "SV3JMogAxWs | [VIDEO]_21/11/26_20:26_BANDJORNALISMO_4m26s_Gilmar Mendes defende fim de sigilo em relatórios sobre ministros do STF",
+      "MEbJ7tUDOc8 | [VIDEO]_21/11/26_19:00_BANDPAULISTA_24m21s_PROGRAMA DNA - 21/11/2026 - DANIELE FERNANDES   Band Paulista",
       "jcTurMl3Vj4 | [VIDEO]_21/11/26_13:00_MELHORDATARDE_7m08s_Ausência de Virginia na festa de Poliana foi por brigas ou estratégia?   Ac",
       "-0PIfFeRohg | [VIDEO]_21/11/26_11:00_BANDJORNALISMO_11m36s_Criminalidade custa R$ 440 bilhões por ano ao Brasil   BandNews TV",
       "f24FUXUYKuE | [VIDEO]_21/11/26_10:45_BANDJORNALISMO_19m17s_STF confirma julgamento da Lei da Dosimetria   BandNews TV",
@@ -636,6 +636,8 @@
     "rem": "TV CULTURA",
     "videoIds": [
       "nRHZjAfzruk",
+      "PE9jx0fO8hw",
+      "ybapDn-lOVI",
       "lkZBCfIa4PI",
       "52mGJ-pgaYU",
       "4l52Wh8lpD8",
@@ -662,14 +664,14 @@
       "ZhM3Y7SLj-M",
       "CvoazgrLR1g",
       "IghKRXUknjQ",
-      "kdllZk2ZUyI",
-      "W5xp3JMe79Q",
-      "-ZQ7v1NfZHM"
+      "kdllZk2ZUyI"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "nRHZjAfzruk | ((LIVE))_21/11/26_20:55_TVCULTURAPROGRAMAS_JORNAL DA CULTURA   Lula fala sobre projeto fiscal e programas sociais   21",
+      "PE9jx0fO8hw | [VIDEO]_21/11/26_22:00_TVCULTURAPROGRAMAS_4m22s_CNJ aprova política para acolher pessoas que exercem trabalho de cuidado",
+      "ybapDn-lOVI | [VIDEO]_21/11/26_21:56_TVCULTURAPROGRAMAS_5m36s_Conflito no Oriente Médio provoca crise energética e ameaça segurança globa",
       "lkZBCfIa4PI | [VIDEO]_21/11/26_21:42_TVCULTURAPROGRAMAS_5m58s_Constituição brasileira fica em segundo lugar em ranking de direitos sociai",
       "52mGJ-pgaYU | [VIDEO]_21/11/26_21:39_TVCULTURAPROGRAMAS_5m00s_Rússia faz ataque em larga escala à Ucrânia e mísseis atingem território po",
       "4l52Wh8lpD8 | [VIDEO]_21/11/26_21:24_TVCULTURAPROGRAMAS_7m53s_COP 31 segue sem consenso sobre combustíveis fósseis",
@@ -696,9 +698,7 @@
       "ZhM3Y7SLj-M | [VIDEO]_19/11/26_17:30_TVCULTURAJORNALISMO_8m52s_Conceição Tavares avalia educação no país e comenta novo livro erótico",
       "CvoazgrLR1g | [VIDEO]_19/11/26_10:00_TVCULTURAJORNALISMO_8m35s_Conceição Evaristo defende indicação de mulher negra ao STF",
       "IghKRXUknjQ | [VIDEO]_18/11/26_15:01_TVCULTURAJORNALISMO_11m50s_A literatura negra é identitária? Conceição Evaristo analisa",
-      "kdllZk2ZUyI | [VIDEO]_18/11/26_10:00_TVCULTURAJORNALISMO_9m25s_Como Conceição Evaristo lidou com a morte da mãe?",
-      "W5xp3JMe79Q | [VIDEO]_17/11/26_16:27_TVCULTURAJORNALISMO_14m31s_Conceição Evaristo fala sobre sua relação com o descanso",
-      "-ZQ7v1NfZHM | [VIDEO]_17/11/26_10:00_TVCULTURAJORNALISMO_8m37s_\"Ainda tenho muita coisa para fazer\", diz Conceição Evaristo"
+      "kdllZk2ZUyI | [VIDEO]_18/11/26_10:00_TVCULTURAJORNALISMO_9m25s_Como Conceição Evaristo lidou com a morte da mãe?"
     ]
   },
   {
@@ -776,12 +776,12 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "HSfcn4thoL4",
-      "j_BKBSex2sw",
       "mnW69DGSzkg",
       "jTxhpnXb8ts",
       "QKjOoG8L9YA",
       "j9F4QnLHNCA",
       "Nt1mYa5jbUU",
+      "j_BKBSex2sw",
       "wpdlOXwRUV8",
       "H9NHj2C7M2Y",
       "f4qKnhpsCdg",
@@ -810,12 +810,12 @@
     "playlistId": "",
     "carimbos": [
       "HSfcn4thoL4 | ((LIVE))_21/11/26_19:55_REVISTAOESTE_OUTRA COISA, COM GUILHERME FIUZA - 21/11/2026",
-      "j_BKBSex2sw | [VIDEO]_21/11/26_18:00_REVISTAOESTE_90m12s_OESTE SEM FILTRO MELHORES MOMENTOS   SÁBADO 21/11/26",
       "mnW69DGSzkg | [VIDEO]_21/11/26_16:00_REVISTAOESTE_120m08s_OESTE COM ELAS, MELHORES MOMENTOS   SÁBADO 21/11/26",
       "jTxhpnXb8ts | [VIDEO]_21/11/26_14:00_REVISTAOESTE_120m08s_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   SÁBADO 21/11/26",
       "QKjOoG8L9YA | [VIDEO]_21/11/26_12:50_REVISTAOESTE_4m43s_Sabina diz que estilo de vida é mais determinante que genética na demência",
       "j9F4QnLHNCA | [VIDEO]_21/11/26_11:45_REVISTAOESTE_20m00s_OESTE EM REVISTA, COM BRANCA NUNES - Matéria edição 350, por Dagomir Marque",
       "Nt1mYa5jbUU | [VIDEO]_21/11/26_19:30_REVISTAOESTE_30m16s_SAIBA COMO O EXERCÍCIO PROTEGE SUA SAÚDE   OESTE SAÚDE, COM DRA. DENISE STE",
+      "j_BKBSex2sw | [VIDEO]_21/11/26_18:00_REVISTAOESTE_90m12s_OESTE SEM FILTRO MELHORES MOMENTOS   SÁBADO 21/11/26",
       "wpdlOXwRUV8 | [VIDEO]_21/11/26_10:00_REVISTAOESTE_117m54s_DE LESTE A OESTE - 20/11/2026   CRISTÃOS SOB PERSEGUIÇÃO - UMA TRAGÉDIA DE",
       "H9NHj2C7M2Y | [VIDEO]_21/11/26_09:30_REVISTAOESTE_9m38s_Populismo do governo Lula promove onda de demissões no mercado",
       "f4qKnhpsCdg | [VIDEO]_21/11/26_09:05_REVISTAOESTE_4m50s_Alimentação e hábitos protegem saúde do cérebro após os 40 anos   AFA, com",
@@ -845,12 +845,12 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
-      "swaBkF1gN9U",
       "YisLHTWyXBU",
       "Ko1CyQ8Uo10",
       "ecPPoMgsLXk",
       "DPGUBLnqXR4",
       "WAn-SLt3eho",
+      "swaBkF1gN9U",
       "gymmSGdzyqo",
       "gz4Bdh4j78o",
       "HvGM5_x_Qro",
@@ -879,12 +879,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "swaBkF1gN9U | [VIDEO]_21/11/26_12:04_METRÓPOLES_59m11s_Atualizações sobre a saúde de Bolsonaro   Velório de Gabriel Félix será pri",
       "YisLHTWyXBU | [VIDEO]_21/11/26_11:32_METRÓPOLES_3m59s_Dos EUA, Flávio e Eduardo se manifestam sobre internação de Bolsonaro",
       "Ko1CyQ8Uo10 | [VIDEO]_21/11/26_06:04_METRÓPOLES_61m30s_Trump quer vetar data centers fora dos EUA   Defesa de Vorcaro ataca Fachin",
       "ecPPoMgsLXk | [VIDEO]_21/11/26_01:26_METRÓPOLES_18m14s_Lula reage ao mercado, à imprensa, critica tentativa de ganhos por \"boatari",
       "DPGUBLnqXR4 | [VIDEO]_21/11/26_00:35_METRÓPOLES_88m53s_AO VIVO: Fachin libera relatório sobre Mendonça e Vorcaro   Documento sobre",
       "WAn-SLt3eho | [VIDEO]_21/11/26_12:24_METRÓPOLES_14m42s_Íntegra: relator do projeto de ajuste fiscal se reúne com o PL na segunda-f",
+      "swaBkF1gN9U | [VIDEO]_21/11/26_12:04_METRÓPOLES_59m11s_Atualizações sobre a saúde de Bolsonaro   Velório de Gabriel Félix será pri",
       "gymmSGdzyqo | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m34s_Joice Hasselmann revela que faz parte de um processo de criação de um novo",
       "gz4Bdh4j78o | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m47s_Joice Hasselmann explica denúncia de invasão ao seu apartamento",
       "HvGM5_x_Qro | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m25s_Joice Hasselmann expõe os motivos do rompimento com Carla Zambelli",
@@ -1735,8 +1735,8 @@
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [
-      "c7Q3S6bMuG8",
       "B1mRgmWWwD8",
+      "c7Q3S6bMuG8",
       "oIuupOu2sMY",
       "yeH5FffwGFQ",
       "4h5t6M9BUpY",
@@ -1755,8 +1755,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "B1mRgmWWwD8 | [VIDEO]_21/11/26_14:12_ACELERADOS_98m11s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 1 - INTERLAGOS (SP) - Sábado (21/11) -",
+      "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "oIuupOu2sMY | [VIDEO]_18/11/26_19:00_ACELERADOS_21m35s_O CARRO DA LUCIA E DO JASON DO GTA VI E DODGE VIPER SR I 1993 NA VOLTA RÁPI",
       "yeH5FffwGFQ | [VIDEO]_17/11/26_18:30_ACELERADOS_12m08s_DODGE DAKOTA V8 X RAM DAKOTA DIESEL! Quem leva o duelo de gerações da picap",
       "4h5t6M9BUpY | [VIDEO]_16/11/26_18:23_ACELERADOS_21m28s_GERSON VENCE AS DUAS CORRIDAS DA PORSCHE CUP na preliminar da F1 em disputa",
