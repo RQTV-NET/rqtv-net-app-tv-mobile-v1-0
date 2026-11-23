@@ -79,10 +79,10 @@
     "numero": "02",
     "rem": "SBT: AOVIVO/PROGRAMAS",
     "videoIds": [
-      "kWKfvK3w-OY",
       "YA4LItp_UVI",
       "KSMPCOTl23U",
       "mYqJWOq7lvE",
+      "kWKfvK3w-OY",
       "wK8mg5hBTKk",
       "curIGzE8nDY",
       "N9U74IEU6iw",
@@ -113,10 +113,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "kWKfvK3w-OY | ((LIVE))_23/11/26_13:00_DOMINGOLEGAL_Natal tenta a sorte ao participar do \"Até Onde Você Chega\"   Domingo Legal ",
       "YA4LItp_UVI | ((LIVE))_23/11/26_13:00_PROGRAMASILVIOSANTOS_Show de Calouros - COMPLETO   Programa Silvio Santos (22/11/26)",
       "KSMPCOTl23U | ((LIVE))_21/11/26_17:36_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_SBT Ao Vivo",
       "mYqJWOq7lvE | [VIDEO]_23/11/26_13:05_DOMINGOLEGAL_83m33s_Família Fonseca participada do Comprar é Bom, Levar é Melhor!   Domingo Leg",
+      "kWKfvK3w-OY | [VIDEO]_23/11/26_13:00_DOMINGOLEGAL_47m19s_Natal tenta a sorte ao participar do \"Até Onde Você Chega\"   Domingo Legal ",
       "wK8mg5hBTKk | [VIDEO]_23/11/26_12:30_DOMINGOLEGAL_123m02s_TIME Pedro Leonardo VS TIME Indavírus no Passa ou Repassa   Domingo Legal (",
       "curIGzE8nDY | [VIDEO]_23/11/26_01:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_45m07s_Capella e Victor Sarro testam limites de Yasmin Santos com choques   Comédi",
       "N9U74IEU6iw | [VIDEO]_22/11/26_23:30_CÂMERASESCONDIDASSBT_5m08s_Esposa Traída 2   Câmeras Escondidas (22/11/26)",
@@ -149,6 +149,8 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
+      "hxW1QBLUbQg",
+      "wWRONKjsCek",
       "jEkcexmcX6s",
       "zvT9V9HjzeE",
       "ZJRbAbgf4SM",
@@ -176,13 +178,13 @@
       "sXKsNN5OvTM",
       "Tc-x8kpY-vI",
       "ksUqUj97JfA",
-      "X9Ps_Isvn68",
-      "PO1WP-fHJqs",
-      "dcSIeQyaUew"
+      "X9Ps_Isvn68"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "hxW1QBLUbQg | [VIDEO]_23/11/26_13:54_SBTNEWS_4m06s_UE e países rejeitam texto final e COP31 termina sem resolução climática   ",
+      "wWRONKjsCek | [VIDEO]_23/11/26_13:48_SBTNEWS_5m13s_SP: Temporal deixa uma pessoa desaparecida e 14 desalojadas   #RadarNews",
       "jEkcexmcX6s | [VIDEO]_23/11/26_13:44_SBTNEWS_3m51s_Bolsonaro segue internado e pode passar por nova cirurgia; veja detalhes   ",
       "zvT9V9HjzeE | [VIDEO]_23/11/26_13:39_SBTNEWS_7m56s_Lula mexe no tabuleiro em direção a indicação para o Supremo; veja detalhes",
       "ZJRbAbgf4SM | [VIDEO]_23/11/26_13:32_SBTNEWS_5m14s_Flávio diz que Senado é 'última esperança' do conservadorismo   #RadarNews",
@@ -210,9 +212,7 @@
       "sXKsNN5OvTM | [VIDEO]_23/11/26_08:02_SBTJORNALISMO_8m23s_Motorista de app faz ataques xenofóbicos contra passageira durante corrida ",
       "Tc-x8kpY-vI | [VIDEO]_23/11/26_08:00_SBTJORNALISMO_9m42s_Publicações racistas no Dia da Consciência Negra geram investigações em TO ",
       "ksUqUj97JfA | [VIDEO]_23/11/26_07:37_SBTNEWS_13m47s_Por que o ajuste fiscal ainda não tranquilizou o mercado?   #NewsPrimeiraEd",
-      "X9Ps_Isvn68 | [VIDEO]_23/11/26_07:35_SBTJORNALISMO_2m13s_Morte súbita de influenciador durante futebol acende alerta para a saúde do",
-      "PO1WP-fHJqs | [VIDEO]_23/11/26_07:20_SBTJORNALISMO_2m52s_Morte durante ação policial em SP provoca protesto e questionamentos de mor",
-      "dcSIeQyaUew | [VIDEO]_23/11/26_07:13_SBTNEWS_5m28s_Câmara começa análise de ajuste fiscal nesta segunda (23)   #NewsPrimeiraEd"
+      "X9Ps_Isvn68 | [VIDEO]_23/11/26_07:35_SBTJORNALISMO_2m13s_Morte súbita de influenciador durante futebol acende alerta para a saúde do"
     ]
   },
   {
@@ -220,6 +220,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "c_z9hQA0Ov4",
+      "tYGv0NYyKq4",
       "dTKFcg5E5bg",
       "WvmMjtwnYIg",
       "FhTA6EOdJHk",
@@ -247,13 +248,13 @@
       "Kw8d-XVLdKc",
       "2WEz_KeMVjE",
       "vC9YwUJmAR8",
-      "WQmhH1jDI-E",
-      "-72ruhV4wEA"
+      "WQmhH1jDI-E"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "c_z9hQA0Ov4 | ((LIVE))_23/11/26_11:50_CNNBRASIL_AO VIVO: CÂMARA COMEÇA ANÁLISE DE PROJETO DO AJUSTE FISCAL - BASTIDORES CNN",
+      "tYGv0NYyKq4 | [VIDEO]_23/11/26_13:51_CNNBRASIL_8m02s_Caso Master: PGR evita cravar prazo sobre relatórios   BASTIDORES CNN",
       "dTKFcg5E5bg | [VIDEO]_23/11/26_13:21_CNNBRASIL_8m46s_Michelle diz que endoscopia de Bolsonaro tem resultado “muito positivo”    ",
       "WvmMjtwnYIg | [VIDEO]_23/11/26_13:01_CNNBRASIL_6m06s_Apetite da esquerda incomoda siglas de Centro em formação do Lula 4   BASTI",
       "FhTA6EOdJHk | [VIDEO]_23/11/26_13:00_CNNBRASIL_11m58s_Lula pede sugestões de nomes para o STF   BASTIDORES CNN",
@@ -277,12 +278,11 @@
       "YuJfvAHIkck | [VIDEO]_23/11/26_09:24_CNNBRASIL_3m10s_Há um ano, Bolsonaro era preso preventivamente após violar tornozeleira   C",
       "4Tvz2PBXUnU | [VIDEO]_23/11/26_09:19_CNNBRASIL_7m26s_Focus eleva projeção de juros para 2027; economista analisa cenário   CNN N",
       "x6ggQBvR2L8 | [VIDEO]_23/11/26_09:14_CNNBRASIL_4m04s_Ataques iranianos no Estreito de Ormuz atingem maior nível da guerra   CNN ",
-      "Tvy5gW6t7G8 | [VIDEO]_23/11/26_09:05_CNNBRASIL_184m56s_AO VIVO: TSE PRETENDE JULGAR CONTAS DE LULA E ALCKMIN ATÉ 3/12   CNN NOVO D",
+      "Tvy5gW6t7G8 | [VIDEO]_23/11/26_09:05_CNNBRASIL_184m56s_TSE PRETENDE JULGAR CONTAS DE LULA E ALCKMIN ATÉ 3/12   CNN NOVO DIA",
       "Kw8d-XVLdKc | [VIDEO]_23/11/26_08:41_CNNBRASIL_7m37s_Polícia investiga morte de torcedor do Palmeiras após briga em hotel de SP ",
       "2WEz_KeMVjE | [VIDEO]_23/11/26_08:13_CNNBRASIL_10m38s_Paraná tem dois tornados em um único dia, confirma Simepar   CNN NOVO DIA",
       "vC9YwUJmAR8 | [VIDEO]_23/11/26_08:00_CNNBRASIL_21m59s_Para onde vai o Lula 4? Veja melhores análises do WW Especial deste domingo",
-      "WQmhH1jDI-E | [VIDEO]_23/11/26_07:30_CNNBRASIL_2m53s_TSE pretende julgar contas de Lula e Alckmin até 3 de dezembro   CNN NOVO D",
-      "-72ruhV4wEA | [VIDEO]_23/11/26_07:02_CNNBRASIL_5m50s_COP31 é a mais longa da história e chega ao fim sem consenso em texto final"
+      "WQmhH1jDI-E | [VIDEO]_23/11/26_07:30_CNNBRASIL_2m53s_TSE pretende julgar contas de Lula e Alckmin até 3 de dezembro   CNN NOVO D"
     ]
   },
   {
@@ -371,7 +371,6 @@
       "jOClGvtSJFY",
       "KJ626QqwESQ",
       "dz31gC8XQPg",
-      "LpGtYEnjdP8",
       "-cBqBbLLDRc",
       "q7JnILtbuFs",
       "UXvhy4XtV8c",
@@ -388,7 +387,8 @@
       "nNYVLiaQf1M",
       "nL8DBDO48s4",
       "qblR51ORQg4",
-      "62duki1qXaM"
+      "62duki1qXaM",
+      "qyEhH7dcQDg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
@@ -405,7 +405,6 @@
       "jOClGvtSJFY | [VIDEO]_23/11/26_05:35_JOVEMPANNEWS_5m20s_Prefeitos temem impacto da escala 5x2 nos serviços públicos",
       "KJ626QqwESQ | [VIDEO]_23/11/26_05:29_JOVEMPANNEWS_3m41s_Anvisa vai decidir sobre manipulações de emagrecedores",
       "dz31gC8XQPg | [VIDEO]_23/11/26_05:24_JOVEMPANNEWS_5m20s_Ajuste fiscal limitado preocupa empresários",
-      "LpGtYEnjdP8 | [VIDEO]_23/11/26_05:17_JOVEMPANNEWS_5m50s_Dólar pode passar de R$ 6 diante de incertezas fiscais",
       "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta ",
       "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs",
       "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site",
@@ -422,7 +421,8 @@
       "nNYVLiaQf1M | [VIDEO]_18/11/26_19:54_OSPINGOSNOSIS_2m01s_Indústria prevê pior fim de ano em vendas desde 2015",
       "nL8DBDO48s4 | [VIDEO]_18/11/26_19:48_OSPINGOSNOSIS_5m35s_Custo Brasil chega a R$ 3,5 trilhões ao ano; Bruno Musa comenta",
       "qblR51ORQg4 | [VIDEO]_18/11/26_19:30_OSPINGOSNOSIS_2m57s_ELEIÇÃO NA CÂMARA: “Não vamos deixar nossos eleitores para trás”, diz Nikol",
-      "62duki1qXaM | [VIDEO]_18/11/26_19:22_OSPINGOSNOSIS_2m35s_PL discute possível candidatura de Nikolas Ferreira à presidência da Câmara"
+      "62duki1qXaM | [VIDEO]_18/11/26_19:22_OSPINGOSNOSIS_2m35s_PL discute possível candidatura de Nikolas Ferreira à presidência da Câmara",
+      "qyEhH7dcQDg | [VIDEO]_18/11/26_18:24_OSPINGOSNOSIS_15m10s_Senadores votam mudanças no ajuste fiscal"
     ]
   },
   {
@@ -569,6 +569,7 @@
     "numero": "09",
     "rem": "REDETV! COMBO",
     "videoIds": [
+      "KWa9v_SKA_I",
       "My78SxJedmQ",
       "xLAtLZph41o",
       "Rs2u-oCnIZg",
@@ -597,12 +598,12 @@
       "fhrB-k0NzWE",
       "l-aqZgOxAIs",
       "AKPR_0-CfM0",
-      "9E1lEKNZDlg",
-      "KNrDqFqdD0Y"
+      "9E1lEKNZDlg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "KWa9v_SKA_I | [VIDEO]_23/11/26_13:50_NOTÍCIASREDETV_27m17s_Rodada de Negócios: Sérgio Gordilho (21/11/26)   Completo",
       "My78SxJedmQ | [VIDEO]_23/11/26_11:21_REDETV!OFICIAL_271m50s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   23/11/2026",
       "xLAtLZph41o | [VIDEO]_23/11/26_09:25_NOTÍCIASREDETV_5m56s_Melhores momentos: Criciúma 1 x 0 Fortaleza - Série B 2026",
       "Rs2u-oCnIZg | [VIDEO]_23/11/26_09:15_REDETV!OFICIAL_44m13s_AO VIVO   RJ DO POVO   23/11/2026",
@@ -631,8 +632,7 @@
       "fhrB-k0NzWE | [VIDEO]_21/11/26_23:05_NOTÍCIASREDETV_6m51s_Traficante é preso em flagrante com drogas prontas para venda em escadão",
       "l-aqZgOxAIs | [VIDEO]_21/11/26_23:05_REDETV!OFICIAL_6m51s_Traficante é preso em flagrante com drogas prontas para venda em escadão",
       "AKPR_0-CfM0 | [VIDEO]_21/11/26_23:00_REDETV!OFICIAL_53m04s_Operação de Risco: prisão de agiota, moradores revoltados e arma escondida ",
-      "9E1lEKNZDlg | [VIDEO]_21/11/26_23:00_NOTÍCIASREDETV_53m04s_Operação de Risco: prisão de agiota, moradores revoltados e arma escondida ",
-      "KNrDqFqdD0Y | [VIDEO]_21/11/26_20:58_REDETV!OFICIAL_40m27s_RedeTV! News - AO VIVO   21/11/2026"
+      "9E1lEKNZDlg | [VIDEO]_21/11/26_23:00_NOTÍCIASREDETV_53m04s_Operação de Risco: prisão de agiota, moradores revoltados e arma escondida "
     ]
   },
   {
@@ -710,6 +710,8 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "3iLT4L1nRWc",
+      "2JAtuVqWZX0",
+      "tPxm8jk5cwQ",
       "qm5oPSWSmxI",
       "y74ko-7JnP0",
       "xBCgNTL7BG8",
@@ -736,14 +738,14 @@
       "IbRkGgV7hrc",
       "tYUZpg2xHa4",
       "30bXwtslQz0",
-      "R7aaleFdSLQ",
-      "uOWBdQQKzKA",
-      "1WSEu8tbytg"
+      "R7aaleFdSLQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "3iLT4L1nRWc | ((LIVE))_23/11/26_12:01_CBNBRASIL_CBN Brasil - 23/11/2026",
+      "2JAtuVqWZX0 | [VIDEO]_23/11/26_13:59_CBNBRASIL_3m11s_Bolsonaro segue internado na UTI: Alexandre de Moraes autoriza retirada de ",
+      "tPxm8jk5cwQ | [VIDEO]_23/11/26_13:55_CBNBRASIL_6m19s_Black Friday: saiba como evitar golpes e comprar com segurança",
       "qm5oPSWSmxI | [VIDEO]_23/11/26_13:42_CBNBRASIL_2m30s_Rayssa Leal conquista o ouro no Japão e garante vaga na rota para Los Angel",
       "y74ko-7JnP0 | [VIDEO]_23/11/26_13:36_CBNBRASIL_7m12s_Rosana Jatobá: fracasso da COP 31 abre debate sobre reformulação das confer",
       "xBCgNTL7BG8 | [VIDEO]_23/11/26_13:15_CBNBRASIL_2m49s_Jensen Huang reassume a Nvidia: entenda a reviravolta que fez ações dispara",
@@ -768,17 +770,16 @@
       "8B1rl8402os | [VIDEO]_23/11/26_09:09_CBNBRASIL_6m38s_Ventos de quase 200 km/h deixaram rastro de destruição após temporal em Tup",
       "vpnZVI6jIYo | [VIDEO]_23/11/26_08:51_CBNBRASIL_3m43s_ESPM coloca segurança privada nas ruas após aumento de assaltos na Vila Mar",
       "IbRkGgV7hrc | [VIDEO]_23/11/26_08:37_CBNBRASIL_2m43s_Chuvas no ES: Bombeiros encontram corpo de idoso levado por rompimento de b",
-      "tYUZpg2xHa4 | [VIDEO]_23/11/26_08:28_CBNBRASIL_2m59s_Amante de ex-CEO da Nvidia manteve contato direto com agente do governo da ",
+      "tYUZpg2xHa4 | [VIDEO]_23/11/26_08:28_CBNBRASIL_2m59s_Amante de ex-CEO da Nvidia manteve contato direto com agente do governo da",
       "30bXwtslQz0 | [VIDEO]_23/11/26_08:21_CBNBRASIL_2m43s_Previdência dos militares fica fora do corte de gastos de Lula; rombo anula",
-      "R7aaleFdSLQ | [VIDEO]_23/11/26_08:15_CBNBRASIL_3m06s_Equipe médica avalia necessidade de nova cirurgia de Bolsonaro; Moraes libe",
-      "uOWBdQQKzKA | [VIDEO]_23/11/26_08:09_CBNBRASIL_2m51s_Escala 5x2: Governo Lula começa a divulgar regras sobre mudanças na jornada",
-      "1WSEu8tbytg | [VIDEO]_23/11/26_07:56_CBNBRASIL_6m30s_Míriam Leitão sobre ajuste fiscal de Lula: 'É apenas um 1º passo, mas vai n"
+      "R7aaleFdSLQ | [VIDEO]_23/11/26_08:15_CBNBRASIL_3m06s_Equipe médica avalia necessidade de nova cirurgia de Bolsonaro; Moraes libe"
     ]
   },
   {
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
+      "-7D-237MmKA",
       "H9Khr3Bu1CE",
       "gzv_LruP-y8",
       "3ZBZD16D7FM",
@@ -807,12 +808,12 @@
       "f3dHER8bOVU",
       "AIxVicGduRc",
       "ptFy0GpiK2Q",
-      "Pt_YHB9WZ8g",
-      "388WG-VD5DY"
+      "Pt_YHB9WZ8g"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "-7D-237MmKA | ((LIVE))_23/11/26_13:54_REVISTAOESTE_FAROESTE À BRASILEIRA - 23/11/2026",
       "H9Khr3Bu1CE | [VIDEO]_23/11/26_13:30_REVISTAOESTE_10m16s_XADREZ GLOBAL: Putin quer fim da guerra na Ucrânia por meios diplomáticos, ",
       "gzv_LruP-y8 | [VIDEO]_23/11/26_13:20_REVISTAOESTE_8m10s_MASTER: Fachin nega pedido de liberdade e mantém Vorcaro preso",
       "3ZBZD16D7FM | [VIDEO]_23/11/26_13:10_REVISTAOESTE_12m29s_CASO MASTER: Relatório da Polícia Federal descarta contato entre Mendonça e",
@@ -841,8 +842,7 @@
       "f3dHER8bOVU | [VIDEO]_20/11/26_22:41_REVISTAOESTE_126m41s_DE LESTE A OESTE - 20/11/2026   CRISTÃOS SOB PERSEGUIÇÃO - UMA TRAGÉDIA DE ",
       "AIxVicGduRc | [VIDEO]_20/11/26_22:30_REVISTAOESTE_10m46s_Economistas analisam o buraco econômico que Lula jogou o Brasil",
       "ptFy0GpiK2Q | [VIDEO]_20/11/26_21:50_REVISTAOESTE_10m45s_MASTER: Presidente do BC afirma que alertou PF sobre risco de fuga de Vorca",
-      "Pt_YHB9WZ8g | [VIDEO]_20/11/26_21:40_REVISTAOESTE_13m15s_CASO MASTER: Chefão da Polícia Federal pede apuração sobre quatro ministros",
-      "388WG-VD5DY | [VIDEO]_20/11/26_20:52_REVISTAOESTE_14m37s_URGENTE: Michelle anuncia volta ao Brasil e coloca saúde de Bolsonaro nas m"
+      "Pt_YHB9WZ8g | [VIDEO]_20/11/26_21:40_REVISTAOESTE_13m15s_CASO MASTER: Chefão da Polícia Federal pede apuração sobre quatro ministros"
     ]
   },
   {
@@ -919,9 +919,9 @@
     "numero": "14",
     "rem": "TV BRASIL",
     "videoIds": [
-      "juPvVLt8Pbs",
       "k3PpS8lxz6U",
       "7x5SiqbFtoI",
+      "juPvVLt8Pbs",
       "tahT8gOa2K8",
       "6e8NUKALHNQ",
       "-D8ojJCGG8w",
@@ -953,9 +953,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "juPvVLt8Pbs | ((LIVE))_23/11/26_12:59_TVBRASIL_Repórter Brasil Tarde, 23/11/2026",
       "k3PpS8lxz6U | [VIDEO]_22/11/26_18:30_TVBRASIL_23m52s_MEU PEDAÇO DO BRASIL: Distrito Federal   Turismo Cívico - Povo e Planalto",
       "7x5SiqbFtoI | [VIDEO]_21/11/26_19:30_TVBRASIL_28m40s_Repórter Brasil, 21/11/2026",
+      "juPvVLt8Pbs | [VIDEO]_21/11/26_19:30_TVBRASIL_59m41s_Repórter Brasil Tarde, 23/11/2026",
       "tahT8gOa2K8 | [VIDEO]_20/11/26_20:02_TVBRASIL_58m36s_Repórter Brasil, 20/11/2026",
       "6e8NUKALHNQ | [VIDEO]_20/11/26_14:02_TVBRASIL_59m02s_Repórter Brasil Tarde, 20/11/2026",
       "-D8ojJCGG8w | [VIDEO]_19/11/26_20:03_TVBRASIL_60m05s_Repórter Brasil, 19/11/2026",
@@ -989,7 +989,7 @@
     "numero": "15",
     "rem": "TV SENADO",
     "videoIds": [
-      "3Rvfp_v6xHU",
+      "7di1xcZQkFU",
       "tM7q4wC_4ks",
       "_pNwG7lFUc8",
       "muFEp6htzNU",
@@ -999,6 +999,7 @@
       "sSoQ_GHCf14",
       "TeAV0tpqvqo",
       "pq4QwJrLO7M",
+      "3Rvfp_v6xHU",
       "8H5ks6GHUX4",
       "fO9TK7mbYwE",
       "TO3oHDGPbh0",
@@ -1017,13 +1018,12 @@
       "G58Ote_x-Mw",
       "Jt_ll9nVk6M",
       "y1Gx3vSpBPQ",
-      "28dJS1Jp8vs",
-      "XcLWuWSv1wQ"
+      "28dJS1Jp8vs"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "3Rvfp_v6xHU | ((LIVE))_23/11/26_13:29_TVSENADO_Senado Notícias ao vivo: confira as últimas notícias do dia",
+      "7di1xcZQkFU | ((LIVE))_23/11/26_14:00_TVSENADO_Ao vivo: Sessão Não Deliberativa do Plenário – 23/11/26",
       "tM7q4wC_4ks | ((LIVE))_23/11/26_08:01_TVSENADO_Ao vivo - TV Senado",
       "_pNwG7lFUc8 | [VIDEO]_23/11/26_12:48_TVSENADO_91m11s_Ao vivo: Comemoração dos 30 anos do Coral do Senado – 23/11/26",
       "muFEp6htzNU | [VIDEO]_23/11/26_12:29_TVSENADO_138m03s_Ao vivo: Comissões discutem desafios relacionados à Fibrose Pulmonar no Bra",
@@ -1033,6 +1033,7 @@
       "sSoQ_GHCf14 | [VIDEO]_23/11/26_10:24_TVSENADO_3m50s_Escala 5x2 começa em 16 de dezembro; decreto muda cálculo da hora extra",
       "TeAV0tpqvqo | [VIDEO]_23/11/26_09:29_TVSENADO_122m26s_Conexão Senado (23/11/2026)",
       "pq4QwJrLO7M | [VIDEO]_23/11/26_09:01_TVSENADO_23m22s_Edição da Manhã: CDH acompanha desaparecimento de menino no Rio de Janeiro",
+      "3Rvfp_v6xHU | [VIDEO]_23/11/26_07:33_TVSENADO_20m18s_Senado Notícias ao vivo: confira as últimas notícias do dia",
       "8H5ks6GHUX4 | [VIDEO]_20/11/26_20:57_TVSENADO_3m38s_CDH vai ao Rio de Janeiro acompanhar caso Edson Davi e discutir prevenção a",
       "fO9TK7mbYwE | [VIDEO]_20/11/26_18:06_TVSENADO_25m22s_População negra: política de saúde busca enfrentar vulnerabilidade",
       "TO3oHDGPbh0 | [VIDEO]_19/11/26_21:41_TVSENADO_4m55s_Edson Davi: desaparecimento do menino de 6 anos, no Rio, mobiliza Comissão ",
@@ -1051,8 +1052,7 @@
       "G58Ote_x-Mw | [VIDEO]_19/11/26_11:13_TVSENADO_3m06s_Dedo de Prosa   Palavra do ano: \"humano\"   Conexão Senado 19/11/26",
       "Jt_ll9nVk6M | [VIDEO]_19/11/26_09:17_TVSENADO_35m26s_Edição da Manhã: Comissão de Direitos Humanos apura desaparecimento do meni",
       "y1Gx3vSpBPQ | [VIDEO]_19/11/26_09:14_TVSENADO_120m55s_Conexão Senado (19/11/2026)",
-      "28dJS1Jp8vs | [VIDEO]_19/11/26_08:20_TVSENADO_25m36s_Pesquisadores mostram como a IA foi usada nas campanhas eleitorais em 2026",
-      "XcLWuWSv1wQ | [VIDEO]_18/11/26_21:50_TVSENADO_4m10s_Andrei Rodrigues nega interferência em relatórios da PF sobre o Master"
+      "28dJS1Jp8vs | [VIDEO]_19/11/26_08:20_TVSENADO_25m36s_Pesquisadores mostram como a IA foi usada nas campanhas eleitorais em 2026"
     ]
   },
   {
