@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "EsjpCQ1C8h4",
       "hcCWaZ2k9Bw",
       "kefwnE0pkU4",
       "xnqll3TSXVs",
@@ -38,11 +39,11 @@
       "Jjxv2oqaWAM",
       "56xYn-Buz1w",
       "nLifa_lc5DQ",
-      "lJ-Fq-e8cGM",
-      "9W14ZEQ2aqg"
+      "lJ-Fq-e8cGM"
     ],
     "playlistId": "",
     "carimbos": [
+      "EsjpCQ1C8h4 | [VIDEO]_23/11/26_07:28_G1(JORNALHOJE/MATÉRIAS)_2m36s_Ataque atinge prédio na Ucrânia e deixa mortos",
       "hcCWaZ2k9Bw | [VIDEO]_23/11/26_06:13_G1(JORNALHOJE/MATÉRIAS)_4m09s_Previsão do tempo: risco de temporal em grande parte do Brasil",
       "kefwnE0pkU4 | [VIDEO]_23/11/26_06:04_G1(JORNALHOJE/MATÉRIAS)_2m49s_Conferência do Clima termina sem acordo",
       "xnqll3TSXVs | [VIDEO]_23/11/26_05:59_G1(JORNALHOJE/MATÉRIAS)_3m39s_Chuva forte deixa ruas alagadas, moradores ilhados e derruba forro de shopp",
@@ -71,8 +72,7 @@
       "Jjxv2oqaWAM | [VIDEO]_21/11/26_09:48_GLOBONEWS_8m42s_Casos de Covid-19 aumentam no Brasil e Rio de Janeiro está em nível de aler",
       "56xYn-Buz1w | [VIDEO]_21/11/26_07:40_JORNALDAGLOBO_3m14s_Unesco reconhece 3 novos sítios brasileiros como espaços de memória da escr",
       "nLifa_lc5DQ | [VIDEO]_21/11/26_07:35_JORNALDAGLOBO_2m01s_Milhares de jovens de 25 países na Europa protestaram contra o alto custo d",
-      "lJ-Fq-e8cGM | [VIDEO]_21/11/26_07:33_JORNALDAGLOBO_3m53s_PF aponta tentativa de aproximação de Vorcaro com ministro do STF #g1",
-      "9W14ZEQ2aqg | [VIDEO]_21/11/26_00:06_GLOBONEWS_6m19s_Beleza negra movimenta mercado milionário no Brasil"
+      "lJ-Fq-e8cGM | [VIDEO]_21/11/26_07:33_JORNALDAGLOBO_3m53s_PF aponta tentativa de aproximação de Vorcaro com ministro do STF #g1"
     ]
   },
   {
@@ -150,6 +150,7 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "okMHkwTFGu0",
+      "PO1WP-fHJqs",
       "dcSIeQyaUew",
       "7lGVTlQ-7BU",
       "COmGQ8il-vk",
@@ -177,13 +178,13 @@
       "inUaBg7TH-M",
       "azyLm6LnSZE",
       "UuXmpZBV870",
-      "fr7VX6Xjczk",
-      "uychi7s7oZ8"
+      "fr7VX6Xjczk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "okMHkwTFGu0 | ((LIVE))_23/11/26_05:46_SBTNEWS_🔴 AO VIVO: NEWS PRIMEIRA EDIÇÃO   23/11/2026",
+      "PO1WP-fHJqs | [VIDEO]_23/11/26_07:20_SBTJORNALISMO_2m52s_Morte durante ação policial em SP provoca protesto e questionamentos de mor",
       "dcSIeQyaUew | [VIDEO]_23/11/26_07:13_SBTNEWS_5m28s_Câmara começa análise de ajuste fiscal nesta segunda (23)   #NewsPrimeiraEd",
       "7lGVTlQ-7BU | [VIDEO]_23/11/26_06:51_SBTJORNALISMO_3m31s_Amiga de vítima de \"tribunal do crime\" é presa por atrair jovem para execuç",
       "COmGQ8il-vk | [VIDEO]_23/11/26_06:48_SBTJORNALISMO_2m41s_Turista é morto dias após chegar ao Rio para realizar sonho de infância   #",
@@ -211,8 +212,7 @@
       "inUaBg7TH-M | [VIDEO]_21/11/26_20:08_SBTNEWS_8m27s_Caso Suzane von Richthofen: projeto quer impedir lucro de condenados com do",
       "azyLm6LnSZE | [VIDEO]_21/11/26_20:06_SBTNEWS_3m33s_Moraes libera visitas de familiares a Bolsonaro após internação   #NewsSába",
       "UuXmpZBV870 | [VIDEO]_21/11/26_20:01_SBTNEWS_8m28s_Lei amplia para 20 anos prazo para vítimas de abuso na infância pedirem ind",
-      "fr7VX6Xjczk | [VIDEO]_21/11/26_19:39_SBTNEWS_3m03s_Janja vai coordenar festa da posse de Lula em janeiro de 2027   #NewsSábado",
-      "uychi7s7oZ8 | [VIDEO]_21/11/26_19:35_SBTNEWS_18m38s_Lula sugere cerveja entre Trump, Xi e Putin para buscar paz   #NewsSábado"
+      "fr7VX6Xjczk | [VIDEO]_21/11/26_19:39_SBTNEWS_3m03s_Janja vai coordenar festa da posse de Lula em janeiro de 2027   #NewsSábado"
     ]
   },
   {
@@ -220,6 +220,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "Tvy5gW6t7G8",
+      "WQmhH1jDI-E",
       "-72ruhV4wEA",
       "xR8cceBuecw",
       "bykujPwDJ90",
@@ -247,13 +248,13 @@
       "HO0w8liqiYo",
       "Lh2D0YJ6nZE",
       "OwNcVFyfMPo",
-      "pDHCSy3S2Wo",
-      "wv2_wVsa3rc"
+      "pDHCSy3S2Wo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "Tvy5gW6t7G8 | ((LIVE))_23/11/26_05:52_CNNBRASIL_AO VIVO: TSE PRETENDE JULGAR CONTAS DE LULA E ALCKMIN ATÉ 3/12   CNN NOVO D",
+      "WQmhH1jDI-E | [VIDEO]_23/11/26_07:30_CNNBRASIL_2m53s_TSE pretende julgar contas de Lula e Alckmin até 3 de dezembro   CNN NOVO D",
       "-72ruhV4wEA | [VIDEO]_23/11/26_07:02_CNNBRASIL_5m50s_COP31 é a mais longa da história e chega ao fim sem consenso em texto final",
       "xR8cceBuecw | [VIDEO]_23/11/26_06:49_CNNBRASIL_4m48s_Agro deve perder R$ 40 bilhões em faturamento neste ano, estima governo   C",
       "bykujPwDJ90 | [VIDEO]_22/11/26_23:23_CNNBRASIL_68m38s_PARA ONDE VAI O LULA 4?   WW ESPECIAL - 22/11/2026",
@@ -281,8 +282,7 @@
       "HO0w8liqiYo | [VIDEO]_22/11/26_10:32_CNNBRASIL_10m01s_Paraná tem dois tornados em um único dia, confirma Simepar   CNN AGORA",
       "Lh2D0YJ6nZE | [VIDEO]_22/11/26_09:55_CNNBRASIL_5m47s_Governo reconhece calamidade pública em Tupanciretã (RS) após temporal   CN",
       "OwNcVFyfMPo | [VIDEO]_22/11/26_09:48_CNNBRASIL_2m10s_COP31 convoca última plenária ainda sem acordo em pontos polêmicos   CNN AG",
-      "pDHCSy3S2Wo | [VIDEO]_22/11/26_09:42_CNNBRASIL_4m17s_Bolsonaro segue internado pelo terceiro dia em UTI e sem previsão de alta  ",
-      "wv2_wVsa3rc | [VIDEO]_22/11/26_00:00_CNNBRASIL_8m26s_Japão mira aproximação com Brasil e aceita transferir tecnologia para miner"
+      "pDHCSy3S2Wo | [VIDEO]_22/11/26_09:42_CNNBRASIL_4m17s_Bolsonaro segue internado pelo terceiro dia em UTI e sem previsão de alta  "
     ]
   },
   {
@@ -290,6 +290,7 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "gRO9XmaSPco",
+      "gTUlLHDs58o",
       "yUxE5YBDacs",
       "1cV9m1YqGP0",
       "UuSg9jtPQ7Y",
@@ -317,13 +318,13 @@
       "yMj2vlf6fKQ",
       "1HsqAeWUP0Y",
       "IfQ5bSKjPmI",
-      "050zfBkqmZM",
-      "Lut5x-o1g8k"
+      "050zfBkqmZM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "gRO9XmaSPco | ((LIVE))_23/11/26_06:56_CNNMONEY_AO VIVO: MORNING CALL E ABERTURA DE MERCADO - 23/11/2026   CNN MONEY",
+      "gTUlLHDs58o | [VIDEO]_23/11/26_07:29_CNNMONEY_4m57s_Importações de etanol anidro devem crescer 59% no início de 2027   CNN AGRO",
       "yUxE5YBDacs | [VIDEO]_20/11/26_19:49_CNNMONEY_135m25s_AO VIVO: FECHAMENTO DE MERCADO - 20/11/2026   CNN MONEY",
       "1cV9m1YqGP0 | [VIDEO]_20/11/26_19:15_CNNMONEY_22m48s_Pacote de ajuste fiscal atual não é passo na direção certa, diz pesquisador",
       "UuSg9jtPQ7Y | [VIDEO]_20/11/26_19:06_CNNMONEY_6m10s_Atendimento ambulatorial será foco da Oncoclínicas pós recuperação, diz CEO",
@@ -351,8 +352,7 @@
       "yMj2vlf6fKQ | [VIDEO]_20/11/26_16:23_CNNMONEY_574m00s_AO VIVO: CNN MONEY - 19/11/2026",
       "1HsqAeWUP0Y | [VIDEO]_20/11/26_13:12_CNNMONEY_101m30s_AO VIVO: MONEY NEWS I - 20/11/2026   CNN MONEY",
       "IfQ5bSKjPmI | [VIDEO]_20/11/26_12:55_CNNMONEY_9m13s_Informalidade atinge 45,5% das mulheres pretas, diz IBGE   MORNING CALL",
-      "050zfBkqmZM | [VIDEO]_19/11/26_21:57_CNNMONEY_15m46s_Cade prevê 10 a 12 grupos de \"relevância sistêmica\" com PL das big techs",
-      "Lut5x-o1g8k | [VIDEO]_19/11/26_21:29_CNNMONEY_59m51s_CNN SÉRIES ORIGINAIS: CIRCUIT BREAKER - 19/11/2026   CNN MONEY"
+      "050zfBkqmZM | [VIDEO]_19/11/26_21:57_CNNMONEY_15m46s_Cade prevê 10 a 12 grupos de \"relevância sistêmica\" com PL das big techs"
     ]
   },
   {
@@ -382,13 +382,13 @@
       "b6cdNoDY66M",
       "R0AVScjVbbA",
       "_847c_-ELSQ",
-      "cYadrtbI9ZM",
-      "iZiwadaJ2yA",
-      "lvCVv797t1c",
       "-cBqBbLLDRc",
       "q7JnILtbuFs",
       "UXvhy4XtV8c",
-      "hD6HBcKKJro"
+      "hD6HBcKKJro",
+      "iiVjeWzU8VQ",
+      "pbYC3UpLVGE",
+      "fqKUQCOQAr0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
@@ -416,13 +416,13 @@
       "b6cdNoDY66M | [VIDEO]_22/11/26_18:01_JOVEMPANNEWS_9m48s_Desafios do ajuste fiscal para a economia brasileira",
       "R0AVScjVbbA | [VIDEO]_22/11/26_17:37_JOVEMPANNEWS_19m49s_Deputado Domingos Sávio avalia expectativas para votação do ajuste fiscal",
       "_847c_-ELSQ | [VIDEO]_22/11/26_17:03_JOVEMPANNEWS_4m03s_Limite a crédito tributário em ajuste fiscal preocupa empresas",
-      "cYadrtbI9ZM | [VIDEO]_22/11/26_16:51_JOVEMPANNEWS_13m26s_Governo e mercado divergem sobre ajuste fiscal, especialista comenta",
-      "iZiwadaJ2yA | [VIDEO]_22/11/26_16:41_JOVEMPANNEWS_5m09s_Câmara deve votar ajuste fiscal na próxima segunda-feira (23)",
-      "lvCVv797t1c | [VIDEO]_22/11/26_16:36_JOVEMPANNEWS_9m14s_Diretor do Instituto Doméstica Legal comenta escala 5x2",
       "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta ",
       "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs",
       "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site",
-      "hD6HBcKKJro | [VIDEO]_20/11/26_18:32_OSPINGOSNOSIS_6m46s_Após pedido de destaque de Zanin julgamento de Marcel van Hattem será prese"
+      "hD6HBcKKJro | [VIDEO]_20/11/26_18:32_OSPINGOSNOSIS_6m46s_Após pedido de destaque de Zanin julgamento de Marcel van Hattem será prese",
+      "iiVjeWzU8VQ | [VIDEO]_20/11/26_18:27_OSPINGOSNOSIS_13m50s_PF não encontra diálogo direto entre Vorcaro e André Mendonça após quebra d",
+      "pbYC3UpLVGE | [VIDEO]_19/11/26_20:38_OSPINGOSNOSIS_8m08s_Rogério Marinho critica governo e aponta alta de preços",
+      "fqKUQCOQAr0 | [VIDEO]_19/11/26_20:32_OSPINGOSNOSIS_5m07s_PGR denuncia Flávio Bolsonaro por calúnia contra Lula"
     ]
   },
   {
@@ -709,6 +709,10 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "VBXS1H_wTMI",
+      "3gP88S8YbxA",
+      "Y0E2jNlYy5M",
+      "UAuAHhQUhm4",
       "CDPg7e6SPPI",
       "4tPY9jR2OL8",
       "wRQ5FNsbYEg",
@@ -734,15 +738,15 @@
       "SDDGyYU4xRg",
       "78REK_E4oAU",
       "36ndLTH8N3o",
-      "7GA6ZB6mK3s",
-      "8MqmeCXes4Q",
-      "h4kgX-wv34A",
-      "OOPtOD_n4TE",
-      "i4dL41HFZkw"
+      "7GA6ZB6mK3s"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "VBXS1H_wTMI | [VIDEO]_23/11/26_07:31_CBNBRASIL_28m44s_Câmara analisa ajuste fiscal; portaria define regras do fim da 6x1; Brasil ",
+      "3gP88S8YbxA | [VIDEO]_23/11/26_07:27_CBNBRASIL_2m29s_Ajuste fiscal de Lula: Saiba quantos votos o governo precisa para aprovar p",
+      "Y0E2jNlYy5M | [VIDEO]_23/11/26_07:26_CBNBRASIL_5m03s_Anthropic faz maior abertura de capital da história; entenda",
+      "UAuAHhQUhm4 | [VIDEO]_23/11/26_07:21_CBNBRASIL_2m13s_Felicidade no trabalho: Brasil fica em 4º lugar, à frente de EUA e Alemanha",
       "CDPg7e6SPPI | [VIDEO]_23/11/26_07:04_CBNBRASIL_4m02s_Previsão do tempo: Semana começa com tempo abafado em SP e alerta para panc",
       "4tPY9jR2OL8 | [VIDEO]_23/11/26_06:43_CBNBRASIL_3m50s_COP31: Delegações abandonam plenária e conferência termina sem acordo após ",
       "wRQ5FNsbYEg | [VIDEO]_23/11/26_06:36_CBNBRASIL_2m37s_Cooperativa e produtores têm perda total com temporal no RS",
@@ -768,11 +772,7 @@
       "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
       "78REK_E4oAU | [VIDEO]_22/11/26_05:52_RÁDIOCBN_151m37s_CBN Esportes - 22/11/26",
       "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026",
-      "7GA6ZB6mK3s | [VIDEO]_22/11/26_15:12_RÁDIOCBN_180m26s_Revista CBN - 22/11/2026",
-      "8MqmeCXes4Q | [VIDEO]_22/11/26_09:06_CBNBRASIL_183m05s_Jornal da CBN - 22/11/2026",
-      "h4kgX-wv34A | [VIDEO]_22/11/26_00:05_CBNBRASIL_117m11s_CBN São Paulo - 21/11/2026",
-      "OOPtOD_n4TE | [VIDEO]_21/11/26_21:05_CBNBRASIL_175m35s_Jornal da CBN - 21/11/2026",
-      "i4dL41HFZkw | [VIDEO]_21/11/26_12:08_CBNBRASIL_178m11s_CBN Noite Total - 20/11/2026"
+      "7GA6ZB6mK3s | [VIDEO]_22/11/26_15:12_RÁDIOCBN_180m26s_Revista CBN - 22/11/2026"
     ]
   },
   {
@@ -849,6 +849,7 @@
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
+      "cuLc4z7OgSc",
       "B0Cbu1BGLRo",
       "IfyWEcxKEQ4",
       "0H2Xi88r-kg",
@@ -882,6 +883,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "cuLc4z7OgSc | ((LIVE))_23/11/26_07:29_METRÓPOLES_Temporal no RS: cinco morrem em Tupanciretã   Câmara tenta votar ajuste fis",
       "B0Cbu1BGLRo | [VIDEO]_23/11/26_00:03_METRÓPOLES_59m00s_AO VIVO: entrevista com médico que já operou Bolsonaro   Tempestade no RS v",
       "IfyWEcxKEQ4 | [VIDEO]_22/11/26_15:51_METRÓPOLES_2m27s_Governo dos EUA revela documentos sobre o Pé Grande; veja o que foi descobe",
       "0H2Xi88r-kg | [VIDEO]_22/11/26_15:43_METRÓPOLES_2m16s_México captura narcotraficante que está entre os dez mais procurados pelo F",
