@@ -149,6 +149,9 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
+      "xZDil7JSYqU",
+      "YyrRgV9JpHQ",
+      "htNebE2P_xw",
       "Zbt2YolHI9c",
       "okMHkwTFGu0",
       "qnHdXUHUn-g",
@@ -175,14 +178,14 @@
       "AXvAuSMt4LA",
       "70O8grEHkuM",
       "c2dIpAnwMR4",
-      "E4q6IRDgCUI",
-      "wAPi4BRRHYQ",
-      "cO5Rqo56Q_U",
-      "wUOv-_oOGTE"
+      "E4q6IRDgCUI"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "xZDil7JSYqU | [VIDEO]_23/11/26_08:24_SBTNEWS_3m11s_Temporal em SP deixa desaparecido, alagamentos e destruição   #NewsPrimeira",
+      "YyrRgV9JpHQ | [VIDEO]_23/11/26_08:19_SBTJORNALISMO_8m38s_Quatro jovens morrem após carro bater em árvore a caminho de festa em Perna",
+      "htNebE2P_xw | [VIDEO]_23/11/26_08:15_SBTNEWS_13m30s_\"O planeta tá doente\", diz professor após fracasso no acordo da COP31   #Ne",
       "Zbt2YolHI9c | [VIDEO]_23/11/26_08:14_SBTJORNALISMO_6m48s_Torcedor do Palmeiras morre após confusão com segurança de hotel de SP   #S",
       "okMHkwTFGu0 | [VIDEO]_23/11/26_08:07_SBTNEWS_135m05s_NEWS PRIMEIRA EDIÇÃO   23/11/2026",
       "qnHdXUHUn-g | [VIDEO]_23/11/26_08:06_SBTJORNALISMO_2m49s_SP: atirador que matou tio e sobrinho em bar pode ser policial ou ex-polici",
@@ -209,19 +212,16 @@
       "AXvAuSMt4LA | [VIDEO]_22/11/26_16:58_SBTNEWS_13m43s_Câmara deve votar proposta de ajuste fiscal do governo   #NewsDomingo",
       "70O8grEHkuM | [VIDEO]_22/11/26_16:00_SBTJORNALISMO_3m22s_Quadrilha usa sites falsos de leilão e aplica golpe milionário em comprador",
       "c2dIpAnwMR4 | [VIDEO]_22/11/26_15:05_SBTNEWS_13m05s_Tarifa zero no transporte funciona no Brasil real? Entenda desafios de cust",
-      "E4q6IRDgCUI | [VIDEO]_22/11/26_15:01_SBTNEWS_7m22s_Déficit habitacional de 6 milhões exige novas formas de financiamento no Br",
-      "wAPi4BRRHYQ | [VIDEO]_22/11/26_14:00_SBTJORNALISMO_2m11s_Robótica avança no tratamento do câncer de próstata, com operações à distân",
-      "cO5Rqo56Q_U | [VIDEO]_22/11/26_13:00_SBTNEWS_56m59s_Entenda os impactos do fim da escala 6x1 em serviços públicos e moradia   P",
-      "wUOv-_oOGTE | [VIDEO]_22/11/26_12:00_SBTJORNALISMO_3m21s_Brinquedos deixam de ser coisa de criança e mercado dos \"kidults\" cresce 50"
+      "E4q6IRDgCUI | [VIDEO]_22/11/26_15:01_SBTNEWS_7m22s_Déficit habitacional de 6 milhões exige novas formas de financiamento no Br"
     ]
   },
   {
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
-      "vC9YwUJmAR8",
       "Tvy5gW6t7G8",
       "2WEz_KeMVjE",
+      "vC9YwUJmAR8",
       "WQmhH1jDI-E",
       "-72ruhV4wEA",
       "xR8cceBuecw",
@@ -253,9 +253,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "vC9YwUJmAR8 | ((LIVE))_23/11/26_08:00_CNNBRASIL_Para onde vai o Lula 4? Veja melhores análises do WW Especial deste domingo",
       "Tvy5gW6t7G8 | ((LIVE))_23/11/26_05:52_CNNBRASIL_AO VIVO: TSE PRETENDE JULGAR CONTAS DE LULA E ALCKMIN ATÉ 3/12   CNN NOVO D",
       "2WEz_KeMVjE | [VIDEO]_23/11/26_08:13_CNNBRASIL_10m38s_Paraná tem dois tornados em um único dia, confirma Simepar   CNN NOVO DIA",
+      "vC9YwUJmAR8 | [VIDEO]_23/11/26_08:00_CNNBRASIL_21m59s_Para onde vai o Lula 4? Veja melhores análises do WW Especial deste domingo",
       "WQmhH1jDI-E | [VIDEO]_23/11/26_07:30_CNNBRASIL_2m53s_TSE pretende julgar contas de Lula e Alckmin até 3 de dezembro   CNN NOVO D",
       "-72ruhV4wEA | [VIDEO]_23/11/26_07:02_CNNBRASIL_5m50s_COP31 é a mais longa da história e chega ao fim sem consenso em texto final",
       "xR8cceBuecw | [VIDEO]_23/11/26_06:49_CNNBRASIL_4m48s_Agro deve perder R$ 40 bilhões em faturamento neste ano, estima governo   C",
@@ -379,7 +379,6 @@
       "ejeGNo90cB0",
       "2vxKq151MYs",
       "gid8enCoUtY",
-      "b6cdNoDY66M",
       "-cBqBbLLDRc",
       "q7JnILtbuFs",
       "UXvhy4XtV8c",
@@ -388,7 +387,8 @@
       "pbYC3UpLVGE",
       "fqKUQCOQAr0",
       "RE1QJm7a4xU",
-      "7MhjjxZwooc"
+      "7MhjjxZwooc",
+      "uVCpqmSgpUE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
@@ -413,7 +413,6 @@
       "ejeGNo90cB0 | [VIDEO]_22/11/26_20:17_JOVEMPANNEWS_9m51s_Desigualdade social: negros têm desvantagens no emprego e na segurança, esp",
       "2vxKq151MYs | [VIDEO]_22/11/26_20:04_JOVEMPANNEWS_3m37s_Anvisa vai decidir sobre manipulação de canetas emagrecedoras",
       "gid8enCoUtY | [VIDEO]_22/11/26_19:57_JOVEMPANNEWS_14m45s_Senador Izalci Lucas comenta a votação do ajuste fiscal no Senado Federal",
-      "b6cdNoDY66M | [VIDEO]_22/11/26_18:01_JOVEMPANNEWS_9m48s_Desafios do ajuste fiscal para a economia brasileira",
       "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta ",
       "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs",
       "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site",
@@ -422,7 +421,8 @@
       "pbYC3UpLVGE | [VIDEO]_19/11/26_20:38_OSPINGOSNOSIS_8m08s_Rogério Marinho critica governo e aponta alta de preços",
       "fqKUQCOQAr0 | [VIDEO]_19/11/26_20:32_OSPINGOSNOSIS_5m07s_PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
       "RE1QJm7a4xU | [VIDEO]_19/11/26_20:31_OSPINGOSNOSIS_5m58s_“Governo impostor, só pensa em mais impostos”, diz Carlos Portinho",
-      "7MhjjxZwooc | [VIDEO]_19/11/26_19:22_OSPINGOSNOSIS_12m21s_Rogério Marinho classifica votação do ajuste fiscal no Senado como “derrota"
+      "7MhjjxZwooc | [VIDEO]_19/11/26_19:22_OSPINGOSNOSIS_12m21s_Rogério Marinho classifica votação do ajuste fiscal no Senado como “derrota",
+      "uVCpqmSgpUE | [VIDEO]_19/11/26_19:20_OSPINGOSNOSIS_2m09s_Hugo Motta convocará sessão extraordinária para analisar ajuste fiscal"
     ]
   },
   {
@@ -451,14 +451,14 @@
       "0tTmcMEfgjw",
       "GaLHlYZf_Og",
       "T095iYUQ_Wk",
-      "o25U_GAVbmg",
       "a9iYtFrEadI",
       "ZVIjAb3aXPg",
       "0-AXbj2J3vw",
       "HFYRiA-6mZI",
       "DOmtKgzB3FA",
       "cE5o_9bLfx8",
-      "AFWLFTX_p0I"
+      "AFWLFTX_p0I",
+      "h1Z-sxAEpuQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
@@ -485,14 +485,14 @@
       "0tTmcMEfgjw | [VIDEO]_20/11/26_21:26_JORNALDARECORD_2m08s_Estudo comprova que circunferência da cintura pode ser indicador de saúde",
       "GaLHlYZf_Og | [VIDEO]_20/11/26_21:24_JORNALDARECORD_2m09s_Previsão do Tempo: estados do Sul seguem em alerta para tempestades",
       "T095iYUQ_Wk | [VIDEO]_20/11/26_21:24_JORNALDARECORD_2m28s_Mendonça pede para Fachin retirar sigilo do relatório da PF sobre ele no ca",
-      "o25U_GAVbmg | [VIDEO]_20/11/26_17:37_JORNALDARECORD_4m08s_Ventos de 114 km/h destroem cidade de Tupanciretã, no Rio Grande do Sul",
       "a9iYtFrEadI | [VIDEO]_20/11/26_12:13_HOJEEMDIA_6m25s_Casos de roubos e sequestros aumentam entre entregadores no Brasil",
       "ZVIjAb3aXPg | [VIDEO]_20/11/26_12:08_HOJEEMDIA_9m51s_Quero Envelhecer Assim: Idosa de 83 anos faz sucesso dançando em bailes no ",
       "0-AXbj2J3vw | [VIDEO]_20/11/26_10:47_FALABRASIL_2m33s_Médico é afastado após prescrever dose de adulto para bebê de quatro meses ",
       "HFYRiA-6mZI | [VIDEO]_20/11/26_10:20_FALABRASIL_3m38s_Polícia esclarece morte de motorista atingido por pedra na ponte do Jaguaré",
       "DOmtKgzB3FA | [VIDEO]_19/11/26_12:23_HOJEEMDIA_12m13s_Quero Envelhecer Assim: Casal de idosos inspira com calistenia em Cabo Frio",
       "cE5o_9bLfx8 | [VIDEO]_19/11/26_11:12_FALABRASIL_2m21s_Atriz Camila Jeronymo denuncia namorado de agressão em São Paulo",
-      "AFWLFTX_p0I | [VIDEO]_19/11/26_10:54_FALABRASIL_3m25s_Lutador de MMA é preso por suspeita de matar o próprio cachorro em São Paul"
+      "AFWLFTX_p0I | [VIDEO]_19/11/26_10:54_FALABRASIL_3m25s_Lutador de MMA é preso por suspeita de matar o próprio cachorro em São Paul",
+      "h1Z-sxAEpuQ | [VIDEO]_19/11/26_10:44_FALABRASIL_3m29s_Entenda como adolescente invadia condomínios de luxo em SP e burlava a segu"
     ]
   },
   {
@@ -709,6 +709,8 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "tYUZpg2xHa4",
+      "30bXwtslQz0",
       "R7aaleFdSLQ",
       "uOWBdQQKzKA",
       "1WSEu8tbytg",
@@ -736,13 +738,13 @@
       "QzWXOiOzDWo",
       "Dh6HXmxR7t4",
       "k0_YFTmJ5Ho",
-      "WdUcmTgPYOc",
-      "_rhG0G3iZto",
-      "V_X2TECAVuQ"
+      "WdUcmTgPYOc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "tYUZpg2xHa4 | [VIDEO]_23/11/26_08:28_CBNBRASIL_2m59s_Amante de ex-CEO da Nvidia manteve contato direto com agente do governo da ",
+      "30bXwtslQz0 | [VIDEO]_23/11/26_08:21_CBNBRASIL_2m43s_Previdência dos militares fica fora do corte de gastos de Lula; rombo anula",
       "R7aaleFdSLQ | [VIDEO]_23/11/26_08:15_CBNBRASIL_3m06s_Equipe médica avalia necessidade de nova cirurgia de Bolsonaro; Moraes libe",
       "uOWBdQQKzKA | [VIDEO]_23/11/26_08:09_CBNBRASIL_2m51s_Escala 5x2: Governo Lula começa a divulgar regras sobre mudanças na jornada",
       "1WSEu8tbytg | [VIDEO]_23/11/26_07:56_CBNBRASIL_6m30s_Míriam Leitão sobre ajuste fiscal de Lula: 'É apenas um 1º passo, mas vai n",
@@ -770,9 +772,7 @@
       "QzWXOiOzDWo | [VIDEO]_20/11/26_19:29_CBNBRASIL_8m26s_Vorcaro e Fábio Faria discutiram criar instituto para Alexandre de Moraes e",
       "Dh6HXmxR7t4 | [VIDEO]_20/11/26_18:49_CBNBRASIL_2m42s_Caso Luiza Melinho: Brasil admite na Corte Interamericana que violou direit",
       "k0_YFTmJ5Ho | [VIDEO]_20/11/26_18:44_CBNBRASIL_2m52s_Ataques virtuais contra mulheres crescem, diz ministério; negras são o prin",
-      "WdUcmTgPYOc | [VIDEO]_20/11/26_18:38_CBNBRASIL_2m00s_Escândalo de Jensen Huang faz Nvidia despencar mais de 30% e abalar o merca",
-      "_rhG0G3iZto | [VIDEO]_20/11/26_18:23_CBNBRASIL_2m12s_Idosa é resgatada após 40 anos em trabalho análogo à escravidão em SP; filh",
-      "V_X2TECAVuQ | [VIDEO]_20/11/26_18:13_CBNBRASIL_2m09s_Cleitinho diz que vai se reunir com Lula 'quantas vezes precisar' para rene"
+      "WdUcmTgPYOc | [VIDEO]_20/11/26_18:38_CBNBRASIL_2m00s_Escândalo de Jensen Huang faz Nvidia despencar mais de 30% e abalar o merca"
     ]
   },
   {
@@ -850,6 +850,8 @@
     "rem": "METRÓPOLES",
     "videoIds": [
       "cuLc4z7OgSc",
+      "_Rb1Y5IXipQ",
+      "6xU0ndeNBgs",
       "B0Cbu1BGLRo",
       "IfyWEcxKEQ4",
       "0H2Xi88r-kg",
@@ -876,14 +878,14 @@
       "gz4Bdh4j78o",
       "HvGM5_x_Qro",
       "pE0Qec0vq20",
-      "JxQMUpYRgiQ",
-      "h6sOWcSUq68",
-      "HfRxRFp_bJk"
+      "JxQMUpYRgiQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "cuLc4z7OgSc | ((LIVE))_23/11/26_07:29_METRÓPOLES_Temporal no RS: cinco morrem em Tupanciretã   Pimenta fala da tramitação do",
+      "cuLc4z7OgSc | ((LIVE))_23/11/26_07:29_METRÓPOLES_Temporal no RS: cinco morrem em Tupanciretã   Entrevista com Pimenta   Jair",
+      "_Rb1Y5IXipQ | [VIDEO]_23/11/26_08:27_METRÓPOLES_14m01s_Ajuste fiscal: Lula defende pacote e diz que não haverá cortes sociais",
+      "6xU0ndeNBgs | [VIDEO]_23/11/26_08:25_METRÓPOLES_11m19s_Disputa no STF: Alcolumbre insiste em Pacheco para vaga no Supremo e Moraes",
       "B0Cbu1BGLRo | [VIDEO]_23/11/26_00:03_METRÓPOLES_59m00s_AO VIVO: entrevista com médico que já operou Bolsonaro   Tempestade no RS v",
       "IfyWEcxKEQ4 | [VIDEO]_22/11/26_15:51_METRÓPOLES_2m27s_Governo dos EUA revela documentos sobre o Pé Grande; veja o que foi descobe",
       "0H2Xi88r-kg | [VIDEO]_22/11/26_15:43_METRÓPOLES_2m16s_México captura narcotraficante que está entre os dez mais procurados pelo F",
@@ -910,9 +912,7 @@
       "gz4Bdh4j78o | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m47s_Joice Hasselmann explica denúncia de invasão ao seu apartamento",
       "HvGM5_x_Qro | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m25s_Joice Hasselmann expõe os motivos do rompimento com Carla Zambelli",
       "pE0Qec0vq20 | [VIDEO]_20/11/26_23:38_METRÓPOLES_11m01s_Joice Hasselmann explica relação com Carlos Bolsonaro",
-      "JxQMUpYRgiQ | [VIDEO]_20/11/26_23:38_METRÓPOLES_8m10s_Joice revela que atuou como media training de Bolsonaro",
-      "h6sOWcSUq68 | [VIDEO]_20/11/26_23:38_METRÓPOLES_10m09s_Joice Hasselmann revela bastidores da tentativa de Golpe",
-      "HfRxRFp_bJk | [VIDEO]_20/11/26_22:50_METRÓPOLES_4m48s_Veja as falas: Brasil e EUA divergem na OEA sobre combate a “narcoterrorist"
+      "JxQMUpYRgiQ | [VIDEO]_20/11/26_23:38_METRÓPOLES_8m10s_Joice revela que atuou como media training de Bolsonaro"
     ]
   },
   {
@@ -989,6 +989,7 @@
     "numero": "15",
     "rem": "TV SENADO",
     "videoIds": [
+      "pq4QwJrLO7M",
       "tM7q4wC_4ks",
       "TeAV0tpqvqo",
       "8H5ks6GHUX4",
@@ -1017,12 +1018,12 @@
       "T2qkQE2G_Ts",
       "1IcYqqIiZyA",
       "rLEg-HaJ1K0",
-      "9dTCXV9Hsqc",
-      "OOelnCQjmFo"
+      "9dTCXV9Hsqc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "pq4QwJrLO7M | ((LIVE))_23/11/26_08:29_TVSENADO_Senado Notícias ao vivo: confira as últimas notícias do dia",
       "tM7q4wC_4ks | ((LIVE))_23/11/26_08:01_TVSENADO_Ao vivo - TV Senado",
       "TeAV0tpqvqo | ((LIVE))_23/11/26_06:59_TVSENADO_Conexão Senado (23/11/2026)",
       "8H5ks6GHUX4 | [VIDEO]_20/11/26_20:57_TVSENADO_3m38s_CDH vai ao Rio de Janeiro acompanhar caso Edson Davi e discutir prevenção a",
@@ -1051,8 +1052,7 @@
       "T2qkQE2G_Ts | [VIDEO]_18/11/26_21:25_TVSENADO_714m58s_Ao vivo - TV Senado",
       "1IcYqqIiZyA | [VIDEO]_18/11/26_20:58_TVSENADO_5m59s_Com acordo sobre estados e municípios, Senado conclui votação do ajuste fis",
       "rLEg-HaJ1K0 | [VIDEO]_18/11/26_20:38_TVSENADO_4m37s_Ajuste fiscal: ministro do Planejamento e líder Randolfe Rodrigues falam so",
-      "9dTCXV9Hsqc | [VIDEO]_18/11/26_20:36_TVSENADO_29m28s_Senado Notícias ao vivo: confira as últimas notícias do dia - 18/11/26",
-      "OOelnCQjmFo | [VIDEO]_18/11/26_20:17_TVSENADO_288m02s_Senado analisa Estatuto do Aprendiz e outras medidas – 18/11/26"
+      "9dTCXV9Hsqc | [VIDEO]_18/11/26_20:36_TVSENADO_29m28s_Senado Notícias ao vivo: confira as últimas notícias do dia - 18/11/26"
     ]
   },
   {
