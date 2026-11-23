@@ -1171,8 +1171,8 @@
     "numero": "31",
     "rem": "GeTV",
     "videoIds": [
-      "D5YpBU0vZXM",
       "y8nTyF90OSs",
+      "D5YpBU0vZXM",
       "PCQui9-vzLQ",
       "SDJp77nNWPQ",
       "1kVw-HoI9lM",
@@ -1204,8 +1204,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "D5YpBU0vZXM | [VIDEO]_23/11/26_03:20_GETV_167m28s_AO VIVO: TIME BRASIL NA COPA DO MUNDO DE SKATE STREET   FINAL   ge tv",
       "y8nTyF90OSs | [VIDEO]_23/11/26_02:03_GETV_19m23s_SAN FRANCISCO 49ERS X MINNESOTA VIKINGS   MELHORES MOMENTOS   SEMANA 11   N",
+      "D5YpBU0vZXM | [VIDEO]_23/11/26_03:20_GETV_167m28s_AO VIVO: TIME BRASIL NA COPA DO MUNDO DE SKATE STREET   FINAL   ge tv",
       "PCQui9-vzLQ | [VIDEO]_22/11/26_22:28_GETV_57m56s_MINNESOTA VIKINGS X SAN FRANCISCO 49ERS   AQUECIMENTO AO VIVO   NFL   #live",
       "SDJp77nNWPQ | [VIDEO]_22/11/26_22:27_GETV_15m26s_JACKSONVILLE JAGUARS X NEW YORK GIANTS   MELHORES MOMENTOS   SEMANA 11   NF",
       "1kVw-HoI9lM | [VIDEO]_22/11/26_22:19_GETV_11m09s_QUEM SÃO OS FAVORITOS DE MEIO DE TEMPORADA?   PRIMEIRA DESCIDA   ge tv",
@@ -1338,7 +1338,7 @@
     "playlistId": "",
     "carimbos": [
       "f8XST72qjb0 | ((LIVE))_23/11/26_11:20_ESPNBRASIL_JARDIM CONTINUA NO FLAMENGO?   KAIO CÉSAR NA MIRA DO MERCADO   SAÍDAS NO SÃ",
-      "xi4O396Dnrg | [VIDEO]_23/11/26_11:47_ESPNBRASIL_69m55s_CORRESPONDENTES PREMIER #440: ESTREIA DE QUEM?",
+      "xi4O396Dnrg | [VIDEO]_23/11/26_11:47_ESPNBRASIL_69m26s_CORRESPONDENTES PREMIER #440: ESTREIA DE QUEM?",
       "4umyE4qlugg | [VIDEO]_22/11/26_21:33_ESPNBRASIL_62m26s_ATLÉTICO-GO X VILA NOVA E FLUMINENSE X MIRASSOL: PÓS-JOGO AO VIVO E COMPLET",
       "-wHMBWRZGCE | [VIDEO]_22/11/26_21:29_ESPNBRASIL_8m39s_AMÉRICA BRASILEÑA #5 - FLAMENGO X PALMEIRAS SÃO EXPOENTES DA HEGEMONIA BRAS",
       "OLR7-2xE-mI | [VIDEO]_22/11/26_21:07_ESPNBRASIL_207m36s_ATLÉTICO-GO X VILA NOVA AO VIVO: PLAYOFF DA SÉRIE B - ABRE O JOGO E NARRAÇÃ",
@@ -1373,6 +1373,7 @@
     "numero": "34",
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
+      "GOLOQMPr7pE",
       "ZwtrjHNzLZI",
       "HY6c2jQvpkY",
       "7WLE-9UbwCM",
@@ -1401,12 +1402,12 @@
       "gK-bMKAaJzE",
       "9lzeapl8JcE",
       "GIGFyf9tYLQ",
-      "d9vVS2lqVsU",
-      "Kh7qpkvfSjw"
+      "d9vVS2lqVsU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "GOLOQMPr7pE | ((LIVE))_23/11/26_11:58_JOVEMPANESPORTES_FLAMENGO DECACAMPEÃO BRASILEIRO; PALMEIRAS FOCA NAS DUAS FINAIS; VICE DO GA",
       "ZwtrjHNzLZI | [VIDEO]_22/11/26_20:26_JOVEMPANESPORTES_14m57s_\"5 VICES??? É COISA DE LOUCO! Cara, o ATLÉTICO-MG está...\" DERROTA pro BOCA",
       "HY6c2jQvpkY | [VIDEO]_22/11/26_19:35_JOVEMPANESPORTES_90m22s_MAIOR DO BRASIL? DECA DO FLAMENGO É EXALTADO; GALO É VICE DA SULA DE NOVO!",
       "7WLE-9UbwCM | [VIDEO]_22/11/26_15:07_JOVEMPANESPORTES_123m24s_FLAMENGO FAZ HISTÓRIA E FATURA O 10º TÍTULO BRASILEIRO NO ESTÁDIO DO PALMEI",
@@ -1435,8 +1436,7 @@
       "gK-bMKAaJzE | [VIDEO]_19/11/26_14:40_JOVEMPANESPORTES_20m46s_\"É VERGONHOSO! Esse time SÓ VAI ESCAPAR do REBAIXAMENTO porque...\" VEJA DEB",
       "9lzeapl8JcE | [VIDEO]_19/11/26_14:11_JOVEMPANESPORTES_127m30s_FLAMENGO FICA A UM EMPATE DE SER CAMPEÃO NA CASA DO PALMEIRAS; CORINTHIANS",
       "GIGFyf9tYLQ | [VIDEO]_19/11/26_14:01_JOVEMPANESPORTES_19m08s_SERÁ? \"Olha, EU NÃO ACREDITO que o PALMEIRAS na FINAL da LIBERTADORES vá...",
-      "d9vVS2lqVsU | [VIDEO]_19/11/26_13:25_JOVEMPANESPORTES_19m49s_QUE FO**! MAURO CEZAR DÁ AULA DE HISTÓRIA e EXPLICA por que o FLAMENGO DEVE",
-      "Kh7qpkvfSjw | [VIDEO]_19/11/26_12:51_JOVEMPANESPORTES_27m41s_MAURO CEZAR: \"EU FIQUEI ESPANTADO QUANDO VI ISSO! Gente, o PALMEIRAS...\""
+      "d9vVS2lqVsU | [VIDEO]_19/11/26_13:25_JOVEMPANESPORTES_19m49s_QUE FO**! MAURO CEZAR DÁ AULA DE HISTÓRIA e EXPLICA por que o FLAMENGO DEVE"
     ]
   },
   {
@@ -1955,6 +1955,7 @@
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
+      "Ad62BMum1LU",
       "ks1UJEkJTFM",
       "Mk2XvQahSZ8",
       "enEiMraHxe8",
@@ -1983,12 +1984,12 @@
       "bOIBL6No6a4",
       "hdukkxNeVus",
       "2swn6YQy3KM",
-      "ImzjGyyfYRU",
-      "vLhxB36_K98"
+      "ImzjGyyfYRU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "Ad62BMum1LU | [VIDEO]_23/11/26_12:00_TECHCIÊNCIA2A_10m34s_O planeta mais próximo do nosso Sol está encolhendo a uma velocidade imposs",
       "ks1UJEkJTFM | [VIDEO]_23/11/26_08:00_TECHCIÊNCIA2A_173m52s_Pequenos vulcões escondem um perigo gigantesco que pode surpreender os cien",
       "Mk2XvQahSZ8 | [VIDEO]_22/11/26_22:27_TECHCIÊNCIA2C_60m01s_1 HORA DE CURIOSIDADES DE CASOS REAIS 🔎🤯",
       "enEiMraHxe8 | [VIDEO]_22/11/26_13:00_TECHCIÊNCIA2A_9m51s_Finalmente sabemos o que apagou um bilhão de anos do Grand Canyon",
@@ -2017,8 +2018,7 @@
       "bOIBL6No6a4 | [VIDEO]_19/11/26_16:00_TECHCIÊNCIA2A_172m30s_Este avião sobreviveu depois que seu teto foi arrancado",
       "hdukkxNeVus | [VIDEO]_19/11/26_15:00_TECHCIÊNCIA2B_15m16s_Eu Era A Número Cinco No Experimento Estranho Da Escola",
       "2swn6YQy3KM | [VIDEO]_19/11/26_13:00_TECHCIÊNCIA2A_45m44s_Cientistas finalmente desvendaram o mistério do calendário maia",
-      "ImzjGyyfYRU | [VIDEO]_19/11/26_11:14_TECHCIÊNCIA2A_10m01s_Uma fenda gigantesca está aumentando nos Alpes neste exato momento",
-      "vLhxB36_K98 | [VIDEO]_18/11/26_23:35_TECHCIÊNCIA2C_180m01s_3 HORAS DE CURIOSIDADES DO PLANETA TERRA 🌍🤯"
+      "ImzjGyyfYRU | [VIDEO]_19/11/26_11:14_TECHCIÊNCIA2A_10m01s_Uma fenda gigantesca está aumentando nos Alpes neste exato momento"
     ]
   },
   {
@@ -2247,6 +2247,8 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "nsTN5848FIM",
+      "B41YRqYItPk",
       "APrfZmFvVDo",
       "FZYi9OMEhZY",
       "ql3beniQQXg",
@@ -2274,13 +2276,13 @@
       "hA9epuksYdU",
       "D9TLo2e1gzk",
       "yqArfugQcFk",
-      "enrViPq-Oxo",
-      "0hFH5pkvcy8",
-      "YRl5ZbJ75RM"
+      "enrViPq-Oxo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "nsTN5848FIM | [VIDEO]_23/11/26_12:10_RECORDCABOVERDE_7m53s_‘Lei Suzane Von Richtofen’: Projeto quer proibir condenados de lucrar com s",
+      "B41YRqYItPk | [VIDEO]_23/11/26_12:00_RECORDCABOVERDE_10m41s_Destruição no Sul: Tempestade devasta cidade inteira e deixa mortos e desab",
       "APrfZmFvVDo | [VIDEO]_23/11/26_11:50_RECORDCABOVERDE_5m44s_Mãe suspeita de atiar no filho:Menino atingido por tiros vira exemplo de su",
       "FZYi9OMEhZY | [VIDEO]_23/11/26_11:40_RECORDCABOVERDE_8m26s_Resgate dramático: Paracanoísta passa quase 24 horas ilhado e perdido no ma",
       "ql3beniQQXg | [VIDEO]_23/11/26_11:30_RECORDCABOVERDE_2m00s_Chuva e vento causam estragos no Rio Grande do Sul e Paraná na madrugada de",
@@ -2308,9 +2310,7 @@
       "hA9epuksYdU | [VIDEO]_21/11/26_14:50_RECORDCABOVERDE_10m19s_Estudante de 19 anos desaparece a caminho do estágio; câmeras mostram Higor",
       "D9TLo2e1gzk | [VIDEO]_21/11/26_14:40_RECORDCABOVERDE_8m01s_Homem perde perna em acidente e motorista foge sem prestar socorro ele se e",
       "yqArfugQcFk | [VIDEO]_21/11/26_14:30_RECORDCABOVERDE_2m40s_Ex presidente Jair Bolsonaro é internado em Brasília com dores abdominais",
-      "enrViPq-Oxo | [VIDEO]_21/11/26_14:10_RECORDCABOVERDE_3m09s_Motoclube promove campanha de doação de sangue neste sábado 21 em São Paulo",
-      "0hFH5pkvcy8 | [VIDEO]_21/11/26_14:00_RECORDCABOVERDE_11m01s_Gerente de RH denuncia calote de empresário após venda de carro no interior",
-      "YRl5ZbJ75RM | [VIDEO]_21/11/26_13:50_RECORDCABOVERDE_4m47s_Skatista de 28 anos morre em acidente com ônibus na zona oeste de São Paulo"
+      "enrViPq-Oxo | [VIDEO]_21/11/26_14:10_RECORDCABOVERDE_3m09s_Motoclube promove campanha de doação de sangue neste sábado 21 em São Paulo"
     ]
   },
   {
