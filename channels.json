@@ -1171,8 +1171,8 @@
     "numero": "31",
     "rem": "GeTV",
     "videoIds": [
-      "D5YpBU0vZXM",
       "y8nTyF90OSs",
+      "D5YpBU0vZXM",
       "PCQui9-vzLQ",
       "SDJp77nNWPQ",
       "1kVw-HoI9lM",
@@ -1205,8 +1205,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "D5YpBU0vZXM | [VIDEO]_23/11/26_03:20_GETV_167m28s_AO VIVO: TIME BRASIL NA COPA DO MUNDO DE SKATE STREET   FINAL   ge tv",
       "y8nTyF90OSs | [VIDEO]_23/11/26_02:03_GETV_19m23s_SAN FRANCISCO 49ERS X MINNESOTA VIKINGS   MELHORES MOMENTOS   SEMANA 11   N",
+      "D5YpBU0vZXM | [VIDEO]_23/11/26_03:20_GETV_167m28s_AO VIVO: TIME BRASIL NA COPA DO MUNDO DE SKATE STREET   FINAL   ge tv",
       "PCQui9-vzLQ | [VIDEO]_22/11/26_22:28_GETV_57m56s_MINNESOTA VIKINGS X SAN FRANCISCO 49ERS   AQUECIMENTO AO VIVO   NFL   #live",
       "SDJp77nNWPQ | [VIDEO]_22/11/26_22:27_GETV_15m26s_JACKSONVILLE JAGUARS X NEW YORK GIANTS   MELHORES MOMENTOS   SEMANA 11   NF",
       "1kVw-HoI9lM | [VIDEO]_22/11/26_22:19_GETV_11m09s_QUEM SÃO OS FAVORITOS DE MEIO DE TEMPORADA?   PRIMEIRA DESCIDA   ge tv",
@@ -2093,10 +2093,10 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
-      "THjZFXnBVk8",
       "prBxAY5fRoE",
       "te_toDQWNWc",
       "ig-uc1RTYZw",
+      "THjZFXnBVk8",
       "hj6PpK9lu-0",
       "Rejl_OHQDlw",
       "CVB0wVEPyd4",
@@ -2126,10 +2126,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "THjZFXnBVk8 | [VIDEO]_23/11/26_04:00_TVEVANGELIZAR_20m01s_Oração da Manhã   23/11/2026   com @PadreManzottiOficial",
       "prBxAY5fRoE | [VIDEO]_23/11/26_01:30_TVEVANGELIZAR_26m48s_Como posso retribuir ao Senhor?   Há Poder de Deus com Ironi Spuldaro   23/",
       "te_toDQWNWc | [VIDEO]_23/11/26_08:39_TVEVANGELIZAR_58m49s_Eu Tenho Fé com Pe. Jorge Fortunato   20/11/26",
       "ig-uc1RTYZw | [VIDEO]_23/11/26_06:00_TVEVANGELIZAR_35m08s_Segunda-Feira: Mistérios Gozosos   23/11/26   Terço Mariano com @PadreManzo",
+      "THjZFXnBVk8 | [VIDEO]_23/11/26_04:00_TVEVANGELIZAR_20m01s_Oração da Manhã   23/11/2026   com @PadreManzottiOficial",
       "hj6PpK9lu-0 | [VIDEO]_22/11/26_15:00_TVEVANGELIZAR_26m04s_Terço e 4º dia da Novena de Jesus das Santas Chagas   22/11/26",
       "Rejl_OHQDlw | [VIDEO]_22/11/26_14:30_TVEVANGELIZAR_26m18s_Catedral paróquia Cristo Rei - Toledo   Conhecendo Igrejas com Padre Anísio",
       "CVB0wVEPyd4 | [VIDEO]_22/11/26_13:15_TVEVANGELIZAR_4m20s_Oração da Tarde   22/11/26   com @PadreManzottiOficial",
@@ -2243,6 +2243,7 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "IOb3yHlowXE",
       "38y2RSBVq4M",
       "sAIHOxsgLJ0",
       "zoRQ07P3psU",
@@ -2271,12 +2272,12 @@
       "LWPEKTpP_Uk",
       "FGjA3YoiYPs",
       "VjBv_SC8v_M",
-      "-9GXblqucWc",
-      "J9h2H9l1Xzg"
+      "-9GXblqucWc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "IOb3yHlowXE | [VIDEO]_23/11/26_10:20_RECORDCABOVERDE_5m21s_Chá Revelação ao vivo em praia do Rio de Janeiro",
       "38y2RSBVq4M | [VIDEO]_22/11/26_14:30_RECORDCABOVERDE_12m48s_A HORA DA VENENOSA: Stênio Garcia desabafa sobre filhas: “Agora querem me m",
       "sAIHOxsgLJ0 | [VIDEO]_22/11/26_13:50_RECORDCABOVERDE_4m13s_Bombeiros apagam incêndio e salvam idosa, mas família encontra corpo do mar",
       "zoRQ07P3psU | [VIDEO]_22/11/26_13:40_RECORDCABOVERDE_11m20s_Pai rapta o filho e ameaça a mãe da criança ele enviou cartas com exigência",
@@ -2305,8 +2306,7 @@
       "LWPEKTpP_Uk | [VIDEO]_21/11/26_13:20_RECORDCABOVERDE_2m34s_Brasilidades: Cachorro foge de pet shop para evitar banho e mobiliza resgat",
       "FGjA3YoiYPs | [VIDEO]_21/11/26_13:00_RECORDCABOVERDE_2m49s_A FAZENDA: Rock'n'roll, baby! Peões curtem festa com show de Supla",
       "VjBv_SC8v_M | [VIDEO]_21/11/26_12:50_RECORDCABOVERDE_5m39s_A FAZENDA: Renata desabafa com Erthal e Thaíde ‘Prefiro jogar só’",
-      "-9GXblqucWc | [VIDEO]_21/11/26_12:40_RECORDCABOVERDE_4m33s_A FAZENDA: Virou alvo! Fran detona Renata e declara voto na atriz",
-      "J9h2H9l1Xzg | [VIDEO]_21/11/26_12:30_RECORDCABOVERDE_4m40s_A FAZENDA: Darlin alerta Ana sobre as intenções de Renata ao se aproximar d"
+      "-9GXblqucWc | [VIDEO]_21/11/26_12:40_RECORDCABOVERDE_4m33s_A FAZENDA: Virou alvo! Fran detona Renata e declara voto na atriz"
     ]
   },
   {
