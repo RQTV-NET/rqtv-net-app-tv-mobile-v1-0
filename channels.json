@@ -80,8 +80,8 @@
     "rem": "SBT: AOVIVO/PROGRAMAS",
     "videoIds": [
       "KSMPCOTl23U",
-      "curIGzE8nDY",
       "YA4LItp_UVI",
+      "curIGzE8nDY",
       "N9U74IEU6iw",
       "aPzCxQ42x4s",
       "_jE1TIGlpoU",
@@ -109,8 +109,8 @@
     "playlistId": "",
     "carimbos": [
       "KSMPCOTl23U | ((LIVE))_21/11/26_17:36_SBT_SBT Ao Vivo",
-      "curIGzE8nDY | [VIDEO]_23/11/26_01:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_45m07s_Capella e Victor Sarro testam limites de Yasmin Santos com choques   Comédi",
       "YA4LItp_UVI | [VIDEO]_23/11/26_13:00_PROGRAMASILVIOSANTOS_62m56s_Show de Calouros - COMPLETO   Programa Silvio Santos (22/11/26)",
+      "curIGzE8nDY | [VIDEO]_23/11/26_01:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_45m07s_Capella e Victor Sarro testam limites de Yasmin Santos com choques   Comédi",
       "N9U74IEU6iw | [VIDEO]_22/11/26_23:30_CÂMERASESCONDIDASSBT_5m08s_Esposa Traída 2   Câmeras Escondidas (22/11/26)",
       "aPzCxQ42x4s | [VIDEO]_22/11/26_02:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_55m09s_Pixote X Jeito Moleque   Viva A Noite (21/11/26)",
       "_jE1TIGlpoU | [VIDEO]_21/11/26_18:45_PROGRAMADORATINHO_51m29s_Ratinho se irrita, para o programa e CLIMA FICA TENSO no estúdio    Program",
@@ -174,7 +174,7 @@
     "playlistId": "",
     "carimbos": [
       "a5tuR2HcCrY | ((LIVE))_23/11/26_18:14_SBTNEWS_JORNAL DO SBT NEWS   23/11/2026",
-      "m9i1aSHFVpI | ((LIVE))_23/11/26_15:46_SBTNEWS_🔴 AO VIVO: PODER EXPRESSO, com Lívia Zanolini   23/11/2026",
+      "m9i1aSHFVpI | [VIDEO]_20/11/26_06:32_SBTNEWS_163m59s_🔴 AO VIVO: PODER EXPRESSO, com Lívia Zanolini   23/11/2026",
       "6_7AWDAdzEk | [VIDEO]_23/11/26_15:49_SBTNEWS_4m29s_CVM suspende registro do BRB, há 1 ano sem divulgar balanço   #CentraldeNot",
       "wWRONKjsCek | [VIDEO]_23/11/26_13:48_SBTNEWS_5m13s_SP: Temporal deixa uma pessoa desaparecida e 14 desalojadas   #RadarNews",
       "jEkcexmcX6s | [VIDEO]_23/11/26_13:44_SBTNEWS_3m51s_Bolsonaro segue internado e pode passar por nova cirurgia; veja detalhes",
@@ -210,6 +210,9 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "DlFjqWJlvyg",
+      "ftgBAadZgng",
+      "pVsYd7XsCG0",
+      "loRUkmrXHmM",
       "4DqWyMCLt8M",
       "QiYlNoY3lTo",
       "XEcz5CamrM0",
@@ -235,17 +238,17 @@
       "TY_-DpDUiNE",
       "JGZ1jhHVAdI",
       "-LlE6NRJ5J0",
-      "Lox-I91SNRk",
-      "_3qOi7jAKr4",
-      "Q5oAVUzN_MI",
-      "cCamiT9EZEg"
+      "Lox-I91SNRk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "DlFjqWJlvyg | ((LIVE))_23/11/26_17:54_CNNBRASIL_AO VIVO: GOVERNO DEVE MULTAR EMPRESAS QUE NÃO SE ADEQUAREM À JORNADA 5X2   ",
+      "ftgBAadZgng | [VIDEO]_23/11/26_18:26_CNNBRASIL_3m11s_Julgamento da Dosimetria tende a ser interrompido no STF   CNN 360º",
+      "pVsYd7XsCG0 | [VIDEO]_23/11/26_18:26_CNNBRASIL_21m09s_Não há incoerência do Brasil na exploração de petróleo, diz ministro do Mei",
+      "loRUkmrXHmM | [VIDEO]_23/11/26_18:20_CNNBRASIL_6m02s_Lula minimiza chance de Messias ou Pacheco no STF; entenda   CNN 360°",
       "4DqWyMCLt8M | [VIDEO]_23/11/26_18:09_CNNBRASIL_3m35s_CVM suspende registro do BRB e agrava crise do banco   CNN 360º",
-      "QiYlNoY3lTo | [VIDEO]_23/11/26_18:07_CNNBRASIL_186m50s_AO VIVO: MORAES MANDA NOTIFICAR FLÁVIO POR EDITAL PARA APRESENTAÇÃO DE DEFE",
+      "QiYlNoY3lTo | [VIDEO]_23/11/26_18:07_CNNBRASIL_186m50s_MORAES MANDA NOTIFICAR FLÁVIO POR EDITAL PARA APRESENTAÇÃO DE DEFESA - CNN ",
       "XEcz5CamrM0 | [VIDEO]_23/11/26_17:55_CNNBRASIL_6m31s_Cidadania desiste de incorporação e mira bloco com PSD   CNN 360°",
       "CGB4daeE94s | [VIDEO]_23/11/26_17:00_CNNBRASIL_3m03s_Natal em Paris: Champs-Élysées ganha espetáculo de luzes e música com Cate",
       "HZdZXDda6dE | [VIDEO]_23/11/26_16:22_CNNBRASIL_10m00s_Tratamento de Bolsonaro será clínico e não cirúrgico, afirmam médicos   CNN",
@@ -269,10 +272,7 @@
       "TY_-DpDUiNE | [VIDEO]_23/11/26_12:03_CNNBRASIL_3m13s_EUA buscam respostas sobre vendas de chips da Nvidia a China, diz Bessent",
       "JGZ1jhHVAdI | [VIDEO]_23/11/26_11:22_CNNBRASIL_6m02s_Nvidia tomou a decisão correta ao reconduzir Jensen Huang, diz Trump   LIVE",
       "-LlE6NRJ5J0 | [VIDEO]_23/11/26_11:19_CNNBRASIL_3m27s_Black Fraude: Procons alertam para o uso de IA em golpes   LIVE CNN",
-      "Lox-I91SNRk | [VIDEO]_23/11/26_11:08_CNNBRASIL_4m04s_Relator da Dosimetria vê margem para unanimidade no STF   LIVE CNN",
-      "_3qOi7jAKr4 | [VIDEO]_23/11/26_11:05_CNNBRASIL_61m40s_AO VIVO: FLAMENGO CONQUISTA O BRASILEIRÃO! BOCA É CAMPEÃO E GALO FICA COM O",
-      "Q5oAVUzN_MI | [VIDEO]_23/11/26_11:02_CNNBRASIL_4m10s_“Supercélula”: entenda fenômeno que causou destruição no RS   LIVE CNN",
-      "cCamiT9EZEg | [VIDEO]_23/11/26_10:53_CNNBRASIL_5m49s_Colômbia investigará empresa de Elon Musk por sinal em prisões   LIVE CNN"
+      "Lox-I91SNRk | [VIDEO]_23/11/26_11:08_CNNBRASIL_4m04s_Relator da Dosimetria vê margem para unanimidade no STF   LIVE CNN"
     ]
   },
   {
@@ -350,12 +350,12 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "VK-MZtgrEUc",
-      "q-lEdNoiVqM",
       "ktubIsrf36o",
       "h9-uiBG_0qA",
       "yfIo5a6DVWg",
       "Cwc7TeWuCts",
       "2N6ia0t7V4I",
+      "q-lEdNoiVqM",
       "nLtDG2JrkAs",
       "wJcEfD2KtkE",
       "_fLoNeyakeY",
@@ -384,12 +384,12 @@
     "playlistId": "",
     "carimbos": [
       "VK-MZtgrEUc | ((LIVE))_23/11/26_17:57_JOVEMPANNEWS_OS PINGOS NOS IS - 23/11/26",
-      "q-lEdNoiVqM | [VIDEO]_23/11/26_15:44_JOVEMPANNEWS_3m08s_Pedro Sánchez busca virada na Espanha diante de Feijóo   TEMPO REAL",
       "ktubIsrf36o | [VIDEO]_23/11/26_15:39_JOVEMPANNEWS_4m30s_Nvidia anuncia volta de Huang ao comando da empresa   TEMPO REAL",
       "h9-uiBG_0qA | [VIDEO]_23/11/26_15:35_JOVEMPANNEWS_2m56s_Drones ucranianos atingem navios russos na Líbia   TEMPO REAL",
       "yfIo5a6DVWg | [VIDEO]_23/11/26_16:10_JOVEMPANNEWS_3m42s_Lula exonera ministro para votar ajuste fiscal na Câmara   TEMPO REAL",
       "Cwc7TeWuCts | [VIDEO]_23/11/26_16:07_JOVEMPANNEWS_2m55s_MPE defende rejeição de recurso que pede 2º turno no RJ   TEMPO REAL",
       "2N6ia0t7V4I | [VIDEO]_23/11/26_16:00_JOVEMPANNEWS_5m09s_Selic chega a 13%; Denise Campos de Toledo comenta   TEMPO REAL",
+      "q-lEdNoiVqM | [VIDEO]_23/11/26_15:44_JOVEMPANNEWS_3m08s_Pedro Sánchez busca virada na Espanha diante de Feijóo   TEMPO REAL",
       "nLtDG2JrkAs | [VIDEO]_23/11/26_15:33_JOVEMPANNEWS_2m28s_Nikolas Ferreira e Bruno Engler travam disputa no PL   TEMPO REAL",
       "wJcEfD2KtkE | [VIDEO]_23/11/26_15:31_JOVEMPANNEWS_4m22s_PF prevê R$ 11 milhões em veículos blindados para Lula   TEMPO REAL",
       "_fLoNeyakeY | [VIDEO]_23/11/26_15:22_JOVEMPANNEWS_2m07s_Chuvas no Rio Grande do Sul afetam 25 mil pessoas   TEMPO REAL",
@@ -489,12 +489,12 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
-      "X55le2bLwI0",
       "Nf56C5g8Jmk",
       "mxhlJ76Fg3M",
       "p_E7CkVrtLo",
       "QXFhWRqX5f0",
       "gPEQKx08BtQ",
+      "X55le2bLwI0",
       "OvhcwdwqoHk",
       "NOt4TnVNLXE",
       "rLwPZXGkeG0",
@@ -523,12 +523,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "X55le2bLwI0 | [VIDEO]_23/11/26_16:35_BANDJORNALISMO_10m47s_PF intima Rui Costa e Jaques Wagner para depor   BandNews TV",
       "Nf56C5g8Jmk | [VIDEO]_23/11/26_16:26_MELHORDATARDE_3m21s_Chris Flores relembra prioridades de Patricia em meio crise no casamento",
       "mxhlJ76Fg3M | [VIDEO]_23/11/26_16:25_BANDJORNALISMO_13m38s_Lula se reúne com cúpula do Congresso e ministros   BandNews TV",
       "p_E7CkVrtLo | [VIDEO]_23/11/26_16:11_MELHORDATARDE_2m49s_Paraíbuna de São Paulo se destaca em cuidados com a saúde bucal",
       "QXFhWRqX5f0 | [VIDEO]_23/11/26_16:09_BANDJORNALISMO_9m41s_Fazenda reduz projeção do PIB em 2026 e 2027   BandNews TV",
       "gPEQKx08BtQ | [VIDEO]_23/11/26_17:01_BANDJORNALISMO_16m56s_Jesen Huang volta a ser o CEO da Nvidia   BandNews TV",
+      "X55le2bLwI0 | [VIDEO]_23/11/26_16:35_BANDJORNALISMO_10m47s_PF intima Rui Costa e Jaques Wagner para depor   BandNews TV",
       "OvhcwdwqoHk | [VIDEO]_23/11/26_15:48_MELHORDATARDE_2m17s_Leo Dias analisa projeto de Chitãozinho e Xororó com Jorge e Mateus: \"Grand",
       "NOt4TnVNLXE | [VIDEO]_23/11/26_15:47_BANDJORNALISMO_3m31s_Bélgica enfrenta greve nacional - BandNews em Dois Minutos - (23/11/2026) -",
       "rLwPZXGkeG0 | [VIDEO]_23/11/26_16:23_MELHORDATARDE_4m15s_\"Não há previsão de divórcio\", diz Leo Dias sobre casamento de Patricia Abr",
@@ -561,6 +561,9 @@
     "videoIds": [
       "8XeSLNCM0Tw",
       "N6UGkHX3fsA",
+      "3X7FxtBsOSU",
+      "kWdXHQjSpro",
+      "ydyG1tYthxY",
       "MvtUxWUX9aU",
       "eJU7s3Djyzo",
       "KWa9v_SKA_I",
@@ -585,16 +588,16 @@
       "UQknbR5Muj8",
       "nJ_0T3q3iqA",
       "e12271zdt-s",
-      "CbU87egBduw",
-      "4aO1Hz7OtCM",
-      "wZp-PnbcSE4",
-      "dIzV6Gj32gY"
+      "CbU87egBduw"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "8XeSLNCM0Tw | ((LIVE))_23/11/26_14:56_REDETV!OFICIAL_​[AO VIVO] REDETV! NOTÍCIAS 2ª EDIÇÃO   23/11/2026",
       "N6UGkHX3fsA | ((LIVE))_23/11/26_14:56_NOTÍCIASREDETV_​[AO VIVO] REDETV! NOTÍCIAS 2ª EDIÇÃO   23/11/2026",
+      "3X7FxtBsOSU | [VIDEO]_23/11/26_18:30_PEGADINHASDAREDETV_3m01s_GATINHA ABUSADA FAZ DESCONHECIDO PAGAR SUA CONTA NO RESTAURANTE!    Pegadin",
+      "kWdXHQjSpro | [VIDEO]_23/11/26_18:23_NOTÍCIASREDETV_3m04s_Malévola quebra o silêncio e revela o que aconteceu em gravação que termino",
+      "ydyG1tYthxY | [VIDEO]_23/11/26_18:22_NOTÍCIASREDETV_8m41s_BARRACO FORA DE CONTROLE? Confusão com Malévola repercute no 'A Tarde é Sua",
       "MvtUxWUX9aU | [VIDEO]_23/11/26_17:53_NOTÍCIASREDETV_82m00s_Fica com a Gente: Lombo suíno ao molho de laranja, rabanada de forno e mais",
       "eJU7s3Djyzo | [VIDEO]_23/11/26_17:30_PEGADINHASDAREDETV_2m05s_HOMEM ACEITA FAZER FAVOR PRA GATINHA E ARRUMA CONFUSÃO!   Pegadinhas RedeTV",
       "KWa9v_SKA_I | [VIDEO]_23/11/26_13:50_NOTÍCIASREDETV_27m17s_Rodada de Negócios: Sérgio Gordilho (21/11/26)   Completo",
@@ -619,21 +622,18 @@
       "UQknbR5Muj8 | [VIDEO]_21/11/26_23:25_REDETV!OFICIAL_10m16s_Polícia encontra arma escondida em fundo falso e prende homem com tornozele",
       "nJ_0T3q3iqA | [VIDEO]_21/11/26_23:25_NOTÍCIASREDETV_10m16s_Polícia encontra arma escondida em fundo falso e prende homem com tornozele",
       "e12271zdt-s | [VIDEO]_21/11/26_23:20_NOTÍCIASREDETV_7m23s_Moradores batem boca com policiais após prisão de traficantes",
-      "CbU87egBduw | [VIDEO]_21/11/26_23:20_REDETV!OFICIAL_7m23s_Moradores batem boca com policiais após prisão de traficantes",
-      "4aO1Hz7OtCM | [VIDEO]_21/11/26_23:15_REDETV!OFICIAL_8m46s_“Vai me tirar como otário, só porque sou criminoso?”, suspeito se revolta e",
-      "wZp-PnbcSE4 | [VIDEO]_21/11/26_23:15_NOTÍCIASREDETV_8m46s_“Vai me tirar como otário, só porque sou criminoso?”, suspeito se revolta e",
-      "dIzV6Gj32gY | [VIDEO]_21/11/26_23:10_NOTÍCIASREDETV_6m29s_Polícia invade casa e prende suspeitos de extorquir mulher após empréstimo"
+      "CbU87egBduw | [VIDEO]_21/11/26_23:20_REDETV!OFICIAL_7m23s_Moradores batem boca com policiais após prisão de traficantes"
     ]
   },
   {
     "numero": "10",
     "rem": "TV CULTURA",
     "videoIds": [
-      "Z39I6hIkLMA",
       "66K1WCeO6iM",
       "3olTmS23m9I",
       "b_TaKuQk9TQ",
       "jQrLDQeWhxU",
+      "Z39I6hIkLMA",
       "mVq4TfwSQTs",
       "nRHZjAfzruk",
       "ybapDn-lOVI",
@@ -662,11 +662,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Z39I6hIkLMA | [VIDEO]_23/11/26_12:40_TVCULTURAPROGRAMAS_3m54s_Movimentos defendem indicação de ministra negra ao STF",
       "66K1WCeO6iM | [VIDEO]_23/11/26_12:32_TVCULTURAPROGRAMAS_3m38s_Brasil é o 3º país mais exposto a tentativas de golpes",
       "3olTmS23m9I | [VIDEO]_23/11/26_12:13_TVCULTURAPROGRAMAS_4m00s_OMS alerta para sedentarismo entre adolescentes no mundo",
       "b_TaKuQk9TQ | [VIDEO]_23/11/26_12:51_TVCULTURAPROGRAMAS_3m12s_COP 31 termina sem consenso e mais de 130 países rejeitam texto",
       "jQrLDQeWhxU | [VIDEO]_23/11/26_12:49_TVCULTURAPROGRAMAS_38m49s_JORNAL DA TARDE   Ajuste fiscal prevê economia de R$ 50 bilhões em 2027   2",
+      "Z39I6hIkLMA | [VIDEO]_23/11/26_12:40_TVCULTURAPROGRAMAS_3m54s_Movimentos defendem indicação de ministra negra ao STF",
       "mVq4TfwSQTs | [VIDEO]_21/11/26_22:24_TVCULTURAPROGRAMAS_3m18s_Narcotraficante procurado pelo FBI é preso em operação no México",
       "nRHZjAfzruk | [VIDEO]_21/11/26_22:04_TVCULTURAPROGRAMAS_50m06s_JORNAL DA CULTURA   Lula fala sobre projeto fiscal e programas sociais   21",
       "ybapDn-lOVI | [VIDEO]_21/11/26_21:56_TVCULTURAPROGRAMAS_5m36s_Conflito no Oriente Médio provoca crise energética e ameaça segurança globa",
@@ -698,6 +698,9 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "sz9neUKzt0w",
+      "fo0XpNN7abI",
+      "FrAjvUvyfew",
+      "nZSvmZD3P_k",
       "Go2fzXFiuPg",
       "ckZWsaUWa0E",
       "okwCWfAdQSU",
@@ -723,15 +726,15 @@
       "hCL3l38dsvU",
       "LV5pZLJ3Nto",
       "iAVcEZl6HwI",
-      "8H4xYPEIALA",
-      "zcGViqzv-Bk",
-      "LFhqMg3brfw",
-      "h2wEymbtMlc"
+      "8H4xYPEIALA"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "sz9neUKzt0w | ((LIVE))_23/11/26_17:01_CBNBRASIL_Ponto Final CBN - 23/11/2026",
+      "fo0XpNN7abI | [VIDEO]_23/11/26_18:26_CBNBRASIL_4m05s_Durigan diz que pacote fiscal de Lula é apenas 'primeiro passo' para ajusta",
+      "FrAjvUvyfew | [VIDEO]_23/11/26_18:26_CBNBRASIL_2m22s_Governo publica primeira portaria que regulamenta descansos na escala 5x2; ",
+      "nZSvmZD3P_k | [VIDEO]_23/11/26_18:23_CBNBRASIL_4m34s_Fazenda reduz previsão de crescimento do PIB e eleva estimativa de inflação",
       "Go2fzXFiuPg | [VIDEO]_23/11/26_11:59_RÁDIOCBN_170m58s_Estúdio CBN - 23/11/2026",
       "ckZWsaUWa0E | [VIDEO]_23/11/26_14:50_CBNBRASIL_3m51s_Vera Magalhães: Lula insiste em Jorge Messias para o STF e enfrenta resistê",
       "okwCWfAdQSU | [VIDEO]_23/11/26_14:43_CBNBRASIL_4m46s_Vera Magalhães: governo Lula sabe que precisa dar resposta adicional ao mer",
@@ -757,10 +760,7 @@
       "hCL3l38dsvU | [VIDEO]_23/11/26_10:13_CBNBRASIL_2m42s_Parada do Orgulho LGBT+ no Rio reúne multidão e celebra 15 anos da união es",
       "LV5pZLJ3Nto | [VIDEO]_23/11/26_09:30_CBNBRASIL_149m37s_CBN Rio - 23/11/2026",
       "iAVcEZl6HwI | [VIDEO]_23/11/26_09:53_CBNBRASIL_3m10s_Governo prepara projeto para barrar supersalários e economizar até R$ 3 bil",
-      "8H4xYPEIALA | [VIDEO]_23/11/26_09:46_CBNBRASIL_3m09s_Próxima temporada de dengue é imprevisível e países precisam se preparar pa",
-      "zcGViqzv-Bk | [VIDEO]_23/11/26_09:35_CBNBRASIL_3m20s_Chuva forte atinge Aparecida e deixa dezenas de famílias desabrigadas; esta",
-      "LFhqMg3brfw | [VIDEO]_23/11/26_09:29_CBNBRASIL_2m47s_Lula caminha para colocar Camilo Santana na Casa Civil, ministério que indi",
-      "h2wEymbtMlc | [VIDEO]_23/11/26_09:22_CBNBRASIL_2m59s_Bombardeios russos deixam mortos e destroem prédios perto de Kiev em nova o"
+      "8H4xYPEIALA | [VIDEO]_23/11/26_09:46_CBNBRASIL_3m09s_Próxima temporada de dengue é imprevisível e países precisam se preparar pa"
     ]
   },
   {
@@ -768,6 +768,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "F8CQMqaoRqQ",
+      "JA51fiLoYLE",
       "eoFhEwL8il4",
       "tj2YdZoEsbY",
       "vNXz2PSu-Sc",
@@ -795,16 +796,16 @@
       "YRp4iOuvcDU",
       "0smPquiSZi4",
       "3K7GQf5Oadg",
-      "G8vzP5CXTtw",
-      "CtoZEN5X1EY"
+      "G8vzP5CXTtw"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "F8CQMqaoRqQ | ((LIVE))_23/11/26_17:38_REVISTAOESTE_OESTE SEM FILTRO   23/11/2026",
+      "JA51fiLoYLE | [VIDEO]_23/11/26_18:18_REVISTAOESTE_4m20s_Lula evita fadiga e ironiza trabalho após as 20 horas: 'Notícia ruim para e",
       "eoFhEwL8il4 | [VIDEO]_23/11/26_18:15_REVISTAOESTE_10m57s_Gilmar Mendes culpa Bolsonaro por revolta do povo brasileiro contra STF",
       "tj2YdZoEsbY | [VIDEO]_23/11/26_18:05_REVISTAOESTE_11m38s_ANÁLISE: Lula dobra a aposta e confronta governo Trump no combate ao narcot",
-      "vNXz2PSu-Sc | [VIDEO]_23/11/26_17:37_REVISTAOESTE_44m56s_OESTE ENTREVISTA   MANOEL GONCALVES FERREIRA FILHO",
+      "vNXz2PSu-Sc | [VIDEO]_23/11/26_17:37_REVISTAOESTE_44m56s_OESTE ENTREVISTA   MANOEL GONÇALVES FERREIRA FILHO",
       "a2WskYtMA1w | [VIDEO]_23/11/26_17:35_REVISTAOESTE_5m43s_Janja acusa Meta de interferir nas eleições e bancada reage",
       "hX7pYZdv1VM | [VIDEO]_23/11/26_17:30_REVISTAOESTE_10m42s_Lula deixa Janja organizar festa de posse e bancada critica gastos",
       "MI1CMprRuNY | [VIDEO]_23/11/26_17:21_REVISTAOESTE_23m06s_Carlo Cauti explica alta do dólar e chama ajuste fiscal de 'tributaço'",
@@ -829,8 +830,7 @@
       "YRp4iOuvcDU | [VIDEO]_23/11/26_10:40_REVISTAOESTE_10m12s_Atualizações do quadro de saúde de Bolsonaro na UTI",
       "0smPquiSZi4 | [VIDEO]_23/11/26_10:10_REVISTAOESTE_189m06s_A CANETADA DE MORAES: UM ANO DA PRISÃO DE BOLSONARO - JORNAL DA OESTE PRIME",
       "3K7GQf5Oadg | [VIDEO]_22/11/26_15:00_REVISTAOESTE_10m06s_COMO GRAND THEFT AUTO CONQUISTOU O MUNDO DOS GAMES?",
-      "G8vzP5CXTtw | [VIDEO]_22/11/26_14:00_REVISTAOESTE_120m08s_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   DOMINGO 22/11/26",
-      "CtoZEN5X1EY | [VIDEO]_22/11/26_09:00_REVISTAOESTE_9m20s_Economista explica a polêmica do Banco do Brasil com o agro"
+      "G8vzP5CXTtw | [VIDEO]_22/11/26_14:00_REVISTAOESTE_120m08s_FAROESTE À BRASILEIRA, MELHORES MOMENTOS   DOMINGO 22/11/26"
     ]
   },
   {
@@ -838,6 +838,8 @@
     "rem": "METRÓPOLES",
     "videoIds": [
       "uEfs9PfqlC8",
+      "Y-ZMAkPq1k8",
+      "6mE22Vec38I",
       "KKJLLHs55j4",
       "vAMVoY1jVmc",
       "rvjOQ3NVBNQ",
@@ -864,14 +866,14 @@
       "2to79QPJVvg",
       "zxOEo54BZhk",
       "W9pmZ1VBR4E",
-      "8ZuY89JUvxc",
-      "GfUOWWu9kEQ",
-      "cuLc4z7OgSc"
+      "8ZuY89JUvxc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "uEfs9PfqlC8 | ((LIVE))_23/11/26_17:32_METRÓPOLES_AO VIVO: Lula ouve que Mendonça prenderia Lulinha e diretor da PF se pudess",
+      "Y-ZMAkPq1k8 | [VIDEO]_23/11/26_18:25_METRÓPOLES_23m10s_Lula ouve que Mendonça prenderia Lulinha e diretor da PF se pudesse",
+      "6mE22Vec38I | [VIDEO]_23/11/26_18:20_METRÓPOLES_16m24s_Dólar a R$ 6 acende alerta: o que está por trás da disparada?",
       "KKJLLHs55j4 | [VIDEO]_23/11/26_17:22_METRÓPOLES_4m48s_Jair Bolsonaro segue na UTI, sem previsão de alta",
       "vAMVoY1jVmc | [VIDEO]_23/11/26_17:17_METRÓPOLES_3m30s_Posse de Lula deve ter shows de BaianaSystem e Igor Kannário",
       "rvjOQ3NVBNQ | [VIDEO]_23/11/26_17:07_METRÓPOLES_9m09s_Flamengo conquista o Campeonato Brasileiro de 2026   Rayssa Leal leva ouro",
@@ -898,9 +900,7 @@
       "2to79QPJVvg | [VIDEO]_23/11/26_10:11_METRÓPOLES_4m02s_“40 minutos de chuva, vento e gelo”: destruição no RS desafia preparo para",
       "zxOEo54BZhk | [VIDEO]_23/11/26_10:08_METRÓPOLES_8m53s_ONU lamenta ausência de acordo na COP31 após impasse sobre combustíveis",
       "W9pmZ1VBR4E | [VIDEO]_23/11/26_09:57_METRÓPOLES_4m44s_“Não sobrou nenhum poste de luz”: Paulo Pimenta relata cenário de destruiçã",
-      "8ZuY89JUvxc | [VIDEO]_23/11/26_09:18_METRÓPOLES_2m18s_Veja como ficam as condições climáticas no país nos próximos dias",
-      "GfUOWWu9kEQ | [VIDEO]_23/11/26_09:14_METRÓPOLES_2m19s_Supercélula: entenda o fenômeno que devastou Tupanciretã",
-      "cuLc4z7OgSc | [VIDEO]_18/11/26_11:03_METRÓPOLES_119m24s_ÍNTEGRA: cinco morrem em temporal de Tupanciretã   Chuvas em São Paulo   Bo"
+      "8ZuY89JUvxc | [VIDEO]_23/11/26_09:18_METRÓPOLES_2m18s_Veja como ficam as condições climáticas no país nos próximos dias"
     ]
   },
   {
@@ -978,12 +978,12 @@
     "rem": "TV SENADO",
     "videoIds": [
       "tM7q4wC_4ks",
-      "POhAFi3hsrg",
       "_pNwG7lFUc8",
       "muFEp6htzNU",
       "7di1xcZQkFU",
       "3Rvfp_v6xHU",
       "BwIluF_btQU",
+      "POhAFi3hsrg",
       "2JO7Jh0qAFk",
       "nkBfol0djGc",
       "JQKc3lRbTtQ",
@@ -1012,12 +1012,12 @@
     "playlistId": "",
     "carimbos": [
       "tM7q4wC_4ks | ((LIVE))_23/11/26_08:01_TVSENADO_Ao vivo - TV Senado",
-      "POhAFi3hsrg | [VIDEO]_23/11/26_14:10_TVSENADO_3m12s_Dificuldades dos pacientes com fibrose pulmonar foram destacadas em debate",
       "_pNwG7lFUc8 | [VIDEO]_23/11/26_12:48_TVSENADO_91m11s_Ao vivo: Comemoração dos 30 anos do Coral do Senado – 23/11/26",
       "muFEp6htzNU | [VIDEO]_23/11/26_12:29_TVSENADO_138m03s_Ao vivo: Comissões discutem desafios relacionados à Fibrose Pulmonar no Bra",
       "7di1xcZQkFU | [VIDEO]_23/11/26_15:19_TVSENADO_74m18s_Sessão Não Deliberativa do Plenário – 23/11/26",
       "3Rvfp_v6xHU | [VIDEO]_23/11/26_14:42_TVSENADO_18m24s_Senado Notícias ao vivo: confira as últimas notícias do dia",
       "BwIluF_btQU | [VIDEO]_23/11/26_14:33_TVSENADO_2m07s_Os 30 anos do Coral do Senado são celebrados em sessão especial",
+      "POhAFi3hsrg | [VIDEO]_23/11/26_14:10_TVSENADO_3m12s_Dificuldades dos pacientes com fibrose pulmonar foram destacadas em debate",
       "2JO7Jh0qAFk | [VIDEO]_23/11/26_11:11_TVSENADO_11m59s_COP31: Leany Lemos avalia os desafios da agenda climática mundial",
       "nkBfol0djGc | [VIDEO]_23/11/26_10:58_TVSENADO_6m54s_Entrevista   A luta histórica pelo feriado da Consciência Negra   Conexão S",
       "JQKc3lRbTtQ | [VIDEO]_23/11/26_10:53_TVSENADO_4m32s_Dedo de Prosa   21 dias de ativismo pelo fim da violência contra a mulher",
@@ -1047,7 +1047,6 @@
     "numero": "16",
     "rem": "BBC BRASIL",
     "videoIds": [
-      "-D8ojJCGG8w",
       "wEAQasf49KM",
       "Xox_1TZ6_eQ",
       "vEq6EZZpc-o",
@@ -1062,12 +1061,12 @@
       "OZxRp5ZOH7g",
       "K1PuHplsq2M",
       "gCbQL5zt-ck",
+      "-D8ojJCGG8w",
       "mfutbMO0nnU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "-D8ojJCGG8w | [VIDEO]_19/11/26_20:03_TVBRASIL_60m05s_Repórter Brasil, 19/11/2026",
       "wEAQasf49KM | [VIDEO]_22/11/26_13:00_BBCBRASIL_27m51s_Inédito acesso da BBC ao governo Talebã mostra bastidores do poder e realid",
       "Xox_1TZ6_eQ | [VIDEO]_21/11/26_07:00_BBCBRASIL_4m56s_O que é o zeptoverso descoberto por cientistas, mundo 100 bilhões de vezes",
       "vEq6EZZpc-o | [VIDEO]_17/11/26_17:00_BBCBRASIL_12m13s_O que a Nasa gravou para os alienígenas no Disco de Ouro",
@@ -1082,6 +1081,7 @@
       "OZxRp5ZOH7g | [VIDEO]_19/11/26_07:00_BBCBRASIL_17m06s_Lipedema: a 'nova doença' que causa acúmulo de gordura nas pernas e braços",
       "K1PuHplsq2M | [VIDEO]_17/11/26_07:00_BBCBRASIL_8m02s_O caso da alemã acusada de encomendar sequestro dos filhos que levou a um e",
       "gCbQL5zt-ck | [VIDEO]_14/11/26_07:00_BBCBRASIL_7m15s_'Tenho uma doença da qual as pessoas têm muita vergonha de falar'",
+      "-D8ojJCGG8w | [VIDEO]_19/11/26_20:03_TVBRASIL_60m05s_Repórter Brasil, 19/11/2026",
       "mfutbMO0nnU | [VIDEO]_18/11/26_17:46_TVBRASIL_6m20s_Entrevista: Luciana Barreto conversa com o filósofo e escritor Renato Nogue"
     ]
   },
@@ -1794,7 +1794,6 @@
     "rem": "TURBO",
     "videoIds": [
       "OPUCGUmEgjg",
-      "rwwnhlJaiOE",
       "t5ilJ9kXOXI",
       "KhJmMhrKfsk",
       "_WVW1XQCxUE",
@@ -1809,6 +1808,7 @@
       "MVxonBbqEvk",
       "rgctu1P6qco",
       "gxKqxS3_lGs",
+      "rwwnhlJaiOE",
       "ZpWYOIdQInI",
       "HOUv4qsnCpY",
       "7Qmtj5In54w",
@@ -1818,7 +1818,6 @@
     "playlistId": "",
     "carimbos": [
       "OPUCGUmEgjg | ((LIVE))_23/11/26_16:24_TURBO_CRIATIVIDADE SEM FREIO ⚙️ MARATONA Máquinas fora do padrão",
-      "rwwnhlJaiOE | [VIDEO]_10/11/26_19:00_DISCOVERYTURBOBRASIL_8m11s_Jimmy quer transformar um Mini 1275 GT em um muscle car   Viciado em Motore",
       "t5ilJ9kXOXI | [VIDEO]_09/11/26_19:00_DISCOVERYTURBOBRASIL_8m10s_Sydney e seu pai ficam chocados ao verem o utilitário transformado em um of",
       "KhJmMhrKfsk | [VIDEO]_22/11/26_19:00_TURBO_12m17s_Transformação incrível de um carro fúnebre em uma van de surfe   Joias sobr",
       "_WVW1XQCxUE | [VIDEO]_21/11/26_19:00_TURBO_10m17s_Dave confere a transformação da Bronco com motor Coyote 5.0   Carros Irados",
@@ -1833,6 +1832,7 @@
       "MVxonBbqEvk | [VIDEO]_13/11/26_19:00_TURBO_7m56s_O segredo por trás do ambiente que torna possível cada grande transformação",
       "rgctu1P6qco | [VIDEO]_12/11/26_19:00_TURBO_8m21s_Mike e Elvis finalizam o Mini restaurado e partem para Monte Carlo   Joias",
       "gxKqxS3_lGs | [VIDEO]_11/11/26_19:00_TURBO_8m03s_Dave avalia melhorias mecânicas para acelerar este Ford Mustang na pista",
+      "rwwnhlJaiOE | [VIDEO]_10/11/26_19:00_DISCOVERYTURBOBRASIL_8m11s_Jimmy quer transformar um Mini 1275 GT em um muscle car   Viciado em Motore",
       "ZpWYOIdQInI | [VIDEO]_08/11/26_16:00_DISCOVERYTURBOBRASIL_43m42s_Bill finalmente coloca sua marca no Pontiac GTO 1968   Texas Metal",
       "HOUv4qsnCpY | [VIDEO]_08/11/26_14:00_DISCOVERYTURBOBRASIL_7m58s_Desafio complexo de construir um carro de F1 com motor elétrico   Carros Ir",
       "7Qmtj5In54w | [VIDEO]_07/11/26_18:00_DISCOVERYTURBOBRASIL_8m25s_O Mercedes Monster conquista olhares na Albânia   Viciado em Motores: Gobli",
@@ -1843,7 +1843,7 @@
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [
-      "slh1REBdy74",
+      "AzBUoWE-IVk",
       "yo0pCCO7hok",
       "jcqWs2YQnKs",
       "1ZdDuoKH99w",
@@ -1858,6 +1858,7 @@
       "oIuupOu2sMY",
       "yeH5FffwGFQ",
       "4h5t6M9BUpY",
+      "slh1REBdy74",
       "j5kUs0-FEbA",
       "k4qLvjybQVc",
       "jFSKrtt6CgU",
@@ -1868,7 +1869,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "slh1REBdy74 | [VIDEO]_15/11/26_12:00_WEBMOTORS_26m17s_SUV até R$ 150 mil, Blindado Seminovo, Quitação de Débitos e Museu Campos d",
+      "AzBUoWE-IVk | ((LIVE))_23/11/26_18:30_ACELERADOS_MUNDIAL DE KART 39 ANOS DEPOIS: Rubens Barrichello, uma vida dedicada ao au",
       "yo0pCCO7hok | [VIDEO]_13/11/26_18:00_ACELERADOS_15m07s_SINUCA COM KART E VOLTA RÁPIDA COM CÂMERA DE VIDEOGAME! GRAND RIDE KITKAT E",
       "jcqWs2YQnKs | [VIDEO]_12/11/26_18:00_ACELERADOS_7m58s_PIGGYBACK E SHIFTPOWER VALEM A PENA? Testamos com o T-Cross 1.0 TSI no Arra",
       "1ZdDuoKH99w | [VIDEO]_11/11/26_20:00_WEBMOTORS_11m01s_EP. 3   Confiança que Atravessa os Sertões   Sertões Series São Paulo",
@@ -1883,6 +1884,7 @@
       "oIuupOu2sMY | [VIDEO]_18/11/26_19:00_ACELERADOS_21m35s_O CARRO DA LUCIA E DO JASON DO GTA VI E DODGE VIPER SR I 1993 NA VOLTA RÁPI",
       "yeH5FffwGFQ | [VIDEO]_17/11/26_18:30_ACELERADOS_12m08s_DODGE DAKOTA V8 X RAM DAKOTA DIESEL! Quem leva o duelo de gerações da picap",
       "4h5t6M9BUpY | [VIDEO]_16/11/26_18:23_ACELERADOS_21m28s_GERSON VENCE AS DUAS CORRIDAS DA PORSCHE CUP na preliminar da F1 em disputa",
+      "slh1REBdy74 | [VIDEO]_15/11/26_12:00_WEBMOTORS_26m17s_SUV até R$ 150 mil, Blindado Seminovo, Quitação de Débitos e Museu Campos d",
       "j5kUs0-FEbA | [VIDEO]_09/11/26_18:00_ACELERADOS_33m52s_FÓRMULA 1 NA VOLTA RÁPIDA   Rubinho acelera a Williams FW33 no Acelerados",
       "k4qLvjybQVc | [VIDEO]_09/11/26_14:30_ACELERADOS_79m25s_LANDO NORRIS VENCE EM INTERLAGOS!   PADDOCK ACELERADOS RECEBE INGO HOFFMANN",
       "jFSKrtt6CgU | [VIDEO]_08/11/26_12:00_WEBMOTORS_26m10s_ACC, Ponto Cego, Chave Sem Bateria e Pet no Carro   Webmotors TV - 08/11/20",
@@ -2327,7 +2329,6 @@
     "numero": "113",
     "rem": "ENTRETENIMENTO MUSICAL (TALK RAUL)",
     "videoIds": [
-      "DZM6iCx-8CI",
       "VungiNCgzG4",
       "e-SHqOi0fVs",
       "8eMYzJYHGBI",
@@ -2338,12 +2339,12 @@
       "gCCqIakO8Kg",
       "NUI1AwGX7jc",
       "z-GoeiKSij4",
-      "Xg_8Mg3KlX4"
+      "Xg_8Mg3KlX4",
+      "DZM6iCx-8CI"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "DZM6iCx-8CI | [VIDEO]_20/11/26_19:00_TALKRAUL_9m02s_Apenas 10 anos! Alice Trevisan surpreende Caio com sua interpretação",
       "VungiNCgzG4 | [VIDEO]_19/11/26_19:00_TALKRAUL_8m51s_Apenas 12 anos e esse vozeirão! Carol Nobre impressiona Li Martins",
       "e-SHqOi0fVs | [VIDEO]_18/11/26_19:00_TALKRAUL_8m44s_Caio elogia Lívia Veronese e aponta um ajuste importante na voz",
       "8eMYzJYHGBI | [VIDEO]_17/11/26_19:00_TALKRAUL_9m44s_“Eu entendi outra palavra!” Raíssa canta e “pilchada” vira assunto entre os",
@@ -2354,7 +2355,8 @@
       "gCCqIakO8Kg | [VIDEO]_12/11/26_19:00_TALKRAUL_9m05s_“Ela não imita ninguém!” N.ALU canta composição do pai",
       "NUI1AwGX7jc | [VIDEO]_11/11/26_19:18_TALKRAUL_12m35s_“Isso é um hit!” Lívia Veronese impressiona com Não Era Saudade",
       "z-GoeiKSij4 | [VIDEO]_22/11/26_20:00_TALKRAUL_7m34s_Até na playlist do jurado! Caio revela que escuta Melissa Esteves no carro",
-      "Xg_8Mg3KlX4 | [VIDEO]_21/11/26_15:00_TALKRAUL_62m58s_VIAJOU 1.030 KM PARA CANTAR NO RAUL GIL! UM DOS PROGRAMAS MAIS ASSISTIDOS N"
+      "Xg_8Mg3KlX4 | [VIDEO]_21/11/26_15:00_TALKRAUL_62m58s_VIAJOU 1.030 KM PARA CANTAR NO RAUL GIL! UM DOS PROGRAMAS MAIS ASSISTIDOS N",
+      "DZM6iCx-8CI | [VIDEO]_20/11/26_19:00_TALKRAUL_9m02s_Apenas 10 anos! Alice Trevisan surpreende Caio com sua interpretação"
     ]
   },
   {
