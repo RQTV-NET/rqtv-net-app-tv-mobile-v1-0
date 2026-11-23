@@ -150,6 +150,7 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "okMHkwTFGu0",
+      "tu4Ua-iUmhk",
       "S1c6Qoamdew",
       "B7Q7jYoFVf0",
       "oOE4_6IZlRk",
@@ -177,13 +178,13 @@
       "YCAgIvxi2Io",
       "fQVMDMlwsuM",
       "FsbKCeWSZAE",
-      "cknrLaOtCmM",
-      "H2-s0zvki1A"
+      "cknrLaOtCmM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "okMHkwTFGu0 | ((LIVE))_23/11/26_05:46_SBTNEWS_🔴 AO VIVO: NEWS PRIMEIRA EDIÇÃO   23/11/2026",
+      "tu4Ua-iUmhk | [VIDEO]_23/11/26_06:27_SBTJORNALISMO_2m43s_RS: vendaval deixa cinco mortos, quase 20 mil desalojados e destrói milhare",
       "S1c6Qoamdew | [VIDEO]_22/11/26_21:00_SBTNEWS_20m56s_COP31 termina sem acordo final após mais de duas semanas de negociações   #",
       "B7Q7jYoFVf0 | [VIDEO]_22/11/26_21:00_SBTNEWS_51m47s_Avanço do agro e o impacto da nova bancada no Congresso Nacional   Poder em",
       "oOE4_6IZlRk | [VIDEO]_22/11/26_21:00_SBTNEWS_3m45s_18 estados e o Distrito Federal têm alerta para tempestades   #NewsDomingo",
@@ -211,8 +212,7 @@
       "YCAgIvxi2Io | [VIDEO]_21/11/26_19:20_SBTNEWS_21m10s_SBT Brasil: assista à edição na íntegra deste sábado (21/11/2026)   #SBTBra",
       "fQVMDMlwsuM | [VIDEO]_21/11/26_18:59_SBTNEWS_3m55s_Copa Sul-Americana: Atlético-MG e Boca Juniors decidem final neste sábado (",
       "FsbKCeWSZAE | [VIDEO]_21/11/26_18:43_SBTNEWS_2m57s_Polícia procura criminosos que amarraram idoso e roubaram apartamento em SP",
-      "cknrLaOtCmM | [VIDEO]_21/11/26_08:52_SBTJORNALISMO_3m05s_Idoso é preso suspeito de abusar de crianças em piscina de condomínio   #SB",
-      "H2-s0zvki1A | [VIDEO]_21/11/26_08:49_SBTJORNALISMO_5m18s_Projeto gratuito conecta voluntários a idosos por ligações e videochamadas "
+      "cknrLaOtCmM | [VIDEO]_21/11/26_08:52_SBTJORNALISMO_3m05s_Idoso é preso suspeito de abusar de crianças em piscina de condomínio   #SB"
     ]
   },
   {
@@ -359,6 +359,8 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
+      "MBawlfUU5AA",
+      "53s50u5per4",
       "RH1zQUcuBAc",
       "J_-Q8xLtHB4",
       "lkKLR4Qld2M",
@@ -384,8 +386,6 @@
       "bQdKTMlGuR4",
       "l6lpgJiCqZQ",
       "BMc6N7QuxsI",
-      "A2SjUu1dnZg",
-      "NzYUa4-lxSo",
       "-cBqBbLLDRc",
       "q7JnILtbuFs",
       "UXvhy4XtV8c"
@@ -393,6 +393,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "MBawlfUU5AA | [VIDEO]_23/11/26_06:24_JOVEMPANNEWS_4m54s_Chuva forte causa estragos na Grande São Paulo",
+      "53s50u5per4 | [VIDEO]_23/11/26_06:17_JOVEMPANNEWS_7m21s_Brasil vê “falta de ambição” no acordo final da COP31; Nelson Kobayashi ana",
       "RH1zQUcuBAc | [VIDEO]_23/11/26_06:01_JOVEMPANNEWS_2m51s_Petrobras prepara plano de até US$ 120 bilhões",
       "J_-Q8xLtHB4 | [VIDEO]_23/11/26_05:50_JOVEMPANNEWS_6m10s_Mercado ilegal de jogos cresce no Brasil, diz estudo",
       "lkKLR4Qld2M | [VIDEO]_23/11/26_05:43_JOVEMPANNEWS_4m42s_El Niño pode encarecer alimentos e energia em 2027",
@@ -418,8 +420,6 @@
       "bQdKTMlGuR4 | [VIDEO]_22/11/26_15:54_JOVEMPANNEWS_6m19s_Disputa pela presidência da Câmara gera expectativas nos partidos",
       "l6lpgJiCqZQ | [VIDEO]_22/11/26_15:31_JOVEMPANNEWS_9m00s_Ajuste fiscal entra no radar do Mercado",
       "BMc6N7QuxsI | [VIDEO]_22/11/26_15:30_JOVEMPANNEWS_3m13s_COP-31: países não chegam a acordo sobre o clima",
-      "A2SjUu1dnZg | [VIDEO]_22/11/26_15:28_JOVEMPANNEWS_3m31s_Chuvas intensas deixam Belo Horizonte e Triângulo Mineiro em alerta",
-      "NzYUa4-lxSo | [VIDEO]_22/11/26_15:28_JOVEMPANNEWS_2m57s_Jair Bolsonaro segue internado na UTI sem previsão de alta",
       "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta ",
       "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs",
       "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site"
@@ -709,6 +709,7 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "nbMzT3_CMoc",
       "X7qX6rIogA4",
       "cj1e6AOjzw0",
       "nEunxUTl13A",
@@ -737,12 +738,12 @@
       "tS_FBXgkNBY",
       "tKTijJtlrPs",
       "JkZCWZZTptw",
-      "-1qlEasLZEc",
-      "srBSnM0hY1s"
+      "-1qlEasLZEc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "nbMzT3_CMoc | [VIDEO]_23/11/26_06:24_CBNBRASIL_2m13s_Bolsonaro internado na UTI: Ex-presidente recebe diagnóstico de abdômen agu",
       "X7qX6rIogA4 | [VIDEO]_23/11/26_06:04_CBNBRASIL_60m06s_CBN Primeiras Notícias - 23/11/2026",
       "cj1e6AOjzw0 | [VIDEO]_23/11/26_01:16_CBNBRASIL_4m36s_Proposta para acabar com supersalários; COP31 termina sem acordo final",
       "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
@@ -771,8 +772,7 @@
       "tS_FBXgkNBY | [VIDEO]_21/11/26_09:30_CBNBRASIL_25m05s_Recovery: quais as melhores técnicas para ajudar o corpo a retomar a forma",
       "tKTijJtlrPs | [VIDEO]_21/11/26_08:17_CBNBRASIL_94m36s_Fim de Expediente recebe a atriz Jennifer Nascimento - 20/11/26",
       "JkZCWZZTptw | [VIDEO]_21/11/26_06:38_CBNBRASIL_87m31s_Ponto Final CBN - 20/11/2026",
-      "-1qlEasLZEc | [VIDEO]_21/11/26_01:27_CBNBRASIL_173m07s_CBN São Paulo - 20/11/2026",
-      "srBSnM0hY1s | [VIDEO]_20/11/26_22:35_CBNBRASIL_245m40s_Jornal da CBN - 20/11/2026"
+      "-1qlEasLZEc | [VIDEO]_21/11/26_01:27_CBNBRASIL_173m07s_CBN São Paulo - 20/11/2026"
     ]
   },
   {
