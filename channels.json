@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "ZeQXFRdBTN4",
       "EsjpCQ1C8h4",
       "hcCWaZ2k9Bw",
       "kefwnE0pkU4",
@@ -38,11 +39,11 @@
       "4lx27ZtgbKQ",
       "Jjxv2oqaWAM",
       "56xYn-Buz1w",
-      "nLifa_lc5DQ",
-      "lJ-Fq-e8cGM"
+      "nLifa_lc5DQ"
     ],
     "playlistId": "",
     "carimbos": [
+      "ZeQXFRdBTN4 | [VIDEO]_23/11/26_07:30_G1(JORNALHOJE/MATÉRIAS)_24m01s_A história por trás das nove pessoas mortas em barco no Pará #g1",
       "EsjpCQ1C8h4 | [VIDEO]_23/11/26_07:28_G1(JORNALHOJE/MATÉRIAS)_2m36s_Ataque atinge prédio na Ucrânia e deixa mortos",
       "hcCWaZ2k9Bw | [VIDEO]_23/11/26_06:13_G1(JORNALHOJE/MATÉRIAS)_4m09s_Previsão do tempo: risco de temporal em grande parte do Brasil",
       "kefwnE0pkU4 | [VIDEO]_23/11/26_06:04_G1(JORNALHOJE/MATÉRIAS)_2m49s_Conferência do Clima termina sem acordo",
@@ -71,8 +72,7 @@
       "4lx27ZtgbKQ | [VIDEO]_21/11/26_10:33_G1(JORNALHOJE/MATÉRIAS)_2m31s_Goiás registra aumento de 20% nos casos de dengue",
       "Jjxv2oqaWAM | [VIDEO]_21/11/26_09:48_GLOBONEWS_8m42s_Casos de Covid-19 aumentam no Brasil e Rio de Janeiro está em nível de aler",
       "56xYn-Buz1w | [VIDEO]_21/11/26_07:40_JORNALDAGLOBO_3m14s_Unesco reconhece 3 novos sítios brasileiros como espaços de memória da escr",
-      "nLifa_lc5DQ | [VIDEO]_21/11/26_07:35_JORNALDAGLOBO_2m01s_Milhares de jovens de 25 países na Europa protestaram contra o alto custo d",
-      "lJ-Fq-e8cGM | [VIDEO]_21/11/26_07:33_JORNALDAGLOBO_3m53s_PF aponta tentativa de aproximação de Vorcaro com ministro do STF #g1"
+      "nLifa_lc5DQ | [VIDEO]_21/11/26_07:35_JORNALDAGLOBO_2m01s_Milhares de jovens de 25 países na Europa protestaram contra o alto custo d"
     ]
   },
   {
@@ -150,6 +150,8 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "okMHkwTFGu0",
+      "ksUqUj97JfA",
+      "X9Ps_Isvn68",
       "PO1WP-fHJqs",
       "dcSIeQyaUew",
       "7lGVTlQ-7BU",
@@ -176,14 +178,14 @@
       "QyX2PFBZVEo",
       "Adv0ACK5AzA",
       "inUaBg7TH-M",
-      "azyLm6LnSZE",
-      "UuXmpZBV870",
-      "fr7VX6Xjczk"
+      "azyLm6LnSZE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "okMHkwTFGu0 | ((LIVE))_23/11/26_05:46_SBTNEWS_🔴 AO VIVO: NEWS PRIMEIRA EDIÇÃO   23/11/2026",
+      "ksUqUj97JfA | [VIDEO]_23/11/26_07:37_SBTNEWS_13m47s_Por que o ajuste fiscal ainda não tranquilizou o mercado?   #NewsPrimeiraEd",
+      "X9Ps_Isvn68 | [VIDEO]_23/11/26_07:35_SBTJORNALISMO_2m13s_Morte súbita de influenciador durante futebol acende alerta para a saúde do",
       "PO1WP-fHJqs | [VIDEO]_23/11/26_07:20_SBTJORNALISMO_2m52s_Morte durante ação policial em SP provoca protesto e questionamentos de mor",
       "dcSIeQyaUew | [VIDEO]_23/11/26_07:13_SBTNEWS_5m28s_Câmara começa análise de ajuste fiscal nesta segunda (23)   #NewsPrimeiraEd",
       "7lGVTlQ-7BU | [VIDEO]_23/11/26_06:51_SBTJORNALISMO_3m31s_Amiga de vítima de \"tribunal do crime\" é presa por atrair jovem para execuç",
@@ -210,9 +212,7 @@
       "QyX2PFBZVEo | [VIDEO]_21/11/26_20:40_SBTNEWS_17m17s_Economista critica pacote de ajuste fiscal e fala de risco de estagflação e",
       "Adv0ACK5AzA | [VIDEO]_21/11/26_20:36_SBTNEWS_5m45s_Temporal deixa cinco mortos e mais de 200 feridos no RS   #JornaldoSBTNews",
       "inUaBg7TH-M | [VIDEO]_21/11/26_20:08_SBTNEWS_8m27s_Caso Suzane von Richthofen: projeto quer impedir lucro de condenados com do",
-      "azyLm6LnSZE | [VIDEO]_21/11/26_20:06_SBTNEWS_3m33s_Moraes libera visitas de familiares a Bolsonaro após internação   #NewsSába",
-      "UuXmpZBV870 | [VIDEO]_21/11/26_20:01_SBTNEWS_8m28s_Lei amplia para 20 anos prazo para vítimas de abuso na infância pedirem ind",
-      "fr7VX6Xjczk | [VIDEO]_21/11/26_19:39_SBTNEWS_3m03s_Janja vai coordenar festa da posse de Lula em janeiro de 2027   #NewsSábado"
+      "azyLm6LnSZE | [VIDEO]_21/11/26_20:06_SBTNEWS_3m33s_Moraes libera visitas de familiares a Bolsonaro após internação   #NewsSába"
     ]
   },
   {
@@ -429,6 +429,7 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
+      "EibBwvnnJX8",
       "f12ZJhQAalc",
       "eo9j9jHnC8M",
       "IhYH0kfHdkY",
@@ -453,7 +454,6 @@
       "o25U_GAVbmg",
       "a9iYtFrEadI",
       "ZVIjAb3aXPg",
-      "mWWetfF6BX4",
       "0-AXbj2J3vw",
       "HFYRiA-6mZI",
       "DOmtKgzB3FA",
@@ -463,6 +463,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "EibBwvnnJX8 | [VIDEO]_23/11/26_07:43_JORNALDARECORD_3m42s_Rio Grande do Sul enfrenta novo alerta de chuvas intensas",
       "f12ZJhQAalc | [VIDEO]_23/11/26_07:00_JORNALDARECORD_15m37s_JR 15 Min #1556   Escala 5x2: o que muda na jornada de trabalho?",
       "eo9j9jHnC8M | [VIDEO]_22/11/26_00:02_JORNALDARECORD_2m31s_Brasil tem 475 milhões de animais mortos em estradas a cada ano",
       "IhYH0kfHdkY | [VIDEO]_21/11/26_23:46_JORNALDARECORD_2m31s_Consumo de sachês de nicotina por jovens vira alerta de saúde pública para ",
@@ -487,7 +488,6 @@
       "o25U_GAVbmg | [VIDEO]_20/11/26_17:37_JORNALDARECORD_4m08s_Ventos de 114 km/h destroem cidade de Tupanciretã, no Rio Grande do Sul",
       "a9iYtFrEadI | [VIDEO]_20/11/26_12:13_HOJEEMDIA_6m25s_Casos de roubos e sequestros aumentam entre entregadores no Brasil",
       "ZVIjAb3aXPg | [VIDEO]_20/11/26_12:08_HOJEEMDIA_9m51s_Quero Envelhecer Assim: Idosa de 83 anos faz sucesso dançando em bailes no ",
-      "mWWetfF6BX4 | [VIDEO]_20/11/26_11:49_JORNALDARECORD_4m52s_Prazo para solicitar a reaplicação do Enem se encerra nesta sexta",
       "0-AXbj2J3vw | [VIDEO]_20/11/26_10:47_FALABRASIL_2m33s_Médico é afastado após prescrever dose de adulto para bebê de quatro meses ",
       "HFYRiA-6mZI | [VIDEO]_20/11/26_10:20_FALABRASIL_3m38s_Polícia esclarece morte de motorista atingido por pedra na ponte do Jaguaré",
       "DOmtKgzB3FA | [VIDEO]_19/11/26_12:23_HOJEEMDIA_12m13s_Quero Envelhecer Assim: Casal de idosos inspira com calistenia em Cabo Frio",
@@ -709,6 +709,7 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "WoSgvPInu9U",
       "VBXS1H_wTMI",
       "3gP88S8YbxA",
       "Y0E2jNlYy5M",
@@ -737,12 +738,12 @@
       "T7COI7OkRNU",
       "SDDGyYU4xRg",
       "78REK_E4oAU",
-      "36ndLTH8N3o",
-      "7GA6ZB6mK3s"
+      "36ndLTH8N3o"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "WoSgvPInu9U | [VIDEO]_23/11/26_07:37_CBNBRASIL_3m38s_China manifesta decepção com desfecho da COP31 sem consenso; confira reaçõe",
       "VBXS1H_wTMI | [VIDEO]_23/11/26_07:31_CBNBRASIL_28m44s_Câmara analisa ajuste fiscal; portaria define regras do fim da 6x1; Brasil ",
       "3gP88S8YbxA | [VIDEO]_23/11/26_07:27_CBNBRASIL_2m29s_Ajuste fiscal de Lula: Saiba quantos votos o governo precisa para aprovar p",
       "Y0E2jNlYy5M | [VIDEO]_23/11/26_07:26_CBNBRASIL_5m03s_Anthropic faz maior abertura de capital da história; entenda",
@@ -771,8 +772,7 @@
       "T7COI7OkRNU | [VIDEO]_22/11/26_03:35_CBNBRASIL_25m24s_Jornal da CBN - 17/10/2026",
       "SDDGyYU4xRg | [VIDEO]_22/11/26_03:09_CBNBRASIL_182m26s_Revista CBN - 21/11/2026",
       "78REK_E4oAU | [VIDEO]_22/11/26_05:52_RÁDIOCBN_151m37s_CBN Esportes - 22/11/26",
-      "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026",
-      "7GA6ZB6mK3s | [VIDEO]_22/11/26_15:12_RÁDIOCBN_180m26s_Revista CBN - 22/11/2026"
+      "36ndLTH8N3o | [VIDEO]_22/11/26_09:13_CBNBRASIL_88m06s_Show da Notícia - 21/11/2026"
     ]
   },
   {
