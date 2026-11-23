@@ -1159,9 +1159,10 @@
     "numero": "31",
     "rem": "GeTV",
     "videoIds": [
+      "n3vHLCrjFRg",
       "cLDBIryqUR4",
-      "y8nTyF90OSs",
       "D5YpBU0vZXM",
+      "y8nTyF90OSs",
       "PCQui9-vzLQ",
       "SDJp77nNWPQ",
       "1kVw-HoI9lM",
@@ -1187,15 +1188,15 @@
       "rmm_YAlYp9k",
       "waVMxopbyKI",
       "c-cLZVseSm0",
-      "i9m0Ix-iqE4",
-      "nnXrY4FzQxY"
+      "i9m0Ix-iqE4"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "n3vHLCrjFRg | ((LIVE))_23/11/26_18:00_GETV_AO VIVO: MINAS X SESI-BAURU   SUPERLIGA FEMININA 2026/27   ge tv",
       "cLDBIryqUR4 | ((LIVE))_23/11/26_17:00_GETV_AO VIVO: RICARDINHO E CAROL GATTAZ NO LEVANTOU, CORTOU! + MINAS X SESI-BAUR",
-      "y8nTyF90OSs | [VIDEO]_23/11/26_02:03_GETV_19m23s_SAN FRANCISCO 49ERS X MINNESOTA VIKINGS   MELHORES MOMENTOS   SEMANA 11   N",
       "D5YpBU0vZXM | [VIDEO]_23/11/26_03:20_GETV_167m28s_AO VIVO: TIME BRASIL NA COPA DO MUNDO DE SKATE STREET   FINAL   ge tv",
+      "y8nTyF90OSs | [VIDEO]_23/11/26_02:03_GETV_19m23s_SAN FRANCISCO 49ERS X MINNESOTA VIKINGS   MELHORES MOMENTOS   SEMANA 11   N",
       "PCQui9-vzLQ | [VIDEO]_22/11/26_22:28_GETV_57m56s_MINNESOTA VIKINGS X SAN FRANCISCO 49ERS   AQUECIMENTO AO VIVO   NFL   #live",
       "SDJp77nNWPQ | [VIDEO]_22/11/26_22:27_GETV_15m26s_JACKSONVILLE JAGUARS X NEW YORK GIANTS   MELHORES MOMENTOS   SEMANA 11   NF",
       "1kVw-HoI9lM | [VIDEO]_22/11/26_22:19_GETV_11m09s_QUEM SÃO OS FAVORITOS DE MEIO DE TEMPORADA?   PRIMEIRA DESCIDA   ge tv",
@@ -1221,15 +1222,13 @@
       "rmm_YAlYp9k | [VIDEO]_21/11/26_19:54_GETV_4m50s_BAHIA 0 X 1 CORITIBA   MELHORES MOMENTOS   36ª RODADA   BRASILEIRÃO 2026",
       "waVMxopbyKI | [VIDEO]_21/11/26_19:06_GETV_194m52s_JOGO COMPLETO: SÃO JOSÉ X CRUZEIRO   SUPERLIGA MASCULINA 2026/27   ge tv",
       "c-cLZVseSm0 | [VIDEO]_21/11/26_18:48_GETV_14m25s_FLAMENGO CONQUISTA SEU DÉCIMO CAMPEONATO BRASILEIRO   ge.globo",
-      "i9m0Ix-iqE4 | [VIDEO]_21/11/26_18:38_GETV_7m15s_PALMEIRAS 1 X 1 FLAMENGO   MELHORES MOMENTOS   36ª RODADA   BRASILEIRÃO 202",
-      "nnXrY4FzQxY | [VIDEO]_21/11/26_18:31_GETV_6m59s_PALMEIRAS 1 X 1 FLAMENGO   MELHORES MOMENTOS   36ª RODADA   BRASILEIRÃO 202"
+      "i9m0Ix-iqE4 | [VIDEO]_21/11/26_18:38_GETV_7m15s_PALMEIRAS 1 X 1 FLAMENGO   MELHORES MOMENTOS   36ª RODADA   BRASILEIRÃO 202"
     ]
   },
   {
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
-      "1Q2uGhfS1ig",
       "bKSQtl6BifQ",
       "MaskB6Bs6aU",
       "vBxKUAxLfHg",
@@ -1255,12 +1254,12 @@
       "14xRr_VgK40",
       "it8PFMHf3i8",
       "BkQ4wiHsA34",
-      "i9H7ubLXKlo"
+      "i9H7ubLXKlo",
+      "1Q2uGhfS1ig"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "1Q2uGhfS1ig | [VIDEO]_23/11/26_00:43_TNTSPORTSBRASIL_137m00s_AO VIVO: VANCOUVER WHITECAPS X REAL SALT LAKE   THOMAS MÜLLER EM CAMPO NOS",
       "bKSQtl6BifQ | [VIDEO]_22/11/26_22:51_TNTSPORTSBRASIL_5m26s_LEWA CRAVA, GOLEIRO PEGA PÊNALTI NO ÚLTIMO LANCE, MAS TOMA NO REBOTE   CHIC",
       "MaskB6Bs6aU | [VIDEO]_22/11/26_22:47_TNTSPORTSBRASIL_145m20s_AO VIVO: CHICAGO FIRE X CHARLOTTE FC   LEWANDOWSKI EM CAMPO NOS PLAYOFFS DA",
       "vBxKUAxLfHg | [VIDEO]_22/11/26_22:04_TNTSPORTSBRASIL_2m51s_SASHA MARCA, BRAGANTINO VENCE E ENTRA NA BRIGA POR VAGA NA LIBERTADORES   B",
@@ -1286,19 +1285,21 @@
       "14xRr_VgK40 | [VIDEO]_21/11/26_19:33_TNTSPORTSBRASIL_22m18s_FLAMENGO TEVE UM ANO MELHOR QUE O PALMEIRAS? DEBATEMOS O BICAMPEONATO RUBRO",
       "it8PFMHf3i8 | [VIDEO]_21/11/26_18:31_TNTSPORTSBRASIL_3m04s_SAMU LINO DECIDE NO FIM, E FLAMENGO É CAMPEÃO BRASILEIRO NO NUBANK PARQUE!",
       "BkQ4wiHsA34 | [VIDEO]_22/11/26_20:34_TNTSPORTSBRASIL_3m03s_RIQUELME DECIDE NOS ACRÉSCIMOS E FLU CONQUISTA VITÓRIA SUADA EM CASA   FLUM",
-      "i9H7ubLXKlo | [VIDEO]_21/11/26_13:04_TNTSPORTSBRASIL_3m12s_TRICOLOR APROVEITA EXPULSÃO, VENCE E AVANÇA NO PAULISTÃO FEMININO 2026   SÃ"
+      "i9H7ubLXKlo | [VIDEO]_21/11/26_13:04_TNTSPORTSBRASIL_3m12s_TRICOLOR APROVEITA EXPULSÃO, VENCE E AVANÇA NO PAULISTÃO FEMININO 2026   SÃ",
+      "1Q2uGhfS1ig | [VIDEO]_23/11/26_00:43_TNTSPORTSBRASIL_137m00s_AO VIVO: VANCOUVER WHITECAPS X REAL SALT LAKE   THOMAS MÜLLER EM CAMPO NOS"
     ]
   },
   {
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
-      "MdzlayYs6jo",
+      "FB4d3qdbL3I",
       "t0Hx5vmMcjI",
       "YJS7T_Bp_T0",
       "9-RDeF8Xpsg",
       "tQIe7ZBm2pY",
       "Biw_pL3SJ3s",
+      "MdzlayYs6jo",
       "Zf_L7qN_msk",
       "PuMXgZKJ0b0",
       "xkT6M79DBCI",
@@ -1321,18 +1322,18 @@
       "DNGY1Rixmuc",
       "mhtlLRjfupQ",
       "W36gcaFBRVQ",
-      "4PcXqcQUDmY",
-      "oaEahjeJluw"
+      "4PcXqcQUDmY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "MdzlayYs6jo | [VIDEO]_23/11/26_16:55_ESPNBRASIL_107m41s_LIVERPOOL DESTRÓI O UNITED   REAL MADRID E BARCELONA VENCEM   O TEMIDO BOCA",
+      "FB4d3qdbL3I | ((LIVE))_23/11/26_17:58_ESPNBRASIL_SEMANA NFL: SAN FRANCISCO 49ERS SE CONSOLIDAM COMO A MELHOR EQUIPE DA TEMPO",
       "t0Hx5vmMcjI | [VIDEO]_23/11/26_16:45_ESPNBRASIL_10m28s_VINI JR., ENDRICK, MILITÃO OU RODRYGO: QUEM VIVE A SITUAÇÃO MENOS COMPLICAD",
       "YJS7T_Bp_T0 | [VIDEO]_23/11/26_15:00_ESPNBRASIL_30m18s_FLAMENGO CAMPEÃO BRASILEIRO...E EDU SE VESTE DE PALHAÇO AO VIVO NO F SHOW!",
       "9-RDeF8Xpsg | [VIDEO]_23/11/26_14:51_ESPNBRASIL_9m25s_SÃO PAULO ESPERA SAÍDA DE JOGADORES IMPORTANTES DO ELENCO E AVALIA FUTURO D",
       "tQIe7ZBm2pY | [VIDEO]_23/11/26_14:50_ESPNBRASIL_8m53s_PROVOCAÇÃO OU CORDIALIDADE? O FALA A FONTE TROUXE BASTIDORES DA NOTA DE AGR",
       "Biw_pL3SJ3s | [VIDEO]_23/11/26_14:48_ESPNBRASIL_14m29s_VAI FICAR NO FLAMENGO? O FALA A FONTE TRAZ INFORMAÇÕES SOBRE O FUTURO DE LE",
+      "MdzlayYs6jo | [VIDEO]_23/11/26_16:55_ESPNBRASIL_107m41s_LIVERPOOL DESTRÓI O UNITED   REAL MADRID E BARCELONA VENCEM   O TEMIDO BOCA",
       "Zf_L7qN_msk | [VIDEO]_23/11/26_15:17_ESPNBRASIL_12m57s_MARTINELLI E EX-SELEÇÃO INGLESA MARCAM, MAS AL HILAL SOFRE EMPATE IMPROVÁVE",
       "PuMXgZKJ0b0 | [VIDEO]_23/11/26_15:06_ESPNBRASIL_120m00s_FLAMENGO É CAMPEÃO NA CASA DO PALMEIRAS   EDU SE VESTE DE PALHAÇO AO VIVO",
       "xkT6M79DBCI | [VIDEO]_23/11/26_14:37_ESPNBRASIL_89m01s_FUTEBOL NO MUNDO #651: POLÊMICA DA NÃO-EXPULSÃO DE MESSI NA MLS, OLIMPIA CA",
@@ -1355,19 +1356,18 @@
       "DNGY1Rixmuc | [VIDEO]_22/11/26_16:58_ESPNBRASIL_8m09s_AMÉRICA BRASILEÑA #4 - A EDIÇÃO PANDÊMICA DE 2020 E O INÍCIO DA 'ERA ABEL F",
       "mhtlLRjfupQ | [VIDEO]_22/11/26_16:10_ESPNBRASIL_94m34s_NFL REDZONE AO VIVO: ASSISTA AO MELHOR DOS JOGOS DA SEMANA 11 DA NFL",
       "W36gcaFBRVQ | [VIDEO]_22/11/26_16:04_ESPNBRASIL_14m14s_\"REVANCHE\" DOS COMMANDERS CONTRA OS GIANTS, JOGADOR MAIS DIFÍCIL QUE ENFREN",
-      "4PcXqcQUDmY | [VIDEO]_22/11/26_15:51_ESPNBRASIL_11m58s_LIVERPOOL APROVEITA EXPULSÃO E GOLEIA MANCHESTER UNITED NA ESTREIA DE POCHE",
-      "oaEahjeJluw | [VIDEO]_22/11/26_14:26_ESPNBRASIL_10m13s_CAMISA 10 BRASILEIRO DÁ ASSISTÊNCIA, E GENOA VENCE O SASSUOLO FORA DE CASA"
+      "4PcXqcQUDmY | [VIDEO]_22/11/26_15:51_ESPNBRASIL_11m58s_LIVERPOOL APROVEITA EXPULSÃO E GOLEIA MANCHESTER UNITED NA ESTREIA DE POCHE"
     ]
   },
   {
     "numero": "34",
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
-      "T1UXXtFZiFo",
       "C7KR0bZOpUI",
       "cXGNrJnvt8U",
       "GOLOQMPr7pE",
       "CP5KQTa_4AE",
+      "T1UXXtFZiFo",
       "ZwtrjHNzLZI",
       "HY6c2jQvpkY",
       "7WLE-9UbwCM",
@@ -1397,11 +1397,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "T1UXXtFZiFo | [VIDEO]_23/11/26_13:37_JOVEMPANESPORTES_15m53s_\"O ABEL FERREIRA ESTÁ MENTINDO!!! Ele DE NOVO FALOU que o FLAMENGO...\"   DE",
       "C7KR0bZOpUI | [VIDEO]_23/11/26_12:56_JOVEMPANESPORTES_24m04s_ATENÇÃO! \"Essa INFORMAÇÃO é ASSUSTADORA! Um REPÓRTER REVELOU que...\" JARDIM",
       "cXGNrJnvt8U | [VIDEO]_23/11/26_14:52_JOVEMPANESPORTES_20m31s_\"QUER APOSTAR??? VOCÊ VAI VER! O PALMEIRAS nessa FINAL da LIBERTADORES vai.",
       "GOLOQMPr7pE | [VIDEO]_23/11/26_14:08_JOVEMPANESPORTES_124m30s_FLAMENGO DECACAMPEÃO BRASILEIRO; PALMEIRAS FOCA NAS DUAS FINAIS; VICE DO GA",
       "CP5KQTa_4AE | [VIDEO]_23/11/26_14:08_JOVEMPANESPORTES_27m12s_MAIOR DA HISTÓRIA? \"Cara, essa ERA do FLAMENGO tem um GRANDE DIFERENCIAL qu",
+      "T1UXXtFZiFo | [VIDEO]_23/11/26_13:37_JOVEMPANESPORTES_15m53s_\"O ABEL FERREIRA ESTÁ MENTINDO!!! Ele DE NOVO FALOU que o FLAMENGO...\"   DE",
       "ZwtrjHNzLZI | [VIDEO]_22/11/26_20:26_JOVEMPANESPORTES_14m57s_\"5 VICES??? É COISA DE LOUCO! Cara, o ATLÉTICO-MG está...\" DERROTA pro BOCA",
       "HY6c2jQvpkY | [VIDEO]_22/11/26_19:35_JOVEMPANESPORTES_90m22s_MAIOR DO BRASIL? DECA DO FLAMENGO É EXALTADO; GALO É VICE DA SULA DE NOVO!",
       "7WLE-9UbwCM | [VIDEO]_22/11/26_15:07_JOVEMPANESPORTES_123m24s_FLAMENGO FAZ HISTÓRIA E FATURA O 10º TÍTULO BRASILEIRO NO ESTÁDIO DO PALMEI",
@@ -1433,6 +1433,7 @@
     "numero": "35",
     "rem": "BAND ESPORTES",
     "videoIds": [
+      "EUK-XyeUOAo",
       "aDGBTijppoo",
       "2DFoNTJnpmo",
       "AePdTavV-gg",
@@ -1461,12 +1462,12 @@
       "Y6CFNfHKRJM",
       "r5cwUmcl3Fg",
       "lhuys-VU9lA",
-      "aoh7GmVCaMk",
-      "2MZv7TY_7B4"
+      "aoh7GmVCaMk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "EUK-XyeUOAo | [VIDEO]_23/11/26_18:00_JOGOABERTO_96m39s_FLAMENGO É DECACAMPEÃO BRASILEIRO APÓS EMPATE COM O PALMEIRAS   REAPRESENTA",
       "aDGBTijppoo | [VIDEO]_23/11/26_13:21_JOGOABERTO_4m20s_PALPITE: INTER X VITÓRIA, BOTAFOGO X SÃO PAULO E SANTOS X GRÊMIO",
       "2DFoNTJnpmo | [VIDEO]_23/11/26_13:16_JOGOABERTO_10m54s_DEBATE: ABEL FERREIRA TEM QUE MUDAR O ESQUEMA DO TIME?",
       "AePdTavV-gg | [VIDEO]_23/11/26_13:08_JOGOABERTO_10m49s_DEBATE: DESGASTE PREJUDICOU O PALMEIRAS NO BRASILEIRÃO?",
@@ -1495,8 +1496,7 @@
       "Y6CFNfHKRJM | [VIDEO]_22/11/26_13:32_BANDESPORTES_13m26s_ELIA JR ELOGIA RETORNO DE VOJVODA AO FORTALEZA: \"UM CARA DIFERENTE\"",
       "r5cwUmcl3Fg | [VIDEO]_22/11/26_13:06_BANDESPORTES_5m04s_ELIA JR CRITICA ATLÉTICO-MG APÓS VICE: \"UMA DAS MAIORES VERGONHAS\"",
       "lhuys-VU9lA | [VIDEO]_22/11/26_13:01_BANDESPORTES_9m57s_ELIA JR CRITICA ABEL FERREIRA POR USAR OS TITULARES CONTRA O FLAMENGO",
-      "aoh7GmVCaMk | [VIDEO]_22/11/26_12:39_BANDESPORTES_5m38s_\"LEONARDO JARDIM NÃO TEM PERMANÊNCIA GARANTIDA NO FLA EM 2027\", DIZ ELIA JR",
-      "2MZv7TY_7B4 | [VIDEO]_22/11/26_12:31_BANDESPORTES_6m54s_Glenda Kozlowski comemora título brasileiro do Flamengo"
+      "aoh7GmVCaMk | [VIDEO]_22/11/26_12:39_BANDESPORTES_5m38s_\"LEONARDO JARDIM NÃO TEM PERMANÊNCIA GARANTIDA NO FLA EM 2027\", DIZ ELIA JR"
     ]
   },
   {
@@ -1893,6 +1893,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "LVYyTS5zfwk",
       "gCrY47CcVNM",
       "jmFgzJ_tVHk",
       "um2Chdb9Fv4",
@@ -1921,12 +1922,12 @@
       "uYbpaAySWCc",
       "DZlPQ4FKKJg",
       "BkGtZA39M4Y",
-      "9HH0vk9Euso",
-      "Xw_xRiyUjMw"
+      "9HH0vk9Euso"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "LVYyTS5zfwk | [VIDEO]_23/11/26_18:00_TECHCIÊNCIA1D_14m44s_POCO X8: bateria gigante e câmera Full HD em 2026",
       "gCrY47CcVNM | [VIDEO]_23/11/26_16:33_TECHCIÊNCIA1C_12m41s_A Verdade Sobre Tentar Recriar o Maior Jogo da Década Sozinha",
       "jmFgzJ_tVHk | [VIDEO]_23/11/26_13:03_TECHCIÊNCIA1C_7m47s_A IA da Anthropic Acaba de Resolver o Maior Mistério da Matemática",
       "um2Chdb9Fv4 | [VIDEO]_22/11/26_12:00_TECHCIÊNCIA1D_41m27s_Xiaomi perdeu o custo-benefício e despencou no Brasil? A marca ainda é rele",
@@ -1955,19 +1956,18 @@
       "uYbpaAySWCc | [VIDEO]_20/11/26_15:52_TECHCIÊNCIA1B_3m12s_Apple na mira de autoridades brasileiras   Leandro Alvarenga",
       "DZlPQ4FKKJg | [VIDEO]_20/11/26_15:44_TECHCIÊNCIA1B_4m02s_Ciberataques pelo mundo: como se proteger?   Leandro Alvarenga",
       "BkGtZA39M4Y | [VIDEO]_20/11/26_14:21_TECHCIÊNCIA1B_7m01s_Conheça seus direitos num apagão digital   Leandro Alvarenga",
-      "9HH0vk9Euso | [VIDEO]_20/11/26_13:16_TECHCIÊNCIA1B_3m24s_iFood sofre ataque hacker, que expõe dados de clientes e entregadores",
-      "Xw_xRiyUjMw | [VIDEO]_20/11/26_13:13_TECHCIÊNCIA1B_4m21s_Voyager 1 enfrenta falha de comunicação a um dia-luz da Terra"
+      "9HH0vk9Euso | [VIDEO]_20/11/26_13:16_TECHCIÊNCIA1B_3m24s_iFood sofre ataque hacker, que expõe dados de clientes e entregadores"
     ]
   },
   {
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
-      "M-WapjDB93c",
       "6avs7xaLl10",
       "ks1UJEkJTFM",
       "aZMb975_BSc",
       "Ad62BMum1LU",
+      "M-WapjDB93c",
       "Mk2XvQahSZ8",
       "enEiMraHxe8",
       "6WvSPuk5t5E",
@@ -1997,11 +1997,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "M-WapjDB93c | [VIDEO]_23/11/26_14:39_TECHCIÊNCIA2C_28m56s_A guerra pelo poder na Polônia - Entenda o que está acontecendo!",
       "6avs7xaLl10 | [VIDEO]_23/11/26_16:00_TECHCIÊNCIA2A_45m20s_A rachadura gigante que despertou novos temores sobre Yellowstone",
       "ks1UJEkJTFM | [VIDEO]_23/11/26_08:00_TECHCIÊNCIA2A_173m52s_Pequenos vulcões escondem um perigo gigantesco que pode surpreender os cien",
       "aZMb975_BSc | [VIDEO]_23/11/26_13:00_TECHCIÊNCIA2A_93m55s_Vulcão adormecido há 700 mil anos está se elevando — o que está acontecendo",
       "Ad62BMum1LU | [VIDEO]_23/11/26_12:00_TECHCIÊNCIA2A_10m34s_O planeta mais próximo do nosso Sol está encolhendo a uma velocidade imposs",
+      "M-WapjDB93c | [VIDEO]_23/11/26_14:39_TECHCIÊNCIA2C_28m56s_A guerra pelo poder na Polônia - Entenda o que está acontecendo!",
       "Mk2XvQahSZ8 | [VIDEO]_22/11/26_22:27_TECHCIÊNCIA2C_60m01s_1 HORA DE CURIOSIDADES DE CASOS REAIS 🔎🤯",
       "enEiMraHxe8 | [VIDEO]_22/11/26_13:00_TECHCIÊNCIA2A_9m51s_Finalmente sabemos o que apagou um bilhão de anos do Grand Canyon",
       "6WvSPuk5t5E | [VIDEO]_22/11/26_19:00_TECHCIÊNCIA2A_123m48s_Nossa galáxia vem crescendo ao consumir outras galáxias há bilhões de anos",
@@ -2103,12 +2103,12 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
-      "-57_x0EL_-w",
       "EUt7nTAr-gU",
       "R3lty54ioi8",
       "SND1Aztydzg",
       "na-ppPLdwGY",
       "ZULSpObEbyY",
+      "-57_x0EL_-w",
       "zCiSezVO8a8",
       "7gZ0beNlrN0",
       "7DVDCzUd_Rg",
@@ -2137,12 +2137,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "-57_x0EL_-w | [VIDEO]_23/11/26_17:00_TVEVANGELIZAR_20m06s_Festival Pé Vermelho terá entrada gratuita e programação diversificada   23",
       "EUt7nTAr-gU | [VIDEO]_23/11/26_16:30_TVEVANGELIZAR_7m10s_A virtude da obediência   Virtudes de Nossa Senhora com Pe. Samuel Fidelis",
       "R3lty54ioi8 | [VIDEO]_23/11/26_15:30_TVEVANGELIZAR_42m49s_Aumento de 12% na venda de remédios para depressão para 'Geração Z'   23/11",
       "SND1Aztydzg | [VIDEO]_23/11/26_14:55_TVEVANGELIZAR_4m53s_Compromisso Cristão diante das opiniões do Mundo   YouCat _Ando",
       "na-ppPLdwGY | [VIDEO]_23/11/26_14:30_TVEVANGELIZAR_26m18s_Hora Boa Pra Evangelizar com Fabiana Wantuch   23/11/26",
       "ZULSpObEbyY | [VIDEO]_23/11/26_13:52_TVEVANGELIZAR_45m08s_Como buscar a conversão diária   23/11/26   Diário Espiritual",
+      "-57_x0EL_-w | [VIDEO]_23/11/26_17:00_TVEVANGELIZAR_20m06s_Festival Pé Vermelho terá entrada gratuita e programação diversificada   23",
       "zCiSezVO8a8 | [VIDEO]_23/11/26_13:44_TVEVANGELIZAR_54m22s_A Marca da Vitória com Tonny Allysson   22/11/26",
       "7gZ0beNlrN0 | [VIDEO]_23/11/26_13:15_TVEVANGELIZAR_4m06s_Oração da Tarde   23/11/26   com @PadreManzottiOficial",
       "7DVDCzUd_Rg | [VIDEO]_23/11/26_15:00_TVEVANGELIZAR_28m39s_Terço e 5º dia da Novena de Jesus das Santas Chagas   23/11/26",
