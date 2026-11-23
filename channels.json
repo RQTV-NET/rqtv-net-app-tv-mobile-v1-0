@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "SLhdQrVL7Tc",
       "aUV4T2hp6TU",
       "iwcB6mZ3ciI",
       "C6uqyYhXpD0",
@@ -38,11 +39,11 @@
       "VX-Jn-g5tw0",
       "M9s8ftB7tis",
       "DJS6I6Js4GE",
-      "SN_RnJgYB2E",
-      "EDBS_Chqe_8"
+      "SN_RnJgYB2E"
     ],
     "playlistId": "",
     "carimbos": [
+      "SLhdQrVL7Tc | [VIDEO]_23/11/26_12:33_G1(JORNALHOJE/MATÉRIAS)_3m01s_Galípolo: Dólar não explica projeções de inflação",
       "aUV4T2hp6TU | [VIDEO]_23/11/26_11:59_G1(JORNALHOJE/MATÉRIAS)_2m10s_Pai e filha presos pelo ICE nos EUA estavam viajando para um batismo",
       "iwcB6mZ3ciI | [VIDEO]_23/11/26_11:39_GLOBONEWS_5m48s_Valdo Cruz: Alta do dólar pressiona governo Lula por novo plano de corte de",
       "C6uqyYhXpD0 | [VIDEO]_23/11/26_11:25_G1(JORNALHOJE/MATÉRIAS)_4m37s_Rio desbanca SP com rua mais cara do Brasil; confira",
@@ -71,8 +72,7 @@
       "VX-Jn-g5tw0 | [VIDEO]_21/11/26_22:49_G1(JORNALHOJE/MATÉRIAS)_3m33s_JN: Data centers nos EUA poluem mais que alguns países",
       "M9s8ftB7tis | [VIDEO]_21/11/26_22:42_JORNALNACIONAL(JN)_3m02s_JN: Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta anual",
       "DJS6I6Js4GE | [VIDEO]_21/11/26_22:34_JORNALNACIONAL(JN)_2m26s_JN: Dois tornados deixam 50 mil casas sem luz no Paraná",
-      "SN_RnJgYB2E | [VIDEO]_21/11/26_22:29_JORNALNACIONAL(JN)_4m48s_JN: Sobe para cinco o número de mortos em Tupanciretã, RS",
-      "EDBS_Chqe_8 | [VIDEO]_21/11/26_18:24_G1(JORNALHOJE/MATÉRIAS)_3m32s_Ajuste fiscal deve ser votado na segunda-feira; Câmara analisa projeto apro"
+      "SN_RnJgYB2E | [VIDEO]_21/11/26_22:29_JORNALNACIONAL(JN)_4m48s_JN: Sobe para cinco o número de mortos em Tupanciretã, RS"
     ]
   },
   {
@@ -639,9 +639,11 @@
     "numero": "10",
     "rem": "TV CULTURA",
     "videoIds": [
-      "jQrLDQeWhxU",
+      "Z39I6hIkLMA",
+      "66K1WCeO6iM",
       "CvZxBnYeXyY",
       "3olTmS23m9I",
+      "jQrLDQeWhxU",
       "mVq4TfwSQTs",
       "nRHZjAfzruk",
       "ybapDn-lOVI",
@@ -664,8 +666,6 @@
       "8MLvVdo7cmw",
       "4zK0IYa0U-4",
       "JSgwrnfIDpc",
-      "JNnPImokcDs",
-      "7W2mxrdK4bY",
       "ZhM3Y7SLj-M",
       "CvoazgrLR1g",
       "fUiZHdvVR7Q"
@@ -673,9 +673,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "jQrLDQeWhxU | ((LIVE))_23/11/26_11:58_TVCULTURAPROGRAMAS_JORNAL DA TARDE   Ajuste fiscal prevê economia de R$ 50 bilhões em 2027   2",
+      "Z39I6hIkLMA | [VIDEO]_23/11/26_12:40_TVCULTURAPROGRAMAS_3m54s_Movimentos defendem indicação de ministra negra ao STF",
+      "66K1WCeO6iM | [VIDEO]_23/11/26_12:32_TVCULTURAPROGRAMAS_3m38s_Brasil é o 3º país mais exposto a tentativas de golpes",
       "CvZxBnYeXyY | [VIDEO]_23/11/26_12:29_TVCULTURAPROGRAMAS_3m38s_Mulheres são apenas 22% dos eleitos para o Congresso em 2026",
       "3olTmS23m9I | [VIDEO]_23/11/26_12:13_TVCULTURAPROGRAMAS_4m00s_OMS alerta para sedentarismo entre adolescentes no mundo",
+      "jQrLDQeWhxU | [VIDEO]_23/11/26_10:28_TVCULTURAPROGRAMAS_47m28s_JORNAL DA TARDE   Ajuste fiscal prevê economia de R$ 50 bilhões em 2027   2",
       "mVq4TfwSQTs | [VIDEO]_21/11/26_22:24_TVCULTURAPROGRAMAS_3m18s_Narcotraficante procurado pelo FBI é preso em operação no México",
       "nRHZjAfzruk | [VIDEO]_21/11/26_22:04_TVCULTURAPROGRAMAS_50m06s_JORNAL DA CULTURA   Lula fala sobre projeto fiscal e programas sociais   21",
       "ybapDn-lOVI | [VIDEO]_21/11/26_21:56_TVCULTURAPROGRAMAS_5m36s_Conflito no Oriente Médio provoca crise energética e ameaça segurança globa",
@@ -698,8 +700,6 @@
       "8MLvVdo7cmw | [VIDEO]_20/11/26_15:27_TVCULTURAPROGRAMAS_3m09s_São Paulo celebra a Consciência Negra com corrida no Pacaembu",
       "4zK0IYa0U-4 | [VIDEO]_20/11/26_15:11_TVCULTURAPROGRAMAS_3m04s_Jovens recorrem à inteligência artificial em busca de amizade",
       "JSgwrnfIDpc | [VIDEO]_20/11/26_12:49_TVCULTURAPROGRAMAS_38m51s_JORNAL DA TARDE   Fachin mantém prisão de Vorcaro e divulga relatório da PF",
-      "JNnPImokcDs | [VIDEO]_19/11/26_23:33_TVCULTURAPROGRAMAS_5m33s_COP31 divulga versão resumida de texto com resultados do encontro",
-      "7W2mxrdK4bY | [VIDEO]_19/11/26_23:26_TVCULTURAPROGRAMAS_3m30s_Lula visita Raoni e assina portaria para terra do líder indígena",
       "ZhM3Y7SLj-M | [VIDEO]_19/11/26_17:30_TVCULTURAJORNALISMO_8m52s_Conceição Tavares avalia educação no país e comenta novo livro erótico",
       "CvoazgrLR1g | [VIDEO]_19/11/26_10:00_TVCULTURAJORNALISMO_8m35s_Conceição Evaristo defende indicação de mulher negra ao STF",
       "fUiZHdvVR7Q | [VIDEO]_12/11/26_16:00_TVCULTURAJORNALISMO_11m22s_Presidente do TSE avalia impacto da \"pejotização\" no mundo do trabalho"
@@ -710,6 +710,8 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "3iLT4L1nRWc",
+      "yjaMHJPZfu4",
+      "OymQEKWwZaI",
       "lxkg_iQek9A",
       "Q8DaF2vy6M8",
       "0DoYEX54DC4",
@@ -736,14 +738,14 @@
       "3gP88S8YbxA",
       "Y0E2jNlYy5M",
       "UAuAHhQUhm4",
-      "CDPg7e6SPPI",
-      "VBXS1H_wTMI",
-      "4tPY9jR2OL8"
+      "CDPg7e6SPPI"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "3iLT4L1nRWc | ((LIVE))_23/11/26_12:01_CBNBRASIL_CBN Brasil - 23/11/2026",
+      "yjaMHJPZfu4 | [VIDEO]_23/11/26_12:41_CBNBRASIL_6m12s_Preocupação sobre política econômica de Lula 4 leva dólar a bater os R$ 6",
+      "OymQEKWwZaI | [VIDEO]_23/11/26_12:40_CBNBRASIL_3m24s_Pacote fiscal: governo busca 257 votos na Câmara em dia de tensão no mercad",
       "lxkg_iQek9A | [VIDEO]_23/11/26_11:24_CBNBRASIL_3m52s_Eduardo Rauen: Como convencer um idoso a começar a fazer exercícios? Confir",
       "Q8DaF2vy6M8 | [VIDEO]_23/11/26_11:19_CBNBRASIL_2m38s_Clube da Corrida: Entenda como dormir pouco pode sabotar seu treino e aumen",
       "0DoYEX54DC4 | [VIDEO]_23/11/26_10:47_CBNBRASIL_13m46s_Black Friday 2026: Saiba como usar inteligência artificial para monitorar p",
@@ -770,15 +772,14 @@
       "3gP88S8YbxA | [VIDEO]_23/11/26_07:27_CBNBRASIL_2m29s_Ajuste fiscal de Lula: Saiba quantos votos o governo precisa para aprovar p",
       "Y0E2jNlYy5M | [VIDEO]_23/11/26_07:26_CBNBRASIL_5m03s_Anthropic faz maior abertura de capital da história; entenda",
       "UAuAHhQUhm4 | [VIDEO]_23/11/26_07:21_CBNBRASIL_2m13s_Felicidade no trabalho: Brasil fica em 4º lugar, à frente de EUA e Alemanha",
-      "CDPg7e6SPPI | [VIDEO]_23/11/26_07:04_CBNBRASIL_4m02s_Previsão do tempo: Semana começa com tempo abafado em SP e alerta para panc",
-      "VBXS1H_wTMI | [VIDEO]_23/11/26_07:31_CBNBRASIL_28m44s_Câmara analisa ajuste fiscal; portaria define regras do fim da 6x1; Brasil",
-      "4tPY9jR2OL8 | [VIDEO]_23/11/26_06:43_CBNBRASIL_3m50s_COP31: Delegações abandonam plenária e conferência termina sem acordo após"
+      "CDPg7e6SPPI | [VIDEO]_23/11/26_07:04_CBNBRASIL_4m02s_Previsão do tempo: Semana começa com tempo abafado em SP e alerta para panc"
     ]
   },
   {
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
+      "fFRzA2crQgo",
       "PDZaZoQmaV0",
       "arpJfnBE6U8",
       "unt8L9-79lo",
@@ -807,12 +808,12 @@
       "mk-0ALDpCKA",
       "my-W-fI_Smk",
       "SDBJC4xCbI4",
-      "K7Hlr_eW8OY",
-      "s_FjS8WRRRc"
+      "K7Hlr_eW8OY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "fFRzA2crQgo | [VIDEO]_23/11/26_12:45_REVISTAOESTE_12m41s_Rodolfo Nogueira propõe CPI para investigar fraudes no crédito rural",
       "PDZaZoQmaV0 | [VIDEO]_23/11/26_12:30_REVISTAOESTE_6m34s_Alfredo Gaspar propõe proibir juízes de abrirem inquéritos por conta própri",
       "arpJfnBE6U8 | [VIDEO]_23/11/26_12:20_REVISTAOESTE_32m50s_Lula diz ter articulado encontro de Putin, Xi e Trump",
       "unt8L9-79lo | [VIDEO]_23/11/26_12:07_REVISTAOESTE_125m45s_OESTE COM ELAS 23/11: BOLSONARO NO HOSPITAL: MORAES AUTORIZA RETIRADA TEMPO",
@@ -841,8 +842,7 @@
       "mk-0ALDpCKA | [VIDEO]_20/11/26_20:37_REVISTAOESTE_173m06s_OESTE SEM FILTRO - MÉDICO NÃO DESCARTA NOVA CIRURGIA EM JAIR BOLSONARO - 20",
       "my-W-fI_Smk | [VIDEO]_20/11/26_20:24_REVISTAOESTE_4m11s_BOLSONARO INTERNADO: Carlos revela 'quadro crítico' do ex-presidente no hos",
       "SDBJC4xCbI4 | [VIDEO]_20/11/26_20:10_REVISTAOESTE_7m51s_URGENTE: Médico de Bolsonaro aponta obstrução intestinal e não descarta nov",
-      "K7Hlr_eW8OY | [VIDEO]_20/11/26_19:49_REVISTAOESTE_5m06s_Lula anuncia ministério para idosos em meio ao descontrole nas contas públi",
-      "s_FjS8WRRRc | [VIDEO]_20/11/26_19:36_REVISTAOESTE_10m57s_MORAES MANDOU PRENDER: M0rte de Clezão na Papuda completa três anos"
+      "K7Hlr_eW8OY | [VIDEO]_20/11/26_19:49_REVISTAOESTE_5m06s_Lula anuncia ministério para idosos em meio ao descontrole nas contas públi"
     ]
   },
   {
@@ -1037,7 +1037,7 @@
       "muy5u4gY9w0 | [VIDEO]_19/11/26_21:22_TVSENADO_714m58s_Ao vivo - TV Senado",
       "Pkdljv-wq28 | [VIDEO]_19/11/26_20:01_TVSENADO_27m56s_Revista da Semana: Ajuste Fiscal e novas regras para prescrição de crimes s",
       "Mp3XZ-YlwD0 | [VIDEO]_19/11/26_19:35_TVSENADO_10m02s_A Voz do Brasil - 19/11/26: Ampliado prazo para vítimas de abuso na infânci",
-      "_pNwG7lFUc8 | [VIDEO]_19/11/26_19:00_TVSENADO_91m09s_Ao vivo: Comemoração dos 30 anos do Coral do Senado – 23/11/26",
+      "_pNwG7lFUc8 | [VIDEO]_19/11/26_19:00_TVSENADO_91m11s_Ao vivo: Comemoração dos 30 anos do Coral do Senado – 23/11/26",
       "8FVnfrMf6CQ | [VIDEO]_19/11/26_17:09_TVSENADO_6m26s_Desaparecimento do menino Edson Davi: Damares Alves se reúne com Polícia Ci",
       "2xXyVZZ3di0 | [VIDEO]_19/11/26_14:37_TVSENADO_88m01s_Congresso celebra os 60 anos da Embratur – 19/11/26",
       "lLWNY22j1KA | [VIDEO]_19/11/26_14:21_TVSENADO_8m51s_Senado acompanha casos de crianças desaparecidas",
