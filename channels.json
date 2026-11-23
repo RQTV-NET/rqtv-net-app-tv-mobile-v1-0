@@ -220,6 +220,8 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "c_z9hQA0Ov4",
+      "u4Cj4pMPeAQ",
+      "TY_-DpDUiNE",
       "JGZ1jhHVAdI",
       "-LlE6NRJ5J0",
       "Lox-I91SNRk",
@@ -246,14 +248,14 @@
       "d8B_WVQCSs8",
       "jyBa6oX4OHc",
       "Wn2fvgBarig",
-      "IV7mttG6b0I",
-      "kjfSrgZScWc",
-      "0rp6vqtWRzE"
+      "IV7mttG6b0I"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "c_z9hQA0Ov4 | ((LIVE))_23/11/26_11:50_CNNBRASIL_AO VIVO: CÂMARA COMEÇA ANÁLISE DE PROJETO DO AJUSTE FISCAL - BASTIDORES CNN",
+      "u4Cj4pMPeAQ | [VIDEO]_23/11/26_12:08_CNNBRASIL_4m02s_Lula prioriza Planalto e área econômica em montagem da Esplanada   LIVE CNN",
+      "TY_-DpDUiNE | [VIDEO]_23/11/26_12:03_CNNBRASIL_3m13s_EUA buscam respostas sobre vendas de chips da Nvidia a China, diz Bessent  ",
       "JGZ1jhHVAdI | [VIDEO]_23/11/26_11:22_CNNBRASIL_6m02s_Nvidia tomou a decisão correta ao reconduzir Jensen Huang, diz Trump   LIVE",
       "-LlE6NRJ5J0 | [VIDEO]_23/11/26_11:19_CNNBRASIL_3m27s_Black Fraude: Procons alertam para o uso de IA em golpes   LIVE CNN",
       "Lox-I91SNRk | [VIDEO]_23/11/26_11:08_CNNBRASIL_4m04s_Relator da Dosimetria vê margem para unanimidade no STF   LIVE CNN",
@@ -280,9 +282,7 @@
       "d8B_WVQCSs8 | [VIDEO]_22/11/26_23:00_CNNBRASIL_19m29s_WW: Plano Moretti enfrentou resistência do mercado e de parte da esquerda  ",
       "jyBa6oX4OHc | [VIDEO]_22/11/26_22:00_CNNBRASIL_2m53s_Nikolas Ferreira ameaçou romper com PL por possível apoio a Hugo   DESTAQUE",
       "Wn2fvgBarig | [VIDEO]_22/11/26_21:30_CNNBRASIL_2m54s_Patrus Transportes supera R$ 1 bilhão em faturamento e mira expansão no Nor",
-      "IV7mttG6b0I | [VIDEO]_22/11/26_21:15_CNNBRASIL_3m59s_CEO da Patrus explica por que não acredita em transportadora que atenda tod",
-      "kjfSrgZScWc | [VIDEO]_22/11/26_21:00_CNNBRASIL_2m26s_COP31 não tem acordo em meio a calor recorde e guerras; veja análise   CNN ",
-      "0rp6vqtWRzE | [VIDEO]_22/11/26_21:00_CNNBRASIL_4m29s_Patrus Transportes revela como usa tecnologia para fazer entregas em até 12"
+      "IV7mttG6b0I | [VIDEO]_22/11/26_21:15_CNNBRASIL_3m59s_CEO da Patrus explica por que não acredita em transportadora que atenda tod"
     ]
   },
   {
@@ -429,6 +429,7 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
+      "bJKl8wlJu9M",
       "aYUvs0XMp38",
       "r_GSGJSOG5A",
       "Os41Ag0n6Ok",
@@ -457,12 +458,12 @@
       "ZVIjAb3aXPg",
       "0-AXbj2J3vw",
       "HFYRiA-6mZI",
-      "DOmtKgzB3FA",
-      "cE5o_9bLfx8"
+      "DOmtKgzB3FA"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "bJKl8wlJu9M | [VIDEO]_23/11/26_12:14_HOJEEMDIA_5m44s_Furto de placas de trânsito causa prejuízo de milhões e coloca motoristas e",
       "aYUvs0XMp38 | [VIDEO]_23/11/26_11:39_JORNALDARECORD_4m13s_COP31 termina sem acordo após impasse sobre uso de combustíveis fósseis",
       "r_GSGJSOG5A | [VIDEO]_23/11/26_11:27_FALABRASIL_2m44s_Novas imagens mostram cantor de pagode com vítima antes de denúncia de estu",
       "Os41Ag0n6Ok | [VIDEO]_23/11/26_11:13_FALABRASIL_4m28s_Tutores acusam hospital veterinário de negligência após morte de filhote em",
@@ -491,8 +492,7 @@
       "ZVIjAb3aXPg | [VIDEO]_20/11/26_12:08_HOJEEMDIA_9m51s_Quero Envelhecer Assim: Idosa de 83 anos faz sucesso dançando em bailes no ",
       "0-AXbj2J3vw | [VIDEO]_20/11/26_10:47_FALABRASIL_2m33s_Médico é afastado após prescrever dose de adulto para bebê de quatro meses ",
       "HFYRiA-6mZI | [VIDEO]_20/11/26_10:20_FALABRASIL_3m38s_Polícia esclarece morte de motorista atingido por pedra na ponte do Jaguaré",
-      "DOmtKgzB3FA | [VIDEO]_19/11/26_12:23_HOJEEMDIA_12m13s_Quero Envelhecer Assim: Casal de idosos inspira com calistenia em Cabo Frio",
-      "cE5o_9bLfx8 | [VIDEO]_19/11/26_11:12_FALABRASIL_2m21s_Atriz Camila Jeronymo denuncia namorado de agressão em São Paulo"
+      "DOmtKgzB3FA | [VIDEO]_19/11/26_12:23_HOJEEMDIA_12m13s_Quero Envelhecer Assim: Casal de idosos inspira com calistenia em Cabo Frio"
     ]
   },
   {
@@ -639,6 +639,8 @@
     "numero": "10",
     "rem": "TV CULTURA",
     "videoIds": [
+      "jQrLDQeWhxU",
+      "3olTmS23m9I",
       "mVq4TfwSQTs",
       "nRHZjAfzruk",
       "ybapDn-lOVI",
@@ -666,13 +668,13 @@
       "-2jKCu4KlBs",
       "UGQ2prNQht0",
       "7_EGO-g3s-Q",
-      "Qngx2WTqx-k",
-      "ZhM3Y7SLj-M",
-      "CvoazgrLR1g"
+      "Qngx2WTqx-k"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "jQrLDQeWhxU | ((LIVE))_23/11/26_11:58_TVCULTURAPROGRAMAS_JORNAL DA TARDE   Ajuste fiscal prevê economia de R$ 50 bilhões em 2027   2",
+      "3olTmS23m9I | [VIDEO]_23/11/26_12:13_TVCULTURAPROGRAMAS_4m00s_OMS alerta para sedentarismo entre adolescentes no mundo",
       "mVq4TfwSQTs | [VIDEO]_21/11/26_22:24_TVCULTURAPROGRAMAS_3m18s_Narcotraficante procurado pelo FBI é preso em operação no México",
       "nRHZjAfzruk | [VIDEO]_21/11/26_22:04_TVCULTURAPROGRAMAS_50m06s_JORNAL DA CULTURA   Lula fala sobre projeto fiscal e programas sociais   21",
       "ybapDn-lOVI | [VIDEO]_21/11/26_21:56_TVCULTURAPROGRAMAS_5m36s_Conflito no Oriente Médio provoca crise energética e ameaça segurança globa",
@@ -700,15 +702,14 @@
       "-2jKCu4KlBs | [VIDEO]_19/11/26_23:18_TVCULTURAPROGRAMAS_4m32s_Opas revoga certificação dos EUA como \"país livre do sarampo\"",
       "UGQ2prNQht0 | [VIDEO]_19/11/26_23:14_TVCULTURAPROGRAMAS_5m51s_Fachin pede parecer da PGR sobre relação de ministros com Vorcaro",
       "7_EGO-g3s-Q | [VIDEO]_19/11/26_23:06_TVCULTURAPROGRAMAS_4m07s_Casos de Mpox avançam no Brasil e somam mais de mil em 2026",
-      "Qngx2WTqx-k | [VIDEO]_19/11/26_23:01_TVCULTURAPROGRAMAS_7m49s_China, EUA e Rússia afirmam que \"guerra nuclear não pode ser vencida\"",
-      "ZhM3Y7SLj-M | [VIDEO]_19/11/26_17:30_TVCULTURAJORNALISMO_8m52s_Conceição Tavares avalia educação no país e comenta novo livro erótico",
-      "CvoazgrLR1g | [VIDEO]_19/11/26_10:00_TVCULTURAJORNALISMO_8m35s_Conceição Evaristo defende indicação de mulher negra ao STF"
+      "Qngx2WTqx-k | [VIDEO]_19/11/26_23:01_TVCULTURAPROGRAMAS_7m49s_China, EUA e Rússia afirmam que \"guerra nuclear não pode ser vencida\""
     ]
   },
   {
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "3iLT4L1nRWc",
       "lxkg_iQek9A",
       "Q8DaF2vy6M8",
       "0DoYEX54DC4",
@@ -737,12 +738,12 @@
       "Y0E2jNlYy5M",
       "UAuAHhQUhm4",
       "CDPg7e6SPPI",
-      "4tPY9jR2OL8",
-      "_WYUHON7fyQ"
+      "4tPY9jR2OL8"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "3iLT4L1nRWc | ((LIVE))_23/11/26_12:01_CBNBRASIL_CBN Brasil - 23/11/2026",
       "lxkg_iQek9A | [VIDEO]_23/11/26_11:24_CBNBRASIL_3m52s_Eduardo Rauen: Como convencer um idoso a começar a fazer exercícios? Confir",
       "Q8DaF2vy6M8 | [VIDEO]_23/11/26_11:19_CBNBRASIL_2m38s_Clube da Corrida: Entenda como dormir pouco pode sabotar seu treino e aumen",
       "0DoYEX54DC4 | [VIDEO]_23/11/26_10:47_CBNBRASIL_13m46s_Black Friday 2026: Saiba como usar inteligência artificial para monitorar p",
@@ -771,14 +772,15 @@
       "Y0E2jNlYy5M | [VIDEO]_23/11/26_07:26_CBNBRASIL_5m03s_Anthropic faz maior abertura de capital da história; entenda",
       "UAuAHhQUhm4 | [VIDEO]_23/11/26_07:21_CBNBRASIL_2m13s_Felicidade no trabalho: Brasil fica em 4º lugar, à frente de EUA e Alemanha",
       "CDPg7e6SPPI | [VIDEO]_23/11/26_07:04_CBNBRASIL_4m02s_Previsão do tempo: Semana começa com tempo abafado em SP e alerta para panc",
-      "4tPY9jR2OL8 | [VIDEO]_23/11/26_06:43_CBNBRASIL_3m50s_COP31: Delegações abandonam plenária e conferência termina sem acordo após",
-      "_WYUHON7fyQ | [VIDEO]_23/11/26_06:35_CBNBRASIL_12m20s_Motta acelera tramitação e Câmara vota hoje ajuste fiscal de Lula; texto do"
+      "4tPY9jR2OL8 | [VIDEO]_23/11/26_06:43_CBNBRASIL_3m50s_COP31: Delegações abandonam plenária e conferência termina sem acordo após"
     ]
   },
   {
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
+      "unt8L9-79lo",
+      "YOV8rH3Gnns",
       "jsU46N3yFOc",
       "V65c3e_bhJk",
       "FTYBzMJAawA",
@@ -806,13 +808,13 @@
       "K7Hlr_eW8OY",
       "s_FjS8WRRRc",
       "1w9K_KA3-a8",
-      "bIKsMzsY37s",
-      "-XACL4WhlMc",
-      "unt8L9-79lo"
+      "bIKsMzsY37s"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "unt8L9-79lo | [VIDEO]_23/11/26_12:07_REVISTAOESTE_125m45s_OESTE COM ELAS 23/11: BOLSONARO NO HOSPITAL: MORAES AUTORIZA RETIRADA TEMPO",
+      "YOV8rH3Gnns | [VIDEO]_23/11/26_12:06_REVISTAOESTE_12m47s_Alexandre de Moraes acompanha Dino e denúncia contra deputado avança no STF",
       "jsU46N3yFOc | [VIDEO]_23/11/26_11:35_REVISTAOESTE_5m38s_PGR recebe representação contra Carlos Jordy por fala sobre Lula",
       "V65c3e_bhJk | [VIDEO]_23/11/26_11:25_REVISTAOESTE_8m06s_Flávio Bolsonaro chama Congresso de capacho do governo Lula",
       "FTYBzMJAawA | [VIDEO]_23/11/26_11:15_REVISTAOESTE_5m38s_Comentarista diz que eleitor de Lula tem déficit cognitivo",
@@ -840,9 +842,7 @@
       "K7Hlr_eW8OY | [VIDEO]_20/11/26_19:49_REVISTAOESTE_5m06s_Lula anuncia ministério para idosos em meio ao descontrole nas contas públi",
       "s_FjS8WRRRc | [VIDEO]_20/11/26_19:36_REVISTAOESTE_10m57s_MORAES MANDOU PRENDER: M0rte de Clezão na Papuda completa três anos",
       "1w9K_KA3-a8 | [VIDEO]_20/11/26_19:19_REVISTAOESTE_8m48s_MILEI X LULA: Argentina inaugura 1ª loja da Tesla e afunda Brasil na vangua",
-      "bIKsMzsY37s | [VIDEO]_20/11/26_19:03_REVISTAOESTE_11m36s_Jornalista 'pesadelo de Moraes' cobra cooperação dos EUA no caso Filipe Mar",
-      "-XACL4WhlMc | [VIDEO]_20/11/26_18:41_REVISTAOESTE_9m03s_CASO MASTER: Mendonça age na contramão de Moraes e torna público relatório ",
-      "unt8L9-79lo | [VIDEO]_17/11/26_16:11_REVISTAOESTE_125m53s_OESTE COM ELAS 23/11: BOLSONARO NO HOSPITAL: MORAES AUTORIZA RETIRADA TEMPO"
+      "bIKsMzsY37s | [VIDEO]_20/11/26_19:03_REVISTAOESTE_11m36s_Jornalista 'pesadelo de Moraes' cobra cooperação dos EUA no caso Filipe Mar"
     ]
   },
   {
@@ -864,8 +864,8 @@
       "IKwaXWnnP2k",
       "0zGoRLB2aq8",
       "_Rb1Y5IXipQ",
-      "6xU0ndeNBgs",
       "cuLc4z7OgSc",
+      "6xU0ndeNBgs",
       "B0Cbu1BGLRo",
       "IfyWEcxKEQ4",
       "0H2Xi88r-kg",
@@ -898,8 +898,8 @@
       "IKwaXWnnP2k | [VIDEO]_23/11/26_08:42_METRÓPOLES_7m05s_Pimenta: governo brigará na Câmara para aprovar ajuste fiscal sem emendas",
       "0zGoRLB2aq8 | [VIDEO]_23/11/26_08:31_METRÓPOLES_5m15s_Câmara tenta votar ajuste fiscal nesta segunda e relatoria evita mudanças",
       "_Rb1Y5IXipQ | [VIDEO]_23/11/26_08:27_METRÓPOLES_14m01s_Ajuste fiscal: Lula defende pacote e diz que não haverá cortes sociais",
-      "6xU0ndeNBgs | [VIDEO]_23/11/26_08:25_METRÓPOLES_11m19s_Disputa no STF: Alcolumbre insiste em Pacheco para vaga no Supremo e Moraes",
       "cuLc4z7OgSc | [VIDEO]_18/11/26_11:03_METRÓPOLES_119m24s_ÍNTEGRA: cinco morrem em temporal de Tupanciretã   Chuvas em São Paulo   Bo",
+      "6xU0ndeNBgs | [VIDEO]_23/11/26_08:25_METRÓPOLES_11m19s_Disputa no STF: Alcolumbre insiste em Pacheco para vaga no Supremo e Moraes",
       "B0Cbu1BGLRo | [VIDEO]_23/11/26_00:03_METRÓPOLES_59m00s_AO VIVO: entrevista com médico que já operou Bolsonaro   Tempestade no RS v",
       "IfyWEcxKEQ4 | [VIDEO]_22/11/26_15:51_METRÓPOLES_2m27s_Governo dos EUA revela documentos sobre o Pé Grande; veja o que foi descobe",
       "0H2Xi88r-kg | [VIDEO]_22/11/26_15:43_METRÓPOLES_2m16s_México captura narcotraficante que está entre os dez mais procurados pelo F",
