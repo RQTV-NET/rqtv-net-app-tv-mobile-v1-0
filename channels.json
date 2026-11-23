@@ -359,6 +359,8 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
+      "Ag5drTSC8GI",
+      "m2n_volz3eM",
       "4XP4GAPrbzo",
       "dZPI5oyFY4g",
       "chtzyIp8goQ",
@@ -370,8 +372,6 @@
       "J_-Q8xLtHB4",
       "lkKLR4Qld2M",
       "jOClGvtSJFY",
-      "KJ626QqwESQ",
-      "dz31gC8XQPg",
       "-cBqBbLLDRc",
       "q7JnILtbuFs",
       "UXvhy4XtV8c",
@@ -393,6 +393,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "Ag5drTSC8GI | [VIDEO]_23/11/26_14:42_JOVEMPANNEWS_2m29s_13º salário deve ser pago até a próxima segunda (30)   TEMPO REAL",
+      "m2n_volz3eM | [VIDEO]_23/11/26_14:39_JOVEMPANNEWS_6m53s_STF analisa Lei da Dosimetria entre 4 e 15 de dezembro   TEMPO REAL",
       "4XP4GAPrbzo | [VIDEO]_23/11/26_14:26_JOVEMPANNEWS_4m09s_Portaria do Trabalho detalha regras da escala 5x2   TEMPO REAL",
       "dZPI5oyFY4g | [VIDEO]_23/11/26_06:57_JOVEMPANNEWS_2m58s_Ataque russo deixa mortos e destrói prédio na Ucrânia",
       "chtzyIp8goQ | [VIDEO]_23/11/26_06:56_JOVEMPANNEWS_4m04s_Fim da escala 6x1 pode elevar preços nos bares; Kobayashi comenta",
@@ -404,8 +406,6 @@
       "J_-Q8xLtHB4 | [VIDEO]_23/11/26_05:50_JOVEMPANNEWS_6m10s_Mercado ilegal de jogos cresce no Brasil, diz estudo",
       "lkKLR4Qld2M | [VIDEO]_23/11/26_05:43_JOVEMPANNEWS_4m42s_El Niño pode encarecer alimentos e energia em 2027",
       "jOClGvtSJFY | [VIDEO]_23/11/26_05:35_JOVEMPANNEWS_5m20s_Prefeitos temem impacto da escala 5x2 nos serviços públicos",
-      "KJ626QqwESQ | [VIDEO]_23/11/26_05:29_JOVEMPANNEWS_3m41s_Anvisa vai decidir sobre manipulações de emagrecedores",
-      "dz31gC8XQPg | [VIDEO]_23/11/26_05:24_JOVEMPANNEWS_5m20s_Ajuste fiscal limitado preocupa empresários",
       "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta ",
       "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs",
       "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site",
@@ -499,6 +499,7 @@
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
+      "pjBqf4sxezY",
       "Q2D-c9j-p_Y",
       "G0B6AwEhE1g",
       "mX0Xsv4730I",
@@ -527,12 +528,12 @@
       "ezqut6o-rnQ",
       "Kj4m7PMJa1Y",
       "DF3nrcIGm2o",
-      "aMk3Kf6dqwM",
-      "EkHtRxATkyM"
+      "aMk3Kf6dqwM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "pjBqf4sxezY | [VIDEO]_23/11/26_14:37_BANDJORNALISMO_18m08s_Câmara vota pacote econômico do governo   BandNews TV",
       "Q2D-c9j-p_Y | [VIDEO]_23/11/26_13:23_BANDJORNALISMO_13m26s_Prefeitos poderão ter Polícia Municipal após PEC da Segurança   BandNews TV",
       "G0B6AwEhE1g | [VIDEO]_23/11/26_13:06_BANDJORNALISMO_4m04s_Seleção feminina começa a receber delegação do Japão nos amistosos   BandNe",
       "mX0Xsv4730I | [VIDEO]_23/11/26_13:06_BANDJORNALISMO_6m34s_Dólar bate R$ 6 pela primeira vez desde abril de 2025",
@@ -561,8 +562,7 @@
       "ezqut6o-rnQ | [VIDEO]_20/11/26_16:06_MELHORDATARDE_5m39s_Murilo Benício revela perda de 12 kg com acompanhamento médico   Melhor da ",
       "Kj4m7PMJa1Y | [VIDEO]_20/11/26_16:00_MELHORDATARDE_2m44s_Globo aposta em Avenida Brasil e futebol para atrair marcas   Melhor da Tar",
       "DF3nrcIGm2o | [VIDEO]_20/11/26_15:10_MELHORDATARDE_2m29s_Canetas emagrecedoras impulsionam pesquisas para ganho de músculo   Melhor ",
-      "aMk3Kf6dqwM | [VIDEO]_20/11/26_15:07_MELHORDATARDE_4m30s_Acessórios de luxo de jogadores chamam atenção pelos valores milionários   ",
-      "EkHtRxATkyM | [VIDEO]_20/11/26_15:00_MELHORDATARDE_4m33s_Futebol inspira ensaios de cueca com Neymar, Messi e Cristiano   Melhor da "
+      "aMk3Kf6dqwM | [VIDEO]_20/11/26_15:07_MELHORDATARDE_4m30s_Acessórios de luxo de jogadores chamam atenção pelos valores milionários   "
     ]
   },
   {
@@ -709,6 +709,9 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "okwCWfAdQSU",
+      "3iLT4L1nRWc",
+      "JH8BBVgs6Ac",
       "B_LsqqdENu4",
       "2JAtuVqWZX0",
       "tPxm8jk5cwQ",
@@ -729,20 +732,20 @@
       "hCL3l38dsvU",
       "iAVcEZl6HwI",
       "8H4xYPEIALA",
-      "zcGViqzv-Bk",
       "LV5pZLJ3Nto",
+      "zcGViqzv-Bk",
       "LFhqMg3brfw",
       "h2wEymbtMlc",
-      "3iLT4L1nRWc",
       "8B1rl8402os",
       "vpnZVI6jIYo",
-      "IbRkGgV7hrc",
-      "tYUZpg2xHa4",
-      "30bXwtslQz0"
+      "IbRkGgV7hrc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "okwCWfAdQSU | [VIDEO]_23/11/26_14:43_CBNBRASIL_4m46s_Vera Magalhães: governo Lula sabe que precisa dar resposta adicional ao mer",
+      "3iLT4L1nRWc | [VIDEO]_23/11/26_14:34_CBNBRASIL_122m15s_CBN Brasil - 23/11/2026",
+      "JH8BBVgs6Ac | [VIDEO]_23/11/26_14:33_CBNBRASIL_2m26s_CVM suspende registro da Ambipar, Refit e mais 3 empresas e trava negociaçã",
       "B_LsqqdENu4 | [VIDEO]_23/11/26_14:04_CBNBRASIL_2m17s_Chacina de Ribeirão das Neves: 8 réus vão a júri popular histórico em BH",
       "2JAtuVqWZX0 | [VIDEO]_23/11/26_13:59_CBNBRASIL_3m11s_Bolsonaro segue internado na UTI: Alexandre de Moraes autoriza retirada de ",
       "tPxm8jk5cwQ | [VIDEO]_23/11/26_13:55_CBNBRASIL_6m19s_Black Friday: saiba como evitar golpes e comprar com segurança",
@@ -763,16 +766,13 @@
       "hCL3l38dsvU | [VIDEO]_23/11/26_10:13_CBNBRASIL_2m42s_Parada do Orgulho LGBT+ no Rio reúne multidão e celebra 15 anos da união es",
       "iAVcEZl6HwI | [VIDEO]_23/11/26_09:53_CBNBRASIL_3m10s_Governo prepara projeto para barrar supersalários e economizar até R$ 3 bil",
       "8H4xYPEIALA | [VIDEO]_23/11/26_09:46_CBNBRASIL_3m09s_Próxima temporada de dengue é imprevisível e países precisam se preparar pa",
-      "zcGViqzv-Bk | [VIDEO]_23/11/26_09:35_CBNBRASIL_3m20s_Chuva forte atinge Aparecida e deixa dezenas de famílias desabrigadas; esta",
       "LV5pZLJ3Nto | [VIDEO]_23/11/26_09:30_CBNBRASIL_149m37s_CBN Rio - 23/11/2026",
+      "zcGViqzv-Bk | [VIDEO]_23/11/26_09:35_CBNBRASIL_3m20s_Chuva forte atinge Aparecida e deixa dezenas de famílias desabrigadas; esta",
       "LFhqMg3brfw | [VIDEO]_23/11/26_09:29_CBNBRASIL_2m47s_Lula caminha para colocar Camilo Santana na Casa Civil, ministério que indi",
       "h2wEymbtMlc | [VIDEO]_23/11/26_09:22_CBNBRASIL_2m59s_Bombardeios russos deixam mortos e destroem prédios perto de Kiev em nova o",
-      "3iLT4L1nRWc | [VIDEO]_22/11/26_08:20_CBNBRASIL_121m59s_CBN Brasil - 23/11/2026",
       "8B1rl8402os | [VIDEO]_23/11/26_09:09_CBNBRASIL_6m38s_Ventos de quase 200 km/h deixaram rastro de destruição após temporal em Tup",
       "vpnZVI6jIYo | [VIDEO]_23/11/26_08:51_CBNBRASIL_3m43s_ESPM coloca segurança privada nas ruas após aumento de assaltos na Vila Mar",
-      "IbRkGgV7hrc | [VIDEO]_23/11/26_08:37_CBNBRASIL_2m43s_Chuvas no ES: Bombeiros encontram corpo de idoso levado por rompimento de b",
-      "tYUZpg2xHa4 | [VIDEO]_23/11/26_08:28_CBNBRASIL_2m59s_Amante de ex-CEO da Nvidia manteve contato direto com agente do governo da",
-      "30bXwtslQz0 | [VIDEO]_23/11/26_08:21_CBNBRASIL_2m43s_Previdência dos militares fica fora do corte de gastos de Lula; rombo anula"
+      "IbRkGgV7hrc | [VIDEO]_23/11/26_08:37_CBNBRASIL_2m43s_Chuvas no ES: Bombeiros encontram corpo de idoso levado por rompimento de b"
     ]
   },
   {
@@ -851,6 +851,7 @@
     "videoIds": [
       "UdhsEWdbC3k",
       "m2vf5LF7Yjg",
+      "OlpfQQqKMGw",
       "hWna1sWs3J8",
       "p7mzJKdO2OI",
       "5PvYYHoq8VE",
@@ -863,8 +864,8 @@
       "YccM6T69oj0",
       "uUlrg8SuxpE",
       "YsEBe4jKj3Q",
-      "6vLXrwdsdkY",
       "cuLc4z7OgSc",
+      "6vLXrwdsdkY",
       "0GnvzgwiFio",
       "IKwaXWnnP2k",
       "0zGoRLB2aq8",
@@ -877,14 +878,14 @@
       "FEMktLtJ-_8",
       "GCwNq_w9U4M",
       "xq9bCxNuq7M",
-      "gIESRyXtlnA",
-      "B0grBLOeS54"
+      "gIESRyXtlnA"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "UdhsEWdbC3k | ((LIVE))_23/11/26_14:30_METRÓPOLES_AO VIVO I  Talk - Educação do Amanhã 2026 - As ideias que estão moldando o ",
       "m2vf5LF7Yjg | ((LIVE))_23/11/26_13:04_METRÓPOLES_Matheus Leitão ao vivo: dólar chega a R$ 6 com expectativa de votação do aj",
+      "OlpfQQqKMGw | [VIDEO]_23/11/26_14:35_METRÓPOLES_14m40s_Reinaldo Azevedo - Setores de esquerda compraram o discurso da direita do a",
       "hWna1sWs3J8 | [VIDEO]_23/11/26_14:19_METRÓPOLES_8m48s_Reinaldo Azevedo - Mercado exige ajuste contra os pobres e alimenta roteiro",
       "p7mzJKdO2OI | [VIDEO]_23/11/26_14:03_METRÓPOLES_26m22s_Reinaldo Azevedo - Galípolo fala o que o mercado quer ouvir e ainda dá palp",
       "5PvYYHoq8VE | [VIDEO]_23/11/26_10:55_METRÓPOLES_4m49s_“É uma corrida contra o tempo”: RS tenta recuperar telhados antes de novas ",
@@ -897,8 +898,8 @@
       "YccM6T69oj0 | [VIDEO]_23/11/26_09:06_METRÓPOLES_3m16s_Temporal provoca afogamentos na zona sul de SP e derruba forro de shopping ",
       "uUlrg8SuxpE | [VIDEO]_23/11/26_09:03_METRÓPOLES_3m25s_Caso de blackface em clínica de SP leva Erika Hilton a acionar Ministério P",
       "YsEBe4jKj3Q | [VIDEO]_23/11/26_08:56_METRÓPOLES_2m09s_Flávio admite não ter provas de fraude eleitoral: \"Proibido de investigar\"",
-      "6vLXrwdsdkY | [VIDEO]_23/11/26_08:54_METRÓPOLES_14m34s_\"Nunca vi nada parecido\", diz Paulo Pimenta sobre desastre climático em Tup",
       "cuLc4z7OgSc | [VIDEO]_18/11/26_11:03_METRÓPOLES_119m24s_ÍNTEGRA: cinco morrem em temporal de Tupanciretã   Chuvas em São Paulo   Bo",
+      "6vLXrwdsdkY | [VIDEO]_23/11/26_08:54_METRÓPOLES_14m34s_\"Nunca vi nada parecido\", diz Paulo Pimenta sobre desastre climático em Tup",
       "0GnvzgwiFio | [VIDEO]_23/11/26_08:45_METRÓPOLES_5m12s_Bolsonaro segue na UTI, estável e sem previsão de alta, diz boletim",
       "IKwaXWnnP2k | [VIDEO]_23/11/26_08:42_METRÓPOLES_7m05s_Pimenta: governo brigará na Câmara para aprovar ajuste fiscal sem emendas",
       "0zGoRLB2aq8 | [VIDEO]_23/11/26_08:31_METRÓPOLES_5m15s_Câmara tenta votar ajuste fiscal nesta segunda e relatoria evita mudanças",
@@ -911,8 +912,7 @@
       "FEMktLtJ-_8 | [VIDEO]_22/11/26_12:39_METRÓPOLES_5m26s_Flamengo campeão do Brasileirão, Boca Juniors levantta a taça e Verstappen",
       "GCwNq_w9U4M | [VIDEO]_22/11/26_12:37_METRÓPOLES_2m03s_Casal é preso com arma e drogas após denúncia de furto de carro no DF",
       "xq9bCxNuq7M | [VIDEO]_22/11/26_12:25_METRÓPOLES_3m04s_Homem ameaça criança com faca e espanca companheira e enteado no Entorno",
-      "gIESRyXtlnA | [VIDEO]_22/11/26_12:20_METRÓPOLES_5m24s_Cidade devastada no RS recebe reforço federal após mortes e destruição",
-      "B0grBLOeS54 | [VIDEO]_22/11/26_12:06_METRÓPOLES_9m01s_Alerta no RS: Bombeiros revelam como se proteger de tempestades devastadora"
+      "gIESRyXtlnA | [VIDEO]_22/11/26_12:20_METRÓPOLES_5m24s_Cidade devastada no RS recebe reforço federal após mortes e destruição"
     ]
   },
   {
@@ -991,6 +991,8 @@
     "videoIds": [
       "7di1xcZQkFU",
       "tM7q4wC_4ks",
+      "3Rvfp_v6xHU",
+      "BwIluF_btQU",
       "POhAFi3hsrg",
       "_pNwG7lFUc8",
       "muFEp6htzNU",
@@ -1000,7 +1002,6 @@
       "sSoQ_GHCf14",
       "TeAV0tpqvqo",
       "pq4QwJrLO7M",
-      "3Rvfp_v6xHU",
       "8H5ks6GHUX4",
       "fO9TK7mbYwE",
       "TO3oHDGPbh0",
@@ -1017,14 +1018,15 @@
       "SJabhQFhXTQ",
       "U-B2gqOcyh8",
       "G58Ote_x-Mw",
-      "Jt_ll9nVk6M",
-      "y1Gx3vSpBPQ"
+      "Jt_ll9nVk6M"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "7di1xcZQkFU | ((LIVE))_23/11/26_14:00_TVSENADO_Ao vivo: Sessão Não Deliberativa do Plenário – 23/11/26",
       "tM7q4wC_4ks | ((LIVE))_23/11/26_08:01_TVSENADO_Ao vivo - TV Senado",
+      "3Rvfp_v6xHU | [VIDEO]_23/11/26_14:42_TVSENADO_20m23s_Senado Notícias ao vivo: confira as últimas notícias do dia",
+      "BwIluF_btQU | [VIDEO]_23/11/26_14:33_TVSENADO_2m07s_Os 30 anos do Coral do Senado são celebrados em sessão especial",
       "POhAFi3hsrg | [VIDEO]_23/11/26_14:10_TVSENADO_3m12s_Dificuldades dos pacientes com fibrose pulmonar foram destacadas em debate ",
       "_pNwG7lFUc8 | [VIDEO]_23/11/26_12:48_TVSENADO_91m11s_Ao vivo: Comemoração dos 30 anos do Coral do Senado – 23/11/26",
       "muFEp6htzNU | [VIDEO]_23/11/26_12:29_TVSENADO_138m03s_Ao vivo: Comissões discutem desafios relacionados à Fibrose Pulmonar no Bra",
@@ -1034,7 +1036,6 @@
       "sSoQ_GHCf14 | [VIDEO]_23/11/26_10:24_TVSENADO_3m50s_Escala 5x2 começa em 16 de dezembro; decreto muda cálculo da hora extra",
       "TeAV0tpqvqo | [VIDEO]_23/11/26_09:29_TVSENADO_122m26s_Conexão Senado (23/11/2026)",
       "pq4QwJrLO7M | [VIDEO]_23/11/26_09:01_TVSENADO_23m22s_Edição da Manhã: CDH acompanha desaparecimento de menino no Rio de Janeiro",
-      "3Rvfp_v6xHU | [VIDEO]_23/11/26_07:33_TVSENADO_20m18s_Senado Notícias ao vivo: confira as últimas notícias do dia",
       "8H5ks6GHUX4 | [VIDEO]_20/11/26_20:57_TVSENADO_3m38s_CDH vai ao Rio de Janeiro acompanhar caso Edson Davi e discutir prevenção a",
       "fO9TK7mbYwE | [VIDEO]_20/11/26_18:06_TVSENADO_25m22s_População negra: política de saúde busca enfrentar vulnerabilidade",
       "TO3oHDGPbh0 | [VIDEO]_19/11/26_21:41_TVSENADO_4m55s_Edson Davi: desaparecimento do menino de 6 anos, no Rio, mobiliza Comissão ",
@@ -1051,8 +1052,7 @@
       "SJabhQFhXTQ | [VIDEO]_19/11/26_11:24_TVSENADO_15m21s_Entrevista   Livro debate racismo e antirracismo no Brasil   Conexão Senado",
       "U-B2gqOcyh8 | [VIDEO]_19/11/26_11:17_TVSENADO_6m37s_Senado Verifica   Fake news sobre o fim da escala 6x1   Conexão Senado 19/1",
       "G58Ote_x-Mw | [VIDEO]_19/11/26_11:13_TVSENADO_3m06s_Dedo de Prosa   Palavra do ano: \"humano\"   Conexão Senado 19/11/26",
-      "Jt_ll9nVk6M | [VIDEO]_19/11/26_09:17_TVSENADO_35m26s_Edição da Manhã: Comissão de Direitos Humanos apura desaparecimento do meni",
-      "y1Gx3vSpBPQ | [VIDEO]_19/11/26_09:14_TVSENADO_120m55s_Conexão Senado (19/11/2026)"
+      "Jt_ll9nVk6M | [VIDEO]_19/11/26_09:17_TVSENADO_35m26s_Edição da Manhã: Comissão de Direitos Humanos apura desaparecimento do meni"
     ]
   },
   {
