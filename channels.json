@@ -382,13 +382,13 @@
       "6EqK-Ei9l5c",
       "HCSsqHInwZ8",
       "uArjk4xLOJY",
-      "M_xiVLPBTcg",
       "-cBqBbLLDRc",
       "q7JnILtbuFs",
       "UXvhy4XtV8c",
       "hD6HBcKKJro",
       "iiVjeWzU8VQ",
-      "pbYC3UpLVGE"
+      "pbYC3UpLVGE",
+      "fqKUQCOQAr0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
@@ -416,13 +416,13 @@
       "6EqK-Ei9l5c | [VIDEO]_22/11/26_12:47_JOVEMPANNEWS_2m27s_Alta dos alimentos pressiona inflação; Denise Campos de Toledo analisa",
       "HCSsqHInwZ8 | [VIDEO]_22/11/26_12:40_JOVEMPANNEWS_13m57s_Carlos Bocuhy analisa impasse climático e papel do petróleo na COP31",
       "uArjk4xLOJY | [VIDEO]_22/11/26_12:23_JOVEMPANNEWS_21m59s_Sebastião Melo analisa impacto da escala 6x1 e ajuste nas contas",
-      "M_xiVLPBTcg | [VIDEO]_22/11/26_11:53_JOVEMPANNEWS_5m36s_Chefe da Educação na Coreia do Sul cai após fraude com IA",
       "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta ",
       "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs",
       "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site",
       "hD6HBcKKJro | [VIDEO]_20/11/26_18:32_OSPINGOSNOSIS_6m46s_Após pedido de destaque de Zanin julgamento de Marcel van Hattem será prese",
       "iiVjeWzU8VQ | [VIDEO]_20/11/26_18:27_OSPINGOSNOSIS_13m50s_PF não encontra diálogo direto entre Vorcaro e André Mendonça após quebra d",
-      "pbYC3UpLVGE | [VIDEO]_19/11/26_20:38_OSPINGOSNOSIS_8m08s_Rogério Marinho critica governo e aponta alta de preços"
+      "pbYC3UpLVGE | [VIDEO]_19/11/26_20:38_OSPINGOSNOSIS_8m08s_Rogério Marinho critica governo e aponta alta de preços",
+      "fqKUQCOQAr0 | [VIDEO]_19/11/26_20:32_OSPINGOSNOSIS_5m07s_PGR denuncia Flávio Bolsonaro por calúnia contra Lula"
     ]
   },
   {
@@ -709,6 +709,7 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "X7qX6rIogA4",
       "cj1e6AOjzw0",
       "nEunxUTl13A",
       "Iy2e3HSwQ_c",
@@ -737,12 +738,12 @@
       "tKTijJtlrPs",
       "JkZCWZZTptw",
       "-1qlEasLZEc",
-      "srBSnM0hY1s",
-      "aH6K9tTa8as"
+      "srBSnM0hY1s"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "X7qX6rIogA4 | ((LIVE))_23/11/26_05:01_CBNBRASIL_CBN Primeiras Notícias - 23/11/2026",
       "cj1e6AOjzw0 | [VIDEO]_23/11/26_01:16_CBNBRASIL_4m36s_Proposta para acabar com supersalários; COP31 termina sem acordo final",
       "nEunxUTl13A | [VIDEO]_22/11/26_09:15_CBNBRASIL_29m52s_CBN Sustentabilidade recebe Edson Franco, CEO da Zurich Seguros",
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
@@ -771,8 +772,7 @@
       "tKTijJtlrPs | [VIDEO]_21/11/26_08:17_CBNBRASIL_94m36s_Fim de Expediente recebe a atriz Jennifer Nascimento - 20/11/26",
       "JkZCWZZTptw | [VIDEO]_21/11/26_06:38_CBNBRASIL_87m31s_Ponto Final CBN - 20/11/2026",
       "-1qlEasLZEc | [VIDEO]_21/11/26_01:27_CBNBRASIL_173m07s_CBN São Paulo - 20/11/2026",
-      "srBSnM0hY1s | [VIDEO]_20/11/26_22:35_CBNBRASIL_245m40s_Jornal da CBN - 20/11/2026",
-      "aH6K9tTa8as | [VIDEO]_20/11/26_21:01_CBNBRASIL_14m35s_'Teve um conselho que recebi do Tiago Abravanel', revela Jeniffer Nasciment"
+      "srBSnM0hY1s | [VIDEO]_20/11/26_22:35_CBNBRASIL_245m40s_Jornal da CBN - 20/11/2026"
     ]
   },
   {
