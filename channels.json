@@ -10,6 +10,8 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "G1R9A81vy84",
+      "VX5jFXCN7hY",
       "C4ckYPWfym8",
       "ZeQXFRdBTN4",
       "EsjpCQ1C8h4",
@@ -37,12 +39,12 @@
       "Np6Bp6wPRkM",
       "kejgqkXEXys",
       "nUkpKykSG4U",
-      "4lx27ZtgbKQ",
-      "Jjxv2oqaWAM",
-      "56xYn-Buz1w"
+      "4lx27ZtgbKQ"
     ],
     "playlistId": "",
     "carimbos": [
+      "G1R9A81vy84 | [VIDEO]_23/11/26_09:38_GLOBONEWS_17m14s_Advogado avalia que os novos impostos CBS e IBS podem facilitar entendiment",
+      "VX5jFXCN7hY | [VIDEO]_23/11/26_09:36_G1(JORNALHOJE/MATÉRIAS)_5m23s_Autoridades e voluntários se unem para ajudar milhares de desabrigados em T",
       "C4ckYPWfym8 | [VIDEO]_23/11/26_08:07_OASSUNTO_31m52s_Sudão do Sul: a tragédia ignorada pelo mundo   O Assunto",
       "ZeQXFRdBTN4 | [VIDEO]_23/11/26_07:30_G1(JORNALHOJE/MATÉRIAS)_24m01s_A história por trás das nove pessoas mortas em barco no Pará #g1",
       "EsjpCQ1C8h4 | [VIDEO]_23/11/26_07:28_G1(JORNALHOJE/MATÉRIAS)_2m36s_Ataque atinge prédio na Ucrânia e deixa mortos",
@@ -70,9 +72,7 @@
       "Np6Bp6wPRkM | [VIDEO]_21/11/26_12:33_G1(JORNALHOJE/MATÉRIAS)_2m56s_Estrangeiro foi morto após sair de casa noturna no Centro do Rio",
       "kejgqkXEXys | [VIDEO]_21/11/26_11:37_G1(JORNALHOJE/MATÉRIAS)_4m56s_GLOBO REPÓRTER: Historiadora percorre Minas Gerais para preservar tradições",
       "nUkpKykSG4U | [VIDEO]_21/11/26_11:13_G1(JORNALHOJE/MATÉRIAS)_4m40s_GLOBO REPÓRTER: Parteiras da Amazônia mantêm tradição passada entre geraçõe",
-      "4lx27ZtgbKQ | [VIDEO]_21/11/26_10:33_G1(JORNALHOJE/MATÉRIAS)_2m31s_Goiás registra aumento de 20% nos casos de dengue",
-      "Jjxv2oqaWAM | [VIDEO]_21/11/26_09:48_GLOBONEWS_8m42s_Casos de Covid-19 aumentam no Brasil e Rio de Janeiro está em nível de aler",
-      "56xYn-Buz1w | [VIDEO]_21/11/26_07:40_JORNALDAGLOBO_3m14s_Unesco reconhece 3 novos sítios brasileiros como espaços de memória da escr"
+      "4lx27ZtgbKQ | [VIDEO]_21/11/26_10:33_G1(JORNALHOJE/MATÉRIAS)_2m31s_Goiás registra aumento de 20% nos casos de dengue"
     ]
   },
   {
@@ -149,6 +149,7 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
+      "At_miVeqQ3w",
       "9PmdhvYiKPQ",
       "RTIY3RSGoJI",
       "hkms367phio",
@@ -177,12 +178,12 @@
       "fBhIq1Y70P8",
       "NG2APjNr1CY",
       "khWxr3p4mGM",
-      "byrr75yr7bU",
-      "AXvAuSMt4LA"
+      "byrr75yr7bU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "At_miVeqQ3w | [VIDEO]_23/11/26_09:41_SBTJORNALISMO_2m26s_Gato desaparece e é encontrado morto dentro de caixa-d'água de prédio   #Pr",
       "9PmdhvYiKPQ | [VIDEO]_23/11/26_09:27_SBTJORNALISMO_2m47s_Funcionária de lotérica é presa após desviar R$ 160 mil para várias contas ",
       "RTIY3RSGoJI | [VIDEO]_23/11/26_09:25_SBTJORNALISMO_6m45s_Menino é baleado com disparo de arma de pressão e polícia tenta identificar",
       "hkms367phio | [VIDEO]_23/11/26_09:23_SBTJORNALISMO_4m36s_\"Quadrilha das canetas emagrecedoras\" troca tiros com a PM após assalto a f",
@@ -211,8 +212,7 @@
       "fBhIq1Y70P8 | [VIDEO]_22/11/26_18:10_SBTNEWS_15m29s_Clubes de futebol recorrem ao governo Lula após queda nas receitas   #NewsD",
       "NG2APjNr1CY | [VIDEO]_22/11/26_18:01_SBTNEWS_10m48s_Criminalização das relações homoafetivas cresce pela primeira vez em 10 ano",
       "khWxr3p4mGM | [VIDEO]_22/11/26_18:00_SBTJORNALISMO_2m04s_Montar árvore de Natal para os outros e vender enfeites vira oportunidade d",
-      "byrr75yr7bU | [VIDEO]_22/11/26_17:00_SBTNEWS_5m58s_Moraes autoriza Bolsonaro a ficar sem tornozeleira durante internação   #Ne",
-      "AXvAuSMt4LA | [VIDEO]_22/11/26_16:58_SBTNEWS_13m43s_Câmara deve votar proposta de ajuste fiscal do governo   #NewsDomingo"
+      "byrr75yr7bU | [VIDEO]_22/11/26_17:00_SBTNEWS_5m58s_Moraes autoriza Bolsonaro a ficar sem tornozeleira durante internação   #Ne"
     ]
   },
   {
@@ -220,6 +220,8 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "fm-raGK-vrk",
+      "bcc_B45Mh90",
+      "pJuIhCb9S4U",
       "YuJfvAHIkck",
       "4Tvz2PBXUnU",
       "x6ggQBvR2L8",
@@ -246,14 +248,14 @@
       "8tIWJmPzm2w",
       "3G_KNiX7M88",
       "GdnZDi_uN3c",
-      "fucTWHuipdc",
-      "OdmlbUdpLoc",
-      "XxK0cDmB3G0"
+      "fucTWHuipdc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "fm-raGK-vrk | ((LIVE))_23/11/26_08:50_CNNBRASIL_AO VIVO: CÂMARA COMEÇA ANÁLISE DE PROJETO DO AJUSTE FISCAL   LIVE CNN",
+      "bcc_B45Mh90 | [VIDEO]_23/11/26_09:40_CNNBRASIL_3m01s_Petrobras deve anunciar investimentos de até US$ 120 bi nos próximos 5 anos",
+      "pJuIhCb9S4U | [VIDEO]_23/11/26_09:33_CNNBRASIL_3m07s_Trump reúne investidores em jantar enquanto criptomoeda própria despenca   ",
       "YuJfvAHIkck | [VIDEO]_23/11/26_09:24_CNNBRASIL_3m10s_Há um ano, Bolsonaro era preso preventivamente após violar tornozeleira   C",
       "4Tvz2PBXUnU | [VIDEO]_23/11/26_09:19_CNNBRASIL_7m26s_Focus eleva projeção de juros para 2027; economista analisa cenário   CNN N",
       "x6ggQBvR2L8 | [VIDEO]_23/11/26_09:14_CNNBRASIL_4m04s_Ataques iranianos no Estreito de Ormuz atingem maior nível da guerra   CNN ",
@@ -280,9 +282,7 @@
       "8tIWJmPzm2w | [VIDEO]_22/11/26_17:44_CNNBRASIL_2m59s_Mosquito com bactéria reduz em 68% infecções por dengue em Belo Horizonte  ",
       "3G_KNiX7M88 | [VIDEO]_22/11/26_17:42_CNNBRASIL_7m05s_Médicos não descartam fazer cirurgia em Jair Bolsonaro; entenda   CNN AGORA",
       "GdnZDi_uN3c | [VIDEO]_22/11/26_17:20_CNNBRASIL_50m55s_MÉDICOS NÃO DESCARTAM CIRURGIA DE BOLSONARO - CNN AGORA TARDE II",
-      "fucTWHuipdc | [VIDEO]_22/11/26_17:02_CNNBRASIL_4m43s_Lavouras de soja e empresas agro são atingidas por temporal em Tupanciretã ",
-      "OdmlbUdpLoc | [VIDEO]_22/11/26_15:00_CNNBRASIL_54m22s_GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE I",
-      "XxK0cDmB3G0 | [VIDEO]_22/11/26_14:56_CNNBRASIL_19m01s_Não é certo dizer que a COP31 fracassou, diz embaixadora à CNN   CNN AGORA"
+      "fucTWHuipdc | [VIDEO]_22/11/26_17:02_CNNBRASIL_4m43s_Lavouras de soja e empresas agro são atingidas por temporal em Tupanciretã "
     ]
   },
   {
@@ -373,8 +373,6 @@
       "dz31gC8XQPg",
       "LpGtYEnjdP8",
       "tLuW8amsiVo",
-      "1JJH-T8ZybE",
-      "U5b--20I0L0",
       "-cBqBbLLDRc",
       "q7JnILtbuFs",
       "UXvhy4XtV8c",
@@ -388,7 +386,9 @@
       "2Wn-fByWvaI",
       "s1go4psHzE4",
       "R8inkRzX1wU",
-      "nNYVLiaQf1M"
+      "nNYVLiaQf1M",
+      "nL8DBDO48s4",
+      "qblR51ORQg4"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
@@ -407,8 +407,6 @@
       "dz31gC8XQPg | [VIDEO]_23/11/26_05:24_JOVEMPANNEWS_5m20s_Ajuste fiscal limitado preocupa empresários",
       "LpGtYEnjdP8 | [VIDEO]_23/11/26_05:17_JOVEMPANNEWS_5m50s_Dólar pode passar de R$ 6 diante de incertezas fiscais",
       "tLuW8amsiVo | [VIDEO]_22/11/26_22:03_JOVEMPANNEWS_3m39s_Saúde ocular: cuidados e alertas   Jovem Pan Saúde - 22/11/2026",
-      "1JJH-T8ZybE | [VIDEO]_22/11/26_21:24_JOVEMPANNEWS_17m25s_Especialista comenta o que pode ser alterado com Lei a Dosimetria",
-      "U5b--20I0L0 | [VIDEO]_22/11/26_21:23_JOVEMPANNEWS_3m52s_Argentina identifica nova variante do Coronavírus",
       "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta ",
       "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs",
       "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site",
@@ -422,7 +420,9 @@
       "2Wn-fByWvaI | [VIDEO]_19/11/26_19:19_OSPINGOSNOSIS_2m15s_Moraes pauta julgamento da lei da dosimetria, Marsiglia e Musa comentam",
       "s1go4psHzE4 | [VIDEO]_18/11/26_20:55_OSPINGOSNOSIS_6m09s_“Muito do que está no ajuste fiscal é condicional”, diz Tarcísio de Freitas",
       "R8inkRzX1wU | [VIDEO]_18/11/26_20:19_OSPINGOSNOSIS_2m14s_Justiça atende Nikolas Ferreira e suspende pregão para Iphones",
-      "nNYVLiaQf1M | [VIDEO]_18/11/26_19:54_OSPINGOSNOSIS_2m01s_Indústria prevê pior fim de ano em vendas desde 2015"
+      "nNYVLiaQf1M | [VIDEO]_18/11/26_19:54_OSPINGOSNOSIS_2m01s_Indústria prevê pior fim de ano em vendas desde 2015",
+      "nL8DBDO48s4 | [VIDEO]_18/11/26_19:48_OSPINGOSNOSIS_5m35s_Custo Brasil chega a R$ 3,5 trilhões ao ano; Bruno Musa comenta",
+      "qblR51ORQg4 | [VIDEO]_18/11/26_19:30_OSPINGOSNOSIS_2m57s_ELEIÇÃO NA CÂMARA: “Não vamos deixar nossos eleitores para trás”, diz Nikol"
     ]
   },
   {
@@ -500,6 +500,7 @@
     "rem": "BAND JORNALISMO",
     "videoIds": [
       "z8xh5M5RBLU",
+      "mIr3Ba8kK0Y",
       "tMPNiw1lStc",
       "YhnYuM4CMxs",
       "v1pDht8b_QE",
@@ -527,13 +528,13 @@
       "bcBSFiNxIJE",
       "ekXgvW0vEQQ",
       "d8O9snXmRBk",
-      "UfmoiqNTz10",
-      "tgACzUrASI0"
+      "UfmoiqNTz10"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "z8xh5M5RBLU | ((LIVE))_23/11/26_08:59_BANDJORNALISMO_Chuvas deixam mortos e mais de 25 mil pessoas afetadas no RS; veja previsão",
+      "mIr3Ba8kK0Y | [VIDEO]_23/11/26_09:30_BANDJORNALISMO_2m15s_Prêmio Inspira SP homenageia cantores Jota.pê, Ana Cañas e Fábio Júnior",
       "tMPNiw1lStc | [VIDEO]_23/11/26_09:25_BANDJORNALISMO_2m16s_Câmara vota pacote econômico do governo - BandNews em Dois Minutos - (23/11",
       "YhnYuM4CMxs | [VIDEO]_23/11/26_09:00_BANDJORNALISMO_5m02s_Supercélula provoca destruição e mortes em Tupanciretã, no RS",
       "v1pDht8b_QE | [VIDEO]_23/11/26_08:53_BANDJORNALISMO_4m11s_Cavalos movimentam R$ 61,2 bilhões por ano na economia brasileira",
@@ -561,8 +562,7 @@
       "bcBSFiNxIJE | [VIDEO]_19/11/26_16:29_MELHORDATARDE_4m06s_Thiago Pasqualotto ganha homenagem ao vivo por seu aniversário   Melhor da ",
       "ekXgvW0vEQQ | [VIDEO]_19/11/26_15:58_MELHORDATARDE_8m45s_Dossiê Celebridades debate saúde mental e os desafios por trás da fama   Me",
       "d8O9snXmRBk | [VIDEO]_19/11/26_15:24_MELHORDATARDE_2m11s_Márcia Sensitiva crava previsão para Neymar e Virginia em meio a rumores   ",
-      "UfmoiqNTz10 | [VIDEO]_16/11/26_23:09_BANDMOTORES_23m50s_FENATRAN 2026: OS GRANDES LANÇAMENTOS E AS NOVIDADES DO TRANSPORTE!",
-      "tgACzUrASI0 | [VIDEO]_15/11/26_22:04_PERRENGUENABAND_4m02s_'Histórias reais' estreia com a história de amor de um pai com seu filho"
+      "UfmoiqNTz10 | [VIDEO]_16/11/26_23:09_BANDMOTORES_23m50s_FENATRAN 2026: OS GRANDES LANÇAMENTOS E AS NOVIDADES DO TRANSPORTE!"
     ]
   },
   {
@@ -709,6 +709,8 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "LV5pZLJ3Nto",
+      "zcGViqzv-Bk",
       "LFhqMg3brfw",
       "h2wEymbtMlc",
       "8B1rl8402os",
@@ -736,13 +738,13 @@
       "Iy2e3HSwQ_c",
       "Q947xtK2Q3U",
       "QJPc9TXHQ8I",
-      "mHKMOphlKhI",
-      "uNO5Q0mwKE4",
-      "ZIs4NUavQTA"
+      "mHKMOphlKhI"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "LV5pZLJ3Nto | ((LIVE))_23/11/26_09:31_CBNBRASIL_CBN Rio - 23/11/2026",
+      "zcGViqzv-Bk | [VIDEO]_23/11/26_09:35_CBNBRASIL_3m20s_Chuva forte atinge Aparecida e deixa dezenas de famílias desabrigadas; esta",
       "LFhqMg3brfw | [VIDEO]_23/11/26_09:29_CBNBRASIL_2m47s_Lula caminha para colocar Camilo Santana na Casa Civil, ministério que indi",
       "h2wEymbtMlc | [VIDEO]_23/11/26_09:22_CBNBRASIL_2m59s_Bombardeios russos deixam mortos e destroem prédios perto de Kiev em nova o",
       "8B1rl8402os | [VIDEO]_23/11/26_09:09_CBNBRASIL_6m38s_Ventos de quase 200 km/h deixaram rastro de destruição após temporal em Tup",
@@ -770,9 +772,7 @@
       "Iy2e3HSwQ_c | [VIDEO]_22/11/26_09:12_CBNBRASIL_27m06s_Mudanças climáticas levam setor de seguros a investir em prevenção e gestão",
       "Q947xtK2Q3U | [VIDEO]_22/11/26_07:39_CBNBRASIL_237m11s_PALMEIRAS X FLAMENGO - AO VIVO - BRASILEIRÃO - Narração: Oscar Ulisses - Fu",
       "QJPc9TXHQ8I | [VIDEO]_22/11/26_00:56_CBNBRASIL_119m16s_CBN Rio - 21/11/2026",
-      "mHKMOphlKhI | [VIDEO]_21/11/26_19:36_CBNBRASIL_262m56s_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU",
-      "uNO5Q0mwKE4 | [VIDEO]_21/11/26_02:14_CBNBRASIL_117m17s_CBN Brasil - 20/11/2026",
-      "ZIs4NUavQTA | [VIDEO]_21/11/26_01:11_CBNBRASIL_6m46s_PF indica que Mendonça não trocou mensagens com Vorcaro; temporal deixa trê"
+      "mHKMOphlKhI | [VIDEO]_21/11/26_19:36_CBNBRASIL_262m56s_PALMEIRAS X FLAMENGO - AO VIVO - CAMPEONATO BRASILEIRO - NARRAÇÃO EDSON MAU"
     ]
   },
   {
@@ -890,7 +890,7 @@
       "YsEBe4jKj3Q | [VIDEO]_23/11/26_08:56_METRÓPOLES_2m09s_Flávio admite não ter provas de fraude eleitoral: \"Proibido de investigar\"",
       "6vLXrwdsdkY | [VIDEO]_23/11/26_08:54_METRÓPOLES_14m34s_\"Nunca vi nada parecido\", diz Paulo Pimenta sobre desastre climático em Tup",
       "0GnvzgwiFio | [VIDEO]_23/11/26_08:45_METRÓPOLES_5m12s_Bolsonaro segue na UTI, estável e sem previsão de alta, diz boletim",
-      "IKwaXWnnP2k | [VIDEO]_23/11/26_08:42_METRÓPOLES_7m05s_Governo Lula quer votar ajuste fiscal sem alterar texto vindo do Senado, di",
+      "IKwaXWnnP2k | [VIDEO]_23/11/26_08:42_METRÓPOLES_7m05s_Pimenta: governo brigará na Câmara para aprovar ajuste fiscal sem emendas",
       "0zGoRLB2aq8 | [VIDEO]_23/11/26_08:31_METRÓPOLES_5m15s_Câmara tenta votar ajuste fiscal nesta segunda e relatoria evita mudanças",
       "_Rb1Y5IXipQ | [VIDEO]_23/11/26_08:27_METRÓPOLES_14m01s_Ajuste fiscal: Lula defende pacote e diz que não haverá cortes sociais",
       "6xU0ndeNBgs | [VIDEO]_23/11/26_08:25_METRÓPOLES_11m19s_Disputa no STF: Alcolumbre insiste em Pacheco para vaga no Supremo e Moraes",
