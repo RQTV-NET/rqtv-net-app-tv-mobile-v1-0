@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "aUV4T2hp6TU",
       "iwcB6mZ3ciI",
       "C6uqyYhXpD0",
       "BVygqoVqgsw",
@@ -38,11 +39,11 @@
       "M9s8ftB7tis",
       "DJS6I6Js4GE",
       "SN_RnJgYB2E",
-      "EDBS_Chqe_8",
-      "fFoWq9JNy2A"
+      "EDBS_Chqe_8"
     ],
     "playlistId": "",
     "carimbos": [
+      "aUV4T2hp6TU | [VIDEO]_23/11/26_11:59_G1(JORNALHOJE/MATÉRIAS)_2m10s_Pai e filha presos pelo ICE nos EUA estavam viajando para um batismo",
       "iwcB6mZ3ciI | [VIDEO]_23/11/26_11:39_GLOBONEWS_5m48s_Valdo Cruz: Alta do dólar pressiona governo Lula por novo plano de corte de",
       "C6uqyYhXpD0 | [VIDEO]_23/11/26_11:25_G1(JORNALHOJE/MATÉRIAS)_4m37s_Rio desbanca SP com rua mais cara do Brasil; confira",
       "BVygqoVqgsw | [VIDEO]_23/11/26_11:17_G1(JORNALHOJE/MATÉRIAS)_2m34s_Dólar bate R$ 6 pela 1ª vez desde abril de 2025",
@@ -71,8 +72,7 @@
       "M9s8ftB7tis | [VIDEO]_21/11/26_22:42_JORNALNACIONAL(JN)_3m02s_JN: Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta anual",
       "DJS6I6Js4GE | [VIDEO]_21/11/26_22:34_JORNALNACIONAL(JN)_2m26s_JN: Dois tornados deixam 50 mil casas sem luz no Paraná",
       "SN_RnJgYB2E | [VIDEO]_21/11/26_22:29_JORNALNACIONAL(JN)_4m48s_JN: Sobe para cinco o número de mortos em Tupanciretã, RS",
-      "EDBS_Chqe_8 | [VIDEO]_21/11/26_18:24_G1(JORNALHOJE/MATÉRIAS)_3m32s_Ajuste fiscal deve ser votado na segunda-feira; Câmara analisa projeto apro",
-      "fFoWq9JNy2A | [VIDEO]_21/11/26_17:47_G1(JORNALHOJE/MATÉRIAS)_2m52s_Países europeus reagem após ataques russos à Ucrânia deixarem oito mortos"
+      "EDBS_Chqe_8 | [VIDEO]_21/11/26_18:24_G1(JORNALHOJE/MATÉRIAS)_3m32s_Ajuste fiscal deve ser votado na segunda-feira; Câmara analisa projeto apro"
     ]
   },
   {
@@ -149,6 +149,8 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
+      "9ZzFE-UzWCQ",
+      "7NZGp_rHMVY",
       "Oc_g8nv7QV4",
       "nOJwplNSeXo",
       "luQe41VhwHw",
@@ -176,13 +178,13 @@
       "dcSIeQyaUew",
       "7lGVTlQ-7BU",
       "COmGQ8il-vk",
-      "ffvfHDh78A0",
-      "tu4Ua-iUmhk",
-      "S1c6Qoamdew"
+      "ffvfHDh78A0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "9ZzFE-UzWCQ | [VIDEO]_23/11/26_11:58_SBTNEWS_11m42s_Após traição e crise, Nvidia anuncia retorno de Huang ao cargo de CEO   #Ra",
+      "7NZGp_rHMVY | [VIDEO]_23/11/26_11:56_SBTNEWS_13m26s_Análise: ajuste gradual e de longo prazo pode frear recessão e reduzir juro",
       "Oc_g8nv7QV4 | [VIDEO]_23/11/26_11:04_SBTNEWS_6m06s_Sem aval de Alcolumbre, Waldez fica na corda bamba no Lula 4   #NewsManhã",
       "nOJwplNSeXo | [VIDEO]_23/11/26_11:00_SBTNEWS_3m23s_Com R$ 11 bi, comércio prevê maior Black Friday em 12 anos   #NewsManhã",
       "luQe41VhwHw | [VIDEO]_23/11/26_10:56_SBTNEWS_2m59s_Turista americano é perseguido e morto a tiros no Rio   #NewsManhã",
@@ -210,15 +212,14 @@
       "dcSIeQyaUew | [VIDEO]_23/11/26_07:13_SBTNEWS_5m28s_Câmara começa análise de ajuste fiscal nesta segunda (23)   #NewsPrimeiraEd",
       "7lGVTlQ-7BU | [VIDEO]_23/11/26_06:51_SBTJORNALISMO_3m31s_Amiga de vítima de \"tribunal do crime\" é presa por atrair jovem para execuç",
       "COmGQ8il-vk | [VIDEO]_23/11/26_06:48_SBTJORNALISMO_2m41s_Turista é morto dias após chegar ao Rio para realizar sonho de infância   #",
-      "ffvfHDh78A0 | [VIDEO]_23/11/26_06:31_SBTJORNALISMO_3m49s_Temporal provoca desaparecimento e derruba forro de shopping na Grande SP  ",
-      "tu4Ua-iUmhk | [VIDEO]_23/11/26_06:27_SBTJORNALISMO_2m43s_RS: vendaval deixa cinco mortos, quase 20 mil desalojados e destrói milhare",
-      "S1c6Qoamdew | [VIDEO]_22/11/26_21:00_SBTNEWS_20m56s_COP31 termina sem acordo final após mais de duas semanas de negociações   #"
+      "ffvfHDh78A0 | [VIDEO]_23/11/26_06:31_SBTJORNALISMO_3m49s_Temporal provoca desaparecimento e derruba forro de shopping na Grande SP  "
     ]
   },
   {
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
+      "c_z9hQA0Ov4",
       "JGZ1jhHVAdI",
       "-LlE6NRJ5J0",
       "Lox-I91SNRk",
@@ -247,12 +248,12 @@
       "Wn2fvgBarig",
       "IV7mttG6b0I",
       "kjfSrgZScWc",
-      "0rp6vqtWRzE",
-      "OSMHA5CcUxE"
+      "0rp6vqtWRzE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "c_z9hQA0Ov4 | ((LIVE))_23/11/26_11:50_CNNBRASIL_AO VIVO: CÂMARA COMEÇA ANÁLISE DE PROJETO DO AJUSTE FISCAL - BASTIDORES CNN",
       "JGZ1jhHVAdI | [VIDEO]_23/11/26_11:22_CNNBRASIL_6m02s_Nvidia tomou a decisão correta ao reconduzir Jensen Huang, diz Trump   LIVE",
       "-LlE6NRJ5J0 | [VIDEO]_23/11/26_11:19_CNNBRASIL_3m27s_Black Fraude: Procons alertam para o uso de IA em golpes   LIVE CNN",
       "Lox-I91SNRk | [VIDEO]_23/11/26_11:08_CNNBRASIL_4m04s_Relator da Dosimetria vê margem para unanimidade no STF   LIVE CNN",
@@ -281,8 +282,7 @@
       "Wn2fvgBarig | [VIDEO]_22/11/26_21:30_CNNBRASIL_2m54s_Patrus Transportes supera R$ 1 bilhão em faturamento e mira expansão no Nor",
       "IV7mttG6b0I | [VIDEO]_22/11/26_21:15_CNNBRASIL_3m59s_CEO da Patrus explica por que não acredita em transportadora que atenda tod",
       "kjfSrgZScWc | [VIDEO]_22/11/26_21:00_CNNBRASIL_2m26s_COP31 não tem acordo em meio a calor recorde e guerras; veja análise   CNN ",
-      "0rp6vqtWRzE | [VIDEO]_22/11/26_21:00_CNNBRASIL_4m29s_Patrus Transportes revela como usa tecnologia para fazer entregas em até 12",
-      "OSMHA5CcUxE | [VIDEO]_22/11/26_20:54_CNNBRASIL_5m41s_Temporais atingem 46 cidades do Rio Grande do Sul; confira as atualizações "
+      "0rp6vqtWRzE | [VIDEO]_22/11/26_21:00_CNNBRASIL_4m29s_Patrus Transportes revela como usa tecnologia para fazer entregas em até 12"
     ]
   },
   {
@@ -607,7 +607,7 @@
       "xLAtLZph41o | [VIDEO]_23/11/26_09:25_NOTÍCIASREDETV_5m56s_Melhores momentos: Criciúma 1 x 0 Fortaleza - Série B 2026",
       "Rs2u-oCnIZg | [VIDEO]_23/11/26_09:15_REDETV!OFICIAL_44m13s_AO VIVO   RJ DO POVO   23/11/2026",
       "rb2bJpdvaB0 | [VIDEO]_23/11/26_06:48_ESPORTESREDETV_213m55s_CRICIÚMA X FORTALEZA - PLAYOFFS (JOGO 1)   #BezonaRedeTV! 2026",
-      "68r6cEVTxO8 | [VIDEO]_22/11/26_23:34_NOTÍCIASREDETV_272m05s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   23/11/2026",
+      "68r6cEVTxO8 | [VIDEO]_22/11/26_23:34_NOTÍCIASREDETV_272m20s_​[AO VIVO] REDETV! NOTÍCIAS 1ª EDIÇÃO   23/11/2026",
       "NX3KKdpYIS0 | [VIDEO]_22/11/26_22:35_REDETV!ENTRETENIMENTO_7m14s_Depois de 11 anos juntos, casal decide lavar a roupa suja e expor conflitos",
       "zTA5J2muHs0 | [VIDEO]_22/11/26_22:35_NOTÍCIASREDETV_7m14s_11 anos de idas e vindas: casal expõe mágoas e conflitos acumulados",
       "BYRszOanTpo | [VIDEO]_22/11/26_22:30_NOTÍCIASREDETV_5m16s_Onze anos de relação e muitas desconfianças: casal abre o jogo sobre crise ",
@@ -709,7 +709,6 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
-      "LV5pZLJ3Nto",
       "lxkg_iQek9A",
       "Q8DaF2vy6M8",
       "0DoYEX54DC4",
@@ -720,6 +719,7 @@
       "iAVcEZl6HwI",
       "8H4xYPEIALA",
       "zcGViqzv-Bk",
+      "LV5pZLJ3Nto",
       "LFhqMg3brfw",
       "h2wEymbtMlc",
       "8B1rl8402os",
@@ -743,7 +743,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "LV5pZLJ3Nto | ((LIVE))_23/11/26_09:31_CBNBRASIL_CBN Rio - 23/11/2026",
       "lxkg_iQek9A | [VIDEO]_23/11/26_11:24_CBNBRASIL_3m52s_Eduardo Rauen: Como convencer um idoso a começar a fazer exercícios? Confir",
       "Q8DaF2vy6M8 | [VIDEO]_23/11/26_11:19_CBNBRASIL_2m38s_Clube da Corrida: Entenda como dormir pouco pode sabotar seu treino e aumen",
       "0DoYEX54DC4 | [VIDEO]_23/11/26_10:47_CBNBRASIL_13m46s_Black Friday 2026: Saiba como usar inteligência artificial para monitorar p",
@@ -754,6 +753,7 @@
       "iAVcEZl6HwI | [VIDEO]_23/11/26_09:53_CBNBRASIL_3m10s_Governo prepara projeto para barrar supersalários e economizar até R$ 3 bil",
       "8H4xYPEIALA | [VIDEO]_23/11/26_09:46_CBNBRASIL_3m09s_Próxima temporada de dengue é imprevisível e países precisam se preparar pa",
       "zcGViqzv-Bk | [VIDEO]_23/11/26_09:35_CBNBRASIL_3m20s_Chuva forte atinge Aparecida e deixa dezenas de famílias desabrigadas; esta",
+      "LV5pZLJ3Nto | [VIDEO]_23/11/26_09:30_CBNBRASIL_149m37s_CBN Rio - 23/11/2026",
       "LFhqMg3brfw | [VIDEO]_23/11/26_09:29_CBNBRASIL_2m47s_Lula caminha para colocar Camilo Santana na Casa Civil, ministério que indi",
       "h2wEymbtMlc | [VIDEO]_23/11/26_09:22_CBNBRASIL_2m59s_Bombardeios russos deixam mortos e destroem prédios perto de Kiev em nova o",
       "8B1rl8402os | [VIDEO]_23/11/26_09:09_CBNBRASIL_6m38s_Ventos de quase 200 km/h deixaram rastro de destruição após temporal em Tup",
@@ -771,7 +771,7 @@
       "Y0E2jNlYy5M | [VIDEO]_23/11/26_07:26_CBNBRASIL_5m03s_Anthropic faz maior abertura de capital da história; entenda",
       "UAuAHhQUhm4 | [VIDEO]_23/11/26_07:21_CBNBRASIL_2m13s_Felicidade no trabalho: Brasil fica em 4º lugar, à frente de EUA e Alemanha",
       "CDPg7e6SPPI | [VIDEO]_23/11/26_07:04_CBNBRASIL_4m02s_Previsão do tempo: Semana começa com tempo abafado em SP e alerta para panc",
-      "4tPY9jR2OL8 | [VIDEO]_23/11/26_06:43_CBNBRASIL_3m50s_COP31: Delegações abandonam plenária e conferência termina sem acordo após ",
+      "4tPY9jR2OL8 | [VIDEO]_23/11/26_06:43_CBNBRASIL_3m50s_COP31: Delegações abandonam plenária e conferência termina sem acordo após",
       "_WYUHON7fyQ | [VIDEO]_23/11/26_06:35_CBNBRASIL_12m20s_Motta acelera tramitação e Câmara vota hoje ajuste fiscal de Lula; texto do"
     ]
   },
@@ -779,7 +779,6 @@
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
-      "unt8L9-79lo",
       "jsU46N3yFOc",
       "V65c3e_bhJk",
       "FTYBzMJAawA",
@@ -808,12 +807,12 @@
       "s_FjS8WRRRc",
       "1w9K_KA3-a8",
       "bIKsMzsY37s",
-      "-XACL4WhlMc"
+      "-XACL4WhlMc",
+      "unt8L9-79lo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "unt8L9-79lo | ((LIVE))_23/11/26_09:54_REVISTAOESTE_OESTE COM ELAS 23/11: BOLSONARO NO HOSPITAL: MORAES AUTORIZA RETIRADA TEMPO",
       "jsU46N3yFOc | [VIDEO]_23/11/26_11:35_REVISTAOESTE_5m38s_PGR recebe representação contra Carlos Jordy por fala sobre Lula",
       "V65c3e_bhJk | [VIDEO]_23/11/26_11:25_REVISTAOESTE_8m06s_Flávio Bolsonaro chama Congresso de capacho do governo Lula",
       "FTYBzMJAawA | [VIDEO]_23/11/26_11:15_REVISTAOESTE_5m38s_Comentarista diz que eleitor de Lula tem déficit cognitivo",
@@ -842,7 +841,8 @@
       "s_FjS8WRRRc | [VIDEO]_20/11/26_19:36_REVISTAOESTE_10m57s_MORAES MANDOU PRENDER: M0rte de Clezão na Papuda completa três anos",
       "1w9K_KA3-a8 | [VIDEO]_20/11/26_19:19_REVISTAOESTE_8m48s_MILEI X LULA: Argentina inaugura 1ª loja da Tesla e afunda Brasil na vangua",
       "bIKsMzsY37s | [VIDEO]_20/11/26_19:03_REVISTAOESTE_11m36s_Jornalista 'pesadelo de Moraes' cobra cooperação dos EUA no caso Filipe Mar",
-      "-XACL4WhlMc | [VIDEO]_20/11/26_18:41_REVISTAOESTE_9m03s_CASO MASTER: Mendonça age na contramão de Moraes e torna público relatório "
+      "-XACL4WhlMc | [VIDEO]_20/11/26_18:41_REVISTAOESTE_9m03s_CASO MASTER: Mendonça age na contramão de Moraes e torna público relatório ",
+      "unt8L9-79lo | [VIDEO]_17/11/26_16:11_REVISTAOESTE_125m53s_OESTE COM ELAS 23/11: BOLSONARO NO HOSPITAL: MORAES AUTORIZA RETIRADA TEMPO"
     ]
   },
   {
@@ -865,8 +865,8 @@
       "0zGoRLB2aq8",
       "_Rb1Y5IXipQ",
       "6xU0ndeNBgs",
-      "B0Cbu1BGLRo",
       "cuLc4z7OgSc",
+      "B0Cbu1BGLRo",
       "IfyWEcxKEQ4",
       "0H2Xi88r-kg",
       "ERO8Zi8NJGA",
@@ -899,8 +899,8 @@
       "0zGoRLB2aq8 | [VIDEO]_23/11/26_08:31_METRÓPOLES_5m15s_Câmara tenta votar ajuste fiscal nesta segunda e relatoria evita mudanças",
       "_Rb1Y5IXipQ | [VIDEO]_23/11/26_08:27_METRÓPOLES_14m01s_Ajuste fiscal: Lula defende pacote e diz que não haverá cortes sociais",
       "6xU0ndeNBgs | [VIDEO]_23/11/26_08:25_METRÓPOLES_11m19s_Disputa no STF: Alcolumbre insiste em Pacheco para vaga no Supremo e Moraes",
-      "B0Cbu1BGLRo | [VIDEO]_23/11/26_00:03_METRÓPOLES_59m00s_AO VIVO: entrevista com médico que já operou Bolsonaro   Tempestade no RS v",
       "cuLc4z7OgSc | [VIDEO]_18/11/26_11:03_METRÓPOLES_119m24s_ÍNTEGRA: cinco morrem em temporal de Tupanciretã   Chuvas em São Paulo   Bo",
+      "B0Cbu1BGLRo | [VIDEO]_23/11/26_00:03_METRÓPOLES_59m00s_AO VIVO: entrevista com médico que já operou Bolsonaro   Tempestade no RS v",
       "IfyWEcxKEQ4 | [VIDEO]_22/11/26_15:51_METRÓPOLES_2m27s_Governo dos EUA revela documentos sobre o Pé Grande; veja o que foi descobe",
       "0H2Xi88r-kg | [VIDEO]_22/11/26_15:43_METRÓPOLES_2m16s_México captura narcotraficante que está entre os dez mais procurados pelo F",
       "ERO8Zi8NJGA | [VIDEO]_22/11/26_15:06_METRÓPOLES_2m01s_Turista morto no Rio era influencer dos EUA e estava no Brasil havia 2 dias",
