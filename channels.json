@@ -1241,7 +1241,6 @@
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
-      "hVOl-ck_oSY",
       "iQM0nvMKC2I",
       "ryYn7mcMXlU",
       "awkV8ozyKKY",
@@ -1264,12 +1263,12 @@
       "r4jn39x24Bo",
       "WergWZ9bvfs",
       "LWdJhwkEZg8",
-      "0Mu6ijVxHIY"
+      "0Mu6ijVxHIY",
+      "hVOl-ck_oSY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "hVOl-ck_oSY | [VIDEO]_20/11/26_02:39_TNTSPORTSBRASIL_160m41s_DECISÃO NOS PÊNALTIS AO VIVO: SEATTLE SOUNDERS X REAL SALT LAKE   PLAYOFFS",
       "iQM0nvMKC2I | [VIDEO]_19/11/26_23:31_TNTSPORTSBRASIL_3m04s_HÉRCULES MANDA FOGUETE NO ÂNGULO E FLU FICA PERTO DA LIBERTADORES   SÃO PAU",
       "ryYn7mcMXlU | [VIDEO]_19/11/26_21:42_TNTSPORTSBRASIL_157m41s_VASCO DA GAMA X INTERNACIONAL (NARRAÇÃO AO VIVO)   CAMPEONATO BRASILEIRO 20",
       "awkV8ozyKKY | [VIDEO]_19/11/26_12:52_TNTSPORTSBRASIL_71m16s_ENDRICK VAI PRO MILAN?; NICO PAZ BRILHA NA ARGENTINA, PORTUGAL VENCE, MAS T",
@@ -1292,7 +1291,8 @@
       "r4jn39x24Bo | [VIDEO]_20/11/26_11:37_TNTSPORTSBRASIL_94m36s_QUEM VAI CAIR?; VASCO VENCE; PALMEIRAS RESERVA CONTRA O FLAMENGO?; GALO X B",
       "WergWZ9bvfs | [VIDEO]_20/11/26_11:00_TNTSPORTSBRASIL_26m43s_PALMEIRAS X FLAMENGO: QUEM TEM O MELHOR TIME EM 2026?   MANO A MANO",
       "LWdJhwkEZg8 | [VIDEO]_20/11/26_10:06_TNTSPORTSBRASIL_100m41s_AO VIVO: QUEM VAI CAIR NO BRASILEIRÃO? + GALO VS BOCA NA FINAL DE AMANHÃ",
-      "0Mu6ijVxHIY | [VIDEO]_20/11/26_02:45_TNTSPORTSBRASIL_5m48s_É SELEÇÃO? RAFAEL CABRAL CATA 3 PÊNALTIS E ACABA COM JOGO NA MLS   SOUNDERS"
+      "0Mu6ijVxHIY | [VIDEO]_20/11/26_02:45_TNTSPORTSBRASIL_5m48s_É SELEÇÃO? RAFAEL CABRAL CATA 3 PÊNALTIS E ACABA COM JOGO NA MLS   SOUNDERS",
+      "hVOl-ck_oSY | [VIDEO]_20/11/26_02:39_TNTSPORTSBRASIL_160m41s_DECISÃO NOS PÊNALTIS AO VIVO: SEATTLE SOUNDERS X REAL SALT LAKE   PLAYOFFS"
     ]
   },
   {
@@ -2089,6 +2089,7 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
+      "THjZFXnBVk8",
       "prBxAY5fRoE",
       "hj6PpK9lu-0",
       "Rejl_OHQDlw",
@@ -2117,12 +2118,12 @@
       "XkzTobdoEnA",
       "h8zQccqKJGs",
       "fNyAraLY8wI",
-      "ULHz1Ja1Snc",
-      "Z9st-jzBfvs"
+      "ULHz1Ja1Snc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "THjZFXnBVk8 | [VIDEO]_23/11/26_04:00_TVEVANGELIZAR_20m01s_Oração da Manhã   23/11/2026   com @PadreManzottiOficial",
       "prBxAY5fRoE | [VIDEO]_23/11/26_01:30_TVEVANGELIZAR_26m48s_Como posso retribuir ao Senhor?   Há Poder de Deus com Ironi Spuldaro   23/",
       "hj6PpK9lu-0 | [VIDEO]_22/11/26_15:00_TVEVANGELIZAR_26m04s_Terço e 4º dia da Novena de Jesus das Santas Chagas   22/11/26",
       "Rejl_OHQDlw | [VIDEO]_22/11/26_14:30_TVEVANGELIZAR_26m18s_Catedral paróquia Cristo Rei - Toledo   Conhecendo Igrejas com Padre Anísio",
@@ -2151,8 +2152,7 @@
       "XkzTobdoEnA | [VIDEO]_21/11/26_06:00_TVEVANGELIZAR_35m10s_Sábado: Mistérios Gozosos   21/11/26   Terço Mariano com  @PadreManzottiOfi",
       "h8zQccqKJGs | [VIDEO]_21/11/26_04:04_TVEVANGELIZAR_56m21s_ADORAÇÃO AO SANTÍSSIMO DA MADRUGADA   21/11/26",
       "fNyAraLY8wI | [VIDEO]_21/11/26_04:00_TVEVANGELIZAR_19m34s_Oração da Manhã   21/11/2026   com @PadreManzottiOficial",
-      "ULHz1Ja1Snc | [VIDEO]_21/11/26_03:09_TVEVANGELIZAR_182m11s_Rosário da Meia-Noite + Ligados pela Fé   21/11/26",
-      "Z9st-jzBfvs | [VIDEO]_20/11/26_22:02_TVEVANGELIZAR_55m21s_NOVENA DE NOSSA SENHORA DAS GRAÇAS   DIA 5   Clamor da Noite com William Te"
+      "ULHz1Ja1Snc | [VIDEO]_21/11/26_03:09_TVEVANGELIZAR_182m11s_Rosário da Meia-Noite + Ligados pela Fé   21/11/26"
     ]
   },
   {
