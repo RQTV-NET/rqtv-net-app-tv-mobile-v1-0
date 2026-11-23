@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "F3b2jde-tEc",
       "5IAQvgVNlxU",
       "2yV9OVaHHKw",
       "NlUu1uavyrU",
@@ -38,11 +39,11 @@
       "9W14ZEQ2aqg",
       "hmXUvhnGtKc",
       "ydIpjVcgtZQ",
-      "mxsEhZrvG_A",
-      "dDh-ITpqXMk"
+      "mxsEhZrvG_A"
     ],
     "playlistId": "",
     "carimbos": [
+      "F3b2jde-tEc | [VIDEO]_22/11/26_22:33_FANTÁSTICO_5m28s_Fantástico: Americana completa um ano com rim de porco geneticamente modifi",
       "5IAQvgVNlxU | [VIDEO]_22/11/26_22:25_FANTÁSTICO_15m32s_Fantástico: Como funciona a Interpol, maior rede policial do mundo comandad",
       "2yV9OVaHHKw | [VIDEO]_22/11/26_21:59_FANTÁSTICO_12m20s_Fantástico: Meteorologistas explicam 'supercélula' e microexplosão que deva",
       "NlUu1uavyrU | [VIDEO]_22/11/26_21:51_FANTÁSTICO_17m34s_Fantástico: Do Pará à Mauritânia - como a PF identificou migrantes mortos e",
@@ -71,8 +72,7 @@
       "9W14ZEQ2aqg | [VIDEO]_21/11/26_00:06_GLOBONEWS_6m19s_Beleza negra movimenta mercado milionário no Brasil",
       "hmXUvhnGtKc | [VIDEO]_20/11/26_22:54_GLOBONEWS_6m35s_Acordo entre Reino Unido e UE confirma o fracasso do Brexit, diz Fernando A",
       "ydIpjVcgtZQ | [VIDEO]_20/11/26_22:10_G1(JORNALHOJE/MATÉRIAS)_3m16s_JN: Espetáculo no Rio dá vida a personalidades negras que marcaram a histór",
-      "mxsEhZrvG_A | [VIDEO]_20/11/26_22:02_JORNALNACIONAL(JN)_3m18s_JN: Nova orientação busca ampliar diagnóstico precoce do câncer de próstata",
-      "dDh-ITpqXMk | [VIDEO]_20/11/26_21:20_GLOBONEWS_3m34s_Movimentos sociais pedem para Lula indicar uma ministra negra para o STF"
+      "mxsEhZrvG_A | [VIDEO]_20/11/26_22:02_JORNALNACIONAL(JN)_3m18s_JN: Nova orientação busca ampliar diagnóstico precoce do câncer de próstata"
     ]
   },
   {
@@ -569,6 +569,8 @@
     "numero": "09",
     "rem": "REDETV! COMBO",
     "videoIds": [
+      "NX3KKdpYIS0",
+      "zTA5J2muHs0",
       "BYRszOanTpo",
       "s38P5G_kcNY",
       "j-i7TzQluGk",
@@ -596,13 +598,13 @@
       "0meVrTBgGcg",
       "zPvQynslB6I",
       "yc8UbT3c1mo",
-      "69oVUbQ4OXg",
-      "9VnntztJv-Y",
-      "V7r6nHZEMqc"
+      "69oVUbQ4OXg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "NX3KKdpYIS0 | [VIDEO]_22/11/26_22:35_REDETV!ENTRETENIMENTO_7m14s_Depois de 11 anos juntos, casal decide lavar a roupa suja e expor conflitos",
+      "zTA5J2muHs0 | [VIDEO]_22/11/26_22:35_NOTÍCIASREDETV_7m14s_11 anos de idas e vindas: casal expõe mágoas e conflitos acumulados",
       "BYRszOanTpo | [VIDEO]_22/11/26_22:30_NOTÍCIASREDETV_5m16s_Onze anos de relação e muitas desconfianças: casal abre o jogo sobre crise ",
       "s38P5G_kcNY | [VIDEO]_22/11/26_22:30_REDETV!ENTRETENIMENTO_5m16s_Crise de confiança abala relacionamento de casal que está junto há 11 anos",
       "j-i7TzQluGk | [VIDEO]_22/11/26_22:30_NOTÍCIASREDETV_56m51s_Amor em Risco (22/11/26)   Completo",
@@ -630,9 +632,7 @@
       "0meVrTBgGcg | [VIDEO]_21/11/26_19:44_REDETV!OFICIAL_8m06s_Mulher cai de cara no chão, fica desacordada e mobiliza equipe de resgate",
       "zPvQynslB6I | [VIDEO]_21/11/26_19:43_NOTÍCIASREDETV_8m06s_Mulher cai de cara no chão, fica desacordada e mobiliza equipe de resgate",
       "yc8UbT3c1mo | [VIDEO]_21/11/26_19:42_REDETV!OFICIAL_6m16s_Suspeita de traumatismo craniano: Mulher fica inconsciente após moto atingi",
-      "69oVUbQ4OXg | [VIDEO]_21/11/26_19:42_NOTÍCIASREDETV_6m16s_Suspeita de traumatismo craniano: Mulher fica inconsciente após moto atingi",
-      "9VnntztJv-Y | [VIDEO]_21/11/26_19:41_REDETV!OFICIAL_6m07s_Idosa cai da cama e precisa de ajuda dos bombeiros para se levantar",
-      "V7r6nHZEMqc | [VIDEO]_21/11/26_19:40_NOTÍCIASREDETV_6m07s_Idosa cai da cama e precisa de ajuda dos bombeiros para se levantar"
+      "69oVUbQ4OXg | [VIDEO]_21/11/26_19:42_NOTÍCIASREDETV_6m16s_Suspeita de traumatismo craniano: Mulher fica inconsciente após moto atingi"
     ]
   },
   {
@@ -1814,7 +1814,7 @@
       "t1X6mIUI6aM | [VIDEO]_14/11/26_19:00_TURBO_7m35s_Emotiva revelação da motocicleta de Helen   Viciado em Motores: Goblin Gara",
       "MVxonBbqEvk | [VIDEO]_13/11/26_19:00_TURBO_7m56s_O segredo por trás do ambiente que torna possível cada grande transformação",
       "rgctu1P6qco | [VIDEO]_12/11/26_19:00_TURBO_8m21s_Mike e Elvis finalizam o Mini restaurado e partem para Monte Carlo   Joias ",
-      "gxKqxS3_lGs | [VIDEO]_11/11/26_19:00_TURBO_8m03s_Dave avalia melhorias mecânicas para acelerar este Ford Mustang na pista   ",
+      "gxKqxS3_lGs | [VIDEO]_11/11/26_19:00_TURBO_8m03s_Dave avalia melhorias mecânicas para acelerar este Ford Mustang na pista",
       "rwwnhlJaiOE | [VIDEO]_10/11/26_19:00_DISCOVERYTURBOBRASIL_8m11s_Jimmy quer transformar um Mini 1275 GT em um muscle car   Viciado em Motore",
       "t5ilJ9kXOXI | [VIDEO]_09/11/26_19:00_DISCOVERYTURBOBRASIL_8m10s_Sydney e seu pai ficam chocados ao verem o utilitário transformado em um of",
       "ZpWYOIdQInI | [VIDEO]_08/11/26_16:00_DISCOVERYTURBOBRASIL_43m42s_Bill finalmente coloca sua marca no Pontiac GTO 1968   Texas Metal",
