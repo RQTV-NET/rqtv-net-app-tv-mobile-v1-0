@@ -1451,11 +1451,11 @@
     "numero": "35",
     "rem": "BAND ESPORTES",
     "videoIds": [
-      "Y6S6Y9yrtbU",
       "0yu8LdhiWC4",
       "jAS6nKRzgCM",
       "gtnxxtPfrZQ",
       "wYg3k9iWYZ8",
+      "Y6S6Y9yrtbU",
       "G78cnVf5KOk",
       "60Y5H7uIt_M",
       "KFxlJKmYBK4",
@@ -1485,11 +1485,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Y6S6Y9yrtbU | [VIDEO]_24/11/26_09:25_BANDESPORTES_32m06s_[AO VIVO] BANDSPORTS NEWS - 24/11/2026",
       "0yu8LdhiWC4 | [VIDEO]_24/11/26_09:00_BANDESPORTES_51m50s_GRÊMIO BATE O SANTOS E COLOCA CORINTHIANS NA ZONA DE REBAIXAMENTO   REAPRES",
       "jAS6nKRzgCM | [VIDEO]_24/11/26_02:04_BANDESPORTES_71m05s_[AO VIVO] ESPORTE TOTAL - 23/11/2026",
       "gtnxxtPfrZQ | [VIDEO]_24/11/26_01:22_BANDESPORTES_2m10s_\"PLATINAR O CABELO FOI UMA BRINCADEIRA INTERNA\", CONTA CEBOLINHA",
       "wYg3k9iWYZ8 | [VIDEO]_24/11/26_01:17_BANDESPORTES_3m35s_CABELO DOS SANTISTAS MOTIVOU O GRÊMIO? WEVERTON RESPONDE",
+      "Y6S6Y9yrtbU | [VIDEO]_24/11/26_09:25_BANDESPORTES_32m06s_[AO VIVO] BANDSPORTS NEWS - 24/11/2026",
       "G78cnVf5KOk | [VIDEO]_23/11/26_23:02_BANDESPORTES_2m48s_BOTAFOGO 1 X 1 SÃO PAULO   MELHORES MOMENTOS   BRASILEIRÃO 2026",
       "60Y5H7uIt_M | [VIDEO]_23/11/26_21:53_BANDESPORTES_2m14s_INTERNACIONAL 2 X 5 VITÓRIA   MELHORES MOMENTOS   BRASILEIRÃO 2026",
       "KFxlJKmYBK4 | [VIDEO]_23/11/26_21:05_BANDESPORTES_115m50s_[AO VIVO] PRÉ-JOGO DE SANTOS X GRÊMIO   BRASILEIRÃO 2026   23/11/2026",
@@ -1521,8 +1521,8 @@
     "numero": "36",
     "rem": "SBT SPORTS",
     "videoIds": [
-      "0MHVcm6vTGg",
       "BctlPB3Esfw",
+      "0MHVcm6vTGg",
       "fSQOsQn3Fec",
       "gHq_Z5m8xjY",
       "ANCPiVDhNlc",
@@ -1555,8 +1555,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "0MHVcm6vTGg | [VIDEO]_24/11/26_01:35_SBTSPORTS_14m37s_EXCLUSIVO: ENTREVISTA COM JORGINHO, CAMPEÃO BRASILEIRO COM O FLAMENGO",
       "BctlPB3Esfw | [VIDEO]_24/11/26_00:19_SBTSPORTS_76m16s_AO VIVO   GALVÃO FC 23/11/26",
+      "0MHVcm6vTGg | [VIDEO]_24/11/26_01:35_SBTSPORTS_14m37s_EXCLUSIVO: ENTREVISTA COM JORGINHO, CAMPEÃO BRASILEIRO COM O FLAMENGO",
       "fSQOsQn3Fec | [VIDEO]_23/11/26_11:23_SBTSPORTS_4m12s_A CARREIRA DE JAMAL MUSIALA PODE CHEGAR AO FIM?",
       "gHq_Z5m8xjY | [VIDEO]_22/11/26_14:59_SBTSPORTS_3m41s_CONFIRA COMO FOI O TÍTULO DO BOCA JUNIORS SOBRE O GALO NA FINAL DA SUL-AMER",
       "ANCPiVDhNlc | [VIDEO]_22/11/26_14:55_SBTSPORTS_5m39s_TUDO SOBRE O TÍTULO DO FLAMENGO NA CASA DO PALMEIRAS",
@@ -2275,6 +2275,8 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "_IrP1dAXvVc",
+      "n4PMOYKrjKc",
       "0cIkwQWaFIk",
       "BBKLD0lc9eg",
       "W9sGIfcJfaw",
@@ -2302,13 +2304,13 @@
       "FZYi9OMEhZY",
       "ql3beniQQXg",
       "RIm7N0ML7zE",
-      "y4yfXatkTkg",
-      "ut0DfV-_Cao",
-      "IOb3yHlowXE"
+      "y4yfXatkTkg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "_IrP1dAXvVc | [VIDEO]_24/11/26_10:40_RECORDCABOVERDE_3m38s_Entregadores arremessam encomendas por cima de muros e portões e revoltam c",
+      "n4PMOYKrjKc | [VIDEO]_24/11/26_10:30_RECORDCABOVERDE_2m44s_Novas imagens mostram cantor de pagode com vítima antes de denúncia de estu",
       "0cIkwQWaFIk | [VIDEO]_23/11/26_17:10_RECORDCABOVERDE_7m20s_REIS - A ESPERANÇA: Asa se declara a Azuba: ‘Você é um presente de Deus par",
       "BBKLD0lc9eg | [VIDEO]_23/11/26_17:00_RECORDCABOVERDE_5m08s_REIS - A ESPERANÇA: Baasa arma plano contra Asa e impede israelitas de segu",
       "W9sGIfcJfaw | [VIDEO]_23/11/26_15:40_RECORDCABOVERDE_17m20s_Família busca jovem que desapareceu quando ia para estágio na Grande São Pa",
@@ -2336,9 +2338,7 @@
       "FZYi9OMEhZY | [VIDEO]_23/11/26_11:40_RECORDCABOVERDE_8m26s_Resgate dramático: Paracanoísta passa quase 24 horas ilhado e perdido no ma",
       "ql3beniQQXg | [VIDEO]_23/11/26_11:30_RECORDCABOVERDE_2m00s_Chuva e vento causam estragos no Rio Grande do Sul e Paraná na madrugada de",
       "RIm7N0ML7zE | [VIDEO]_23/11/26_11:00_RECORDCABOVERDE_2m11s_Homem é preso por engano após criminoso usar seus documentos em Pernambuco",
-      "y4yfXatkTkg | [VIDEO]_23/11/26_10:50_RECORDCABOVERDE_6m03s_Empreendedora transforma paixão por ginástica em academia de sucesso",
-      "ut0DfV-_Cao | [VIDEO]_23/11/26_10:40_RECORDCABOVERDE_3m26s_Passaporte para o Mundo: Saiba se você tem direito à isenção do visto chinê",
-      "IOb3yHlowXE | [VIDEO]_23/11/26_10:20_RECORDCABOVERDE_5m21s_Chá Revelação ao vivo em praia do Rio de Janeiro"
+      "y4yfXatkTkg | [VIDEO]_23/11/26_10:50_RECORDCABOVERDE_6m03s_Empreendedora transforma paixão por ginástica em academia de sucesso"
     ]
   },
   {
