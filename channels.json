@@ -1312,12 +1312,12 @@
     "rem": "ESPN BRASIL",
     "videoIds": [
       "yN3IeqreDlI",
-      "itN68LEj80w",
       "BfJsmm4bVgw",
       "ajh-RcZPnlk",
       "wYOW-5YizNQ",
       "rs8odE4Cgy4",
       "g9sJstWrgIA",
+      "itN68LEj80w",
       "bN9W5w58bhk",
       "49kAlIot2_8",
       "rMZqvuMYsOY",
@@ -1346,12 +1346,12 @@
     "playlistId": "",
     "carimbos": [
       "yN3IeqreDlI | ((LIVE))_24/11/26_13:00_ESPNBRASIL_SANTOS MENOSPREZOU O GRÊMIO?   VITÓRIA HUMILHA O INTER   SÃO PAULO LEVA O '",
-      "itN68LEj80w | [VIDEO]_24/11/26_00:04_ESPNBRASIL_62m20s_SANTOS 0x2 GRÊMIO, INTER 2x5 VITÓRIA E A LUTA CONTRA O REBAIXAMENTO   LINHA",
       "BfJsmm4bVgw | [VIDEO]_24/11/26_02:43_ESPNBRASIL_5m50s_CASTLE DÁ SHOW SEM WEMBY, FLERTA COM TRIPLO-DUPLO, E SPURS DOMINAM OS KINGS",
       "ajh-RcZPnlk | [VIDEO]_24/11/26_10:00_ESPNBRASIL_41m55s_EXCLUSIVA COM VINICIUS DE MEDEIROS: VEJA A ENTREVISTA COM O CANDIDATO À PRE",
       "wYOW-5YizNQ | [VIDEO]_24/11/26_10:00_ESPNBRASIL_53m34s_EXCLUSIVA COM MARCELO PORTUGAL GOUVÊA: VEJA A ENTREVISTA COM O CANDIDATO À",
       "rs8odE4Cgy4 | [VIDEO]_24/11/26_13:13_ESPNBRASIL_26m45s_CORINTHIANS AO VIVO: SEEDORF CONCEDE ENTREVISTA COLETIVA NO CT JOAQUIM GRAV",
       "g9sJstWrgIA | [VIDEO]_24/11/26_13:11_ESPNBRASIL_105m21s_CORINTHIANS ADMITE NÃO CONSEGUIR PAGAR DÍVIDAS   FLAMENGO ENCAMINHA RENOVAÇ",
+      "itN68LEj80w | [VIDEO]_24/11/26_00:04_ESPNBRASIL_62m20s_SANTOS 0x2 GRÊMIO, INTER 2x5 VITÓRIA E A LUTA CONTRA O REBAIXAMENTO   LINHA",
       "bN9W5w58bhk | [VIDEO]_23/11/26_23:05_ESPNBRASIL_6m26s_COLETIVA SÃO PAULO AO VIVO: DORIVAL JÚNIOR FALA APÓS DUELO CONTRA O BOTAFOG",
       "49kAlIot2_8 | [VIDEO]_23/11/26_23:04_ESPNBRASIL_60m20s_BOTAFOGO 1x1 SÃO PAULO: PÓS-JOGO AO VIVO   TUDO DO TÍTULO DO FLAMENGO NO RE",
       "rMZqvuMYsOY | [VIDEO]_23/11/26_22:49_ESPNBRASIL_17m11s_COLETIVA INTERNACIONAL: EDUARDO BAPTISTA FALA APÓS SOFRER GOLEADA DO VITÓRI",
@@ -1381,6 +1381,7 @@
     "numero": "34",
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
+      "5M8YiQHg1Vc",
       "kzipu-uRzCk",
       "5b3qUMm_8uQ",
       "81DnIJAn86w",
@@ -1409,12 +1410,12 @@
       "7z8flDGd_9w",
       "CVrUbEFgl4I",
       "0F35cuTxWUA",
-      "ONrMyxd9Zu8",
-      "T-w1xeL-mvA"
+      "ONrMyxd9Zu8"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "5M8YiQHg1Vc | [VIDEO]_24/11/26_14:55_JOVEMPANESPORTES_14m43s_BIZARRO! \"Essa CENA foi uma das COISAS MAIS IMPRESSIONANTES QUE EU VI esse ",
       "kzipu-uRzCk | [VIDEO]_24/11/26_14:16_JOVEMPANESPORTES_34m08s_\"VOCÊS VIRAM ISSO??? CORINTHIANS e INTER PODEM CAIR JUNTOS se...\"   LUTA CO",
       "5b3qUMm_8uQ | [VIDEO]_24/11/26_14:10_JOVEMPANESPORTES_125m45s_CORINTHIANS VOLTA À ZONA DE REBAIXAMENTO COM VITÓRIA DO GRÊMIO; INTER DÁ VE",
       "81DnIJAn86w | [VIDEO]_24/11/26_13:33_JOVEMPANESPORTES_25m38s_DEBATE QUENTE! MAURO CEZAR e PILHADO DIVERGEM sobre RENATO GAÚCHO! \"ELE NÃO",
@@ -1443,8 +1444,7 @@
       "7z8flDGd_9w | [VIDEO]_21/11/26_13:32_JOVEMPANESPORTES_155m15s_BORUSSIA MÖNCHENGLADBACH X BORUSSIA DORTMUND   JOGO COMPLETO   BUNDESLIGA",
       "CVrUbEFgl4I | [VIDEO]_21/11/26_11:06_JOVEMPANESPORTES_142m01s_WOLFSBURG X HOLSTEIN KIEL   JOGO COMPLETO   BUNDESLIGA 2   12ª RODADA",
       "0F35cuTxWUA | [VIDEO]_21/11/26_10:30_JOVEMPANESPORTES_67m09s_MARCELO PORTUGAL GOUVÊA: \"O MEU PLANO para o SÃO PAULO é...\" ENTREVISTA com",
-      "ONrMyxd9Zu8 | [VIDEO]_20/11/26_16:31_JOVEMPANESPORTES_149m45s_DARMSTADT X HEIDENHEIM   JOGO COMPLETO   BUNDESLIGA 2   12ª RODADA",
-      "T-w1xeL-mvA | [VIDEO]_20/11/26_14:36_JOVEMPANESPORTES_13m16s_\"SINCERAMENTE?? Pra mim, o ATLÉTICO-MG contra o BOCA JUNIORS nessa FINAL NÃ"
+      "ONrMyxd9Zu8 | [VIDEO]_20/11/26_16:31_JOVEMPANESPORTES_149m45s_DARMSTADT X HEIDENHEIM   JOGO COMPLETO   BUNDESLIGA 2   12ª RODADA"
     ]
   },
   {
@@ -1521,11 +1521,11 @@
     "numero": "36",
     "rem": "SBT SPORTS",
     "videoIds": [
-      "BctlPB3Esfw",
       "0MHVcm6vTGg",
       "9MYuHvVrL90",
       "yYkhDFKx578",
       "vM-KAdNRibk",
+      "BctlPB3Esfw",
       "fSQOsQn3Fec",
       "gHq_Z5m8xjY",
       "ANCPiVDhNlc",
@@ -1555,11 +1555,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "BctlPB3Esfw | [VIDEO]_24/11/26_00:19_SBTSPORTS_76m16s_AO VIVO   GALVÃO FC 23/11/26",
       "0MHVcm6vTGg | [VIDEO]_24/11/26_01:35_SBTSPORTS_14m37s_EXCLUSIVO: ENTREVISTA COM JORGINHO, CAMPEÃO BRASILEIRO COM O FLAMENGO",
       "9MYuHvVrL90 | [VIDEO]_24/11/26_12:00_SBTSPORTS_2m26s_GALVÃO BUENO ANALISA DERROTA DO SANTOS CONTRA O GRÊMIO",
       "yYkhDFKx578 | [VIDEO]_24/11/26_11:15_SBTSPORTS_3m28s_INTER PERDE DE 5 A 2 PARA O VITÓRIA EM CASA E SE AFUNDA NO Z-4 DO BRASILEIR",
       "vM-KAdNRibk | [VIDEO]_24/11/26_13:30_SBTSPORTS_5m25s_VAI CAIR? CORINTHIANS ESTÁ DE VOLTA À ZONA DE REBAIXAMENTO",
+      "BctlPB3Esfw | [VIDEO]_24/11/26_00:19_SBTSPORTS_76m16s_AO VIVO   GALVÃO FC 23/11/26",
       "fSQOsQn3Fec | [VIDEO]_23/11/26_11:23_SBTSPORTS_4m12s_A CARREIRA DE JAMAL MUSIALA PODE CHEGAR AO FIM?",
       "gHq_Z5m8xjY | [VIDEO]_22/11/26_14:59_SBTSPORTS_3m41s_CONFIRA COMO FOI O TÍTULO DO BOCA JUNIORS SOBRE O GALO NA FINAL DA SUL-AMER",
       "ANCPiVDhNlc | [VIDEO]_22/11/26_14:55_SBTSPORTS_5m39s_TUDO SOBRE O TÍTULO DO FLAMENGO NA CASA DO PALMEIRAS",
@@ -1618,15 +1618,10 @@
       "6WGzkk-nqB4",
       "eeA0dcLRzgY",
       "m2o-EWBmmOU",
-      "4sc9b7DQPD4",
-      "UM0nSimqm5c",
-      "rP_TTVtrSKc",
-      "TE-mqqVkKo4",
       "_IePierOnxE",
       "VAIVT3gChTY",
       "oZVwpwv8rXE",
       "YR8PgUjm9Hc",
-      "WIBNHaKeYOw",
       "gaHG_7-CUkU",
       "sLI1XVUu7gY",
       "HHzSFJ_uHzg",
@@ -1648,15 +1643,10 @@
       "6WGzkk-nqB4 | ((LIVE))_24/11/26_13:59_CANALGOAT_ELVERSBERG X FREIBURG   JOGO COMPLETO   BUNDESLIGA",
       "eeA0dcLRzgY | [VIDEO]_24/11/26_12:00_CANALGOAT_5m01s_TOP 5 GOLS MAIS BONITOS DA SEMANA NO CANAL GOAT!",
       "m2o-EWBmmOU | [VIDEO]_23/11/26_23:23_LITORALNEWS_238m47s_SANTOS X GRÊMIO AO VIVO COM IMAGEM NA CAZE TV AO VIVO   SANTOS AO VIVO COM",
-      "4sc9b7DQPD4 | [VIDEO]_23/11/26_21:55_LITORALNEWS_77m04s_SANTOS X GRÊMIO AO VIVO   SEGUNDO TEMPO   CAZE TV AO VIVO   JOGO AO VIVO CO",
-      "UM0nSimqm5c | [VIDEO]_23/11/26_21:31_LITORALNEWS_99m36s_SANTOS X GRÊMIO AO VIVO   CAZE TV AO VIVO   JOGO AO VIVO COM IMAGENS DO MOR",
-      "rP_TTVtrSKc | [VIDEO]_23/11/26_20:59_LITORALNEWS_126m30s_SANTOS X GRÊMIO AO VIVO   CAZE TV AO VIVO   JOGO DO SANTOS E GRÊMIO AO VIVO",
-      "TE-mqqVkKo4 | [VIDEO]_23/11/26_20:28_LITORALNEWS_152m40s_SANTOS X GRÊMIO AO VIVO   COM IMAGENS NO PREMIERE   CAZE TV AO VIVO - JOGO",
       "_IePierOnxE | [VIDEO]_23/11/26_18:16_LITORALNEWS_247m52s_BOTAFOGO X SÃO PAULO AO VIVO COM IMAGEM NA CAZE TV AO VIVO   JOGO DO BOTAFO",
       "VAIVT3gChTY | [VIDEO]_23/11/26_21:11_LITORALNEWS_80m21s_BOTAFOGO X SÃO PAULO AO VIVO COM IMAGEM NO AMAZON PRIME   BRASILEIRÃO NA CA",
       "oZVwpwv8rXE | [VIDEO]_23/11/26_17:44_LITORALNEWS_227m36s_INTERNACIONAL X VITÓRIA AO VIVO COM IMAGEM NA CAZE TV AO VIVO   JOGO DO INT",
       "YR8PgUjm9Hc | [VIDEO]_23/11/26_18:48_SPORTYNET_136m46s_MONZA x FIORENTINA: AO VIVO E COM IMAGENS   RODADA 12   SERIE A",
-      "WIBNHaKeYOw | [VIDEO]_23/11/26_18:29_LITORALNEWS_8m06s_SANTOS X GRÊMIO AO VIVO COM IMAGENS   SPORTV AO VIVO   JOGO DO SANTOS HOJE",
       "gaHG_7-CUkU | [VIDEO]_23/11/26_17:05_CANALGOAT_73m50s_CRISTIANO RONALDO EM BUSCA DO MILÉSIMO GOL, RODADA DA SAUDI PRO LEAGUE E MA",
       "sLI1XVUu7gY | [VIDEO]_23/11/26_19:49_DESIMPEDIDOS_71m20s_FLAMENGO CAMPEÃO BRASILEIRO, GALO VICE MAIS UMA VEZ E A LUTA CONTRA O Z4",
       "HHzSFJ_uHzg | [VIDEO]_23/11/26_10:48_SPORTYNET_5m48s_TUDO IGUAL EM GELSENKIRCHEN! - Schalke 04 0x0 Stuttgart - Melhores Momentos",
@@ -2161,7 +2151,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "0tkCM_1P-rM | ((LIVE))_24/11/26_14:30_TVEVANGELIZAR_Hora Boa Pra Evangelizar com Fabiana Wantuch   24/11/26",
+      "0tkCM_1P-rM | [VIDEO]_24/11/26_14:30_TVEVANGELIZAR_25m30s_Hora Boa Pra Evangelizar com Fabiana Wantuch   24/11/26",
       "62XkwTL96to | [VIDEO]_24/11/26_09:02_TVEVANGELIZAR_57m55s_Eu Tenho Fé com Pe. Jorge Fortunato   20/11/26",
       "9XNugf0sDPY | [VIDEO]_24/11/26_08:15_TVEVANGELIZAR_23m53s_Caminho de cura   24/11/26   Com a Palavra - Com Pe. Everson Kloster",
       "LQzbNvf5Cg8 | [VIDEO]_24/11/26_03:18_TVEVANGELIZAR_192m41s_Rosário da Meia-Noite + Ligados pela Fé   24/11/26",
@@ -2209,6 +2199,8 @@
     "numero": "110",
     "rem": "SBT PROGRAMAS",
     "videoIds": [
+      "fFCvKbF9sI0",
+      "45e72R54s_4",
       "VqRuTjcdiDs",
       "hIde0z3TApI",
       "fEZcZOlkpxY",
@@ -2236,13 +2228,13 @@
       "qhIp0JcHC7k",
       "key6-5LrPY8",
       "P3tys_s_xEk",
-      "zTygXa3Lq_c",
-      "Ia-NA_3NCds",
-      "Rtv-k8hB9mk"
+      "zTygXa3Lq_c"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "fFCvKbF9sI0 | [VIDEO]_24/11/26_14:55_THENOITE_36m51s_Entrevista com Bia e Branca: maternidade, carreira e nado sincronizado   Th",
+      "45e72R54s_4 | [VIDEO]_24/11/26_14:45_THENOITE_11m20s_Senhor Templário: o cavaleiro que combate o crime   The Noite (23/11/26)",
       "VqRuTjcdiDs | [VIDEO]_23/11/26_19:30_CÂMERASESCONDIDASSBT_9m29s_Os Velhinhos Se Divertem S05 EP 01   Câmeras Escondidas (22/11/26)",
       "hIde0z3TApI | [VIDEO]_23/11/26_19:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_43m21s_Programa do João com Ximbinha, Val Marchiori, Eric Land e Guilherme Gomes",
       "fEZcZOlkpxY | [VIDEO]_23/11/26_20:54_FOFOCALIZANDO_24m03s_Caso Stênio Garcia: novo vídeo para desmentir filhas e suposto filho surge",
@@ -2270,15 +2262,16 @@
       "qhIp0JcHC7k | [VIDEO]_19/11/26_18:30_PROGRAMADORATINHO_43m48s_QUEM NÃO SABE FAZER? Até o Ratinho disse que faz em um minuto   Programa do",
       "key6-5LrPY8 | [VIDEO]_19/11/26_15:30_THENOITE_10m00s_Entrevista com Banda Hori   The Noite (18/11/26)",
       "P3tys_s_xEk | [VIDEO]_19/11/26_15:11_THENOITE_12m09s_Luz, Câmera, Meme: Velozes & Falidos com Fiuk   The Noite (18/11/26)",
-      "zTygXa3Lq_c | [VIDEO]_19/11/26_15:04_THENOITE_31m42s_Entrevista com Fiuk   The Noite (18/11/26)",
-      "Ia-NA_3NCds | [VIDEO]_18/11/26_19:30_CÂMERASESCONDIDASSBT_6m10s_Dentista Açougueiro   Câmeras Escondidas",
-      "Rtv-k8hB9mk | [VIDEO]_18/11/26_19:00_FOFOCALIZANDO_10m01s_Fofoquito vive um dia como Maria Carey no meio dos fãs!   Fofocalizando (18"
+      "zTygXa3Lq_c | [VIDEO]_19/11/26_15:04_THENOITE_31m42s_Entrevista com Fiuk   The Noite (18/11/26)"
     ]
   },
   {
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "XVUJ9YM1p44",
+      "Dmd5silnbc4",
+      "Td5r1vb3ADY",
       "3vQPSggg1hk",
       "7Oq4AUVTxKc",
       "yCF3ADVbZQg",
@@ -2305,20 +2298,20 @@
       "0cIkwQWaFIk",
       "BBKLD0lc9eg",
       "W9sGIfcJfaw",
-      "HdKZw5FVXHU",
-      "1hd3hKvfXDA",
-      "cWuGiNlXF8I",
-      "9RrUzu201Zs"
+      "HdKZw5FVXHU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "XVUJ9YM1p44 | [VIDEO]_24/11/26_14:55_RECORDCABOVERDE_7m40s_Caminhão atropela motociclista e atinge estabelecimento comercial em SP",
+      "Dmd5silnbc4 | [VIDEO]_24/11/26_14:50_RECORDCABOVERDE_3m51s_Polícia evacua prédio comercial por suspeita de bomba na Vila Olímpia,zona ",
+      "Td5r1vb3ADY | [VIDEO]_24/11/26_14:45_RECORDCABOVERDE_2m30s_Bolsonaro segue internado com obstrução intestinal e sem previsão de alta",
       "3vQPSggg1hk | [VIDEO]_24/11/26_14:30_RECORDCABOVERDE_40m54s_A FAZENDA: Veja integra da Formação da Roça 23.11 - Serginho,Fran,Renata e ",
       "7Oq4AUVTxKc | [VIDEO]_24/11/26_14:25_RECORDCABOVERDE_3m01s_A FAZENDA: Thaíde veta Serginho da Prova do Fazendeiro e define disputa pel",
       "yCF3ADVbZQg | [VIDEO]_24/11/26_14:20_RECORDCABOVERDE_3m53s_A FAZENDA: Ex aliadas declaradas! Fran puxa Renata da Baia para a Roça",
       "WS-4DP0z2bs | [VIDEO]_24/11/26_14:10_RECORDCABOVERDE_8m23s_A FAZENDA: Mayk e Alfredo detonam Fran,e influenciador debocha ‘Lágrimas de",
       "Inv-gXBSovE | [VIDEO]_24/11/26_14:00_RECORDCABOVERDE_13m02s_A FAZENDA: Ariela confronta Fran na votação e dispara ‘Vou votar em você at",
-      "G3RKotFo_u8 | [VIDEO]_24/11/26_13:50_RECORDCABOVERDE_10m30s_A FAZENDA: Serginho vota em Maíra e peoa rebate ‘Na hora do voto escorrega ",
+      "G3RKotFo_u8 | [VIDEO]_24/11/26_13:50_RECORDCABOVERDE_10m30s_A FAZENDA: Serginho vota em Maíra e peoa rebate ‘Na hora do voto escorrega",
       "SyK2iZxBZUM | [VIDEO]_24/11/26_13:40_RECORDCABOVERDE_4m20s_A FAZENDA: Erthal vota em Darlin e peoa responde ‘Não tem nenhum escrúpulo’",
       "Tsa8w_EuI8s | [VIDEO]_24/11/26_13:30_RECORDCABOVERDE_3m56s_A FAZENDA: Fazendeira Ana manda Serginho à Roça, e ator rebate ‘Ela não vai",
       "M6tdlxQgCx0 | [VIDEO]_24/11/26_13:20_RECORDCABOVERDE_11m28s_A FAZENDA: Renata dispara para Fran ‘Não tenho que te dar satisfação de nad",
@@ -2339,10 +2332,7 @@
       "0cIkwQWaFIk | [VIDEO]_23/11/26_17:10_RECORDCABOVERDE_7m20s_REIS - A ESPERANÇA: Asa se declara a Azuba: ‘Você é um presente de Deus par",
       "BBKLD0lc9eg | [VIDEO]_23/11/26_17:00_RECORDCABOVERDE_5m08s_REIS - A ESPERANÇA: Baasa arma plano contra Asa e impede israelitas de segu",
       "W9sGIfcJfaw | [VIDEO]_23/11/26_15:40_RECORDCABOVERDE_17m20s_Família busca jovem que desapareceu quando ia para estágio na Grande São Pa",
-      "HdKZw5FVXHU | [VIDEO]_23/11/26_15:20_RECORDCABOVERDE_6m33s_Tempestade em Tupanciretã RS causa quatro mortes e sobrecarrega hospitais d",
-      "1hd3hKvfXDA | [VIDEO]_23/11/26_15:00_RECORDCABOVERDE_10m34s_Imagens mostram mulher que denunciou estupro entrando em hotel com um dos g",
-      "cWuGiNlXF8I | [VIDEO]_23/11/26_17:20_RECORDCABOVERDE_4m41s_REIS - A ESPERANÇA: Asa reúne israelitas em Jerusalém e proclama fidelidade",
-      "9RrUzu201Zs | [VIDEO]_23/11/26_14:50_RECORDCABOVERDE_4m56s_Lutas clandestinas ameaçam segurança nas ruas de São Paulo"
+      "HdKZw5FVXHU | [VIDEO]_23/11/26_15:20_RECORDCABOVERDE_6m33s_Tempestade em Tupanciretã RS causa quatro mortes e sobrecarrega hospitais d"
     ]
   },
   {
