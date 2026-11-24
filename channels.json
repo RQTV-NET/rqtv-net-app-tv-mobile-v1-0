@@ -627,11 +627,11 @@
     "numero": "10",
     "rem": "TV CULTURA",
     "videoIds": [
-      "ij5vH9aqCX4",
       "VZZDwAYFsNU",
       "xef7TyJSZC0",
       "9gHHSGSWu8s",
       "5f8B1SV4O7c",
+      "ij5vH9aqCX4",
       "vzyuyy-FZZw",
       "XYiZOroRKhg",
       "rxVcr_48nPA",
@@ -661,11 +661,11 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "ij5vH9aqCX4 | [VIDEO]_24/11/26_00:22_TVCULTURAPROGRAMAS_4m56s_OMS alerta para o risco do uso indiscriminado de antibióticos",
       "VZZDwAYFsNU | [VIDEO]_24/11/26_00:17_TVCULTURAPROGRAMAS_3m56s_Calor extremo é risco para saúde de idosos no Brasil",
       "xef7TyJSZC0 | [VIDEO]_24/11/26_00:15_TVCULTURAPROGRAMAS_3m29s_COP31 na Turquia termina sem nenhum acordo sobre crise climática",
       "9gHHSGSWu8s | [VIDEO]_24/11/26_00:13_TVCULTURAPROGRAMAS_6m37s_Lula corre contra o tempo para definir indicação ao STF",
       "5f8B1SV4O7c | [VIDEO]_24/11/26_00:10_TVCULTURAPROGRAMAS_4m42s_Nvidia reconduz Jensen Huang como CEO e ações sobem mais de 30%",
+      "ij5vH9aqCX4 | [VIDEO]_24/11/26_00:22_TVCULTURAPROGRAMAS_4m56s_OMS alerta para o risco do uso indiscriminado de antibióticos",
       "vzyuyy-FZZw | [VIDEO]_23/11/26_22:26_TVCULTURAPROGRAMAS_4m56s_OMS alerta para risco do uso indiscriminado de antibióticos",
       "XYiZOroRKhg | [VIDEO]_23/11/26_15:04_JORNALISMOTVCULTURA_65m16s_JORNAL DA CULTURA   Jensen Huang reassume o cargo de CEO da Nvidia   23/11/",
       "rxVcr_48nPA | [VIDEO]_23/11/26_20:30_TVCULTURAPROGRAMAS_14m08s_Linhas Cruzadas   Até onde vai os limites da autonomia da IA",
@@ -1043,7 +1043,6 @@
     "numero": "16",
     "rem": "BBC BRASIL",
     "videoIds": [
-      "K1PuHplsq2M",
       "gCbQL5zt-ck",
       "-D8ojJCGG8w",
       "wEAQasf49KM",
@@ -1058,12 +1057,12 @@
       "0XYrbJyPiDY",
       "NNQZ3O6deJU",
       "OZxRp5ZOH7g",
+      "K1PuHplsq2M",
       "mfutbMO0nnU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "K1PuHplsq2M | [VIDEO]_17/11/26_07:00_BBCBRASIL_8m02s_O caso da alemã acusada de encomendar sequestro dos filhos que levou a um e",
       "gCbQL5zt-ck | [VIDEO]_14/11/26_07:00_BBCBRASIL_7m15s_'Tenho uma doença da qual as pessoas têm muita vergonha de falar'",
       "-D8ojJCGG8w | [VIDEO]_19/11/26_20:03_TVBRASIL_60m05s_Repórter Brasil, 19/11/2026",
       "wEAQasf49KM | [VIDEO]_22/11/26_13:00_BBCBRASIL_27m51s_Inédito acesso da BBC ao governo Talebã mostra bastidores do poder e realid",
@@ -1078,6 +1077,7 @@
       "0XYrbJyPiDY | [VIDEO]_18/11/26_18:03_TVBRASIL_117m21s_SEM CENSURA RECEBE MARCOS SACRAMENTO, CLAUDIA DI MOURA E ELIAN ALMEIDA",
       "NNQZ3O6deJU | [VIDEO]_19/11/26_17:00_BBCBRASIL_7m00s_O que aconteceu com a tentativa de Bukele de transformar El Salvador no 'pá",
       "OZxRp5ZOH7g | [VIDEO]_19/11/26_07:00_BBCBRASIL_17m06s_Lipedema: a 'nova doença' que causa acúmulo de gordura nas pernas e braços",
+      "K1PuHplsq2M | [VIDEO]_17/11/26_07:00_BBCBRASIL_8m02s_O caso da alemã acusada de encomendar sequestro dos filhos que levou a um e",
       "mfutbMO0nnU | [VIDEO]_18/11/26_17:46_TVBRASIL_6m20s_Entrevista: Luciana Barreto conversa com o filósofo e escritor Renato Nogue"
     ]
   },
@@ -1791,7 +1791,6 @@
     "numero": "70",
     "rem": "TURBO",
     "videoIds": [
-      "di8qIRKmiaU",
       "Z2XeSYNhUsk",
       "0uYXfL2N8EQ",
       "p7b1sIapdPA",
@@ -1806,6 +1805,7 @@
       "_WVW1XQCxUE",
       "Vg36QTamJdA",
       "6TWyvahZZjo",
+      "di8qIRKmiaU",
       "t5ilJ9kXOXI",
       "ZpWYOIdQInI",
       "HOUv4qsnCpY",
@@ -1815,7 +1815,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "di8qIRKmiaU | [VIDEO]_19/11/26_19:00_TURBO_10m04s_Hilux encara os terrenos mais difíceis da Austrália   Joias sobre rodas: To",
       "Z2XeSYNhUsk | [VIDEO]_18/11/26_19:00_TURBO_8m07s_Dave e Kevin posicionam os primeiros carros na SEMA   Carros Irados   Disco",
       "0uYXfL2N8EQ | [VIDEO]_16/11/26_19:00_TURBO_8m10s_Oficina Kindig recebe um clássico de '55 pela metade precisando de socorro",
       "p7b1sIapdPA | [VIDEO]_17/11/26_19:00_TURBO_8m27s_Anthony surpreende Debbie Wiggins com uma Ducati personalizada   Viciado em",
@@ -1830,6 +1829,7 @@
       "_WVW1XQCxUE | [VIDEO]_21/11/26_19:00_TURBO_10m17s_Dave confere a transformação da Bronco com motor Coyote 5.0   Carros Irados",
       "Vg36QTamJdA | [VIDEO]_20/11/26_19:00_TURBO_10m18s_Mustang dourado de Jimmy e Helen conquista uma nova compradora   Viciado em",
       "6TWyvahZZjo | [VIDEO]_20/11/26_12:00_TURBO_43m53s_Relíquia de 1931 vai virar uma cafeteria sobre rodas   Texas Metal",
+      "di8qIRKmiaU | [VIDEO]_19/11/26_19:00_TURBO_10m04s_Hilux encara os terrenos mais difíceis da Austrália   Joias sobre rodas: To",
       "t5ilJ9kXOXI | [VIDEO]_09/11/26_19:00_DISCOVERYTURBOBRASIL_8m10s_Sydney e seu pai ficam chocados ao verem o utilitário transformado em um of",
       "ZpWYOIdQInI | [VIDEO]_08/11/26_16:00_DISCOVERYTURBOBRASIL_43m42s_Bill finalmente coloca sua marca no Pontiac GTO 1968   Texas Metal",
       "HOUv4qsnCpY | [VIDEO]_08/11/26_14:00_DISCOVERYTURBOBRASIL_7m58s_Desafio complexo de construir um carro de F1 com motor elétrico   Carros Ir",
@@ -1841,7 +1841,6 @@
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [
-      "c7Q3S6bMuG8",
       "oIuupOu2sMY",
       "yeH5FffwGFQ",
       "4h5t6M9BUpY",
@@ -1856,6 +1855,7 @@
       "7aSz_lJ-aZA",
       "t1JBtI3Lr8w",
       "B1mRgmWWwD8",
+      "c7Q3S6bMuG8",
       "1ZdDuoKH99w",
       "j5kUs0-FEbA",
       "k4qLvjybQVc",
@@ -1867,7 +1867,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "oIuupOu2sMY | [VIDEO]_18/11/26_19:00_ACELERADOS_21m35s_O CARRO DA LUCIA E DO JASON DO GTA VI E DODGE VIPER SR I 1993 NA VOLTA RÁPI",
       "yeH5FffwGFQ | [VIDEO]_17/11/26_18:30_ACELERADOS_12m08s_DODGE DAKOTA V8 X RAM DAKOTA DIESEL! Quem leva o duelo de gerações da picap",
       "4h5t6M9BUpY | [VIDEO]_16/11/26_18:23_ACELERADOS_21m28s_GERSON VENCE AS DUAS CORRIDAS DA PORSCHE CUP na preliminar da F1 em disputa",
@@ -1882,6 +1881,7 @@
       "7aSz_lJ-aZA | [VIDEO]_22/11/26_12:00_WEBMOTORS_23m12s_Garupa de Moto, Validade dos Pneus e BMW M235   Webmotors TV - 22/11/2026",
       "t1JBtI3Lr8w | [VIDEO]_22/11/26_10:59_ACELERADOS_120m16s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 2 - INTERLAGOS (SP) - Domingo (22/11)",
       "B1mRgmWWwD8 | [VIDEO]_21/11/26_14:12_ACELERADOS_98m11s_PORSCHE CUP BRASIL AO VIVO - CORRIDA 1 - INTERLAGOS (SP) - Sábado (21/11) -",
+      "c7Q3S6bMuG8 | [VIDEO]_21/11/26_10:57_ACELERADOS_104m15s_PORSCHE CUP BRASIL AO VIVO - CLASSIFICAÇÃO - INTERLAGOS (SP) - Sábado (21/1",
       "1ZdDuoKH99w | [VIDEO]_11/11/26_20:00_WEBMOTORS_11m01s_EP. 3   Confiança que Atravessa os Sertões   Sertões Series São Paulo",
       "j5kUs0-FEbA | [VIDEO]_09/11/26_18:00_ACELERADOS_33m52s_FÓRMULA 1 NA VOLTA RÁPIDA   Rubinho acelera a Williams FW33 no Acelerados",
       "k4qLvjybQVc | [VIDEO]_09/11/26_14:30_ACELERADOS_79m25s_LANDO NORRIS VENCE EM INTERLAGOS!   PADDOCK ACELERADOS RECEBE INGO HOFFMANN",
@@ -2327,7 +2327,6 @@
     "numero": "113",
     "rem": "ENTRETENIMENTO MUSICAL (TALK RAUL)",
     "videoIds": [
-      "NUI1AwGX7jc",
       "z-GoeiKSij4",
       "Xg_8Mg3KlX4",
       "DZM6iCx-8CI",
@@ -2339,12 +2338,12 @@
       "Ux68pCjJw44",
       "jWQW11tWaKk",
       "YJ2In2YOhsI",
-      "gCCqIakO8Kg"
+      "gCCqIakO8Kg",
+      "NUI1AwGX7jc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "NUI1AwGX7jc | [VIDEO]_11/11/26_19:18_TALKRAUL_12m35s_“Isso é um hit!” Lívia Veronese impressiona com Não Era Saudade",
       "z-GoeiKSij4 | [VIDEO]_22/11/26_20:00_TALKRAUL_7m34s_Até na playlist do jurado! Caio revela que escuta Melissa Esteves no carro",
       "Xg_8Mg3KlX4 | [VIDEO]_21/11/26_15:00_TALKRAUL_62m58s_VIAJOU 1.030 KM PARA CANTAR NO RAUL GIL! UM DOS PROGRAMAS MAIS ASSISTIDOS N",
       "DZM6iCx-8CI | [VIDEO]_20/11/26_19:00_TALKRAUL_9m02s_Apenas 10 anos! Alice Trevisan surpreende Caio com sua interpretação",
@@ -2356,7 +2355,8 @@
       "Ux68pCjJw44 | [VIDEO]_23/11/26_20:00_TALKRAUL_8m11s_Ele cantou para o avô e emocionou os jurados! A homenagem de Lucas Gomes",
       "jWQW11tWaKk | [VIDEO]_14/11/26_14:15_TALKRAUL_19m39s_BASTIDORES TALK RAUL IMPERDÍVEL!   Seja membro e assista nossos exclusivos.",
       "YJ2In2YOhsI | [VIDEO]_13/11/26_19:00_TALKRAUL_14m21s_Com ou sem sanfona? Rafa Faria revela a mudança na apresentação",
-      "gCCqIakO8Kg | [VIDEO]_12/11/26_19:00_TALKRAUL_9m05s_“Ela não imita ninguém!” N.ALU canta composição do pai"
+      "gCCqIakO8Kg | [VIDEO]_12/11/26_19:00_TALKRAUL_9m05s_“Ela não imita ninguém!” N.ALU canta composição do pai",
+      "NUI1AwGX7jc | [VIDEO]_11/11/26_19:18_TALKRAUL_12m35s_“Isso é um hit!” Lívia Veronese impressiona com Não Era Saudade"
     ]
   },
   {
