@@ -10,6 +10,7 @@
     "numero": "01",
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
+      "iUpxKdhHRM8",
       "URPgGE5fZKU",
       "DlPcsBQxAPM",
       "FymVP1sKzJw",
@@ -38,11 +39,11 @@
       "ar8Dtwyyvv0",
       "DGkmEIjXdfc",
       "OkAS9HbkgqQ",
-      "VSUffFyl5eo",
-      "7SGgz3QQ6iU"
+      "VSUffFyl5eo"
     ],
     "playlistId": "",
     "carimbos": [
+      "iUpxKdhHRM8 | [VIDEO]_24/11/26_13:26_GLOBONEWS_9m39s_Economista diz que Lula precisa conciliar ajuste fiscal com benefícios soci",
       "URPgGE5fZKU | [VIDEO]_24/11/26_13:08_G1(JORNALHOJE/MATÉRIAS)_2m23s_Polônia investiga entrada de drone russo em seu espaço aéreo",
       "DlPcsBQxAPM | [VIDEO]_24/11/26_12:58_GLOBONEWS_8m13s_Imagens de nudez criadas por IA são usadas para chantagear adolescentes   C",
       "FymVP1sKzJw | [VIDEO]_24/11/26_12:56_G1(JORNALHOJE/MATÉRIAS)_2m51s_Previsão do tempo: Temporais continuam e regiões seguem em alerta para chuv",
@@ -71,8 +72,7 @@
       "ar8Dtwyyvv0 | [VIDEO]_23/11/26_20:16_GLOBONEWS_6m47s_Entrevista de Hailey Bieber sobre venda da Rhode por US$ 1 bilhão gera deba",
       "DGkmEIjXdfc | [VIDEO]_23/11/26_19:48_G1(JORNALHOJE/MATÉRIAS)_2m09s_Aeroporto de Congonhas, em SP, cancela voos por causa da chuva",
       "OkAS9HbkgqQ | [VIDEO]_23/11/26_16:18_G1(JORNALHOJE/MATÉRIAS)_3m29s_JH: Dólar chega a R$ 6 pela primeira vez em 2026",
-      "VSUffFyl5eo | [VIDEO]_23/11/26_16:08_G1(JORNALHOJE/MATÉRIAS)_3m26s_JH: Cesta de Natal sobe 12,45% no Brasil em 2026",
-      "7SGgz3QQ6iU | [VIDEO]_23/11/26_16:04_G1(JORNALHOJE/MATÉRIAS)_2m05s_JH: Ubatuba (SP) registra maior volume de chuva do país em 24 horas"
+      "VSUffFyl5eo | [VIDEO]_23/11/26_16:08_G1(JORNALHOJE/MATÉRIAS)_3m26s_JH: Cesta de Natal sobe 12,45% no Brasil em 2026"
     ]
   },
   {
@@ -149,10 +149,10 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
-      "9qr0ETloFFk",
       "fFXoOCXHLYI",
       "HhUDcbrpSdY",
       "vTIFvhTllrc",
+      "9qr0ETloFFk",
       "dMECxBgdV6I",
       "T-18PYW8G98",
       "cl7AfT9x1n4",
@@ -183,10 +183,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "9qr0ETloFFk | ((LIVE))_24/11/26_10:45_SBTNEWS_🔴 AO VIVO: RADAR NEWS, com Roberta Russo   24/11/2026",
       "fFXoOCXHLYI | [VIDEO]_24/11/26_12:53_SBTNEWS_4m41s_Operação da PF mira esquema que movimentou cerca de R$ 4,3 bilhões   #Radar",
       "HhUDcbrpSdY | [VIDEO]_24/11/26_12:49_SBTNEWS_4m47s_Governo publica regras da 5x2 e novo cálculo do salário-hora   #RadarNews",
       "vTIFvhTllrc | [VIDEO]_24/11/26_12:45_SBTNEWS_2m40s_Governo reduz previsão do PIB e eleva inflação de 2027   #RadarNews",
+      "9qr0ETloFFk | [VIDEO]_23/11/26_05:44_SBTNEWS_164m19s_🔴 AO VIVO: RADAR NEWS, com Roberta Russo   24/11/2026",
       "dMECxBgdV6I | [VIDEO]_24/11/26_12:23_SBTNEWS_2m29s_Análise: Lula precisa cobrar do PSOL a fidelidade no Congresso pedida ao Ce",
       "T-18PYW8G98 | [VIDEO]_24/11/26_12:15_SBTNEWS_2m02s_Abstenções na votação do ajuste fiscal vieram da esquerda   #RadarNews",
       "cl7AfT9x1n4 | [VIDEO]_24/11/26_11:24_SBTJORNALISMO_2m41s_\"Esperma de salmão\" vira febre entre famosos e acende alerta de dermatologi",
@@ -220,6 +220,8 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "gKX63sQA-ak",
+      "fBagEcODaLg",
+      "GB10UM5Q_ck",
       "dR9aGRSprFg",
       "r5nJ7PnBLMc",
       "gwGrwTqqrYA",
@@ -246,21 +248,21 @@
       "vPbfCZjtbCI",
       "yEEFWl2OLtU",
       "9Cl_M-KvOhI",
-      "VMMh1ZjboIE",
-      "M_Hehsgv2Vw",
-      "Rp9jkFfAsF4"
+      "VMMh1ZjboIE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "gKX63sQA-ak | ((LIVE))_24/11/26_11:51_CNNBRASIL_AO VIVO: LULA DEVE DISCUTIR DÓLAR E NOVO AJUSTE FISCAL HOJE   BASTIDORES CN",
+      "fBagEcODaLg | [VIDEO]_24/11/26_13:16_CNNBRASIL_13m35s_Ajuste fiscal vai à sanção e evidencia aproximação do governo Lula com o Co",
+      "GB10UM5Q_ck | [VIDEO]_24/11/26_13:16_CNNBRASIL_7m29s_5x2: governo deve publicar três novas portarias   BASTIDORES CNN",
       "dR9aGRSprFg | [VIDEO]_24/11/26_13:08_CNNBRASIL_11m16s_Alckmin sinaliza preferência por Ministério da Fazenda e aguarda Lula   BAS",
       "r5nJ7PnBLMc | [VIDEO]_24/11/26_12:30_CNNBRASIL_5m34s_Lula convoca reunião para discutir nova rodada de ajuste fiscal   BASTIDORE",
       "gwGrwTqqrYA | [VIDEO]_24/11/26_12:26_CNNBRASIL_2m22s_Cantora iraniana e equipe recebem 74 chibatadas por apresentação sem hijab ",
-      "Ia3cdScTTM4 | [VIDEO]_24/11/26_12:20_CNNBRASIL_3m06s_Dólar despenca quase 2% com expectativa de PEC sobre despesas obrigatórias ",
+      "Ia3cdScTTM4 | [VIDEO]_24/11/26_12:20_CNNBRASIL_3m06s_Dólar despenca quase 2% com expectativa de PEC sobre despesas obrigatórias",
       "y6nLw796Ntc | [VIDEO]_24/11/26_12:16_CNNBRASIL_2m24s_Justiça interroga diarista acusada de matar casal de idosos em MG   LIVE CN",
       "D2aMWurA2-g | [VIDEO]_24/11/26_12:15_CNNBRASIL_4m13s_Republicanos desafiam Trump e criticam retorno de CEO da Nvidia   LIVE CNN",
-      "8HcIX3AMGFQ | [VIDEO]_24/11/26_12:15_CNNBRASIL_3m42s_PF mira esquema de lavagem de dinheiro que movimentou mais de R$ 4 bilhões ",
+      "8HcIX3AMGFQ | [VIDEO]_24/11/26_12:15_CNNBRASIL_3m42s_PF mira esquema de lavagem de dinheiro que movimentou mais de R$ 4 bilhões",
       "0aYXSdJTqMA | [VIDEO]_24/11/26_11:30_CNNBRASIL_4m10s_Ataque russo mata duas pessoas e deixa 40 feridos   LIVE CNN",
       "q4Ph-kXL9sw | [VIDEO]_24/11/26_11:25_CNNBRASIL_4m48s_Morre Fábio Konder Comparato, jurista e professor da USP, aos 90 anos   LIV",
       "n5_r-LuVRpo | [VIDEO]_24/11/26_11:10_CNNBRASIL_8m35s_Após valorização, ações da Nvidia têm queda com retorno do CEO   LIVE CNN",
@@ -280,9 +282,7 @@
       "vPbfCZjtbCI | [VIDEO]_24/11/26_09:24_CNNBRASIL_3m36s_Equipe de Gonet frustra Eduardo Paes no STF e no TSE   CNN NOVO DIA",
       "yEEFWl2OLtU | [VIDEO]_24/11/26_09:17_CNNBRASIL_3m39s_Governo prevê fiscalizar empresas nos primeiros 90 dias da escala 5x2   CNN",
       "9Cl_M-KvOhI | [VIDEO]_24/11/26_08:37_CNNBRASIL_5m14s_MC Ryan SP é alvo da PF em operação sobre lavagem e tem bens bloqueados   C",
-      "VMMh1ZjboIE | [VIDEO]_24/11/26_08:10_CNNBRASIL_3m22s_Brasil teve mais de 600 casos de Mpox em novembro   CNN NOVO DIA",
-      "M_Hehsgv2Vw | [VIDEO]_24/11/26_07:58_CNNBRASIL_9m24s_Casal de idosos morre afogado após enxurrada invadir casa no Paraná   CNN N",
-      "Rp9jkFfAsF4 | [VIDEO]_23/11/26_11:37_CNNBRASIL_191m11s_AO VIVO: AJUSTE FISCAL VAI À SANÇÃO APÓS APROVAÇÃO NO CONGRESSO   CNN NOVO"
+      "VMMh1ZjboIE | [VIDEO]_24/11/26_08:10_CNNBRASIL_3m22s_Brasil teve mais de 600 casos de Mpox em novembro   CNN NOVO DIA"
     ]
   },
   {
@@ -290,7 +290,7 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "LTLsVbZv13w",
-      "56jNfF9ytjg",
+      "Pe26Oex1n5g",
       "yx2PGdLeS6o",
       "HeAzDgWkWGE",
       "lw8gmBgXU78",
@@ -324,7 +324,7 @@
     "playlistId": "",
     "carimbos": [
       "LTLsVbZv13w | ((LIVE))_24/11/26_12:50_CNNMONEY_AO VIVO: MONEY NEWS II - 24/11/2026   CNN MONEY",
-      "56jNfF9ytjg | [VIDEO]_24/11/26_13:07_CNNMONEY_10m34s_Big techs colocam seus CEOs no centro da própria imagem   MONEY NEWS",
+      "Pe26Oex1n5g | [VIDEO]_24/11/26_13:21_CNNMONEY_3m23s_Executivos defendem ajuste fiscal durante evento do Movimento Brasil Compet",
       "yx2PGdLeS6o | [VIDEO]_24/11/26_13:01_CNNMONEY_10m34s_Mercado tem incerteza com inteligência artificial, diz especialista   MONEY",
       "HeAzDgWkWGE | [VIDEO]_24/11/26_12:43_CNNMONEY_2m39s_Preço do tomate recua na maioria dos atacados do país   CNN AGRO MONEY",
       "lw8gmBgXU78 | [VIDEO]_24/11/26_07:46_CNNBRASILMONEY_45m06s_AO VIVO: CNN AGRO NEWS COM ISADORA CAMARGO - 24/11/2026   CNN MONEY",
@@ -778,6 +778,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "-wHiAFvnlLs",
+      "q7cColvx6B8",
       "xIze6dkGif0",
       "AeVV4Kgeo08",
       "647pcioq_to",
@@ -805,20 +806,20 @@
       "mebE3LRfGKs",
       "HhMlX2CHqkw",
       "JA51fiLoYLE",
-      "eoFhEwL8il4",
-      "tj2YdZoEsbY"
+      "eoFhEwL8il4"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "-wHiAFvnlLs | ((LIVE))_24/11/26_11:52_REVISTAOESTE_ESPORTE SEM FIRULA   24/11/2026",
+      "q7cColvx6B8 | [VIDEO]_24/11/26_13:20_REVISTAOESTE_14m07s_SUPREMO EM JOGO: Lula banca Messias no STF e enfrenta resistência do Centrã",
       "xIze6dkGif0 | [VIDEO]_24/11/26_13:10_REVISTAOESTE_13m53s_FARSA DO 'GOLPE': 'STF deu lição ao mundo', afirma Gilmar sobre julgamento ",
       "AeVV4Kgeo08 | [VIDEO]_24/11/26_13:00_REVISTAOESTE_13m40s_MASTER: Gilmar Mendes minimiza contrato milionário da mulher de Moraes com ",
       "647pcioq_to | [VIDEO]_24/11/26_12:55_REVISTAOESTE_7m02s_Bolsonaro tem pneumonia e obstrução intestinal, diz boletim médico",
       "mq1x3UvmYRc | [VIDEO]_24/11/26_12:50_REVISTAOESTE_8m16s_Sistema FAESP leva apicultores a congresso mundial no Chile   AFA, com Joic",
       "Fu7uJvgiQ3k | [VIDEO]_24/11/26_12:45_REVISTAOESTE_20m29s_Relatório da PF deixa de fora mensagens de Vorcaro a Moraes",
       "eH4EUFRT8W4 | [VIDEO]_24/11/26_12:35_REVISTAOESTE_7m22s_Hotéis de Brasília atingem 90% de ocupação para posse de Lula",
-      "n5H4RArlTdM | [VIDEO]_24/11/26_12:17_REVISTAOESTE_30m01s_Ivan Kleber analisa manobra de Lula na Comissão Interamericana de Direitos ",
+      "n5H4RArlTdM | [VIDEO]_24/11/26_12:17_REVISTAOESTE_30m01s_Ivan Kleber analisa manobra de Lula na Comissão Interamericana de Direitos",
       "UL-iwV-_yhY | [VIDEO]_17/11/26_16:12_REVISTAOESTE_124m11s_OESTE COM ELAS 24/11: CASO MASTER: 47 MENSAGENS DE VORCARO A MORAES NÃO APA",
       "g6-HDjwdH_s | [VIDEO]_24/11/26_10:15_REVISTAOESTE_10m31s_Lula quer indicar Jorge Messias novamente ao STF",
       "mnU5FRzWfhg | [VIDEO]_24/11/26_10:05_REVISTAOESTE_11m03s_Galípolo afirma que expectativa de inflação vai além do câmbio",
@@ -839,8 +840,7 @@
       "mebE3LRfGKs | [VIDEO]_23/11/26_18:58_REVISTAOESTE_9m20s_URGENTE: Bolsonaro tem diagnóstico de pneumonia e continuará na UTI, revela",
       "HhMlX2CHqkw | [VIDEO]_23/11/26_18:32_REVISTAOESTE_7m06s_'AMOR PERFEITO': Barroso canta Roberto Carlos após se aposentar com salário",
       "JA51fiLoYLE | [VIDEO]_23/11/26_18:18_REVISTAOESTE_4m20s_Lula evita fadiga e ironiza trabalho após as 20 horas: 'Notícia ruim para e",
-      "eoFhEwL8il4 | [VIDEO]_23/11/26_18:15_REVISTAOESTE_10m57s_Gilmar Mendes culpa Bolsonaro por revolta do povo brasileiro contra STF",
-      "tj2YdZoEsbY | [VIDEO]_23/11/26_18:05_REVISTAOESTE_11m38s_ANÁLISE: Lula dobra a aposta e confronta governo Trump no combate ao narcot"
+      "eoFhEwL8il4 | [VIDEO]_23/11/26_18:15_REVISTAOESTE_10m57s_Gilmar Mendes culpa Bolsonaro por revolta do povo brasileiro contra STF"
     ]
   },
   {
@@ -848,6 +848,7 @@
     "rem": "METRÓPOLES",
     "videoIds": [
       "cO59GFGxFh4",
+      "8l7P8bsFn4I",
       "j-UYgj5z8Zk",
       "dCClvutofmA",
       "uMHF1ze9T0Q",
@@ -875,13 +876,13 @@
       "bVWVUTYfiNk",
       "woA47UyArZc",
       "gJDf9luB5UA",
-      "2D1sjNIfXSc",
-      "yvzZmkw8oCE"
+      "2D1sjNIfXSc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "cO59GFGxFh4 | ((LIVE))_24/11/26_12:59_METRÓPOLES_Reinaldo Azevedo: Centrão: sim a Plano Lula; PSOL e Novo: voto zero; PT: Bo",
+      "8l7P8bsFn4I | [VIDEO]_24/11/26_13:29_METRÓPOLES_2m53s_Bruno Moretti ganha prestígio e respaldo de Lula; veja perfil do ministro",
       "j-UYgj5z8Zk | [VIDEO]_24/11/26_10:50_METRÓPOLES_2m33s_Entenda como Jensen Huang conseguiu voltar ao comando da Nvidia",
       "dCClvutofmA | [VIDEO]_24/11/26_10:01_METRÓPOLES_5m35s_TCU vê possível conluio em licitações de R$ 105 milhões do Banco do Brasil",
       "uMHF1ze9T0Q | [VIDEO]_24/11/26_09:58_METRÓPOLES_7m48s_Mendonça revoga domiciliar de ex-nº 2 da Previdência e solta empresários",
@@ -909,8 +910,7 @@
       "bVWVUTYfiNk | [VIDEO]_23/11/26_21:40_METRÓPOLES_8m07s_Janja deve organizar a festa de posse de Lula; veja a expectativa de Pavina",
       "woA47UyArZc | [VIDEO]_23/11/26_21:06_METRÓPOLES_8m40s_Pavinatto: \"com proteção dos poderososo a Lula, vamos esperar mais 4 anos d",
       "gJDf9luB5UA | [VIDEO]_23/11/26_21:00_METRÓPOLES_12m02s_\"O Lula não quer Pacheco, mas não quer insistir no Messias\", diz Pavinatto",
-      "2D1sjNIfXSc | [VIDEO]_23/11/26_20:36_METRÓPOLES_2m21s_Justiça condena Betano a devolver R$ 128,6 mil a apostador viciado",
-      "yvzZmkw8oCE | [VIDEO]_23/11/26_20:34_METRÓPOLES_4m11s_Pavinatto - \"A maioria do STF trabalha em prol do Lula\""
+      "2D1sjNIfXSc | [VIDEO]_23/11/26_20:36_METRÓPOLES_2m21s_Justiça condena Betano a devolver R$ 128,6 mil a apostador viciado"
     ]
   },
   {
@@ -1057,7 +1057,6 @@
     "numero": "16",
     "rem": "BBC BRASIL",
     "videoIds": [
-      "vEq6EZZpc-o",
       "aNDkTCCojTE",
       "K8MWQgo-iXY",
       "mF7VPt3IpeY",
@@ -1072,12 +1071,12 @@
       "-D8ojJCGG8w",
       "wEAQasf49KM",
       "Xox_1TZ6_eQ",
+      "vEq6EZZpc-o",
       "mfutbMO0nnU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "vEq6EZZpc-o | [VIDEO]_17/11/26_17:00_BBCBRASIL_12m13s_O que a Nasa gravou para os alienígenas no Disco de Ouro",
       "aNDkTCCojTE | [VIDEO]_15/11/26_12:00_BBCBRASIL_16m43s_Belchior: o sumiço e os últimos anos do cantor no interior do Rio Grande do",
       "K8MWQgo-iXY | [VIDEO]_12/11/26_18:07_BBCBRASIL_7m20s_As 'cidades perdidas' da Amazônia que ficaram ocultas por séculos",
       "mF7VPt3IpeY | [VIDEO]_19/11/26_18:02_TVBRASIL_117m50s_SEM CENSURA RECEBE SÉRGIO MALHEIROS, LINN DA QUEBRADA E BARBÁRA REIS",
@@ -1092,6 +1091,7 @@
       "-D8ojJCGG8w | [VIDEO]_19/11/26_20:03_TVBRASIL_60m05s_Repórter Brasil, 19/11/2026",
       "wEAQasf49KM | [VIDEO]_22/11/26_13:00_BBCBRASIL_27m51s_Inédito acesso da BBC ao governo Talebã mostra bastidores do poder e realid",
       "Xox_1TZ6_eQ | [VIDEO]_21/11/26_07:00_BBCBRASIL_4m56s_O que é o zeptoverso descoberto por cientistas, mundo 100 bilhões de vezes",
+      "vEq6EZZpc-o | [VIDEO]_17/11/26_17:00_BBCBRASIL_12m13s_O que a Nasa gravou para os alienígenas no Disco de Ouro",
       "mfutbMO0nnU | [VIDEO]_18/11/26_17:46_TVBRASIL_6m20s_Entrevista: Luciana Barreto conversa com o filósofo e escritor Renato Nogue"
     ]
   },
@@ -1808,7 +1808,6 @@
     "rem": "TURBO",
     "videoIds": [
       "OPUCGUmEgjg",
-      "t1X6mIUI6aM",
       "MVxonBbqEvk",
       "rgctu1P6qco",
       "gxKqxS3_lGs",
@@ -1823,6 +1822,7 @@
       "0uYXfL2N8EQ",
       "p7b1sIapdPA",
       "dHj1qA21zZU",
+      "t1X6mIUI6aM",
       "t5ilJ9kXOXI",
       "ZpWYOIdQInI",
       "HOUv4qsnCpY",
@@ -1833,7 +1833,6 @@
     "playlistId": "",
     "carimbos": [
       "OPUCGUmEgjg | ((LIVE))_23/11/26_16:24_TURBO_CRIATIVIDADE SEM FREIO ⚙️ MARATONA Máquinas fora do padrão",
-      "t1X6mIUI6aM | [VIDEO]_14/11/26_19:00_TURBO_7m35s_Emotiva revelação da motocicleta de Helen   Viciado em Motores: Goblin Gara",
       "MVxonBbqEvk | [VIDEO]_13/11/26_19:00_TURBO_7m56s_O segredo por trás do ambiente que torna possível cada grande transformação",
       "rgctu1P6qco | [VIDEO]_12/11/26_19:00_TURBO_8m21s_Mike e Elvis finalizam o Mini restaurado e partem para Monte Carlo   Joias",
       "gxKqxS3_lGs | [VIDEO]_11/11/26_19:00_TURBO_8m03s_Dave avalia melhorias mecânicas para acelerar este Ford Mustang na pista",
@@ -1848,6 +1847,7 @@
       "0uYXfL2N8EQ | [VIDEO]_16/11/26_19:00_TURBO_8m10s_Oficina Kindig recebe um clássico de '55 pela metade precisando de socorro",
       "p7b1sIapdPA | [VIDEO]_17/11/26_19:00_TURBO_8m27s_Anthony surpreende Debbie Wiggins com uma Ducati personalizada   Viciado em",
       "dHj1qA21zZU | [VIDEO]_15/11/26_19:00_TURBO_7m54s_Mike e Elvis se juntam a Tavarish em desafio automotivo   Joias sobre rodas",
+      "t1X6mIUI6aM | [VIDEO]_14/11/26_19:00_TURBO_7m35s_Emotiva revelação da motocicleta de Helen   Viciado em Motores: Goblin Gara",
       "t5ilJ9kXOXI | [VIDEO]_09/11/26_19:00_DISCOVERYTURBOBRASIL_8m10s_Sydney e seu pai ficam chocados ao verem o utilitário transformado em um of",
       "ZpWYOIdQInI | [VIDEO]_08/11/26_16:00_DISCOVERYTURBOBRASIL_43m42s_Bill finalmente coloca sua marca no Pontiac GTO 1968   Texas Metal",
       "HOUv4qsnCpY | [VIDEO]_08/11/26_14:00_DISCOVERYTURBOBRASIL_7m58s_Desafio complexo de construir um carro de F1 com motor elétrico   Carros Ir",
@@ -1859,7 +1859,6 @@
     "numero": "71",
     "rem": "AUTO (ACELERADOS & WEBMOTORS)",
     "videoIds": [
-      "yo0pCCO7hok",
       "jcqWs2YQnKs",
       "AzBUoWE-IVk",
       "SqNm7hAc19Q",
@@ -1874,6 +1873,7 @@
       "yeH5FffwGFQ",
       "4h5t6M9BUpY",
       "slh1REBdy74",
+      "yo0pCCO7hok",
       "1ZdDuoKH99w",
       "j5kUs0-FEbA",
       "k4qLvjybQVc",
@@ -1885,7 +1885,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "yo0pCCO7hok | [VIDEO]_13/11/26_18:00_ACELERADOS_15m07s_SINUCA COM KART E VOLTA RÁPIDA COM CÂMERA DE VIDEOGAME! GRAND RIDE KITKAT E",
       "jcqWs2YQnKs | [VIDEO]_12/11/26_18:00_ACELERADOS_7m58s_PIGGYBACK E SHIFTPOWER VALEM A PENA? Testamos com o T-Cross 1.0 TSI no Arra",
       "AzBUoWE-IVk | [VIDEO]_23/11/26_18:30_ACELERADOS_43m06s_MUNDIAL DE KART 39 ANOS DEPOIS: Rubens Barrichello, uma vida dedicada ao au",
       "SqNm7hAc19Q | [VIDEO]_10/11/26_18:00_ACELERADOS_19m25s_ONBOARD 360º VOLTA RÁPIDA FÓRMULA 1 - Williams FW33 V8 (SEM EDIÇÃO)",
@@ -1900,6 +1899,7 @@
       "yeH5FffwGFQ | [VIDEO]_17/11/26_18:30_ACELERADOS_12m08s_DODGE DAKOTA V8 X RAM DAKOTA DIESEL! Quem leva o duelo de gerações da picap",
       "4h5t6M9BUpY | [VIDEO]_16/11/26_18:23_ACELERADOS_21m28s_GERSON VENCE AS DUAS CORRIDAS DA PORSCHE CUP na preliminar da F1 em disputa",
       "slh1REBdy74 | [VIDEO]_15/11/26_12:00_WEBMOTORS_26m17s_SUV até R$ 150 mil, Blindado Seminovo, Quitação de Débitos e Museu Campos d",
+      "yo0pCCO7hok | [VIDEO]_13/11/26_18:00_ACELERADOS_15m07s_SINUCA COM KART E VOLTA RÁPIDA COM CÂMERA DE VIDEOGAME! GRAND RIDE KITKAT E",
       "1ZdDuoKH99w | [VIDEO]_11/11/26_20:00_WEBMOTORS_11m01s_EP. 3   Confiança que Atravessa os Sertões   Sertões Series São Paulo",
       "j5kUs0-FEbA | [VIDEO]_09/11/26_18:00_ACELERADOS_33m52s_FÓRMULA 1 NA VOLTA RÁPIDA   Rubinho acelera a Williams FW33 no Acelerados",
       "k4qLvjybQVc | [VIDEO]_09/11/26_14:30_ACELERADOS_79m25s_LANDO NORRIS VENCE EM INTERLAGOS!   PADDOCK ACELERADOS RECEBE INGO HOFFMANN",
@@ -2345,7 +2345,6 @@
     "numero": "113",
     "rem": "ENTRETENIMENTO MUSICAL (TALK RAUL)",
     "videoIds": [
-      "Ux68pCjJw44",
       "jWQW11tWaKk",
       "YJ2In2YOhsI",
       "gCCqIakO8Kg",
@@ -2357,12 +2356,12 @@
       "e-SHqOi0fVs",
       "8eMYzJYHGBI",
       "dHWCt4lVnzw",
-      "E6SsvQCu800"
+      "E6SsvQCu800",
+      "Ux68pCjJw44"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Ux68pCjJw44 | [VIDEO]_23/11/26_20:00_TALKRAUL_8m11s_Ele cantou para o avô e emocionou os jurados! A homenagem de Lucas Gomes",
       "jWQW11tWaKk | [VIDEO]_14/11/26_14:15_TALKRAUL_19m39s_BASTIDORES TALK RAUL IMPERDÍVEL!   Seja membro e assista nossos exclusivos.",
       "YJ2In2YOhsI | [VIDEO]_13/11/26_19:00_TALKRAUL_14m21s_Com ou sem sanfona? Rafa Faria revela a mudança na apresentação",
       "gCCqIakO8Kg | [VIDEO]_12/11/26_19:00_TALKRAUL_9m05s_“Ela não imita ninguém!” N.ALU canta composição do pai",
@@ -2374,7 +2373,8 @@
       "e-SHqOi0fVs | [VIDEO]_18/11/26_19:00_TALKRAUL_8m44s_Caio elogia Lívia Veronese e aponta um ajuste importante na voz",
       "8eMYzJYHGBI | [VIDEO]_17/11/26_19:00_TALKRAUL_9m44s_“Eu entendi outra palavra!” Raíssa canta e “pilchada” vira assunto entre os",
       "dHWCt4lVnzw | [VIDEO]_16/11/26_19:00_TALKRAUL_11m50s_Após 31 semanas, Caio considera Melissa a campeã simbólica do programa!",
-      "E6SsvQCu800 | [VIDEO]_14/11/26_15:00_TALKRAUL_65m46s_Jovens Talentos não param de surpreender! Novas vozes emocionam no programa"
+      "E6SsvQCu800 | [VIDEO]_14/11/26_15:00_TALKRAUL_65m46s_Jovens Talentos não param de surpreender! Novas vozes emocionam no programa",
+      "Ux68pCjJw44 | [VIDEO]_23/11/26_20:00_TALKRAUL_8m11s_Ele cantou para o avô e emocionou os jurados! A homenagem de Lucas Gomes"
     ]
   },
   {
