@@ -1169,8 +1169,8 @@
     "numero": "31",
     "rem": "GeTV",
     "videoIds": [
-      "ZHpNObYBdXA",
       "CGoWQDnp6yA",
+      "ZHpNObYBdXA",
       "n3vHLCrjFRg",
       "cLDBIryqUR4",
       "D5YpBU0vZXM",
@@ -1203,9 +1203,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "ZHpNObYBdXA | ((LIVE))_23/11/26_20:34_GETV_SANTOS X GRÊMIO   AQUECIMENTO AO VIVO   BRASILEIRÃO 2026   #live   sportv",
       "CGoWQDnp6yA | ((LIVE))_23/11/26_20:30_GETV_AO VIVO! FLAMENGO CAMPEÃO: EM 2027 TEM MAIS?   PALMEIRAS X ESTUDIANTES VEM ",
-      "n3vHLCrjFRg | [VIDEO]_19/11/26_10:32_GETV_175m07s_JOGO COMPLETO: MINAS X SESI-BAURU   SUPERLIGA FEMININA 2026/27   ge tv",
+      "ZHpNObYBdXA | [VIDEO]_23/11/26_21:09_GETV_32m15s_SANTOS X GRÊMIO   AQUECIMENTO AO VIVO   BRASILEIRÃO 2026   #live   sportv",
+      "n3vHLCrjFRg | [VIDEO]_23/11/26_21:03_GETV_175m15s_JOGO COMPLETO: MINAS X SESI-BAURU   SUPERLIGA FEMININA 2026/27   ge tv",
       "cLDBIryqUR4 | [VIDEO]_23/11/26_18:19_GETV_75m18s_AO VIVO: RICARDINHO E CAROL GATTAZ NO LEVANTOU, CORTOU! + MINAS X SESI-BAUR",
       "D5YpBU0vZXM | [VIDEO]_23/11/26_03:20_GETV_167m28s_AO VIVO: TIME BRASIL NA COPA DO MUNDO DE SKATE STREET   FINAL   ge tv",
       "y8nTyF90OSs | [VIDEO]_23/11/26_02:03_GETV_19m23s_SAN FRANCISCO 49ERS X MINNESOTA VIKINGS   MELHORES MOMENTOS   SEMANA 11   N",
@@ -1240,7 +1240,6 @@
     "rem": "TNT SPORTS",
     "videoIds": [
       "Znxc4WjMa5k",
-      "LWdJhwkEZg8",
       "0Mu6ijVxHIY",
       "4EFq8uZ6cxA",
       "p-JDhFYPy4Y",
@@ -1267,13 +1266,13 @@
       "B_ATzzkoAow",
       "CuHWLalOvEs",
       "r4jn39x24Bo",
-      "WergWZ9bvfs"
+      "WergWZ9bvfs",
+      "LWdJhwkEZg8"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "Znxc4WjMa5k | ((LIVE))_23/11/26_20:30_TNTSPORTSBRASIL_AO VIVO: SANTOS X GREMIO (PRÉ-JOGO E NARRAÇÃO)   36ª RODADA   BRASILEIRÃO 2",
-      "LWdJhwkEZg8 | [VIDEO]_20/11/26_10:06_TNTSPORTSBRASIL_100m41s_AO VIVO: QUEM VAI CAIR NO BRASILEIRÃO? + GALO VS BOCA NA FINAL DE AMANHÃ",
       "0Mu6ijVxHIY | [VIDEO]_20/11/26_02:45_TNTSPORTSBRASIL_5m48s_É SELEÇÃO? RAFAEL CABRAL CATA 3 PÊNALTIS E ACABA COM JOGO NA MLS   SOUNDERS",
       "4EFq8uZ6cxA | [VIDEO]_23/11/26_10:08_TNTSPORTSBRASIL_100m56s_AO VIVO: FLAMENGO É CAMPEÃO BRASILEIRO; GALO ATROPELADO; TUDO DA RODADA DO",
       "p-JDhFYPy4Y | [VIDEO]_23/11/26_12:47_TNTSPORTSBRASIL_69m39s_REMONTADAS DE BARÇA E REAL, UNITED NA VICE-LANTERNA E SURTO DE LESÕES NO FU",
@@ -1300,7 +1299,8 @@
       "B_ATzzkoAow | [VIDEO]_23/11/26_19:00_TNTSPORTSBRASIL_83m38s_QUEM É O MAIOR VIRA-CASACA DO FUTEBOL EUROPEU? I DE ZERO A DEZ",
       "CuHWLalOvEs | [VIDEO]_21/11/26_11:00_TNTSPORTSBRASIL_38m04s_MILITÃO CONTA RESENHAS INÉDITAS DE MOURINHO, FASE DE VINI JR., ANCELOTTI E",
       "r4jn39x24Bo | [VIDEO]_20/11/26_11:37_TNTSPORTSBRASIL_94m36s_QUEM VAI CAIR?; VASCO VENCE; PALMEIRAS RESERVA CONTRA O FLAMENGO?; GALO X B",
-      "WergWZ9bvfs | [VIDEO]_20/11/26_11:00_TNTSPORTSBRASIL_26m43s_PALMEIRAS X FLAMENGO: QUEM TEM O MELHOR TIME EM 2026?   MANO A MANO"
+      "WergWZ9bvfs | [VIDEO]_20/11/26_11:00_TNTSPORTSBRASIL_26m43s_PALMEIRAS X FLAMENGO: QUEM TEM O MELHOR TIME EM 2026?   MANO A MANO",
+      "LWdJhwkEZg8 | [VIDEO]_20/11/26_10:06_TNTSPORTSBRASIL_100m41s_AO VIVO: QUEM VAI CAIR NO BRASILEIRÃO? + GALO VS BOCA NA FINAL DE AMANHÃ"
     ]
   },
   {
@@ -1379,11 +1379,11 @@
     "videoIds": [
       "IMPn4VXENp4",
       "PcSFw8kKa3M",
-      "cXGNrJnvt8U",
       "GOLOQMPr7pE",
       "CP5KQTa_4AE",
       "T1UXXtFZiFo",
       "C7KR0bZOpUI",
+      "cXGNrJnvt8U",
       "ZwtrjHNzLZI",
       "HY6c2jQvpkY",
       "7WLE-9UbwCM",
@@ -1413,11 +1413,11 @@
     "carimbos": [
       "IMPn4VXENp4 | ((LIVE))_23/11/26_20:21_JOVEMPANESPORTES_SANTOS X GRÊMIO AO VIVO!   BRASILEIRÃO   23/11/2026",
       "PcSFw8kKa3M | ((LIVE))_23/11/26_19:16_JOVEMPANESPORTES_BOTAFOGO X SÃO PAULO AO VIVO!   BRASILEIRÃO   23/11/2026",
-      "cXGNrJnvt8U | [VIDEO]_23/11/26_14:52_JOVEMPANESPORTES_20m31s_\"QUER APOSTAR??? VOCÊ VAI VER! O PALMEIRAS nessa FINAL da LIBERTADORES vai.",
       "GOLOQMPr7pE | [VIDEO]_23/11/26_14:08_JOVEMPANESPORTES_124m30s_FLAMENGO DECACAMPEÃO BRASILEIRO; PALMEIRAS FOCA NAS DUAS FINAIS; VICE DO GA",
       "CP5KQTa_4AE | [VIDEO]_23/11/26_14:08_JOVEMPANESPORTES_27m12s_MAIOR DA HISTÓRIA? \"Cara, essa ERA do FLAMENGO tem um GRANDE DIFERENCIAL qu",
       "T1UXXtFZiFo | [VIDEO]_23/11/26_13:37_JOVEMPANESPORTES_15m53s_\"O ABEL FERREIRA ESTÁ MENTINDO!!! Ele DE NOVO FALOU que o FLAMENGO...\"   DE",
       "C7KR0bZOpUI | [VIDEO]_23/11/26_12:56_JOVEMPANESPORTES_24m04s_ATENÇÃO! \"Essa INFORMAÇÃO é ASSUSTADORA! Um REPÓRTER REVELOU que...\" JARDIM",
+      "cXGNrJnvt8U | [VIDEO]_23/11/26_14:52_JOVEMPANESPORTES_20m31s_\"QUER APOSTAR??? VOCÊ VAI VER! O PALMEIRAS nessa FINAL da LIBERTADORES vai.",
       "ZwtrjHNzLZI | [VIDEO]_22/11/26_20:26_JOVEMPANESPORTES_14m57s_\"5 VICES??? É COISA DE LOUCO! Cara, o ATLÉTICO-MG está...\" DERROTA pro BOCA",
       "HY6c2jQvpkY | [VIDEO]_22/11/26_19:35_JOVEMPANESPORTES_90m22s_MAIOR DO BRASIL? DECA DO FLAMENGO É EXALTADO; GALO É VICE DA SULA DE NOVO!",
       "7WLE-9UbwCM | [VIDEO]_22/11/26_15:07_JOVEMPANESPORTES_123m24s_FLAMENGO FAZ HISTÓRIA E FATURA O 10º TÍTULO BRASILEIRO NO ESTÁDIO DO PALMEI",
@@ -1481,7 +1481,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "KFxlJKmYBK4 | ((LIVE))_23/11/26_19:04_BANDESPORTES_[AO VIVO] PRÉ-JOGO DE SANTOS X GRÊMIO   BRASILEIRÃO 2026   23/11/2026",
+      "KFxlJKmYBK4 | [VIDEO]_23/11/26_21:05_BANDESPORTES_115m50s_[AO VIVO] PRÉ-JOGO DE SANTOS X GRÊMIO   BRASILEIRÃO 2026   23/11/2026",
       "CKTmZZbuAfU | [VIDEO]_23/11/26_20:41_BANDESPORTES_2m17s_GRÊMIO MERECE ESTAR BRIGANDO CONTRA O REBAIXAMENTO?",
       "VzGzcfUVDOs | [VIDEO]_23/11/26_20:36_BANDESPORTES_3m00s_A AVENTURA DOS TORCEDORES DO SANTOS DO PARANÁ PARA O MORUMBI",
       "aDGBTijppoo | [VIDEO]_23/11/26_13:21_JOGOABERTO_4m20s_PALPITE: INTER X VITÓRIA, BOTAFOGO X SÃO PAULO E SANTOS X GRÊMIO",
@@ -1611,16 +1611,17 @@
     "numero": "39",
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
+      "rP_TTVtrSKc",
       "w4s8IsPLWH4",
       "TE-mqqVkKo4",
       "bUzGgl_2KgM",
       "RqjrmXogDfM",
-      "VAIVT3gChTY",
       "WGGuKlCXfXM",
       "m2o-EWBmmOU",
       "sSabqijr3l4",
       "_IePierOnxE",
       "oZVwpwv8rXE",
+      "VAIVT3gChTY",
       "YR8PgUjm9Hc",
       "WIBNHaKeYOw",
       "gaHG_7-CUkU",
@@ -1639,22 +1640,22 @@
       "zhdUgCH2NSA",
       "zn9wPwjrEyA",
       "5PWDsb6lmq0",
-      "5b8ZxfK3HJU",
-      "bbImME13yaU"
+      "5b8ZxfK3HJU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "rP_TTVtrSKc | ((LIVE))_23/11/26_21:07_LITORALNEWS_SANTOS X GRÊMIO AO VIVO   CAZE TV AO VIVO   JOGO DO SANTOS E GRÊMIO AO VIVO",
       "w4s8IsPLWH4 | ((LIVE))_23/11/26_20:51_LITORALNEWS_BOTAFOGO X SÃO PAULO AO VIVO   SEGUNDO TEMPO   CAZE TV AO VIVO   JOGO DO BO",
       "TE-mqqVkKo4 | ((LIVE))_23/11/26_20:41_LITORALNEWS_SANTOS X GRÊMIO AO VIVO   COM IMAGENS NO PREMIERE   CAZE TV AO VIVO - JOGO ",
       "bUzGgl_2KgM | ((LIVE))_23/11/26_20:25_LITORALNEWS_INTERNACIONAL X VITÓRIA AO VIVO   SEGUNDO TEMPO   CAZE TV AO VIVO   BRASILE",
       "RqjrmXogDfM | ((LIVE))_23/11/26_19:57_LITORALNEWS_BOTAFOGO X SÃO PAULO AO VIVO   CAZE TV   JOGO DO BOTAFOGO E SÃO PAULO COM I",
-      "VAIVT3gChTY | ((LIVE))_23/11/26_19:38_LITORALNEWS_BOTAFOGO X SÃO PAULO AO VIVO COM IMAGEM NO AMAZON PRIME   BRASILEIRÃO NA CA",
       "WGGuKlCXfXM | ((LIVE))_23/11/26_19:25_LITORALNEWS_INTERNACIONAL X VITÓRIA AO VIVO COM IMAGEM NA CAZE TV AO VIVO   JOGO AO VIV",
       "m2o-EWBmmOU | ((LIVE))_23/11/26_19:15_LITORALNEWS_SANTOS X GRÊMIO AO VIVO COM IMAGEM NA CAZE TV AO VIVO   SANTOS AO VIVO COM ",
       "sSabqijr3l4 | ((LIVE))_23/11/26_19:02_LITORALNEWS_INTERNACIONAL X VITÓRIA AO VIVO COM IMAGEM NA CAZE TV AO VIVO   INTERNACION",
       "_IePierOnxE | ((LIVE))_23/11/26_18:17_LITORALNEWS_BOTAFOGO X SÃO PAULO AO VIVO COM IMAGEM NA CAZE TV AO VIVO   JOGO DO BOTAFO",
       "oZVwpwv8rXE | ((LIVE))_23/11/26_17:45_LITORALNEWS_INTERNACIONAL X VITÓRIA AO VIVO COM IMAGEM NA CAZE TV AO VIVO   JOGO DO INT",
+      "VAIVT3gChTY | [VIDEO]_23/11/26_21:11_LITORALNEWS_80m21s_BOTAFOGO X SÃO PAULO AO VIVO COM IMAGEM NO AMAZON PRIME   BRASILEIRÃO NA CA",
       "YR8PgUjm9Hc | [VIDEO]_23/11/26_18:48_SPORTYNET_136m46s_MONZA x FIORENTINA: AO VIVO E COM IMAGENS   RODADA 12   SERIE A",
       "WIBNHaKeYOw | [VIDEO]_23/11/26_18:29_LITORALNEWS_8m06s_SANTOS X GRÊMIO AO VIVO COM IMAGENS   SPORTV AO VIVO   JOGO DO SANTOS HOJE",
       "gaHG_7-CUkU | [VIDEO]_23/11/26_17:05_CANALGOAT_73m50s_CRISTIANO RONALDO EM BUSCA DO MILÉSIMO GOL, RODADA DA SAUDI PRO LEAGUE E MA",
@@ -1673,8 +1674,7 @@
       "zhdUgCH2NSA | [VIDEO]_22/11/26_18:52_LITORALNEWS_154m42s_ATHLETICO-PR X REMO AO VIVO COM IMAGEM NA CAZE TV AO VIVO   JOGO DO ATHLETI",
       "zn9wPwjrEyA | [VIDEO]_22/11/26_18:41_SPORTYNET_5m27s_O TIGRE PULA NA FRENTE!! - Criciúma 1x0 Fortaleza - Playoff (IDA) - Brasile",
       "5PWDsb6lmq0 | [VIDEO]_22/11/26_17:51_CANALGOAT_10m16s_GOLEADA! WERDER BREMEN FAZ QUATRO NO HAMBURGO PELA BUNDESLIGA!",
-      "5b8ZxfK3HJU | [VIDEO]_22/11/26_16:03_SPORTYNET_5m54s_GRANDE CLÁSSICO DO NORTE! - WERDER BREMEN 4 X 0 HAMBURGO   MELHORES MOMENTO",
-      "bbImME13yaU | [VIDEO]_22/11/26_16:00_SPORTYNET_192m26s_MILAN x FROSINONE : AO VIVO E COM IMAGENS   RODADA 12   SERIE A"
+      "5b8ZxfK3HJU | [VIDEO]_22/11/26_16:03_SPORTYNET_5m54s_GRANDE CLÁSSICO DO NORTE! - WERDER BREMEN 4 X 0 HAMBURGO   MELHORES MOMENTO"
     ]
   },
   {
@@ -1991,12 +1991,12 @@
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
-      "ks1UJEkJTFM",
       "aZMb975_BSc",
       "ZFynTk5tZTs",
       "Ad62BMum1LU",
       "M-WapjDB93c",
       "6avs7xaLl10",
+      "ks1UJEkJTFM",
       "Mk2XvQahSZ8",
       "enEiMraHxe8",
       "6WvSPuk5t5E",
@@ -2025,12 +2025,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "ks1UJEkJTFM | [VIDEO]_23/11/26_08:00_TECHCIÊNCIA2A_173m52s_Pequenos vulcões escondem um perigo gigantesco que pode surpreender os cien",
       "aZMb975_BSc | [VIDEO]_23/11/26_13:00_TECHCIÊNCIA2A_93m55s_Vulcão adormecido há 700 mil anos está se elevando — o que está acontecendo",
       "ZFynTk5tZTs | [VIDEO]_23/11/26_19:00_TECHCIÊNCIA2A_177m22s_A ameaça de clima extremo que está vindo em nossa direção",
       "Ad62BMum1LU | [VIDEO]_23/11/26_12:00_TECHCIÊNCIA2A_10m34s_O planeta mais próximo do nosso Sol está encolhendo a uma velocidade imposs",
       "M-WapjDB93c | [VIDEO]_23/11/26_14:39_TECHCIÊNCIA2C_28m56s_A guerra pelo poder na Polônia - Entenda o que está acontecendo!",
       "6avs7xaLl10 | [VIDEO]_23/11/26_16:00_TECHCIÊNCIA2A_45m20s_A rachadura gigante que despertou novos temores sobre Yellowstone",
+      "ks1UJEkJTFM | [VIDEO]_23/11/26_08:00_TECHCIÊNCIA2A_173m52s_Pequenos vulcões escondem um perigo gigantesco que pode surpreender os cien",
       "Mk2XvQahSZ8 | [VIDEO]_22/11/26_22:27_TECHCIÊNCIA2C_60m01s_1 HORA DE CURIOSIDADES DE CASOS REAIS 🔎🤯",
       "enEiMraHxe8 | [VIDEO]_22/11/26_13:00_TECHCIÊNCIA2A_9m51s_Finalmente sabemos o que apagou um bilhão de anos do Grand Canyon",
       "6WvSPuk5t5E | [VIDEO]_22/11/26_19:00_TECHCIÊNCIA2A_123m48s_Nossa galáxia vem crescendo ao consumir outras galáxias há bilhões de anos",
@@ -2131,6 +2131,7 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
+      "dmCZ7onsjJU",
       "QsD7vy9YLrI",
       "-57_x0EL_-w",
       "EUt7nTAr-gU",
@@ -2159,13 +2160,13 @@
       "uMzBNAi2O6Y",
       "2TtyaTcMAmw",
       "9I6S3s1KhCo",
-      "OOk1IkgKWaY",
-      "m7QPj_QZiB8"
+      "OOk1IkgKWaY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "QsD7vy9YLrI | ((LIVE))_23/11/26_19:00_TVEVANGELIZAR_Noite de Louvor: Até que a promessa se cumpra com Pe. Leonardo, Pe. Gabriel",
+      "dmCZ7onsjJU | ((LIVE))_23/11/26_21:02_TVEVANGELIZAR_NOVENA DE NOSSA SENHORA DAS GRAÇAS   DIA 6   Clamor da Noite com William Te",
+      "QsD7vy9YLrI | [VIDEO]_23/11/26_21:07_TVEVANGELIZAR_120m31s_Noite de Louvor: Até que a promessa se cumpra com Pe. Leonardo, Pe. Gabriel",
       "-57_x0EL_-w | [VIDEO]_23/11/26_17:00_TVEVANGELIZAR_20m06s_Festival Pé Vermelho terá entrada gratuita e programação diversificada   23",
       "EUt7nTAr-gU | [VIDEO]_23/11/26_16:30_TVEVANGELIZAR_7m10s_A virtude da obediência   Virtudes de Nossa Senhora com Pe. Samuel Fidelis",
       "R3lty54ioi8 | [VIDEO]_23/11/26_15:30_TVEVANGELIZAR_42m49s_Aumento de 12% na venda de remédios para depressão para 'Geração Z'   23/11",
@@ -2193,8 +2194,7 @@
       "uMzBNAi2O6Y | [VIDEO]_22/11/26_12:26_TVEVANGELIZAR_87m11s_Santa Missa das 11h   22/11/26",
       "2TtyaTcMAmw | [VIDEO]_22/11/26_10:30_TVEVANGELIZAR_19m08s_Homilia   22/11/26   Santa Missa Dominical com Pe. Reginaldo Manzotti",
       "9I6S3s1KhCo | [VIDEO]_22/11/26_09:00_TVEVANGELIZAR_53m01s_Quem vai curar a sua ferida?   Despertar para o Amor com @padreezequiel   2",
-      "OOk1IkgKWaY | [VIDEO]_22/11/26_08:00_TVEVANGELIZAR_59m33s_Cristo Rei do Universo   22/11/26   Santa Missa Dominical com Pe. Reginaldo",
-      "m7QPj_QZiB8 | [VIDEO]_22/11/26_07:30_TVEVANGELIZAR_25m42s_Silêncio de Deus   meditAÇÃO com @PadreChrystianShankar   22/11/26"
+      "OOk1IkgKWaY | [VIDEO]_22/11/26_08:00_TVEVANGELIZAR_59m33s_Cristo Rei do Universo   22/11/26   Santa Missa Dominical com Pe. Reginaldo"
     ]
   },
   {
@@ -2214,6 +2214,7 @@
     "rem": "SBT PROGRAMAS",
     "videoIds": [
       "fEZcZOlkpxY",
+      "fOr6FzgHp3Y",
       "ElpoAJeIbS0",
       "JO7SzvWoQqk",
       "VqRuTjcdiDs",
@@ -2241,13 +2242,13 @@
       "P3tys_s_xEk",
       "zTygXa3Lq_c",
       "Ia-NA_3NCds",
-      "Rtv-k8hB9mk",
-      "oTK_3jQGZSc"
+      "Rtv-k8hB9mk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "fEZcZOlkpxY | [VIDEO]_23/11/26_20:54_FOFOCALIZANDO_24m03s_Caso Stênio Garcia: novo vídeo para desmentir filhas e suposto filho surge ",
+      "fOr6FzgHp3Y | [VIDEO]_23/11/26_20:30_PROGRAMASILVIOSANTOS_33m43s_Quem Sabe Mais? Ep.8   Programa Silvio Santos (22/11/26)",
       "ElpoAJeIbS0 | [VIDEO]_23/11/26_20:06_FOFOCALIZANDO_15m03s_Com aposentadoria de Chitãozinho e Xororó, quem pode assumir lugar deles?  ",
       "JO7SzvWoQqk | [VIDEO]_23/11/26_19:31_FOFOCALIZANDO_15m21s_Chitãozinho e Xororó vão se aposentar dos palcos após 56 anos de carreira",
       "VqRuTjcdiDs | [VIDEO]_23/11/26_19:30_CÂMERASESCONDIDASSBT_9m29s_Os Velhinhos Se Divertem S05 EP 01   Câmeras Escondidas (22/11/26)",
@@ -2275,20 +2276,19 @@
       "P3tys_s_xEk | [VIDEO]_19/11/26_15:11_THENOITE_12m09s_Luz, Câmera, Meme: Velozes & Falidos com Fiuk   The Noite (18/11/26)",
       "zTygXa3Lq_c | [VIDEO]_19/11/26_15:04_THENOITE_31m42s_Entrevista com Fiuk   The Noite (18/11/26)",
       "Ia-NA_3NCds | [VIDEO]_18/11/26_19:30_CÂMERASESCONDIDASSBT_6m10s_Dentista Açougueiro   Câmeras Escondidas",
-      "Rtv-k8hB9mk | [VIDEO]_18/11/26_19:00_FOFOCALIZANDO_10m01s_Fofoquito vive um dia como Maria Carey no meio dos fãs!   Fofocalizando (18",
-      "oTK_3jQGZSc | [VIDEO]_18/11/26_19:00_CASOSDEFAMÍLIA_39m27s_Casado se divorcia da esposa para ficar com amiga   Casos de Família 02/06/"
+      "Rtv-k8hB9mk | [VIDEO]_18/11/26_19:00_FOFOCALIZANDO_10m01s_Fofoquito vive um dia como Maria Carey no meio dos fãs!   Fofocalizando (18"
     ]
   },
   {
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
-      "1hd3hKvfXDA",
       "cWuGiNlXF8I",
       "0cIkwQWaFIk",
       "BBKLD0lc9eg",
       "W9sGIfcJfaw",
       "HdKZw5FVXHU",
+      "1hd3hKvfXDA",
       "9RrUzu201Zs",
       "Da_P209hfM4",
       "G4oXvMKHWNQ",
@@ -2317,12 +2317,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "1hd3hKvfXDA | [VIDEO]_23/11/26_15:00_RECORDCABOVERDE_10m34s_Imagens mostram mulher que denunciou estupro entrando em hotel com um dos g",
       "cWuGiNlXF8I | [VIDEO]_23/11/26_17:20_RECORDCABOVERDE_4m41s_REIS - A ESPERANÇA: Asa reúne israelitas em Jerusalém e proclama fidelidade",
       "0cIkwQWaFIk | [VIDEO]_23/11/26_17:10_RECORDCABOVERDE_7m20s_REIS - A ESPERANÇA: Asa se declara a Azuba: ‘Você é um presente de Deus par",
       "BBKLD0lc9eg | [VIDEO]_23/11/26_17:00_RECORDCABOVERDE_5m08s_REIS - A ESPERANÇA: Baasa arma plano contra Asa e impede israelitas de segu",
       "W9sGIfcJfaw | [VIDEO]_23/11/26_15:40_RECORDCABOVERDE_17m20s_Família busca jovem que desapareceu quando ia para estágio na Grande São Pa",
       "HdKZw5FVXHU | [VIDEO]_23/11/26_15:20_RECORDCABOVERDE_6m33s_Tempestade em Tupanciretã RS causa quatro mortes e sobrecarrega hospitais d",
+      "1hd3hKvfXDA | [VIDEO]_23/11/26_15:00_RECORDCABOVERDE_10m34s_Imagens mostram mulher que denunciou estupro entrando em hotel com um dos g",
       "9RrUzu201Zs | [VIDEO]_23/11/26_14:50_RECORDCABOVERDE_4m56s_Lutas clandestinas ameaçam segurança nas ruas de São Paulo",
       "Da_P209hfM4 | [VIDEO]_23/11/26_14:40_RECORDCABOVERDE_6m54s_Corpo decapitado é encontrado em rua residencial de Diadema,na Grande São P",
       "G4oXvMKHWNQ | [VIDEO]_23/11/26_15:50_RECORDCABOVERDE_32m35s_Mãe solo tem carro roubado e busca indenização de associação de proteção ve",
