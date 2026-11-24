@@ -1240,7 +1240,6 @@
     "rem": "TNT SPORTS",
     "videoIds": [
       "Znxc4WjMa5k",
-      "0Mu6ijVxHIY",
       "4EFq8uZ6cxA",
       "p-JDhFYPy4Y",
       "Z5UfuXIzan0",
@@ -1267,13 +1266,13 @@
       "CuHWLalOvEs",
       "r4jn39x24Bo",
       "WergWZ9bvfs",
-      "LWdJhwkEZg8"
+      "LWdJhwkEZg8",
+      "0Mu6ijVxHIY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "Znxc4WjMa5k | ((LIVE))_23/11/26_20:30_TNTSPORTSBRASIL_AO VIVO: SANTOS X GREMIO (PRÉ-JOGO E NARRAÇÃO)   36ª RODADA   BRASILEIRÃO 2",
-      "0Mu6ijVxHIY | [VIDEO]_20/11/26_02:45_TNTSPORTSBRASIL_5m48s_É SELEÇÃO? RAFAEL CABRAL CATA 3 PÊNALTIS E ACABA COM JOGO NA MLS   SOUNDERS",
       "4EFq8uZ6cxA | [VIDEO]_23/11/26_10:08_TNTSPORTSBRASIL_100m56s_AO VIVO: FLAMENGO É CAMPEÃO BRASILEIRO; GALO ATROPELADO; TUDO DA RODADA DO",
       "p-JDhFYPy4Y | [VIDEO]_23/11/26_12:47_TNTSPORTSBRASIL_69m39s_REMONTADAS DE BARÇA E REAL, UNITED NA VICE-LANTERNA E SURTO DE LESÕES NO FU",
       "Z5UfuXIzan0 | [VIDEO]_23/11/26_11:40_TNTSPORTSBRASIL_101m06s_FLAMENGO CAMPEÃO; ATLÉTICO-MG VICE NA SULA; BRIGA CONTRA O Z4 NO BRASILEIRÃ",
@@ -1300,13 +1299,15 @@
       "CuHWLalOvEs | [VIDEO]_21/11/26_11:00_TNTSPORTSBRASIL_38m04s_MILITÃO CONTA RESENHAS INÉDITAS DE MOURINHO, FASE DE VINI JR., ANCELOTTI E",
       "r4jn39x24Bo | [VIDEO]_20/11/26_11:37_TNTSPORTSBRASIL_94m36s_QUEM VAI CAIR?; VASCO VENCE; PALMEIRAS RESERVA CONTRA O FLAMENGO?; GALO X B",
       "WergWZ9bvfs | [VIDEO]_20/11/26_11:00_TNTSPORTSBRASIL_26m43s_PALMEIRAS X FLAMENGO: QUEM TEM O MELHOR TIME EM 2026?   MANO A MANO",
-      "LWdJhwkEZg8 | [VIDEO]_20/11/26_10:06_TNTSPORTSBRASIL_100m41s_AO VIVO: QUEM VAI CAIR NO BRASILEIRÃO? + GALO VS BOCA NA FINAL DE AMANHÃ"
+      "LWdJhwkEZg8 | [VIDEO]_20/11/26_10:06_TNTSPORTSBRASIL_100m41s_AO VIVO: QUEM VAI CAIR NO BRASILEIRÃO? + GALO VS BOCA NA FINAL DE AMANHÃ",
+      "0Mu6ijVxHIY | [VIDEO]_20/11/26_02:45_TNTSPORTSBRASIL_5m48s_É SELEÇÃO? RAFAEL CABRAL CATA 3 PÊNALTIS E ACABA COM JOGO NA MLS   SOUNDERS"
     ]
   },
   {
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
+      "oGncqeTpGp0",
       "_YsOfXZp6iA",
       "DhlG2AsLlr0",
       "39ZoPdaNZ2c",
@@ -1335,12 +1336,12 @@
       "HqmE5mBVDW0",
       "TpxB15lMAaU",
       "zqc93EaT_3M",
-      "Z28bnwjJ4B4",
-      "DNGY1Rixmuc"
+      "Z28bnwjJ4B4"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "oGncqeTpGp0 | [VIDEO]_23/11/26_21:24_ESPNBRASIL_15m51s_PODEMOS CHAMAR DE ‘HEGEMONIA’ OS TRABALHOS DE FLAMENGO E PALMEIRAS NO FUTEB",
       "_YsOfXZp6iA | [VIDEO]_23/11/26_20:37_ESPNBRASIL_89m01s_SANTOS X GRÊMIO, INTER X VITÓRIA, BOTAFOGO X SÃO PAULO E FLAMENGO CAMPEÃO  ",
       "DhlG2AsLlr0 | [VIDEO]_23/11/26_20:29_ESPNBRASIL_8m16s_AMÉRICA BRASILEÑA #6 - FLAMENGO X ATHLETICO CONSOLIDOU DOMÍNIO BRASILEIRO N",
       "39ZoPdaNZ2c | [VIDEO]_23/11/26_19:42_ESPNBRASIL_11m47s_GOLEADA! BRENTFORD AMASSA EVERTON E FICA COLADO NO G5 DA PREMIER LEAGUE   M",
@@ -1369,8 +1370,7 @@
       "HqmE5mBVDW0 | [VIDEO]_22/11/26_17:16_ESPNBRASIL_19m39s_INVASÃO ARGENTINA, RIVAL \"INFILTRADO\" E MAIS: TUDO O QUE VOCÊ NÃO VIU NA FI",
       "TpxB15lMAaU | [VIDEO]_22/11/26_19:04_ESPNBRASIL_11m07s_KESSIÉ FAZ NO FIM, E ATALANTA E INTER DE MILÃO EMPATAM EM JOGAÇO NO ITALIAN",
       "zqc93EaT_3M | [VIDEO]_22/11/26_18:59_ESPNBRASIL_10m17s_COM GOLS DE PULISIC E GONÇALO RAMOS, MILAN GOLEIA O FROSINONE NO ITALIANO",
-      "Z28bnwjJ4B4 | [VIDEO]_22/11/26_17:04_ESPNBRASIL_94m36s_AO VIVO: LIVERPOOL 4x0 MANCHESTER UNITED E UMA MISSÃO COMPLICADÍSSIMA PARA",
-      "DNGY1Rixmuc | [VIDEO]_22/11/26_16:58_ESPNBRASIL_8m09s_AMÉRICA BRASILEÑA #4 - A EDIÇÃO PANDÊMICA DE 2020 E O INÍCIO DA 'ERA ABEL F"
+      "Z28bnwjJ4B4 | [VIDEO]_22/11/26_17:04_ESPNBRASIL_94m36s_AO VIVO: LIVERPOOL 4x0 MANCHESTER UNITED E UMA MISSÃO COMPLICADÍSSIMA PARA"
     ]
   },
   {
@@ -1379,11 +1379,11 @@
     "videoIds": [
       "IMPn4VXENp4",
       "PcSFw8kKa3M",
-      "GOLOQMPr7pE",
       "CP5KQTa_4AE",
       "T1UXXtFZiFo",
       "C7KR0bZOpUI",
       "cXGNrJnvt8U",
+      "GOLOQMPr7pE",
       "ZwtrjHNzLZI",
       "HY6c2jQvpkY",
       "7WLE-9UbwCM",
@@ -1413,11 +1413,11 @@
     "carimbos": [
       "IMPn4VXENp4 | ((LIVE))_23/11/26_20:21_JOVEMPANESPORTES_SANTOS X GRÊMIO AO VIVO!   BRASILEIRÃO   23/11/2026",
       "PcSFw8kKa3M | ((LIVE))_23/11/26_19:16_JOVEMPANESPORTES_BOTAFOGO X SÃO PAULO AO VIVO!   BRASILEIRÃO   23/11/2026",
-      "GOLOQMPr7pE | [VIDEO]_23/11/26_14:08_JOVEMPANESPORTES_124m30s_FLAMENGO DECACAMPEÃO BRASILEIRO; PALMEIRAS FOCA NAS DUAS FINAIS; VICE DO GA",
       "CP5KQTa_4AE | [VIDEO]_23/11/26_14:08_JOVEMPANESPORTES_27m12s_MAIOR DA HISTÓRIA? \"Cara, essa ERA do FLAMENGO tem um GRANDE DIFERENCIAL qu",
       "T1UXXtFZiFo | [VIDEO]_23/11/26_13:37_JOVEMPANESPORTES_15m53s_\"O ABEL FERREIRA ESTÁ MENTINDO!!! Ele DE NOVO FALOU que o FLAMENGO...\"   DE",
       "C7KR0bZOpUI | [VIDEO]_23/11/26_12:56_JOVEMPANESPORTES_24m04s_ATENÇÃO! \"Essa INFORMAÇÃO é ASSUSTADORA! Um REPÓRTER REVELOU que...\" JARDIM",
       "cXGNrJnvt8U | [VIDEO]_23/11/26_14:52_JOVEMPANESPORTES_20m31s_\"QUER APOSTAR??? VOCÊ VAI VER! O PALMEIRAS nessa FINAL da LIBERTADORES vai.",
+      "GOLOQMPr7pE | [VIDEO]_23/11/26_14:08_JOVEMPANESPORTES_124m30s_FLAMENGO DECACAMPEÃO BRASILEIRO; PALMEIRAS FOCA NAS DUAS FINAIS; VICE DO GA",
       "ZwtrjHNzLZI | [VIDEO]_22/11/26_20:26_JOVEMPANESPORTES_14m57s_\"5 VICES??? É COISA DE LOUCO! Cara, o ATLÉTICO-MG está...\" DERROTA pro BOCA",
       "HY6c2jQvpkY | [VIDEO]_22/11/26_19:35_JOVEMPANESPORTES_90m22s_MAIOR DO BRASIL? DECA DO FLAMENGO É EXALTADO; GALO É VICE DA SULA DE NOVO!",
       "7WLE-9UbwCM | [VIDEO]_22/11/26_15:07_JOVEMPANESPORTES_123m24s_FLAMENGO FAZ HISTÓRIA E FATURA O 10º TÍTULO BRASILEIRO NO ESTÁDIO DO PALMEI",
@@ -1921,6 +1921,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "xwX3TlqLrfc",
       "vOPFKZ9ll4A",
       "jmFgzJ_tVHk",
       "Z9HGu15_wBQ",
@@ -1949,13 +1950,13 @@
       "9nmIm_kyqkc",
       "sVh-BwHkZEM",
       "sOgTyv4MsVg",
-      "uYbpaAySWCc",
-      "DZlPQ4FKKJg"
+      "uYbpaAySWCc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "vOPFKZ9ll4A | [VIDEO]_23/11/26_20:53_TECHCIÊNCIA1B_80m10s_🔴 AO VIVO   JENSEN HUANG DE VOLTA À NVIDIA   Olhar Digital News   23/11/20",
+      "xwX3TlqLrfc | [VIDEO]_23/11/26_21:22_TECHCIÊNCIA1B_5m40s_Nvidia traz Jensen Huang de volta ao comando; ações sobem",
+      "vOPFKZ9ll4A | [VIDEO]_23/11/26_20:53_TECHCIÊNCIA1B_80m10s_JENSEN HUANG DE VOLTA À NVIDIA   Olhar Digital News   23/11/2026",
       "jmFgzJ_tVHk | [VIDEO]_23/11/26_13:03_TECHCIÊNCIA1C_7m47s_A IA da Anthropic Acaba de Resolver o Maior Mistério da Matemática",
       "Z9HGu15_wBQ | [VIDEO]_23/11/26_19:00_TECHCIÊNCIA1B_2m21s_Descubra as ofertas de tecnologia para a sua Black Friday 2026",
       "LVYyTS5zfwk | [VIDEO]_23/11/26_18:00_TECHCIÊNCIA1D_14m44s_POCO X8: bateria gigante e câmera Full HD em 2026",
@@ -1983,20 +1984,19 @@
       "9nmIm_kyqkc | [VIDEO]_20/11/26_18:24_TECHCIÊNCIA1A_17m42s_A ESCOLHA de ROBERT PATTINSON para JAMES BOND dividiu os FÃS? - FERNANDA TA",
       "sVh-BwHkZEM | [VIDEO]_20/11/26_18:00_TECHCIÊNCIA1D_30m22s_Como SAIR do WhatsApp (e) escolher um aplicativo de mensagens OPEN SOURCE",
       "sOgTyv4MsVg | [VIDEO]_20/11/26_17:07_TECHCIÊNCIA1A_17m22s_COMO ARNOLD SCHWARZENEGGER e JOHNNY DEPP escaparam do CANCELAMENTO? - ANDRÉ",
-      "uYbpaAySWCc | [VIDEO]_20/11/26_15:52_TECHCIÊNCIA1B_3m12s_Apple na mira de autoridades brasileiras   Leandro Alvarenga",
-      "DZlPQ4FKKJg | [VIDEO]_20/11/26_15:44_TECHCIÊNCIA1B_4m02s_Ciberataques pelo mundo: como se proteger?   Leandro Alvarenga"
+      "uYbpaAySWCc | [VIDEO]_20/11/26_15:52_TECHCIÊNCIA1B_3m12s_Apple na mira de autoridades brasileiras   Leandro Alvarenga"
     ]
   },
   {
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
-      "aZMb975_BSc",
       "ZFynTk5tZTs",
       "Ad62BMum1LU",
       "M-WapjDB93c",
       "6avs7xaLl10",
       "ks1UJEkJTFM",
+      "aZMb975_BSc",
       "Mk2XvQahSZ8",
       "enEiMraHxe8",
       "6WvSPuk5t5E",
@@ -2025,12 +2025,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "aZMb975_BSc | [VIDEO]_23/11/26_13:00_TECHCIÊNCIA2A_93m55s_Vulcão adormecido há 700 mil anos está se elevando — o que está acontecendo",
       "ZFynTk5tZTs | [VIDEO]_23/11/26_19:00_TECHCIÊNCIA2A_177m22s_A ameaça de clima extremo que está vindo em nossa direção",
       "Ad62BMum1LU | [VIDEO]_23/11/26_12:00_TECHCIÊNCIA2A_10m34s_O planeta mais próximo do nosso Sol está encolhendo a uma velocidade imposs",
       "M-WapjDB93c | [VIDEO]_23/11/26_14:39_TECHCIÊNCIA2C_28m56s_A guerra pelo poder na Polônia - Entenda o que está acontecendo!",
       "6avs7xaLl10 | [VIDEO]_23/11/26_16:00_TECHCIÊNCIA2A_45m20s_A rachadura gigante que despertou novos temores sobre Yellowstone",
       "ks1UJEkJTFM | [VIDEO]_23/11/26_08:00_TECHCIÊNCIA2A_173m52s_Pequenos vulcões escondem um perigo gigantesco que pode surpreender os cien",
+      "aZMb975_BSc | [VIDEO]_23/11/26_13:00_TECHCIÊNCIA2A_93m55s_Vulcão adormecido há 700 mil anos está se elevando — o que está acontecendo",
       "Mk2XvQahSZ8 | [VIDEO]_22/11/26_22:27_TECHCIÊNCIA2C_60m01s_1 HORA DE CURIOSIDADES DE CASOS REAIS 🔎🤯",
       "enEiMraHxe8 | [VIDEO]_22/11/26_13:00_TECHCIÊNCIA2A_9m51s_Finalmente sabemos o que apagou um bilhão de anos do Grand Canyon",
       "6WvSPuk5t5E | [VIDEO]_22/11/26_19:00_TECHCIÊNCIA2A_123m48s_Nossa galáxia vem crescendo ao consumir outras galáxias há bilhões de anos",
@@ -2249,7 +2249,7 @@
     "carimbos": [
       "fEZcZOlkpxY | [VIDEO]_23/11/26_20:54_FOFOCALIZANDO_24m03s_Caso Stênio Garcia: novo vídeo para desmentir filhas e suposto filho surge ",
       "fOr6FzgHp3Y | [VIDEO]_23/11/26_20:30_PROGRAMASILVIOSANTOS_33m43s_Quem Sabe Mais? Ep.8   Programa Silvio Santos (22/11/26)",
-      "ElpoAJeIbS0 | [VIDEO]_23/11/26_20:06_FOFOCALIZANDO_15m03s_Com aposentadoria de Chitãozinho e Xororó, quem pode assumir lugar deles?  ",
+      "ElpoAJeIbS0 | [VIDEO]_23/11/26_20:06_FOFOCALIZANDO_15m03s_Com aposentadoria de Chitãozinho e Xororó, quem pode assumir lugar deles?",
       "JO7SzvWoQqk | [VIDEO]_23/11/26_19:31_FOFOCALIZANDO_15m21s_Chitãozinho e Xororó vão se aposentar dos palcos após 56 anos de carreira",
       "VqRuTjcdiDs | [VIDEO]_23/11/26_19:30_CÂMERASESCONDIDASSBT_9m29s_Os Velhinhos Se Divertem S05 EP 01   Câmeras Escondidas (22/11/26)",
       "hIde0z3TApI | [VIDEO]_23/11/26_19:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_43m21s_Programa do João com Ximbinha, Val Marchiori, Eric Land e Guilherme Gomes",
@@ -2283,12 +2283,12 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
-      "cWuGiNlXF8I",
       "0cIkwQWaFIk",
       "BBKLD0lc9eg",
       "W9sGIfcJfaw",
       "HdKZw5FVXHU",
       "1hd3hKvfXDA",
+      "cWuGiNlXF8I",
       "9RrUzu201Zs",
       "Da_P209hfM4",
       "G4oXvMKHWNQ",
@@ -2317,12 +2317,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "cWuGiNlXF8I | [VIDEO]_23/11/26_17:20_RECORDCABOVERDE_4m41s_REIS - A ESPERANÇA: Asa reúne israelitas em Jerusalém e proclama fidelidade",
       "0cIkwQWaFIk | [VIDEO]_23/11/26_17:10_RECORDCABOVERDE_7m20s_REIS - A ESPERANÇA: Asa se declara a Azuba: ‘Você é um presente de Deus par",
       "BBKLD0lc9eg | [VIDEO]_23/11/26_17:00_RECORDCABOVERDE_5m08s_REIS - A ESPERANÇA: Baasa arma plano contra Asa e impede israelitas de segu",
       "W9sGIfcJfaw | [VIDEO]_23/11/26_15:40_RECORDCABOVERDE_17m20s_Família busca jovem que desapareceu quando ia para estágio na Grande São Pa",
       "HdKZw5FVXHU | [VIDEO]_23/11/26_15:20_RECORDCABOVERDE_6m33s_Tempestade em Tupanciretã RS causa quatro mortes e sobrecarrega hospitais d",
       "1hd3hKvfXDA | [VIDEO]_23/11/26_15:00_RECORDCABOVERDE_10m34s_Imagens mostram mulher que denunciou estupro entrando em hotel com um dos g",
+      "cWuGiNlXF8I | [VIDEO]_23/11/26_17:20_RECORDCABOVERDE_4m41s_REIS - A ESPERANÇA: Asa reúne israelitas em Jerusalém e proclama fidelidade",
       "9RrUzu201Zs | [VIDEO]_23/11/26_14:50_RECORDCABOVERDE_4m56s_Lutas clandestinas ameaçam segurança nas ruas de São Paulo",
       "Da_P209hfM4 | [VIDEO]_23/11/26_14:40_RECORDCABOVERDE_6m54s_Corpo decapitado é encontrado em rua residencial de Diadema,na Grande São P",
       "G4oXvMKHWNQ | [VIDEO]_23/11/26_15:50_RECORDCABOVERDE_32m35s_Mãe solo tem carro roubado e busca indenização de associação de proteção ve",
