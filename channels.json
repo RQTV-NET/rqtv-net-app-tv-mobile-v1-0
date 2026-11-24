@@ -2442,10 +2442,11 @@
     "playlistId": "UUFxHT3Nz5n_Co48GqcdwdKA"
   },
   {
-    "numero": "150",
-    "rem": "SÉRIES (XENA)",
-    "videoIds": [],
-    "vinhetaPlaylistId": "",
-    "playlistId": "PLZ4cGoUIg3BI"
-  }
+    {
+      "numero": "150",
+      "nome": "SÉRIES (EM BREVE...)",
+      "videoIds": [
+        "195_-AtF-O8"
+      ]
+    }
 ]
