@@ -2442,11 +2442,13 @@
     "playlistId": "UUFxHT3Nz5n_Co48GqcdwdKA"
   },
   {
-    {
-      "numero": "150",
-      "nome": "SÉRIES (EM BREVE...)",
-      "videoIds": [
-        "195_-AtF-O8"
-      ]
+    "numero": "150",
+    "rem": "SÉRIES (EM BREVE...)",
+    "videoIds": [
+      "195_-AtF-O8"
+    ]
+  }
+]
+
     }
 ]
