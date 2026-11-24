@@ -1309,12 +1309,12 @@
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
-      "rs8odE4Cgy4",
       "g9sJstWrgIA",
       "itN68LEj80w",
       "BfJsmm4bVgw",
       "ajh-RcZPnlk",
       "wYOW-5YizNQ",
+      "rs8odE4Cgy4",
       "bN9W5w58bhk",
       "49kAlIot2_8",
       "rMZqvuMYsOY",
@@ -1343,12 +1343,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "rs8odE4Cgy4 | ((LIVE))_24/11/26_12:24_ESPNBRASIL_CORINTHIANS AO VIVO: SEEDORF CONCEDE ENTREVISTA COLETIVA NO CT JOAQUIM GRAV",
       "g9sJstWrgIA | ((LIVE))_24/11/26_11:20_ESPNBRASIL_CORINTHIANS ADMITE NÃO CONSEGUIR PAGAR DÍVIDAS   FLAMENGO ENCAMINHA RENOVAÇ",
       "itN68LEj80w | [VIDEO]_24/11/26_00:04_ESPNBRASIL_62m20s_SANTOS 0x2 GRÊMIO, INTER 2x5 VITÓRIA E A LUTA CONTRA O REBAIXAMENTO   LINHA",
       "BfJsmm4bVgw | [VIDEO]_24/11/26_02:43_ESPNBRASIL_5m50s_CASTLE DÁ SHOW SEM WEMBY, FLERTA COM TRIPLO-DUPLO, E SPURS DOMINAM OS KINGS",
       "ajh-RcZPnlk | [VIDEO]_24/11/26_10:00_ESPNBRASIL_41m55s_EXCLUSIVA COM VINICIUS DE MEDEIROS: VEJA A ENTREVISTA COM O CANDIDATO À PRE",
       "wYOW-5YizNQ | [VIDEO]_24/11/26_10:00_ESPNBRASIL_53m34s_EXCLUSIVA COM MARCELO PORTUGAL GOUVÊA: VEJA A ENTREVISTA COM O CANDIDATO À",
+      "rs8odE4Cgy4 | [VIDEO]_24/11/26_11:22_ESPNBRASIL_26m32s_CORINTHIANS AO VIVO: SEEDORF CONCEDE ENTREVISTA COLETIVA NO CT JOAQUIM GRAV",
       "bN9W5w58bhk | [VIDEO]_23/11/26_23:05_ESPNBRASIL_6m26s_COLETIVA SÃO PAULO AO VIVO: DORIVAL JÚNIOR FALA APÓS DUELO CONTRA O BOTAFOG",
       "49kAlIot2_8 | [VIDEO]_23/11/26_23:04_ESPNBRASIL_60m20s_BOTAFOGO 1x1 SÃO PAULO: PÓS-JOGO AO VIVO   TUDO DO TÍTULO DO FLAMENGO NO RE",
       "rMZqvuMYsOY | [VIDEO]_23/11/26_22:49_ESPNBRASIL_17m11s_COLETIVA INTERNACIONAL: EDUARDO BAPTISTA FALA APÓS SOFRER GOLEADA DO VITÓRI",
@@ -1450,6 +1450,7 @@
     "rem": "BAND ESPORTES",
     "videoIds": [
       "df2XKFIWse8",
+      "sGBD00J6Huk",
       "WU6ICHHVefA",
       "hcENW3AknHE",
       "S0UR9cHdhQQ",
@@ -1477,13 +1478,13 @@
       "SuXoWbRxYWc",
       "YAbXvbWDNZs",
       "d0yqAgzKFTE",
-      "lFcpFKCyWnk",
-      "NagpJuKl4o0"
+      "lFcpFKCyWnk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "df2XKFIWse8 | ((LIVE))_24/11/26_10:59_JOGOABERTO_[AO VIVO] NEYMAR RECLAMA, GRÊMIO VENCE O SANTOS E COLOCA CORINTHIANS NO Z4 ",
+      "sGBD00J6Huk | [VIDEO]_24/11/26_12:54_JOGOABERTO_5m07s_CHICO GARCIA EXALTA VITÓRIA DO GRÊMIO CONTRA O SANTOS",
       "WU6ICHHVefA | [VIDEO]_24/11/26_12:40_JOGOABERTO_2m27s_HEVERTON GUIMARÃES PROJETA DUELO ENTRE ATLÉTICO-MG E CORINTHIANS",
       "hcENW3AknHE | [VIDEO]_24/11/26_12:38_JOGOABERTO_9m16s_DEBATE: CHANCES DE REBAIXAMENTO NO CAMPEONATO BRASILEIRO",
       "S0UR9cHdhQQ | [VIDEO]_24/11/26_12:21_JOGOABERTO_4m17s_CHICO GARCIA E CAPPELLANES PROVACAM RENATA FAN APÓS GOLEADA",
@@ -1511,8 +1512,7 @@
       "SuXoWbRxYWc | [VIDEO]_23/11/26_11:55_JOGOABERTO_2m42s_FLUMINENSE VENCE O MIRASSOL PELO BRASILEIRÃO; JOGO ABERTO COMENTA",
       "YAbXvbWDNZs | [VIDEO]_23/11/26_11:46_JOGOABERTO_4m09s_CICINHO CRITICA JOGO DO ATLÉTICO-MG CONTRA O BOCA: “FUTEBOL MUITO ABAIXO\"",
       "d0yqAgzKFTE | [VIDEO]_23/11/26_09:10_BANDESPORTES_32m06s_[AO VIVO] BANDSPORTS NEWS - 23/11/2026",
-      "lFcpFKCyWnk | [VIDEO]_23/11/26_09:30_BANDESPORTES_3m14s_QUEM É CHIQUI TAPIA, HOMEM FORTE DO FUTEBOL ARGENTINO QUE TEM \"TRETA\" COM M",
-      "NagpJuKl4o0 | [VIDEO]_22/11/26_21:52_BANDESPORTES_8m11s_RIQUELME FELIPE FALA APÓS PRIMEIRO GOL PELO PROFISSIONAL DO FLUMINENSE"
+      "lFcpFKCyWnk | [VIDEO]_23/11/26_09:30_BANDESPORTES_3m14s_QUEM É CHIQUI TAPIA, HOMEM FORTE DO FUTEBOL ARGENTINO QUE TEM \"TRETA\" COM M"
     ]
   },
   {
@@ -1913,6 +1913,8 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "_PNxjQESH6g",
+      "50ltEIMy6ZM",
       "7-ciZR7kprE",
       "kjtlN_pXWUg",
       "Rj3uiP4ADPU",
@@ -1940,13 +1942,13 @@
       "SjukspevG4A",
       "K8FlepZLHTY",
       "w4tFW5vN0TY",
-      "PHPI0FDuA48",
-      "DFctKHBFC-M",
-      "9mb7wUM5nX0"
+      "PHPI0FDuA48"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "_PNxjQESH6g | [VIDEO]_24/11/26_12:46_TECHCIÊNCIA1A_14m57s_POR QUE você deve ACREDITAR EM VOCÊ? - RICARDINHO ACF",
+      "50ltEIMy6ZM | [VIDEO]_24/11/26_12:43_TECHCIÊNCIA1C_9m39s_A Anthropic Acaba de Automatizar o Trabalho Mais Caro dos Engenheiros Sênio",
       "7-ciZR7kprE | [VIDEO]_24/11/26_12:00_TECHCIÊNCIA1B_5m32s_Review GTA 6: a Rockstar entrega tudo o que prometeu? Veja nossa análise",
       "kjtlN_pXWUg | [VIDEO]_24/11/26_11:00_TECHCIÊNCIA1B_4m41s_SpaceX é processada nos EUA por imagens sexuais geradas pelo Grok",
       "Rj3uiP4ADPU | [VIDEO]_24/11/26_10:00_TECHCIÊNCIA1B_6m04s_Você tinha um Tamagotchi? São 30 anos de história e 100 milhões de unidades",
@@ -1974,9 +1976,7 @@
       "SjukspevG4A | [VIDEO]_21/11/26_08:16_TECHCIÊNCIA1B_43m16s_CLARÃO NO CÉU DA PARAÍBA!   Olhar Digital News   20/11/2026",
       "K8FlepZLHTY | [VIDEO]_20/11/26_22:20_TECHCIÊNCIA1A_19m13s_O CRIME DE GUERRA que matou MAIS QUE as BOMBAS ATÔMICAS - SALA DE GUERRA",
       "w4tFW5vN0TY | [VIDEO]_20/11/26_22:00_TECHCIÊNCIA1A_15m07s_A FÉ nas GUERRAS e a MENTALIDADE dos SOLDADOS JAPONESES - SALA DE GUERRA",
-      "PHPI0FDuA48 | [VIDEO]_20/11/26_21:44_TECHCIÊNCIA1B_8m12s_Voyager 1 e os 350 anos da velocidade da luz",
-      "DFctKHBFC-M | [VIDEO]_20/11/26_21:40_TECHCIÊNCIA1A_19m00s_A BATALHA DE MIDWAY: JAPÃO X ESTADOS UNIDOS - SALA DE GUERRA",
-      "9mb7wUM5nX0 | [VIDEO]_20/11/26_21:20_TECHCIÊNCIA1A_15m43s_JAPÃO CONTRA O MUNDO - SALA DE GUERRA"
+      "PHPI0FDuA48 | [VIDEO]_20/11/26_21:44_TECHCIÊNCIA1B_8m12s_Voyager 1 e os 350 anos da velocidade da luz"
     ]
   },
   {
@@ -2053,8 +2053,8 @@
     "numero": "90",
     "rem": "ARTE & CRIATIVIDADE",
     "videoIds": [
-      "a16JMZ0xz0E",
       "2L2yAUczdBc",
+      "a16JMZ0xz0E",
       "kmdys1JJl4k",
       "E65W035r4fM",
       "F_bLCHSXzC4",
@@ -2087,8 +2087,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "a16JMZ0xz0E | [VIDEO]_24/11/26_09:53_FARJANADRAWINGACADEMY_8m02s_10 art hacks   easy painting ideas for beginners",
       "2L2yAUczdBc | [VIDEO]_24/11/26_09:00_IDEIASINCRÍVEIS_134m54s_Reutilização INCRÍVEL de objetos velhos e quebrados! TRANSFORME LIXO EM TES",
+      "a16JMZ0xz0E | [VIDEO]_24/11/26_09:53_FARJANADRAWINGACADEMY_8m02s_10 art hacks   easy painting ideas for beginners",
       "kmdys1JJl4k | [VIDEO]_23/11/26_09:00_IDEIASINCRÍVEIS_182m26s_🎄 IDEIAS FÁCEIS DE DECORAÇÃO DE NATAL SEM GASTAR NADA ✅",
       "E65W035r4fM | [VIDEO]_21/11/26_14:00_IDEIASINCRÍVEIS_41m45s_⏱️ DICAS PARA PAIS NAS MANHÃS CORRIDAS: GANHE TEMPO 🔥",
       "F_bLCHSXzC4 | [VIDEO]_21/11/26_09:00_IDEIASINCRÍVEIS_129m44s_📱 Artesanatos arco-íris do TikTok: quais funcionam de verdade? 🌈",
@@ -2124,12 +2124,12 @@
     "rem": "TV EVANGELIZAR",
     "videoIds": [
       "fKKV0D-ey_M",
-      "QOXBqZHAayo",
       "62XkwTL96to",
       "9XNugf0sDPY",
       "LQzbNvf5Cg8",
       "oAcfruE9fCk",
       "6og-CPzjPiA",
+      "QOXBqZHAayo",
       "afG8pcWKcRI",
       "923GUfg5o7o",
       "pw8ti5zjMGA",
@@ -2158,12 +2158,12 @@
     "playlistId": "",
     "carimbos": [
       "fKKV0D-ey_M | ((LIVE))_24/11/26_11:53_TVEVANGELIZAR_Santa Missa do Meio-Dia   24/11/26",
-      "QOXBqZHAayo | [VIDEO]_24/11/26_09:09_TVEVANGELIZAR_96m18s_Terço da Madrugada com Instituto Hesed   24/11/26",
       "62XkwTL96to | [VIDEO]_24/11/26_09:02_TVEVANGELIZAR_57m55s_Eu Tenho Fé com Pe. Jorge Fortunato   20/11/26",
       "9XNugf0sDPY | [VIDEO]_24/11/26_08:15_TVEVANGELIZAR_23m53s_Caminho de cura   24/11/26   Com a Palavra - Com Pe. Everson Kloster",
       "LQzbNvf5Cg8 | [VIDEO]_24/11/26_03:18_TVEVANGELIZAR_192m41s_Rosário da Meia-Noite + Ligados pela Fé   24/11/26",
       "oAcfruE9fCk | [VIDEO]_24/11/26_10:44_TVEVANGELIZAR_50m35s_Santa Missa com Frei Anderson Santos   24/11/26",
       "6og-CPzjPiA | [VIDEO]_24/11/26_10:21_TVEVANGELIZAR_5m44s_Rede Massa e TV Evangelizar gravam especial sobre saúde da mulher em Curiti",
+      "QOXBqZHAayo | [VIDEO]_24/11/26_09:09_TVEVANGELIZAR_96m18s_Terço da Madrugada com Instituto Hesed   24/11/26",
       "afG8pcWKcRI | [VIDEO]_24/11/26_04:02_TVEVANGELIZAR_41m26s_ADORAÇÃO AO SANTÍSSIMO DA MADRUGADA   24/11/26",
       "923GUfg5o7o | [VIDEO]_24/11/26_06:00_TVEVANGELIZAR_34m26s_Terça-Feira: Mistérios Dolorosos   24/11/26   Terço Mariano com  @PadreManz",
       "pw8ti5zjMGA | [VIDEO]_24/11/26_04:00_TVEVANGELIZAR_19m57s_Oração da Manhã   24/11/2026   com @PadreManzottiOficial",
@@ -2275,6 +2275,7 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "0rwBiildUfU",
       "SysiJFjqG1U",
       "YPu3rX5cTq4",
       "KxVX4nE1GAQ",
@@ -2303,12 +2304,12 @@
       "qfUgsEiS2JQ",
       "Fy_EjZAA9wM",
       "_JomTP8TNcc",
-      "SdVADxtOc10",
-      "6kjWo8k4IlE"
+      "SdVADxtOc10"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "0rwBiildUfU | [VIDEO]_24/11/26_12:50_RECORDCABOVERDE_9m51s_A FAZENDA: Fran e Erthal se irritam com Ariela e trocam provocações com peo",
       "SysiJFjqG1U | [VIDEO]_24/11/26_12:30_RECORDCABOVERDE_6m29s_Morte de empresário que usava máscara é cercada de mistério no interior de ",
       "YPu3rX5cTq4 | [VIDEO]_24/11/26_12:20_RECORDCABOVERDE_8m36s_Golpe dos advogados: Idosos esperavam receber dinheiro de processos mas val",
       "KxVX4nE1GAQ | [VIDEO]_24/11/26_12:10_RECORDCABOVERDE_8m59s_Menores são usados por quadrilhas para assaltar joalherias de shoppings",
@@ -2337,8 +2338,7 @@
       "qfUgsEiS2JQ | [VIDEO]_23/11/26_13:30_RECORDCABOVERDE_2m34s_A FAZENDA: Fran debocha de Ariela durante discussão e dispara ‘Larga do meu",
       "Fy_EjZAA9wM | [VIDEO]_23/11/26_13:20_RECORDCABOVERDE_7m47s_A FAZENDA: Mayk inicia disputa contra Alfredo pelo Lampião do Poder",
       "_JomTP8TNcc | [VIDEO]_23/11/26_13:10_RECORDCABOVERDE_6m14s_A FAZENDA: Alfredo decide cozinhar apenas para seu grupo e recebe apoio de",
-      "SdVADxtOc10 | [VIDEO]_23/11/26_13:00_RECORDCABOVERDE_7m58s_A FAZENDA: Serginho tropeça,ganha selinho de Tina e peões comemoram ‘Novo c",
-      "6kjWo8k4IlE | [VIDEO]_23/11/26_12:50_RECORDCABOVERDE_7m10s_A FAZENDA: Darlin desconversa sobre Rancho do Fazendeiro e confunde aliados"
+      "SdVADxtOc10 | [VIDEO]_23/11/26_13:00_RECORDCABOVERDE_7m58s_A FAZENDA: Serginho tropeça,ganha selinho de Tina e peões comemoram ‘Novo c"
     ]
   },
   {
