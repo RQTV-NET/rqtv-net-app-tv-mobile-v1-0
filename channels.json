@@ -1521,8 +1521,8 @@
     "numero": "36",
     "rem": "SBT SPORTS",
     "videoIds": [
-      "BctlPB3Esfw",
       "0MHVcm6vTGg",
+      "BctlPB3Esfw",
       "fSQOsQn3Fec",
       "gHq_Z5m8xjY",
       "ANCPiVDhNlc",
@@ -1555,8 +1555,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "BctlPB3Esfw | [VIDEO]_24/11/26_00:19_SBTSPORTS_76m16s_AO VIVO   GALVÃO FC 23/11/26",
       "0MHVcm6vTGg | [VIDEO]_24/11/26_01:35_SBTSPORTS_14m37s_EXCLUSIVO: ENTREVISTA COM JORGINHO, CAMPEÃO BRASILEIRO COM O FLAMENGO",
+      "BctlPB3Esfw | [VIDEO]_24/11/26_00:19_SBTSPORTS_76m16s_AO VIVO   GALVÃO FC 23/11/26",
       "fSQOsQn3Fec | [VIDEO]_23/11/26_11:23_SBTSPORTS_4m12s_A CARREIRA DE JAMAL MUSIALA PODE CHEGAR AO FIM?",
       "gHq_Z5m8xjY | [VIDEO]_22/11/26_14:59_SBTSPORTS_3m41s_CONFIRA COMO FOI O TÍTULO DO BOCA JUNIORS SOBRE O GALO NA FINAL DA SUL-AMER",
       "ANCPiVDhNlc | [VIDEO]_22/11/26_14:55_SBTSPORTS_5m39s_TUDO SOBRE O TÍTULO DO FLAMENGO NA CASA DO PALMEIRAS",
@@ -2123,6 +2123,7 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
+      "6og-CPzjPiA",
       "QOXBqZHAayo",
       "62XkwTL96to",
       "9XNugf0sDPY",
@@ -2151,12 +2152,12 @@
       "kE91EgmUhHs",
       "vYChxQ58AiQ",
       "prBxAY5fRoE",
-      "te_toDQWNWc",
-      "ig-uc1RTYZw"
+      "te_toDQWNWc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "6og-CPzjPiA | [VIDEO]_24/11/26_10:21_TVEVANGELIZAR_5m44s_Rede Massa e TV Evangelizar gravam especial sobre saúde da mulher em Curiti",
       "QOXBqZHAayo | [VIDEO]_24/11/26_09:09_TVEVANGELIZAR_96m18s_Terço da Madrugada com Instituto Hesed   24/11/26",
       "62XkwTL96to | [VIDEO]_24/11/26_09:02_TVEVANGELIZAR_57m55s_Eu Tenho Fé com Pe. Jorge Fortunato   20/11/26",
       "9XNugf0sDPY | [VIDEO]_24/11/26_08:15_TVEVANGELIZAR_23m53s_Caminho de cura   24/11/26   Com a Palavra - Com Pe. Everson Kloster",
@@ -2185,8 +2186,7 @@
       "kE91EgmUhHs | [VIDEO]_23/11/26_11:08_TVEVANGELIZAR_58m54s_Milagres que só acontecem na época de Natal   3° Dia   Família um Projeto d",
       "vYChxQ58AiQ | [VIDEO]_23/11/26_10:36_TVEVANGELIZAR_96m47s_Terço da Madrugada com Instituto Hesed   23/11/26",
       "prBxAY5fRoE | [VIDEO]_23/11/26_01:30_TVEVANGELIZAR_26m48s_Como posso retribuir ao Senhor?   Há Poder de Deus com Ironi Spuldaro   23/",
-      "te_toDQWNWc | [VIDEO]_23/11/26_08:39_TVEVANGELIZAR_58m49s_Eu Tenho Fé com Pe. Jorge Fortunato   20/11/26",
-      "ig-uc1RTYZw | [VIDEO]_23/11/26_06:00_TVEVANGELIZAR_35m08s_Segunda-Feira: Mistérios Gozosos   23/11/26   Terço Mariano com @PadreManzo"
+      "te_toDQWNWc | [VIDEO]_23/11/26_08:39_TVEVANGELIZAR_58m49s_Eu Tenho Fé com Pe. Jorge Fortunato   20/11/26"
     ]
   },
   {
