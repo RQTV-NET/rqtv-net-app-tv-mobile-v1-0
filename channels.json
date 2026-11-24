@@ -1227,7 +1227,6 @@
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
-      "iQM0nvMKC2I",
       "ryYn7mcMXlU",
       "awkV8ozyKKY",
       "tfnkFDb4ozs",
@@ -1256,12 +1255,12 @@
       "yKtD4azCFRU",
       "XJxCBs6Atos",
       "Z5UfuXIzan0",
-      "hVOl-ck_oSY"
+      "hVOl-ck_oSY",
+      "iQM0nvMKC2I"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "iQM0nvMKC2I | [VIDEO]_19/11/26_23:31_TNTSPORTSBRASIL_3m04s_HÉRCULES MANDA FOGUETE NO ÂNGULO E FLU FICA PERTO DA LIBERTADORES   SÃO PAU",
       "ryYn7mcMXlU | [VIDEO]_19/11/26_21:42_TNTSPORTSBRASIL_157m41s_VASCO DA GAMA X INTERNACIONAL (NARRAÇÃO AO VIVO)   CAMPEONATO BRASILEIRO 20",
       "awkV8ozyKKY | [VIDEO]_19/11/26_12:52_TNTSPORTSBRASIL_71m16s_ENDRICK VAI PRO MILAN?; NICO PAZ BRILHA NA ARGENTINA, PORTUGAL VENCE, MAS T",
       "tfnkFDb4ozs | [VIDEO]_19/11/26_11:40_TNTSPORTSBRASIL_98m36s_FLAMENGO PERTO DO TÍTULO; CORINTHIANS GOLEIA E SAI DO Z-4; CRUZEIRO 2X1 PAL",
@@ -1290,7 +1289,8 @@
       "yKtD4azCFRU | [VIDEO]_23/11/26_22:12_TNTSPORTSBRASIL_3m03s_DUAS EXPULSÕES, MILAGRES DOS GOLEIROS E FOGÃO AINDA BRIGA PELO REBAIXAMENTO",
       "XJxCBs6Atos | [VIDEO]_23/11/26_22:04_TNTSPORTSBRASIL_3m04s_COLORADO TEM DUAS FALHAS BIZARRAS, LEVA GOLEADA E SE AFUNDA NA TABELA   INT",
       "Z5UfuXIzan0 | [VIDEO]_23/11/26_11:40_TNTSPORTSBRASIL_101m06s_FLAMENGO CAMPEÃO; ATLÉTICO-MG VICE NA SULA; BRIGA CONTRA O Z4 NO BRASILEIRÃ",
-      "hVOl-ck_oSY | [VIDEO]_20/11/26_02:39_TNTSPORTSBRASIL_160m41s_DECISÃO NOS PÊNALTIS AO VIVO: SEATTLE SOUNDERS X REAL SALT LAKE   PLAYOFFS"
+      "hVOl-ck_oSY | [VIDEO]_20/11/26_02:39_TNTSPORTSBRASIL_160m41s_DECISÃO NOS PÊNALTIS AO VIVO: SEATTLE SOUNDERS X REAL SALT LAKE   PLAYOFFS",
+      "iQM0nvMKC2I | [VIDEO]_19/11/26_23:31_TNTSPORTSBRASIL_3m04s_HÉRCULES MANDA FOGUETE NO ÂNGULO E FLU FICA PERTO DA LIBERTADORES   SÃO PAU"
     ]
   },
   {
@@ -1437,9 +1437,9 @@
     "numero": "35",
     "rem": "BAND ESPORTES",
     "videoIds": [
-      "gtnxxtPfrZQ",
       "wYg3k9iWYZ8",
       "jAS6nKRzgCM",
+      "gtnxxtPfrZQ",
       "G78cnVf5KOk",
       "60Y5H7uIt_M",
       "KFxlJKmYBK4",
@@ -1471,9 +1471,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "gtnxxtPfrZQ | [VIDEO]_24/11/26_01:22_BANDESPORTES_2m10s_\"PLATINAR O CABELO FOI UMA BRINCADEIRA INTERNA\", CONTA CEBOLINHA",
       "wYg3k9iWYZ8 | [VIDEO]_24/11/26_01:17_BANDESPORTES_3m35s_CABELO DOS SANTISTAS MOTIVOU O GRÊMIO? WEVERTON RESPONDE",
       "jAS6nKRzgCM | [VIDEO]_24/11/26_02:04_BANDESPORTES_71m05s_[AO VIVO] ESPORTE TOTAL - 23/11/2026",
+      "gtnxxtPfrZQ | [VIDEO]_24/11/26_01:22_BANDESPORTES_2m10s_\"PLATINAR O CABELO FOI UMA BRINCADEIRA INTERNA\", CONTA CEBOLINHA",
       "G78cnVf5KOk | [VIDEO]_23/11/26_23:02_BANDESPORTES_2m48s_BOTAFOGO 1 X 1 SÃO PAULO   MELHORES MOMENTOS   BRASILEIRÃO 2026",
       "60Y5H7uIt_M | [VIDEO]_23/11/26_21:53_BANDESPORTES_2m14s_INTERNACIONAL 2 X 5 VITÓRIA   MELHORES MOMENTOS   BRASILEIRÃO 2026",
       "KFxlJKmYBK4 | [VIDEO]_23/11/26_21:05_BANDESPORTES_115m50s_[AO VIVO] PRÉ-JOGO DE SANTOS X GRÊMIO   BRASILEIRÃO 2026   23/11/2026",
@@ -1507,8 +1507,8 @@
     "numero": "36",
     "rem": "SBT SPORTS",
     "videoIds": [
-      "BctlPB3Esfw",
       "0MHVcm6vTGg",
+      "BctlPB3Esfw",
       "fSQOsQn3Fec",
       "gHq_Z5m8xjY",
       "ANCPiVDhNlc",
@@ -1541,8 +1541,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "BctlPB3Esfw | [VIDEO]_24/11/26_00:19_SBTSPORTS_76m16s_AO VIVO   GALVÃO FC 23/11/26",
       "0MHVcm6vTGg | [VIDEO]_24/11/26_01:35_SBTSPORTS_14m37s_EXCLUSIVO: ENTREVISTA COM JORGINHO, CAMPEÃO BRASILEIRO COM O FLAMENGO",
+      "BctlPB3Esfw | [VIDEO]_24/11/26_00:19_SBTSPORTS_76m16s_AO VIVO   GALVÃO FC 23/11/26",
       "fSQOsQn3Fec | [VIDEO]_23/11/26_11:23_SBTSPORTS_4m12s_A CARREIRA DE JAMAL MUSIALA PODE CHEGAR AO FIM?",
       "gHq_Z5m8xjY | [VIDEO]_22/11/26_14:59_SBTSPORTS_3m41s_CONFIRA COMO FOI O TÍTULO DO BOCA JUNIORS SOBRE O GALO NA FINAL DA SUL-AMER",
       "ANCPiVDhNlc | [VIDEO]_22/11/26_14:55_SBTSPORTS_5m39s_TUDO SOBRE O TÍTULO DO FLAMENGO NA CASA DO PALMEIRAS",
@@ -2107,6 +2107,7 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
+      "afG8pcWKcRI",
       "LQzbNvf5Cg8",
       "D6LjPnlfzMM",
       "QsD7vy9YLrI",
@@ -2135,13 +2136,13 @@
       "hj6PpK9lu-0",
       "Rejl_OHQDlw",
       "CVB0wVEPyd4",
-      "uMzBNAi2O6Y",
-      "2TtyaTcMAmw"
+      "uMzBNAi2O6Y"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "LQzbNvf5Cg8 | ((LIVE))_24/11/26_00:00_TVEVANGELIZAR_Rosário da Meia-Noite + Ligados pela Fé   24/11/26",
+      "afG8pcWKcRI | ((LIVE))_24/11/26_03:13_TVEVANGELIZAR_ADORAÇÃO AO SANTÍSSIMO DA MADRUGADA   24/11/26",
+      "LQzbNvf5Cg8 | [VIDEO]_24/11/26_03:18_TVEVANGELIZAR_192m41s_Rosário da Meia-Noite + Ligados pela Fé   24/11/26",
       "D6LjPnlfzMM | [VIDEO]_23/11/26_22:00_TVEVANGELIZAR_47m42s_Experiência de Deus com @PadreManzottiOficial   23/11/26",
       "QsD7vy9YLrI | [VIDEO]_23/11/26_21:07_TVEVANGELIZAR_120m31s_Noite de Louvor: Até que a promessa se cumpra com Pe. Leonardo, Pe. Gabriel",
       "-57_x0EL_-w | [VIDEO]_23/11/26_17:00_TVEVANGELIZAR_20m06s_Festival Pé Vermelho terá entrada gratuita e programação diversificada   23",
@@ -2169,8 +2170,7 @@
       "hj6PpK9lu-0 | [VIDEO]_22/11/26_15:00_TVEVANGELIZAR_26m04s_Terço e 4º dia da Novena de Jesus das Santas Chagas   22/11/26",
       "Rejl_OHQDlw | [VIDEO]_22/11/26_14:30_TVEVANGELIZAR_26m18s_Catedral paróquia Cristo Rei - Toledo   Conhecendo Igrejas com Padre Anísio",
       "CVB0wVEPyd4 | [VIDEO]_22/11/26_13:15_TVEVANGELIZAR_4m20s_Oração da Tarde   22/11/26   com @PadreManzottiOficial",
-      "uMzBNAi2O6Y | [VIDEO]_22/11/26_12:26_TVEVANGELIZAR_87m11s_Santa Missa das 11h   22/11/26",
-      "2TtyaTcMAmw | [VIDEO]_22/11/26_10:30_TVEVANGELIZAR_19m08s_Homilia   22/11/26   Santa Missa Dominical com Pe. Reginaldo Manzotti"
+      "uMzBNAi2O6Y | [VIDEO]_22/11/26_12:26_TVEVANGELIZAR_87m11s_Santa Missa das 11h   22/11/26"
     ]
   },
   {
