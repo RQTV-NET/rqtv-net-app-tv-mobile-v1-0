@@ -1036,6 +1036,7 @@
     "rem": "CAZÉTV",
     "videoIds": [
       "Bia_vQfRnl4",
+      "dYyicKzj82U",
       "vcTmbz-BqDA",
       "A-8w51lGhHs",
       "T05LK5enrhE",
@@ -1063,13 +1064,13 @@
       "lSa0S_nyqYk",
       "PkCcwhdRQH8",
       "wW-b81V0hWM",
-      "FwTZ0iBfA7U",
-      "T50X_k-RVzI"
+      "FwTZ0iBfA7U"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "Bia_vQfRnl4 | ((LIVE))_25/11/26_11:40_CAZÉTV",
+      "dYyicKzj82U | 25/11/26_20:05_CAZÉTV_15m14s",
       "vcTmbz-BqDA | 25/11/26_19:17_CAZÉTV_15m14s",
       "A-8w51lGhHs | 25/11/26_15:18_CAZÉTV_8m15s",
       "T05LK5enrhE | 25/11/26_12:42_CAZÉTV_5m46s",
@@ -1097,15 +1098,13 @@
       "lSa0S_nyqYk | 22/11/26_20:29_CAZÉTV_2m18s",
       "PkCcwhdRQH8 | 22/11/26_19:28_CAZÉTV_6m13s",
       "wW-b81V0hWM | 22/11/26_19:12_CAZÉTV_8m28s",
-      "FwTZ0iBfA7U | 22/11/26_16:37_CAZÉTV_4m55s",
-      "T50X_k-RVzI | 22/11/26_15:42_CAZÉTV_5m10s"
+      "FwTZ0iBfA7U | 22/11/26_16:37_CAZÉTV_4m55s"
     ]
   },
   {
     "numero": "31",
     "rem": "GeTV",
     "videoIds": [
-      "5OYOyYcVOCE",
       "OhGBuxnWh6c",
       "bZ9PESPG8BY",
       "ZyGuwdtIkeY",
@@ -1139,7 +1138,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "5OYOyYcVOCE | ((LIVE))_25/11/26_19:01_GETV",
       "OhGBuxnWh6c | ((LIVE))_25/11/26_18:45_GETV",
       "bZ9PESPG8BY | 25/11/26_13:19_GETV_6m59s",
       "ZyGuwdtIkeY | 25/11/26_00:03_GETV_9m50s",
@@ -1369,7 +1367,6 @@
     "numero": "35",
     "rem": "BAND ESPORTES",
     "videoIds": [
-      "wzuHVR_I4ms",
       "PJZNG6psyMk",
       "yYwFVoUjTVU",
       "XmhJVvfnluY",
@@ -1403,7 +1400,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "wzuHVR_I4ms | ((LIVE))_25/11/26_18:02_BANDESPORTES",
       "PJZNG6psyMk | 25/11/26_18:48_BANDESPORTES_7m35s",
       "yYwFVoUjTVU | 25/11/26_18:29_BANDESPORTES_4m51s",
       "XmhJVvfnluY | 25/11/26_14:54_ESPORTENABAND_3m46s",
@@ -1899,6 +1895,7 @@
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
+      "sAQe_x9qr78",
       "P2wZMzjxYXY",
       "S6VcpS1ckug",
       "KaNg_OYrIzs",
@@ -1927,12 +1924,12 @@
       "8FTdhWEYayg",
       "aLdS3Iiy2x0",
       "Kxmpx6N_JT8",
-      "oAvDp0GWkFk",
-      "8pgHaCQt5bw"
+      "oAvDp0GWkFk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "sAQe_x9qr78 | 25/11/26_20:00_TECHCIÊNCIA2C_26m17s",
       "P2wZMzjxYXY | 25/11/26_19:00_TECHCIÊNCIA2A_19m51s",
       "S6VcpS1ckug | 25/11/26_18:18_TECHCIÊNCIA2C_24m45s",
       "KaNg_OYrIzs | 25/11/26_13:00_INCRÍVEL_118m07s",
@@ -1961,8 +1958,7 @@
       "8FTdhWEYayg | 21/11/26_16:30_INCRÍVEL_172m43s",
       "aLdS3Iiy2x0 | 21/11/26_15:01_DIÁRIOPRIVADO_15m30s",
       "Kxmpx6N_JT8 | 21/11/26_13:46_INCRÍVEL_21m54s",
-      "oAvDp0GWkFk | 21/11/26_12:00_CANALTOP10_27m11s",
-      "8pgHaCQt5bw | 21/11/26_11:26_INCRÍVEL_9m49s"
+      "oAvDp0GWkFk | 21/11/26_12:00_CANALTOP10_27m11s"
     ]
   },
   {
