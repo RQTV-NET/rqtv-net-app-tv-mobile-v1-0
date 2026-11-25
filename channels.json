@@ -80,7 +80,6 @@
     "rem": "SBT: AOVIVO/PROGRAMAS",
     "videoIds": [
       "rlAokGV5RtU",
-      "Garqba0kDn0",
       "fFCvKbF9sI0",
       "45e72R54s_4",
       "fEZcZOlkpxY",
@@ -95,6 +94,7 @@
       "MyDsvjBU5Mc",
       "G8bW8BXzbJs",
       "Yqbx4OdyOOM",
+      "Garqba0kDn0",
       "iKUn2918EpA",
       "key6-5LrPY8",
       "P3tys_s_xEk",
@@ -114,7 +114,6 @@
     "playlistId": "",
     "carimbos": [
       "rlAokGV5RtU | ((LIVE))_24/11/26_17:27_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_SBT Ao Vivo",
-      "Garqba0kDn0 | [VIDEO]_24/11/26_17:51_FOFOCALIZANDO_16m13s_MC Ryan é alvo de operação da Polícia Federal contra lavagem de dinheiro",
       "fFCvKbF9sI0 | [VIDEO]_24/11/26_14:55_THENOITE_36m51s_Entrevista com Bia e Branca: maternidade, carreira e nado sincronizado   Th",
       "45e72R54s_4 | [VIDEO]_24/11/26_14:45_THENOITE_11m20s_Senhor Templário: o cavaleiro que combate o crime   The Noite (23/11/26)",
       "fEZcZOlkpxY | [VIDEO]_23/11/26_20:54_FOFOCALIZANDO_24m03s_Caso Stênio Garcia: novo vídeo para desmentir filhas e suposto filho surge",
@@ -129,6 +128,7 @@
       "MyDsvjBU5Mc | [VIDEO]_25/11/26_14:33_THENOITE_43m52s_Entrevista com elenco de Paixão Proibida: bastidores da novela vertical   T",
       "G8bW8BXzbJs | [VIDEO]_25/11/26_14:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_10m18s_Val Marchiori fala sobre câncer e recebe mensagem da família   Programa do",
       "Yqbx4OdyOOM | [VIDEO]_24/11/26_18:34_FOFOCALIZANDO_15m18s_Leonardo chega de carreta em cruzeiro e Ana Castela proíbe celular em festa",
+      "Garqba0kDn0 | [VIDEO]_24/11/26_17:51_FOFOCALIZANDO_16m13s_MC Ryan é alvo de operação da Polícia Federal contra lavagem de dinheiro",
       "iKUn2918EpA | [VIDEO]_19/11/26_19:00_FOFOCALIZANDO_14m16s_Deolane Bezerra recusa atendimento de advogado na prisão   Fofocalizando (1",
       "key6-5LrPY8 | [VIDEO]_19/11/26_15:30_THENOITE_10m00s_Entrevista com Banda Hori   The Noite (18/11/26)",
       "P3tys_s_xEk | [VIDEO]_19/11/26_15:11_THENOITE_12m09s_Luz, Câmera, Meme: Velozes & Falidos com Fiuk   The Noite (18/11/26)",
@@ -149,7 +149,8 @@
     "numero": "03",
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
-      "Bdnvd1lX3sc",
+      "trYJ5aZ972A",
+      "OUGYzID85mY",
       "VAqBuBvBdVY",
       "9GihrCNNXEA",
       "-oN9JhGpzxg",
@@ -177,13 +178,13 @@
       "5ZsA9yLG5uQ",
       "Fr1A84KOHwE",
       "4bT9tfGb3-k",
-      "oD-e9OUNX3w",
-      "4noJ6mH9-Fo"
+      "oD-e9OUNX3w"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Bdnvd1lX3sc | ((LIVE))_25/11/26_13:20_SBTNEWS_🔴 AO VIVO: CENTRAL DE NOTÍCIAS, com Amanda Klein   25/11/2026",
+      "trYJ5aZ972A | [VIDEO]_25/11/26_15:57_SBTNEWS_6m26s_Governo Lula discute PEC fiscal com Alckmin, Galípolo e ministros   #Centra",
+      "OUGYzID85mY | [VIDEO]_25/11/26_15:53_SBTNEWS_13m02s_Fernando Haddad diz a Lula que não tem intenção de ser ministro   #Centrald",
       "VAqBuBvBdVY | [VIDEO]_25/11/26_15:45_SBTNEWS_8m22s_Ex-ministro da Justiça defende Segurança Pública voltada a ameaças externas",
       "9GihrCNNXEA | [VIDEO]_25/11/26_12:36_SBTNEWS_3m47s_Justiça restabelece regras do vale-alimentação e refeição   #RadarNews",
       "-oN9JhGpzxg | [VIDEO]_25/11/26_10:51_SBTNEWS_3m46s_São Paulo inicia vacinação contra mpox; saiba quem pode receber   #NewsManh",
@@ -211,8 +212,7 @@
       "5ZsA9yLG5uQ | [VIDEO]_25/11/26_08:03_SBTNEWS_7m29s_6 em cada 10 pequenas e médias empresas estão com caixa apertado   #NewsPri",
       "Fr1A84KOHwE | [VIDEO]_25/11/26_07:58_SBTJORNALISMO_3m10s_RJ: neozelandês e chinesa são presos por tráfico internacional de recém-nas",
       "4bT9tfGb3-k | [VIDEO]_25/11/26_07:57_SBTJORNALISMO_3m46s_Mulher que matou companheiro na frente do filho é presa após quatro meses f",
-      "oD-e9OUNX3w | [VIDEO]_25/11/26_07:49_SBTNEWS_11m34s_Turismo em alta: Brasil pode superar 9 mi de visitantes estrangeiros em 202",
-      "4noJ6mH9-Fo | [VIDEO]_25/11/26_07:47_SBTJORNALISMO_20m43s_SP: cabine de caminhão cai no Rio Tietê após acidente; carreta tomba em rod"
+      "oD-e9OUNX3w | [VIDEO]_25/11/26_07:49_SBTNEWS_11m34s_Turismo em alta: Brasil pode superar 9 mi de visitantes estrangeiros em 202"
     ]
   },
   {
@@ -260,7 +260,7 @@
       "thSeHNpt6es | [VIDEO]_25/11/26_15:15_CNNBRASIL_5m15s_Aliado dos Bolsonaros deixa o Departamento de Estado dos EUA   BASTIDORES C",
       "wj2ggCYxHlM | [VIDEO]_25/11/26_15:07_CNNBRASIL_9m24s_Centrão enxerga Flávio fraco e Michelle forte em 2030   BASTIDORES CNN",
       "SdMJ0Zl1bG4 | [VIDEO]_25/11/26_15:07_CNNBRASIL_5m40s_Fux nega prorrogação de contrato entre BRB e TJ-BA sobre precatórios   BAST",
-      "QWdqOD0VeVk | [VIDEO]_25/11/26_14:50_CNNBRASIL_8m30s_Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa   ",
+      "QWdqOD0VeVk | [VIDEO]_25/11/26_14:50_CNNBRASIL_8m30s_Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa",
       "ka8Fk9yC2-s | [VIDEO]_25/11/26_14:36_CNNBRASIL_8m15s_Alcolumbre se reúne com Tereza Cristina e bancada feminina   BASTIDORES CNN",
       "kchijQII_HM | [VIDEO]_25/11/26_13:51_CNNBRASIL_5m50s_Ao Brasil, Paraguai promete restituir fundos da Itaipu no banco Ueno   BAST",
       "72oGEupmuAc | [VIDEO]_25/11/26_13:23_CNNBRASIL_6m06s_Lula quer evitar desgaste no STJ com indicação ao STF   BASTIDORES CNN",
@@ -290,12 +290,12 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "1Ia6I6poxqM",
-      "LpA1D1rGmzA",
       "nzGto14haF8",
       "jhaU5igdVyI",
       "NeUr--D8Pew",
       "Im87JsumGAU",
       "ifYML6EmXqA",
+      "LpA1D1rGmzA",
       "N-LiuIjNTVA",
       "ctZchy5lcP8",
       "e7-fC6JXYdw",
@@ -324,12 +324,12 @@
     "playlistId": "",
     "carimbos": [
       "1Ia6I6poxqM | ((LIVE))_25/11/26_14:45_CNNMONEY_AO VIVO: MONEY NEWS III - 25/11/2026   CNN MONEY",
-      "LpA1D1rGmzA | [VIDEO]_25/11/26_12:38_CNNMONEY_3m18s_Implementação do cashback preocupa setor elétrico e empresas de saneamento",
       "nzGto14haF8 | [VIDEO]_25/11/26_12:28_CNNMONEY_8m05s_Além do fiscal, há pressão sazonal no dólar, diz economista sobre o câmbio",
       "jhaU5igdVyI | [VIDEO]_25/11/26_13:45_CNNMONEY_2m34s_Menções a previdência privada disparam 650% entre influenciadores financeir",
       "NeUr--D8Pew | [VIDEO]_25/11/26_13:40_CNNMONEY_4m22s_Alta na expectativa da inflação para 2027 pode impactar Ibovespa   RESENHA",
       "Im87JsumGAU | [VIDEO]_25/11/26_13:37_CNNMONEY_2m06s_Fundos passivos ou ativos, o que é melhor para os investimentos?   RESENHA",
       "ifYML6EmXqA | [VIDEO]_25/11/26_13:35_CNNMONEY_3m35s_Investir em IPOs pode trazer riscos para o investidor, diz economista   RES",
+      "LpA1D1rGmzA | [VIDEO]_25/11/26_12:38_CNNMONEY_3m18s_Implementação do cashback preocupa setor elétrico e empresas de saneamento",
       "N-LiuIjNTVA | [VIDEO]_25/11/26_12:22_CNNMONEY_8m54s_Queda do preços das ações da Anthropic é inerente de empresas pós IPO, diz",
       "ctZchy5lcP8 | [VIDEO]_25/11/26_12:22_CNNMONEY_8m51s_Varejo fica estável em outubro, mas perde fôlego, diz Stone   ABERTURA DE M",
       "e7-fC6JXYdw | [VIDEO]_25/11/26_10:38_CNNMONEY_10m26s_Boatos sobre planos do Lula 4 preocupam mercado, diz especialista   ABERTUR",
@@ -359,7 +359,8 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
-      "q72D3Gm-k3s",
+      "QA8YEG1DYJM",
+      "Lo_QHgpSjQ0",
       "s5f2m3ZyLdc",
       "hmaLqo4Jtq8",
       "VwmE8VpehWs",
@@ -387,13 +388,13 @@
       "nQPgCOtgr94",
       "uj9adHucDsY",
       "W6O6SOJO1II",
-      "wfoWC5IMM3k",
-      "-cBqBbLLDRc"
+      "wfoWC5IMM3k"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "q72D3Gm-k3s | ((LIVE))_25/11/26_13:56_JOVEMPANNEWS_TEMPO REAL - 25/11/2026",
+      "QA8YEG1DYJM | [VIDEO]_25/11/26_15:54_JOVEMPANNEWS_2m51s_Hugo Motta atua para aproximar Centrão do Planalto   TEMPO REAL",
+      "Lo_QHgpSjQ0 | [VIDEO]_25/11/26_15:50_JOVEMPANNEWS_2m26s_Tarcísio pede aval da Alesp para leiloar 58 imóveis de SP   TEMPO REAL",
       "s5f2m3ZyLdc | [VIDEO]_25/11/26_15:47_JOVEMPANNEWS_2m01s_Nova chuva agrava estragos em Tupanciretã (RS)   TEMPO REAL",
       "hmaLqo4Jtq8 | [VIDEO]_25/11/26_15:44_JOVEMPANNEWS_2m18s_Chuvas causam estragos em 13 municípios do Oeste de SC   TEMPO REAL",
       "VwmE8VpehWs | [VIDEO]_25/11/26_15:39_JOVEMPANNEWS_3m20s_PF investiga esquema bilionário de mineração ilegal em MG   TEMPO REAL",
@@ -421,20 +422,19 @@
       "nQPgCOtgr94 | [VIDEO]_23/11/26_19:17_OSPINGOSNOSIS_5m32s_Ministro de Lula, Bruno Moretti tenta equilíbrio com o mercado",
       "uj9adHucDsY | [VIDEO]_23/11/26_18:44_OSPINGOSNOSIS_6m13s_Câmara começa a analisar pacote do ajuste fiscal, Musa comenta",
       "W6O6SOJO1II | [VIDEO]_23/11/26_18:31_OSPINGOSNOSIS_4m50s_Michelle diz que exame de Jair Bolsonaro foi “Muito Positivo”",
-      "wfoWC5IMM3k | [VIDEO]_23/11/26_18:30_OSPINGOSNOSIS_6m21s_Gilmar Mendes avalia que falta autocontenção na Suprema Corte",
-      "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta"
+      "wfoWC5IMM3k | [VIDEO]_23/11/26_18:30_OSPINGOSNOSIS_6m21s_Gilmar Mendes avalia que falta autocontenção na Suprema Corte"
     ]
   },
   {
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
-      "sXf7KZemnj8",
       "DqzPgJ5mIoI",
       "2QC3OrSL9eU",
       "ZoeP4T8txCE",
       "yM-91WJPu44",
       "lpG3ddgrNhk",
+      "sXf7KZemnj8",
       "kUQFF4ouTZA",
       "gMexBJuNCqI",
       "37MJpyKSi_Y",
@@ -463,12 +463,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "sXf7KZemnj8 | [VIDEO]_25/11/26_10:02_FALABRASIL_2m44s_SP: quadrilha invade joalheria em shopping de luxo e furta quase R$ 2 milhõ",
       "DqzPgJ5mIoI | [VIDEO]_25/11/26_08:41_JORNALDARECORD_3m45s_Polícia do Rio de Janeiro investiga suposto esquema internacional de tráfic",
       "2QC3OrSL9eU | [VIDEO]_25/11/26_07:00_JORNALDARECORD_15m38s_JR 15 Min #1558   COP 31: o fracasso das negociações climáticas",
       "ZoeP4T8txCE | [VIDEO]_25/11/26_01:47_JORNALDARECORD_5m12s_Lula não vai convidar Javier Milei para posse",
       "yM-91WJPu44 | [VIDEO]_25/11/26_11:46_JORNALDARECORD_4m34s_São Paulo declara fim do surto de Sarampo na capital",
       "lpG3ddgrNhk | [VIDEO]_25/11/26_10:30_FALABRASIL_2m28s_Corpo de Bombeiros continua buscas por caminhoneiro desaparecido no rio Tie",
+      "sXf7KZemnj8 | [VIDEO]_25/11/26_10:02_FALABRASIL_2m44s_SP: quadrilha invade joalheria em shopping de luxo e furta quase R$ 2 milhõ",
       "kUQFF4ouTZA | [VIDEO]_24/11/26_23:11_JORNALDARECORD_54m37s_Assista à íntegra do Jornal da Record   24/11/2026",
       "gMexBJuNCqI | [VIDEO]_24/11/26_22:41_RECORD/DOMINGOESPETACULAR/BALANÇOGERAL_2m34s_Em depoimento, Derin mente e acusa Asya de ser a responsável pelo seu seque",
       "37MJpyKSi_Y | [VIDEO]_24/11/26_22:12_JORNALDARECORD_2m11s_Mapeamento da Agência Brasileira de Inteligência mostra que há 31 organizaç",
@@ -500,6 +500,7 @@
     "rem": "BAND JORNALISMO",
     "videoIds": [
       "UM_DPXvfzhM",
+      "-gESVQLPu1Y",
       "E1ybu4UQHHk",
       "MrpHCS3xj3M",
       "4FXxhEfZ90Q",
@@ -527,13 +528,13 @@
       "ZGBycKT85Oc",
       "ByT0j0cb_5s",
       "IXoqoDpL2N4",
-      "Yu21It9Hskk",
-      "o0hsGn9iz5k"
+      "Yu21It9Hskk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "UM_DPXvfzhM | ((LIVE))_25/11/26_14:29_MELHORDATARDE_[AO VIVO] Assista à entrevista exclusiva com Leonardo e Poliana Rocha   MEL",
+      "-gESVQLPu1Y | [VIDEO]_25/11/26_15:58_MELHORDATARDE_5m35s_Após rumores de crise, Patrícia Abravanel abre o jogo status do casamento",
       "E1ybu4UQHHk | [VIDEO]_25/11/26_15:33_BANDJORNALISMO_3m42s_Lula reúne equipe econômica para discutir novas medidas fiscais",
       "MrpHCS3xj3M | [VIDEO]_25/11/26_15:26_MELHORDATARDE_5m43s_Leilão Galáticos, de Ronaldo Fenômeno, reúne famosos em São Paulo",
       "4FXxhEfZ90Q | [VIDEO]_25/11/26_15:24_BANDJORNALISMO_8m59s_Relatório omite negociação entre Toffoli e Vorcaro   BandNews TV",
@@ -561,8 +562,7 @@
       "ZGBycKT85Oc | [VIDEO]_25/11/26_08:37_BANDJORNALISMO_6m35s_Procon alerta uso de inteligência artificial em golpes de Black Friday   Ba",
       "ByT0j0cb_5s | [VIDEO]_25/11/26_01:33_BANDJORNALISMO_2m49s_Concerto no centro de São Paulo abre Natal iluminado; confira   Jornal da N",
       "IXoqoDpL2N4 | [VIDEO]_25/11/26_01:11_BANDJORNALISMO_3m21s_Chapada Diamantina abastece 90% do mercado de batata no Norte e Nordeste",
-      "Yu21It9Hskk | [VIDEO]_24/11/26_17:12_MELHORDATARDE_2m01s_Bruna Biancardi entra na Justiça contra Piovani após declarações da atriz",
-      "o0hsGn9iz5k | [VIDEO]_24/11/26_17:03_MELHORDATARDE_2m52s_Leo Dias revela bastidores da prisão de Belo no “Dossiê Celebridades\"   Mel"
+      "Yu21It9Hskk | [VIDEO]_24/11/26_17:12_MELHORDATARDE_2m01s_Bruna Biancardi entra na Justiça contra Piovani após declarações da atriz"
     ]
   },
   {
