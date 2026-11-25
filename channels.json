@@ -659,9 +659,9 @@
       "rvaFFqaF4uc",
       "ij5vH9aqCX4",
       "VZZDwAYFsNU",
-      "xef7TyJSZC0",
       "ZhM3Y7SLj-M",
       "CvoazgrLR1g",
+      "xef7TyJSZC0",
       "9gHHSGSWu8s",
       "5f8B1SV4O7c",
       "ul4YgOPzZXY",
@@ -692,9 +692,9 @@
       "rvaFFqaF4uc | [VIDEO]_24/11/26_10:00_TVCULTURAJORNALISMO_12m21s_Professora de Harvard comenta ataques de Trump contra a universidade",
       "ij5vH9aqCX4 | [VIDEO]_24/11/26_00:22_TVCULTURAPROGRAMAS_4m56s_OMS alerta para o risco do uso indiscriminado de antibióticos",
       "VZZDwAYFsNU | [VIDEO]_24/11/26_00:17_TVCULTURAPROGRAMAS_3m56s_Calor extremo é risco para saúde de idosos no Brasil",
-      "xef7TyJSZC0 | [VIDEO]_24/11/26_00:15_TVCULTURAPROGRAMAS_3m29s_COP31 na Turquia termina sem nenhum acordo sobre crise climática",
       "ZhM3Y7SLj-M | [VIDEO]_19/11/26_17:30_TVCULTURAJORNALISMO_8m52s_Conceição Tavares avalia educação no país e comenta novo livro erótico",
       "CvoazgrLR1g | [VIDEO]_19/11/26_10:00_TVCULTURAJORNALISMO_8m35s_Conceição Evaristo defende indicação de mulher negra ao STF",
+      "xef7TyJSZC0 | [VIDEO]_24/11/26_00:15_TVCULTURAPROGRAMAS_3m29s_COP31 na Turquia termina sem nenhum acordo sobre crise climática",
       "9gHHSGSWu8s | [VIDEO]_24/11/26_00:13_TVCULTURAPROGRAMAS_6m37s_Lula corre contra o tempo para definir indicação ao STF",
       "5f8B1SV4O7c | [VIDEO]_24/11/26_00:10_TVCULTURAPROGRAMAS_4m42s_Nvidia reconduz Jensen Huang como CEO e ações sobem mais de 30%",
       "ul4YgOPzZXY | [VIDEO]_23/11/26_21:20_TVCULTURAPROGRAMAS_9m10s_Câmara aprova urgência para votação do projeto de ajuste fiscal",
@@ -744,7 +744,7 @@
       "FzZv5OcyorM | ((LIVE))_25/11/26_14:02_CBNBRASIL_Estúdio CBN - 25/11/2026",
       "csvUxeYCsiY | [VIDEO]_25/11/26_16:19_CBNBRASIL_2m06s_Cotado para a Fazenda, Trabuco assume presidência do Movimento Brasil Compe",
       "pt6_LJulIAA | [VIDEO]_25/11/26_16:09_CBNBRASIL_6m11s_Teco Medina: Déficit real do governo é de R$ 89 bilhões mesmo com arrecadaç",
-      "3UicoPHeUZU | [VIDEO]_25/11/26_16:03_CBNBRASIL_3m46s_Vera Magalhães: Encontro de Lula com trabuco sinaliza que Lula pode estar p",
+      "3UicoPHeUZU | [VIDEO]_25/11/26_16:03_CBNBRASIL_3m46s_Vera Magalhães: Encontro de Lula com trabuco sinaliza procura por novo Palo",
       "6IUrO_cnaa8 | [VIDEO]_25/11/26_15:47_CBNBRASIL_6m27s_Vera Magalhães: Lula não gostou do desempenho de Haddad em SP, que viu cand",
       "PHjk3Gl-A_I | [VIDEO]_25/11/26_15:33_CBNBRASIL_5m53s_Como criar senhas fortes e proteger seu celular contra golpes",
       "bRPVreAgb1w | [VIDEO]_25/11/26_15:18_CBNBRASIL_13m55s_Schwartsman: Dilema fiscal lembra era Dilma, e não há nada que o Banco Cent",
@@ -2089,8 +2089,8 @@
     "numero": "110",
     "rem": "SBT PROGRAMAS",
     "videoIds": [
-      "G8bW8BXzbJs",
       "MyDsvjBU5Mc",
+      "G8bW8BXzbJs",
       "fFCvKbF9sI0",
       "45e72R54s_4",
       "Yqbx4OdyOOM",
@@ -2123,8 +2123,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "G8bW8BXzbJs | [VIDEO]_25/11/26_14:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_10m18s_Val Marchiori fala sobre câncer e recebe mensagem da família   Programa do",
       "MyDsvjBU5Mc | [VIDEO]_25/11/26_14:33_THENOITE_43m52s_Entrevista com elenco de Paixão Proibida: bastidores da novela vertical   T",
+      "G8bW8BXzbJs | [VIDEO]_25/11/26_14:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_10m18s_Val Marchiori fala sobre câncer e recebe mensagem da família   Programa do",
       "fFCvKbF9sI0 | [VIDEO]_24/11/26_14:55_THENOITE_36m51s_Entrevista com Bia e Branca: maternidade, carreira e nado sincronizado   Th",
       "45e72R54s_4 | [VIDEO]_24/11/26_14:45_THENOITE_11m20s_Senhor Templário: o cavaleiro que combate o crime   The Noite (23/11/26)",
       "Yqbx4OdyOOM | [VIDEO]_24/11/26_18:34_FOFOCALIZANDO_15m18s_Leonardo chega de carreta em cruzeiro e Ana Castela proíbe celular em festa",
@@ -2159,6 +2159,7 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "3LNIPa9Dj88",
       "uL8_U0ovKYM",
       "1QTHv3P1E5s",
       "ZGsIvGi0KJc",
@@ -2187,12 +2188,12 @@
       "PJHIEuFtBdA",
       "TeO1iHyBEL0",
       "LEMlLLf-rxs",
-      "FijZE9i_qz4",
-      "qutPdRnb1bY"
+      "FijZE9i_qz4"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "3LNIPa9Dj88 | [VIDEO]_25/11/26_16:30_RECORDCABOVERDE_5m24s_Técnica de enfermagem é morta a facadas pelo ex mesmo após medida protetiva",
       "uL8_U0ovKYM | [VIDEO]_25/11/26_16:20_RECORDCABOVERDE_4m11s_Caso Igor: Buscas por jovem de 19 anos chegam ao quinto dia em Guarulhos",
       "1QTHv3P1E5s | [VIDEO]_25/11/26_16:15_RECORDCABOVERDE_2m18s_Deslizamento de terra atinge residências na zona norte de São Paulo",
       "ZGsIvGi0KJc | [VIDEO]_25/11/26_16:10_RECORDCABOVERDE_4m48s_Cidade é penalizada por ser cheirosa demais: Os moradores ficam até com dor",
@@ -2221,8 +2222,7 @@
       "PJHIEuFtBdA | [VIDEO]_25/11/26_11:00_RECORDCABOVERDE_9m57s_Miss Universe 2026: Marcella Kozinski representa o Brasil na grande final",
       "TeO1iHyBEL0 | [VIDEO]_25/11/26_12:00_RECORDCABOVERDE_10m31s_ACERTA OU CAIA: Carol tenta tirar MC Koringa da liderança em disputa acirra",
       "LEMlLLf-rxs | [VIDEO]_25/11/26_11:50_RECORDCABOVERDE_7m48s_ACERTA OU CAIA: MC Koringa duela com Miss Marcella Kozinski na Primeira Rod",
-      "FijZE9i_qz4 | [VIDEO]_25/11/26_10:55_RECORDCABOVERDE_3m08s_Menina espera por nova cirurgia quase um ano após acidente com fogos em SP",
-      "qutPdRnb1bY | [VIDEO]_25/11/26_10:40_RECORDCABOVERDE_2m59s_Médica é morta e jardineiro é principal suspeito: Assinatura de união estáv"
+      "FijZE9i_qz4 | [VIDEO]_25/11/26_10:55_RECORDCABOVERDE_3m08s_Menina espera por nova cirurgia quase um ano após acidente com fogos em SP"
     ]
   },
   {
