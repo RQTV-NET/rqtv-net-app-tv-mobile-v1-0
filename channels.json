@@ -1033,7 +1033,6 @@
     "numero": "30",
     "rem": "CAZÉTV",
     "videoIds": [
-      "duZ4TPs4Ask",
       "Bia_vQfRnl4",
       "T05LK5enrhE",
       "O7Der0cr_6E",
@@ -1066,7 +1065,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "duZ4TPs4Ask | ((LIVE))_25/11/26_12:55_CAZÉTV_PALMEIRAS AO VIVO: VERDÃO EMBARCA RUMO À FINAL DA LIBERTADORES!   AEROPORCO",
       "Bia_vQfRnl4 | ((LIVE))_25/11/26_11:40_CAZÉTV_AO VIVO: COPA DAVIS 2026   COBOLLI X SOONWOO KWON   ITÁLIA X COREIA DO SUL ",
       "T05LK5enrhE | [VIDEO]_25/11/26_12:42_CAZÉTV_5m46s_MELHORES MOMENTOS: URUGUAI 0 X 3 FRANÇA   COPA DO MUNDO SUB-17 2026   FASE ",
       "O7Der0cr_6E | [VIDEO]_24/11/26_22:48_CAZÉTV_76m36s_JOGO DA NOTA! CAZÉ, IGOR, BRUNINHO E STAG JOGAM E VOCÊS FECHAM OS OLHINHOS ",
@@ -1237,7 +1235,6 @@
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
-      "8Unpuur1Uog",
       "k4eNe-AuGOQ",
       "bAS5zxfiJWY",
       "Vx3JpWv7ar0",
@@ -1269,7 +1266,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "8Unpuur1Uog | ((LIVE))_25/11/26_13:00_ESPNBRASIL_CORINTHIANS TEM DECISÃO CONTRA O GALO   ESPN DIRETO DE MONTEVIDÉU   FUTURO ",
       "k4eNe-AuGOQ | [VIDEO]_25/11/26_13:21_ESPNBRASIL_25m32s_GABIGOL DE VOLTA AO FLAMENGO? JOSÉ BOTO É DIRETO EM EXCLUSIVA: 'NÃO DÁ PARA",
       "bAS5zxfiJWY | [VIDEO]_25/11/26_12:43_ESPNBRASIL_18m43s_CORINTHIANS: PROMOTOR FALA PELA 1ª VEZ SOBRE PEDIDO DE INTERVENÇÃO JUDICIAL",
       "Vx3JpWv7ar0 | [VIDEO]_25/11/26_12:31_ESPNBRASIL_19m52s_ANCELOTTI ELABORA CARTA DE VALORES PARA CLUBES DO FUTEBOL BRASILEIRO E DIZ:",
@@ -1359,6 +1355,7 @@
     "numero": "35",
     "rem": "BAND ESPORTES",
     "videoIds": [
+      "kQRzcAVmqzg",
       "XmhJVvfnluY",
       "nqrgvt7JWKQ",
       "zcMyZvNpp3s",
@@ -1387,12 +1384,12 @@
       "60Y5H7uIt_M",
       "CKTmZZbuAfU",
       "VzGzcfUVDOs",
-      "40IbdBL15Kc",
-      "EUK-XyeUOAo"
+      "40IbdBL15Kc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "kQRzcAVmqzg | [VIDEO]_25/11/26_15:02_BANDESPORTES_5m32s_ANCELOTTI ESCREVE CARTA PARA PADRONIZAR FUTEBOL BRASILEIRO",
       "XmhJVvfnluY | [VIDEO]_25/11/26_14:54_BANDESPORTES_3m46s_PALMEIRAS CHEGA AO AEROPORTO PARA VOO AO URUGUAI",
       "nqrgvt7JWKQ | [VIDEO]_25/11/26_14:15_BANDESPORTES_4m36s_TORCIDA DO PALMEIRAS FAZ FESTA PARA O ELENCO ANTES DA FINAL DA LIBERTADORES",
       "zcMyZvNpp3s | [VIDEO]_25/11/26_13:59_JOGOABERTO_4m23s_PALPITE: ATLÉTICO-MG X CORINTHIANS, BRASILEIRÃO 2026",
@@ -1421,8 +1418,7 @@
       "60Y5H7uIt_M | [VIDEO]_23/11/26_21:53_BANDESPORTES_2m14s_INTERNACIONAL 2 X 5 VITÓRIA   MELHORES MOMENTOS   BRASILEIRÃO 2026",
       "CKTmZZbuAfU | [VIDEO]_23/11/26_20:41_BANDESPORTES_2m17s_GRÊMIO MERECE ESTAR BRIGANDO CONTRA O REBAIXAMENTO?",
       "VzGzcfUVDOs | [VIDEO]_23/11/26_20:36_BANDESPORTES_3m00s_A AVENTURA DOS TORCEDORES DO SANTOS DO PARANÁ PARA O MORUMBI",
-      "40IbdBL15Kc | [VIDEO]_23/11/26_19:20_BANDESPORTES_3m53s_SANTOS NA LIBERTADORES? COMENTARISTAS ANALISAM POSSIBILIDADES",
-      "EUK-XyeUOAo | [VIDEO]_23/11/26_18:00_JOGOABERTO_96m39s_FLAMENGO É DECACAMPEÃO BRASILEIRO APÓS EMPATE COM O PALMEIRAS   REAPRESENTA"
+      "40IbdBL15Kc | [VIDEO]_23/11/26_19:20_BANDESPORTES_3m53s_SANTOS NA LIBERTADORES? COMENTARISTAS ANALISAM POSSIBILIDADES"
     ]
   },
   {
@@ -1560,8 +1556,8 @@
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
       "PBzANWnp0Yw",
-      "BGl8SlERhrk",
       "XKieYooBeog",
+      "BGl8SlERhrk",
       "eeA0dcLRzgY",
       "HHzSFJ_uHzg",
       "SxVqSWhFE1E",
@@ -1594,8 +1590,8 @@
     "playlistId": "",
     "carimbos": [
       "PBzANWnp0Yw | ((LIVE))_25/11/26_14:00_CANALGOAT_WERDER BREMEN X HAMBURGO   JOGO COMPLETO   BUNDESLIGA",
-      "BGl8SlERhrk | [VIDEO]_25/11/26_14:00_CANALGOAT_2m28s_VAI SUBIR? CONFIRA A TÁTICA QUE GEROU O GOL DO VILA NOVA! I VISÃO DE JOGO",
       "XKieYooBeog | [VIDEO]_25/11/26_12:00_CANALGOAT_2m56s_BUNDESLIGA: GOLS DA 10ª RODADA DO CAMPEONATO ALEMÃO!",
+      "BGl8SlERhrk | [VIDEO]_25/11/26_14:00_CANALGOAT_2m28s_VAI SUBIR? CONFIRA A TÁTICA QUE GEROU O GOL DO VILA NOVA! I VISÃO DE JOGO",
       "eeA0dcLRzgY | [VIDEO]_24/11/26_12:00_CANALGOAT_5m01s_TOP 5 GOLS MAIS BONITOS DA SEMANA NO CANAL GOAT!",
       "HHzSFJ_uHzg | [VIDEO]_23/11/26_10:48_SPORTYNET_5m48s_TUDO IGUAL EM GELSENKIRCHEN! - Schalke 04 0x0 Stuttgart - Melhores Momentos",
       "SxVqSWhFE1E | [VIDEO]_22/11/26_22:52_LITORALNEWS_2m25s_BRUNO DUARTE PEDE DESCULPAS À TORCIDA DO VASCO E AO ELENCO APÓS GOL PERDIDO",
@@ -1815,6 +1811,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "K96YZIBU4qM",
       "XPz0PMLvuKU",
       "Es59Zlve0Sg",
       "Haljzy6QnF8",
@@ -1843,12 +1840,12 @@
       "kjtlN_pXWUg",
       "Rj3uiP4ADPU",
       "imaK2kkDAxw",
-      "8S4w-A4qiyo",
-      "tt_LCgJWmPo"
+      "8S4w-A4qiyo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "K96YZIBU4qM | [VIDEO]_25/11/26_15:00_TECHCIÊNCIA1B_7m03s_Tesla e SpaceX negociam fusão que pode dar ainda mais poder a Elon Musk",
       "XPz0PMLvuKU | [VIDEO]_25/11/26_14:00_TECHCIÊNCIA1B_6m38s_Fala AI: Claude teria ajudado a resolver um dos maiores enigmas da matemáti",
       "Es59Zlve0Sg | [VIDEO]_25/11/26_13:00_TECHCIÊNCIA1B_3m59s_Hackers invadem CIA e expõem dados",
       "Haljzy6QnF8 | [VIDEO]_25/11/26_12:00_TECHCIÊNCIA1B_4m03s_Fala AI: OpenAI propõe limite para o avanço da IA   Pena",
@@ -1877,17 +1874,16 @@
       "kjtlN_pXWUg | [VIDEO]_24/11/26_11:00_TECHCIÊNCIA1B_4m41s_SpaceX é processada nos EUA por imagens sexuais geradas pelo Grok",
       "Rj3uiP4ADPU | [VIDEO]_24/11/26_10:00_TECHCIÊNCIA1B_6m04s_Você tinha um Tamagotchi? São 30 anos de história e 100 milhões de unidades",
       "imaK2kkDAxw | [VIDEO]_24/11/26_09:00_TECHCIÊNCIA1B_4m01s_\"Homem-Aranha: Um Novo Dia\" chega ao streaming nesta semana",
-      "8S4w-A4qiyo | [VIDEO]_24/11/26_01:07_TECHCIÊNCIA1A_14m31s_COMO É A VIDA na região TRANSAMAZÔNICA - RICARDINHO ACF",
-      "tt_LCgJWmPo | [VIDEO]_23/11/26_22:30_TECHCIÊNCIA1B_5m45s_Atenção: a Ciência acaba de voltar a Mercúrio!"
+      "8S4w-A4qiyo | [VIDEO]_24/11/26_01:07_TECHCIÊNCIA1A_14m31s_COMO É A VIDA na região TRANSAMAZÔNICA - RICARDINHO ACF"
     ]
   },
   {
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
-      "4bICCl6XY8Y",
       "KaNg_OYrIzs",
       "gIbPO0Nssmc",
+      "4bICCl6XY8Y",
       "C1BictGGfoE",
       "TIkM5-WUdI0",
       "svSDDinD76g",
@@ -1919,9 +1915,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "4bICCl6XY8Y | [VIDEO]_25/11/26_14:00_TECHCIÊNCIA2A_10m27s_Arqueólogos encontraram um mundo perdido sob a mais antiga cidade suméria",
       "KaNg_OYrIzs | [VIDEO]_25/11/26_13:00_TECHCIÊNCIA2A_118m07s_Por que os americanos não querem morar no litoral sudeste",
       "gIbPO0Nssmc | [VIDEO]_25/11/26_11:00_TECHCIÊNCIA2A_116m19s_A NASA acabou de encontrar um estranho portal em Marte que leva ao subsolo",
+      "4bICCl6XY8Y | [VIDEO]_25/11/26_14:00_TECHCIÊNCIA2A_10m27s_Arqueólogos encontraram um mundo perdido sob a mais antiga cidade suméria",
       "C1BictGGfoE | [VIDEO]_24/11/26_14:30_TECHCIÊNCIA2A_90m32s_O vulcão mais vigiado do mundo não entrou em erupção — e isso preocupa os c",
       "TIkM5-WUdI0 | [VIDEO]_24/11/26_12:24_TECHCIÊNCIA2A_10m33s_US$ 607 milhões contra a carpa asiática – plano focado na natureza era melh",
       "svSDDinD76g | [VIDEO]_24/11/26_18:12_TECHCIÊNCIA2C_26m03s_Por que o Egito está gastando bilhões para plantar no deserto?",
@@ -2025,6 +2021,7 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
+      "vleqXsHxBTU",
       "o0qrJeptVvQ",
       "EWpzVtQ08P4",
       "eRHBC-eTtVE",
@@ -2046,6 +2043,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "vleqXsHxBTU | [VIDEO]_25/11/26_15:00_TVEVANGELIZAR_27m30s_Terço e 7º dia da Novena de Jesus das Santas Chagas   25/11/26",
       "o0qrJeptVvQ | [VIDEO]_25/11/26_13:15_TVEVANGELIZAR_4m21s_Oração da Tarde   25/11/26   com @PadreManzottiOficial",
       "EWpzVtQ08P4 | [VIDEO]_25/11/26_10:20_TVEVANGELIZAR_23m29s_Maria, Mãe da Igreja   25/11/26   Com a Palavra - Com Pe. Everson Kloster",
       "eRHBC-eTtVE | [VIDEO]_25/11/26_06:00_TVEVANGELIZAR_35m06s_Quarta-Feira: Mistérios Dolorosos   25/11/26   Terço Mariano com  @PadreMan",
@@ -2116,7 +2114,7 @@
     "playlistId": "",
     "carimbos": [
       "MyDsvjBU5Mc | [VIDEO]_25/11/26_14:33_THENOITE_43m52s_Entrevista com elenco de Paixão Proibida: bastidores da novela vertical   T",
-      "G8bW8BXzbJs | [VIDEO]_25/11/26_14:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_10m18s_Val Marchiori fala sobre câncer e recebe mensagem da família   Programa do ",
+      "G8bW8BXzbJs | [VIDEO]_25/11/26_14:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_10m18s_Val Marchiori fala sobre câncer e recebe mensagem da família   Programa do",
       "fFCvKbF9sI0 | [VIDEO]_24/11/26_14:55_THENOITE_36m51s_Entrevista com Bia e Branca: maternidade, carreira e nado sincronizado   Th",
       "45e72R54s_4 | [VIDEO]_24/11/26_14:45_THENOITE_11m20s_Senhor Templário: o cavaleiro que combate o crime   The Noite (23/11/26)",
       "Yqbx4OdyOOM | [VIDEO]_24/11/26_18:34_FOFOCALIZANDO_15m18s_Leonardo chega de carreta em cruzeiro e Ana Castela proíbe celular em festa",
@@ -2151,6 +2149,8 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "81K7qb6CemU",
+      "KVqY6Eyo_Kg",
       "JTocMXiRRnE",
       "eGa98-EcxGY",
       "7hbfCUS-WK0",
@@ -2178,13 +2178,13 @@
       "WS-4DP0z2bs",
       "Inv-gXBSovE",
       "G3RKotFo_u8",
-      "SyK2iZxBZUM",
-      "Tsa8w_EuI8s",
-      "M6tdlxQgCx0"
+      "SyK2iZxBZUM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "81K7qb6CemU | [VIDEO]_25/11/26_15:10_RECORDCABOVERDE_8m05s_Estudante desaparece a caminho do estágio e moto é encontrada em mata em SP",
+      "KVqY6Eyo_Kg | [VIDEO]_25/11/26_15:00_RECORDCABOVERDE_5m44s_Policial dá bicicleta de ladrão para modelo que teve celular roubado em São",
       "JTocMXiRRnE | [VIDEO]_25/11/26_14:50_RECORDCABOVERDE_2m25s_Nove filhotes de cachorro são encontrados abandonados dentro de mala fechad",
       "eGa98-EcxGY | [VIDEO]_25/11/26_14:45_RECORDCABOVERDE_4m39s_Motorista tenta defender passageira de agressão do ex companheiro e é acusa",
       "7hbfCUS-WK0 | [VIDEO]_25/11/26_14:30_RECORDCABOVERDE_4m26s_A FAZENDA: Peões reagem ao resultado do Miss Universe 2026",
@@ -2212,9 +2212,7 @@
       "WS-4DP0z2bs | [VIDEO]_24/11/26_14:10_RECORDCABOVERDE_8m23s_A FAZENDA: Mayk e Alfredo detonam Fran,e influenciador debocha ‘Lágrimas de",
       "Inv-gXBSovE | [VIDEO]_24/11/26_14:00_RECORDCABOVERDE_13m02s_A FAZENDA: Ariela confronta Fran na votação e dispara ‘Vou votar em você at",
       "G3RKotFo_u8 | [VIDEO]_24/11/26_13:50_RECORDCABOVERDE_10m30s_A FAZENDA: Serginho vota em Maíra e peoa rebate ‘Na hora do voto escorrega",
-      "SyK2iZxBZUM | [VIDEO]_24/11/26_13:40_RECORDCABOVERDE_4m20s_A FAZENDA: Erthal vota em Darlin e peoa responde ‘Não tem nenhum escrúpulo’",
-      "Tsa8w_EuI8s | [VIDEO]_24/11/26_13:30_RECORDCABOVERDE_3m56s_A FAZENDA: Fazendeira Ana manda Serginho à Roça, e ator rebate ‘Ela não vai",
-      "M6tdlxQgCx0 | [VIDEO]_24/11/26_13:20_RECORDCABOVERDE_11m28s_A FAZENDA: Renata dispara para Fran ‘Não tenho que te dar satisfação de nad"
+      "SyK2iZxBZUM | [VIDEO]_24/11/26_13:40_RECORDCABOVERDE_4m20s_A FAZENDA: Erthal vota em Darlin e peoa responde ‘Não tem nenhum escrúpulo’"
     ]
   },
   {
