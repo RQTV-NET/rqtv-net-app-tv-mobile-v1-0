@@ -1032,9 +1032,9 @@
     "rem": "CAZÉTV",
     "videoIds": [
       "Bia_vQfRnl4",
-      "T05LK5enrhE",
       "dv9trv324h0",
       "A-8w51lGhHs",
+      "T05LK5enrhE",
       "O7Der0cr_6E",
       "pXgZAzbgdcg",
       "N6--CH_LI0g",
@@ -1066,9 +1066,9 @@
     "playlistId": "",
     "carimbos": [
       "Bia_vQfRnl4 | ((LIVE))_25/11/26_11:40_CAZÉTV_AO VIVO: COPA DAVIS 2026   COBOLLI X SOONWOO KWON   ITÁLIA X COREIA DO SUL ",
-      "T05LK5enrhE | [VIDEO]_25/11/26_12:42_CAZÉTV_5m46s_MELHORES MOMENTOS: URUGUAI 0 X 3 FRANÇA   COPA DO MUNDO SUB-17 2026   FASE",
       "dv9trv324h0 | [VIDEO]_25/11/26_15:35_CAZÉTV_10m13s_MELHORES MOMENTOS: MUSETTI X HONG   ITÁLIA X CORÉIA DO SUL   COPA DAVIS 202",
       "A-8w51lGhHs | [VIDEO]_25/11/26_15:18_CAZÉTV_8m15s_MELHORES MOMENTOS: DINAMARCA 3 X 3 ARGENTINA   COPA DO MUNDO SUB-17 2026",
+      "T05LK5enrhE | [VIDEO]_25/11/26_12:42_CAZÉTV_5m46s_MELHORES MOMENTOS: URUGUAI 0 X 3 FRANÇA   COPA DO MUNDO SUB-17 2026   FASE",
       "O7Der0cr_6E | [VIDEO]_24/11/26_22:48_CAZÉTV_76m36s_JOGO DA NOTA! CAZÉ, IGOR, BRUNINHO E STAG JOGAM E VOCÊS FECHAM OS OLHINHOS",
       "pXgZAzbgdcg | [VIDEO]_24/11/26_21:54_CAZÉTV_5m19s_MELHORES MOMENTOS: FLAMENGO 2 X 1 VASCO   COPINHA FEMININA 2026",
       "N6--CH_LI0g | [VIDEO]_24/11/26_20:16_CAZÉTV_16m09s_COMPACTO: CHAPECOENSE 3 X 0 PALMEIRAS   BRASILEIRÃO 2026   37ª RODADA",
@@ -1239,6 +1239,7 @@
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
+      "ZEhLhs9sSdM",
       "JZBqyfq1YXU",
       "k4eNe-AuGOQ",
       "bAS5zxfiJWY",
@@ -1271,6 +1272,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "ZEhLhs9sSdM | [VIDEO]_25/11/26_17:06_ESPNBRASIL_23m38s_DIA DE DECISÃO! CORINTHIANS 'JOGA A VIDA' NO BRASILEIRÃO CONTRA O ATLÉTICO ",
       "JZBqyfq1YXU | [VIDEO]_25/11/26_16:39_ESPNBRASIL_18m37s_LEILA PEREIRA ABRE O JOGO SOBRE FUTURO NO PALMEIRAS, SAF, MÁ ADMINISTRAÇÃO ",
       "k4eNe-AuGOQ | [VIDEO]_25/11/26_13:21_ESPNBRASIL_25m32s_GABIGOL DE VOLTA AO FLAMENGO? JOSÉ BOTO É DIRETO EM EXCLUSIVA: 'NÃO DÁ PARA",
       "bAS5zxfiJWY | [VIDEO]_25/11/26_12:43_ESPNBRASIL_18m43s_CORINTHIANS: PROMOTOR FALA PELA 1ª VEZ SOBRE PEDIDO DE INTERVENÇÃO JUDICIAL",
@@ -1817,6 +1819,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "MoIZl4u2Vts",
       "dZ4JwMlkEbs",
       "K96YZIBU4qM",
       "XPz0PMLvuKU",
@@ -1845,12 +1848,12 @@
       "50ltEIMy6ZM",
       "7-ciZR7kprE",
       "kjtlN_pXWUg",
-      "Rj3uiP4ADPU",
-      "imaK2kkDAxw"
+      "Rj3uiP4ADPU"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "MoIZl4u2Vts | [VIDEO]_25/11/26_17:00_TECHCIÊNCIA1B_4m24s_GTA 6 bate recorde de jogadores simultâneos e entra para a história",
       "dZ4JwMlkEbs | [VIDEO]_25/11/26_16:00_TECHCIÊNCIA1B_5m10s_Retorno de Jensen Huang à Nvidia pode ter feito Trump lucrar milhões",
       "K96YZIBU4qM | [VIDEO]_25/11/26_15:00_TECHCIÊNCIA1B_7m03s_Tesla e SpaceX negociam fusão que pode dar ainda mais poder a Elon Musk",
       "XPz0PMLvuKU | [VIDEO]_25/11/26_14:00_TECHCIÊNCIA1B_6m38s_Fala AI: Claude teria ajudado a resolver um dos maiores enigmas da matemáti",
@@ -1879,14 +1882,14 @@
       "50ltEIMy6ZM | [VIDEO]_24/11/26_12:43_TECHCIÊNCIA1C_9m39s_A Anthropic Acaba de Automatizar o Trabalho Mais Caro dos Engenheiros Sênio",
       "7-ciZR7kprE | [VIDEO]_24/11/26_12:00_TECHCIÊNCIA1B_5m32s_Review GTA 6: a Rockstar entrega tudo o que prometeu? Veja nossa análise",
       "kjtlN_pXWUg | [VIDEO]_24/11/26_11:00_TECHCIÊNCIA1B_4m41s_SpaceX é processada nos EUA por imagens sexuais geradas pelo Grok",
-      "Rj3uiP4ADPU | [VIDEO]_24/11/26_10:00_TECHCIÊNCIA1B_6m04s_Você tinha um Tamagotchi? São 30 anos de história e 100 milhões de unidades",
-      "imaK2kkDAxw | [VIDEO]_24/11/26_09:00_TECHCIÊNCIA1B_4m01s_\"Homem-Aranha: Um Novo Dia\" chega ao streaming nesta semana"
+      "Rj3uiP4ADPU | [VIDEO]_24/11/26_10:00_TECHCIÊNCIA1B_6m04s_Você tinha um Tamagotchi? São 30 anos de história e 100 milhões de unidades"
     ]
   },
   {
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
+      "XIy3bfIDhmM",
       "KaNg_OYrIzs",
       "9mLtSFOPfcA",
       "gIbPO0Nssmc",
@@ -1915,12 +1918,12 @@
       "oAvDp0GWkFk",
       "8pgHaCQt5bw",
       "CFJ7Ep1IkJI",
-      "J7L6jiZqikM",
-      "d6UxZHaVEiY"
+      "J7L6jiZqikM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "XIy3bfIDhmM | [VIDEO]_25/11/26_17:00_TECHCIÊNCIA2A_172m58s_NASA acaba de encontrar túneis gigantes escondidos sob a Lua",
       "KaNg_OYrIzs | [VIDEO]_25/11/26_13:00_TECHCIÊNCIA2A_118m07s_Por que os americanos não querem morar no litoral sudeste",
       "9mLtSFOPfcA | [VIDEO]_25/11/26_15:30_TECHCIÊNCIA2A_95m21s_Mistérios Que Parecem Impossíveis, Mas Têm Soluções Surpreendentes!",
       "gIbPO0Nssmc | [VIDEO]_25/11/26_11:00_TECHCIÊNCIA2A_116m19s_A NASA acabou de encontrar um estranho portal em Marte que leva ao subsolo",
@@ -1949,8 +1952,7 @@
       "oAvDp0GWkFk | [VIDEO]_21/11/26_12:00_TECHCIÊNCIA2C_27m11s_EUA x Irã: o que impede (ou não) um ataque nuclear",
       "8pgHaCQt5bw | [VIDEO]_21/11/26_11:26_TECHCIÊNCIA2A_9m49s_Por que ninguém estava preparado para o terremoto na Colômbia",
       "CFJ7Ep1IkJI | [VIDEO]_21/11/26_00:22_TECHCIÊNCIA2C_180m01s_3 HORAS DE CURIOSIDADES SOBRE O ESPAÇO 🚀🤯",
-      "J7L6jiZqikM | [VIDEO]_20/11/26_22:07_TECHCIÊNCIA2C_21m50s_Poder Militar: O Brasil consegue defender suas fronteiras?",
-      "d6UxZHaVEiY | [VIDEO]_20/11/26_20:16_TECHCIÊNCIA2C_26m57s_A história real do Césio-137 em Goiânia"
+      "J7L6jiZqikM | [VIDEO]_20/11/26_22:07_TECHCIÊNCIA2C_21m50s_Poder Militar: O Brasil consegue defender suas fronteiras?"
     ]
   },
   {
