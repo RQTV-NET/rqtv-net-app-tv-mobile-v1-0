@@ -289,7 +289,6 @@
     "numero": "05",
     "rem": "CNN MONEY",
     "videoIds": [
-      "gmia-clEl9Y",
       "rJTDRa9V1Iw",
       "NtQ991pnbUU",
       "jhaU5igdVyI",
@@ -322,7 +321,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "gmia-clEl9Y | ((LIVE))_25/11/26_19:00_CNNMONEY",
       "rJTDRa9V1Iw | 25/11/26_18:09_CNNMONEY_17m11s",
       "NtQ991pnbUU | 25/11/26_18:06_CNNMONEY_2m02s",
       "jhaU5igdVyI | 25/11/26_13:45_CNNMONEY_2m34s",
@@ -498,6 +496,8 @@
     "rem": "BAND JORNALISMO",
     "videoIds": [
       "OSOev4tBlRg",
+      "0q-nO-NFkmk",
+      "Rvi_aJyDR-o",
       "YrfhsP6ibJ4",
       "W5BZ0r2HKVw",
       "0cf4viebOks",
@@ -524,14 +524,14 @@
       "KmNzMjhE9sA",
       "B5mWvrfHY_8",
       "AjgM0gXnHDI",
-      "RS8ZtVE5C6k",
-      "vPME5o7vvUI",
-      "jDaKqCwgPWo"
+      "RS8ZtVE5C6k"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "OSOev4tBlRg | ((LIVE))_25/11/26_19:19_BANDJORNALISMO",
+      "0q-nO-NFkmk | 25/11/26_19:54_BANDJORNALISMO_2m42s",
+      "Rvi_aJyDR-o | 25/11/26_19:45_BANDJORNALISMO_3m42s",
       "YrfhsP6ibJ4 | 25/11/26_19:43_BANDJORNALISMO_2m33s",
       "W5BZ0r2HKVw | 25/11/26_19:38_BANDJORNALISMO_2m36s",
       "0cf4viebOks | 25/11/26_19:30_BANDJORNALISMO_2m14s",
@@ -558,9 +558,7 @@
       "KmNzMjhE9sA | 25/11/26_10:17_BANDJORNALISMO_2m07s",
       "B5mWvrfHY_8 | 25/11/26_10:14_BANDJORNALISMO_14m32s",
       "AjgM0gXnHDI | 25/11/26_10:10_BANDJORNALISMO_2m13s",
-      "RS8ZtVE5C6k | 25/11/26_10:46_BANDJORNALISMO_3m42s",
-      "vPME5o7vvUI | 25/11/26_10:38_BANDJORNALISMO_2m04s",
-      "jDaKqCwgPWo | 25/11/26_10:19_BANDJORNALISMO_2m16s"
+      "RS8ZtVE5C6k | 25/11/26_10:46_BANDJORNALISMO_3m42s"
     ]
   },
   {
