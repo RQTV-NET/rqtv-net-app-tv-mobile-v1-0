@@ -2271,6 +2271,9 @@
     "numero": "130",
     "rem": "NETMOVIES (GERAL)",
     "videoIds": [
+      "3bLnG4Ub2AQ",
+      "mwWCPUqNPFQ",
+      "aCsrHGBtVv4",
       "GbadoJ6AxUA",
       "a_T6rsXE_mw",
       "g6edfkcEKJI",
@@ -2297,14 +2300,14 @@
       "XsDykDAW9VA",
       "0HuUdjBNQLc",
       "7i-yjRFXBwc",
-      "m9WPemT17VE",
-      "-yMQYkeLNz8",
-      "N82gZ1HXYA0",
-      "Idc2_XP3fSU"
+      "m9WPemT17VE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "3bLnG4Ub2AQ | 03/11/26_89m44s_Sobreviventes (2014)",
+      "mwWCPUqNPFQ | 02/11/26_93m17s_Amityville 3: O Demônio (1983)",
+      "aCsrHGBtVv4 | 31/10/26_98m05s_O Assassino do Alfabeto (2008)",
       "GbadoJ6AxUA | 30/10/26_94m44s_O Guardião (2009)",
       "a_T6rsXE_mw | 29/10/26_78m52s_A Maldição de Cinderela (2024)",
       "g6edfkcEKJI | 28/10/26_91m56s_O Suspeito (2023)",
@@ -2331,10 +2334,7 @@
       "XsDykDAW9VA | 10/11/26_103m50s_Os Jovens Pistoleiros (1988)",
       "0HuUdjBNQLc | 09/11/26_97m24s_Coincidências do Amor (2010)",
       "7i-yjRFXBwc | 08/11/26_87m48s_Destruição: Los Angeles (2017)",
-      "m9WPemT17VE | 07/11/26_97m40s_P2: Sem Saída (2007)",
-      "-yMQYkeLNz8 | 06/11/26_89m59s_Um Garoto na Corte do Rei Arth",
-      "N82gZ1HXYA0 | 05/11/26_126m55s_O Castelo de Vidro (2017)",
-      "Idc2_XP3fSU | 04/11/26_92m42s_Tinha Que Ser Você (2008)"
+      "m9WPemT17VE | 07/11/26_97m40s_P2: Sem Saída (2007)"
     ],
     "origemPlaylistId": "UUK5RRQ3TdwAbbCWrtnXsN3Q"
   },
@@ -2342,6 +2342,8 @@
     "numero": "131",
     "rem": "NETMOVIES AÇÃO",
     "videoIds": [
+      "2ce2VeIPXls",
+      "yQT_80tuACg",
       "LKFfZDhYovs",
       "4y3VNrAx9zo",
       "0OQUSNN9Ip4",
@@ -2369,19 +2371,19 @@
       "CLqKrk3fTlo",
       "Kb3zBknAS4Q",
       "9nTHiso3l6I",
-      "KUq16yHNodM",
-      "Rnz3wJ1sO-U",
-      "TKv5odcvcCw"
+      "KUq16yHNodM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "2ce2VeIPXls | 30/10/26_86m12s_O Retorno dos Vermes Malditos ",
+      "yQT_80tuACg | 29/10/26_100m45s_O Advogado dos 5 Crimes (1999)",
       "LKFfZDhYovs | 28/10/26_126m03s_Big Kill - A Cidade do Medo 💥",
       "4y3VNrAx9zo | 27/10/26_93m57s_Punhos da Vingança (2021) 💥 F",
       "0OQUSNN9Ip4 | 25/11/26_97m31s_Resgate no Oeste (2016) 💥 Fil",
       "vU6pR8Jg_DY | 26/10/26_93m11s_Tráfico de Mulheres (2017) 💥 ",
       "OIeCrzUr4sM | 16/07/26_102m16s_Jogo Perverso 💥 Filme de Ação",
-      "EGxygfyhjEk | 14/07/26_83m53s_Um Tira do Outro Mundo (1988) ",
+      "EGxygfyhjEk | 14/07/26_83m53s_Um Tira do Outro Mundo (1988)",
       "1x0w4Ni-X48 | 24/11/26_84m09s_O Herdeiro das Drogas (2019) \ud83d",
       "8CjNrigUlXc | 23/11/26_88m58s_Warlock 3: O Fim da Inocência ",
       "AqFLQABmbJY | 22/11/26_106m14s_Punhos de Aço (2009) 💥 Filme ",
@@ -2403,9 +2405,7 @@
       "CLqKrk3fTlo | 06/11/26_126m55s_72 Horas (2010) 💥 Filme de Aç",
       "Kb3zBknAS4Q | 04/11/26_112m14s_Hacker - Privacidade Violada (",
       "9nTHiso3l6I | 03/11/26_102m30s_À Beira do Abismo (2012) 💥 Fi",
-      "KUq16yHNodM | 02/11/26_110m29s_A Chegada (1996) 💥 Filme de A",
-      "Rnz3wJ1sO-U | 01/11/26_102m23s_O Enviado (2004) 💥 Filme de A",
-      "TKv5odcvcCw | 31/10/26_120m03s_A Sangue Frio (2000) 💥 Filme "
+      "KUq16yHNodM | 02/11/26_110m29s_A Chegada (1996) 💥 Filme de A"
     ],
     "origemPlaylistId": "UUSkBHTQr29FdMU8klx-yFCg"
   },
@@ -2413,6 +2413,7 @@
     "numero": "132",
     "rem": "NETMOVIES COMÉDIA",
     "videoIds": [
+      "ms_3a5NEP2M",
       "bz2WbKA41Jk",
       "XHKTzzY7NZo",
       "3tjxRmk2SOg",
@@ -2441,16 +2442,16 @@
       "hbpcNdA3FC0",
       "Ro_msljup7s",
       "W_nTdJbVUag",
-      "2D62WpX1eaY",
-      "Ad3RNfkCS7Q"
+      "2D62WpX1eaY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "ms_3a5NEP2M | 28/10/26_93m56s_Mazzaropi - Casinha Pequenina ",
       "bz2WbKA41Jk | 27/10/26_96m55s_Mazzaropi - No Paraíso das Sol",
       "XHKTzzY7NZo | 25/11/26_97m40s_P2: Sem Saída (2007) 🤣",
       "3tjxRmk2SOg | 26/10/26_116m43s_Power Rangers (2017) 🤣 Filme ",
-      "yT90CwC3Yao | 25/07/26_103m57s_Arthur e os Minimoys 🤣 Filme ",
+      "yT90CwC3Yao | 25/07/26_103m57s_Arthur e os Minimoys 🤣 Filme",
       "8ZuRbmAeSQM | 24/11/26_91m59s_Um Homem, Um Cavalo, Uma Pisto",
       "u-M8CKJTLCM | 23/11/26_84m25s_Apenas Uma Vez (2007) 🤣 Filme",
       "Dg5JkMVgGxc | 22/11/26_93m29s_Um Amor de Vizinha 🤣 Filme de",
@@ -2475,8 +2476,7 @@
       "hbpcNdA3FC0 | 02/11/26_94m17s_Apaches - Gangues de Paris (20",
       "Ro_msljup7s | 01/11/26_86m12s_O Retorno dos Vermes Malditos ",
       "W_nTdJbVUag | 31/10/26_92m11s_O Malvado - Horror no Natal (2",
-      "2D62WpX1eaY | 30/10/26_102m42s_Mazzaropi - Uma Pistola para D",
-      "Ad3RNfkCS7Q | 29/10/26_73m30s_Espião Por Acaso (2016) 🤣 Fil"
+      "2D62WpX1eaY | 30/10/26_102m42s_Mazzaropi - Uma Pistola para D"
     ],
     "origemPlaylistId": "UUj6_TTox6oA8Q_clgNLZYYw"
   },
@@ -2484,6 +2484,11 @@
     "numero": "133",
     "rem": "NETMOVIES ROMANCE",
     "videoIds": [
+      "6BBw4JvlgPY",
+      "nEuOH0wXCdU",
+      "lyrWYUa7MrQ",
+      "WAOhUJYxFlE",
+      "L_ZZGPBp4Fg",
       "mwSv4owj5Vk",
       "jWFVEZvXXrg",
       "fH-ovivCPaM",
@@ -2508,16 +2513,16 @@
       "sjZFdXMQdIk",
       "xjGAtc_3-Oc",
       "85JJowazdm4",
-      "ltMHO9XdU_Q",
-      "-UjbIDHoOCI",
-      "T-mcTdkB4Gc",
-      "jaqm87YLoqI",
-      "g2ZN31wFkOk",
-      "BkXmljhdfpQ"
+      "ltMHO9XdU_Q"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "6BBw4JvlgPY | 01/11/26_85m19s_A Lenda do Cavaleiro Negro: O ",
+      "nEuOH0wXCdU | 31/10/26_117m58s_O filme indicado ao OSCAR que ",
+      "lyrWYUa7MrQ | 30/10/26_98m50s_As Apimentadas com Eliza Dushk",
+      "WAOhUJYxFlE | 29/10/26_97m24s_Sobre Nós (2020)",
+      "L_ZZGPBp4Fg | 19/10/26_90m44s_Encontrando o Amor com Adam Fo",
       "mwSv4owj5Vk | 28/10/26_89m44s_Um Amor do Passado com Jean Sm",
       "jWFVEZvXXrg | 27/10/26_88m45s_A TENTATIVA DE RECONQUISTA MAI",
       "fH-ovivCPaM | 26/10/26_116m10s_Uma Paixão Inesperada com Ben ",
@@ -2542,12 +2547,7 @@
       "sjZFdXMQdIk | 12/11/26_99m35s_Atraída Pelo Perigo com Bob Dy",
       "xjGAtc_3-Oc | 11/11/26_93m24s_Antes Que Eu Vá com Diego Bone",
       "85JJowazdm4 | 10/11/26_94m22s_Com Randy Wayne e Adrienne Bar",
-      "ltMHO9XdU_Q | 07/11/26_107m51s_Com Morgan Freeman e Jennifer ",
-      "-UjbIDHoOCI | 06/11/26_89m31s_A Bela e a Fera com Rhett Gile",
-      "T-mcTdkB4Gc | 05/11/26_143m09s_Dois Corações (2022)",
-      "jaqm87YLoqI | 04/11/26_73m45s_Meu Eterno Primeiro Amor (2020",
-      "g2ZN31wFkOk | 03/11/26_101m02s_Drugstore Cowboy com Matt Dill",
-      "BkXmljhdfpQ | 02/11/26_99m00s_Na Crista da Onda com Ewan McG"
+      "ltMHO9XdU_Q | 07/11/26_107m51s_Com Morgan Freeman e Jennifer "
     ],
     "origemPlaylistId": "UUwxDy42GLyZlJ-JfIFa2ajg"
   },
@@ -2555,6 +2555,7 @@
     "numero": "134",
     "rem": "NETMOVIES CLÁSSICOS",
     "videoIds": [
+      "z-bh6RtUtlU",
       "-VURzsL5aAo",
       "R-OKRxKEa-A",
       "X1MgdwU2BCM",
@@ -2583,12 +2584,12 @@
       "NOCFLqSfA1Y",
       "7QZq9JB2NoI",
       "oweoMfmjz6c",
-      "4ajBwp3pp-A",
-      "z-bh6RtUtlU"
+      "4ajBwp3pp-A"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "z-bh6RtUtlU | 26/08/26_107m19s_Ensina-me a Viver com Sissy Sp",
       "-VURzsL5aAo | 25/08/26_93m52s_Força de Ataque Z com Mel Gibs",
       "R-OKRxKEa-A | 21/08/26_93m22s_O Pai das Invenções com Kevin ",
       "X1MgdwU2BCM | 25/11/26_96m48s_Johnny Mnemonic, o Cyborg do F",
@@ -2617,8 +2618,7 @@
       "NOCFLqSfA1Y | 30/08/26_91m12s_Iris com Kate Winslet - 2001 -",
       "7QZq9JB2NoI | 29/08/26_112m10s_De Corpo e Alma com James Fran",
       "oweoMfmjz6c | 28/08/26_106m30s_Tucker - Um Homem e Seu Sonho ",
-      "4ajBwp3pp-A | 27/08/26_111m36s_Antes Que o Diabo Saiba Que Vo",
-      "z-bh6RtUtlU | 26/08/26_107m19s_Ensina-me a Viver com Sissy Sp"
+      "4ajBwp3pp-A | 27/08/26_111m36s_Antes Que o Diabo Saiba Que Vo"
     ],
     "origemPlaylistId": "UUklg72s4SymWVrriqiUgXhw"
   },
@@ -2626,6 +2626,11 @@
     "numero": "135",
     "rem": "NETMOVIES FAMÍLIA",
     "videoIds": [
+      "5lRGUSICFqA",
+      "bwMPVLvy5x8",
+      "Fq5I6qV_13A",
+      "1g97gy47TBc",
+      "wnDG5-Qs8Ls",
       "2bdrui9wgI0",
       "BTwJlt2aY-M",
       "JqZ-5ssRgyg",
@@ -2650,16 +2655,16 @@
       "FViF-y_1MME",
       "0QqeLcwk7ps",
       "d1clg2p3F54",
-      "FfvRM5p9Pfs",
-      "8NzdN4dzGw4",
-      "AhvW_aT5aCY",
-      "W42Ae-lrV-w",
-      "alxSJ7NOfd4",
-      "FV163MO34go"
+      "FfvRM5p9Pfs"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "5lRGUSICFqA | 05/11/26_98m38s_Viver, Amar e Aprender 💚",
+      "bwMPVLvy5x8 | 04/11/26_113m08s_Do Fundo do Coração com Val Ki",
+      "Fq5I6qV_13A | 03/11/26_86m26s_Super Bola de Pelos - Salva o ",
+      "1g97gy47TBc | 03/11/26_120m52s_Poder Além da Vida com Nick No",
+      "wnDG5-Qs8Ls | 02/11/26_93m57s_Operação Filhote 💚",
       "2bdrui9wgI0 | 01/11/26_93m10s_Fronteira Estelar 💚",
       "BTwJlt2aY-M | 31/10/26_103m31s_Uma Paixão em Seoul 💚",
       "JqZ-5ssRgyg | 28/10/26_101m00s_Vencedor de Prêmio do Cinema: ",
@@ -2684,12 +2689,7 @@
       "FViF-y_1MME | 16/11/26_90m07s_Mazzaropi - Jeca Tatu 💚",
       "0QqeLcwk7ps | 15/11/26_96m01s_Sissy Spacek e Ving Rhames em:",
       "d1clg2p3F54 | 14/11/26_98m58s_O Lado Simples da Vida 💚",
-      "FfvRM5p9Pfs | 12/11/26_110m05s_Porque Eu Te Amo! 💚",
-      "8NzdN4dzGw4 | 11/11/26_112m55s_Jungle - Protegendo a Selva 💚",
-      "AhvW_aT5aCY | 10/11/26_103m36s_Com Jennifer Lopez e Matthew M",
-      "W42Ae-lrV-w | 09/11/26_82m22s_Coragem para Vencer com Aiden ",
-      "alxSJ7NOfd4 | 07/11/26_107m51s_Com Jennifer Lopez e Morgan Fr",
-      "FV163MO34go | 06/11/26_75m14s_SLIME Uma Aventura Pegajosa 4 "
+      "FfvRM5p9Pfs | 12/11/26_110m05s_Porque Eu Te Amo! 💚"
     ],
     "origemPlaylistId": "UU1vGd-MHPg0fKoIku6Mw1wQ"
   },
@@ -2697,6 +2697,13 @@
     "numero": "136",
     "rem": "NETMOVIES DRAMA",
     "videoIds": [
+      "juJ8ThDJ2ns",
+      "Qgvdo-_6cwo",
+      "PZI34lxA1b8",
+      "fkBdRtz7yQk",
+      "HGNPtcy5F5U",
+      "Kd82lkjQ65A",
+      "Bd8kr647iyg",
       "lYD5zspkHp0",
       "E6t2rX_HEec",
       "Ms4K5RIPpL4",
@@ -2719,18 +2726,18 @@
       "LxxA3dPQaso",
       "D_3bTaaDxo4",
       "sAcGIGMmzwo",
-      "2yPh9g6u9_w",
-      "cQYhBqzXZf8",
-      "3Hn47iL6EEo",
-      "aORnu1DscYM",
-      "emEKUmOlHHU",
-      "eFlhIp0segw",
-      "YDP9wsz_aPc",
-      "FFb_eN0rp_E"
+      "2yPh9g6u9_w"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "juJ8ThDJ2ns | 15/11/26_96m29s_Um Pedido de Natal (2016) 🔹 F",
+      "Qgvdo-_6cwo | 14/11/26_89m52s_Vingança Entre Assassinos (200",
+      "PZI34lxA1b8 | 13/11/26_83m44s_O Álbum de Memórias (2014) 🔹 ",
+      "fkBdRtz7yQk | 12/11/26_128m40s_O Último Portal (1999) 🔹 Film",
+      "HGNPtcy5F5U | 11/11/26_106m56s_Quebrando Regras (2008) 🔹 Fil",
+      "Kd82lkjQ65A | 10/11/26_111m10s_Meu Nome é Sara (2019)🔹Filme ",
+      "Bd8kr647iyg | 09/11/26_115m46s_Correndo Contra o Vento (2019)",
       "lYD5zspkHp0 | 08/11/26_117m34s_A Mensageira (2019) 🔹",
       "E6t2rX_HEec | 07/11/26_112m17s_Lembranças (2010) 🔹 Filme de ",
       "Ms4K5RIPpL4 | 06/11/26_87m32s_Um Anjo em Nossas Vidas (2020)",
@@ -2748,19 +2755,12 @@
       "T1ILUrmcemg | 24/10/26_100m52s_Secretária (2002) 🔹 Filme de ",
       "mJeotp3iyH0 | 18/07/26_109m54s_A Vida em Si 🔹 Filme de Drama",
       "SUm1GchIAOw | 12/07/26_95m21s_Antes que Termine o Dia 🔹 Fil",
-      "Sg-hO7rWbmA | 11/07/26_128m27s_O Escritor Fantasma🔹Filme de ",
+      "Sg-hO7rWbmA | 11/07/26_128m27s_O Escritor Fantasma🔹Filme de",
       "f3n39XmtZJE | 07/07/26_109m41s_Dama de Cinza 🔹 Filme de Dram",
       "LxxA3dPQaso | 05/07/26_94m18s_A Irmandade da Justiça 🔹 Film",
       "D_3bTaaDxo4 | 04/07/26_93m32s_May - Obsessao Assassina 🔹 Fi",
       "sAcGIGMmzwo | 23/06/26_90m21s_A Cura 🔹",
-      "2yPh9g6u9_w | 23/11/26_100m11s_Redes do Crime 🔹",
-      "cQYhBqzXZf8 | 22/11/26_107m02s_Eternos Companheiros (2019) 🔹",
-      "3Hn47iL6EEo | 21/11/26_84m09s_O Herdeiro das Drogas (2019) \ud83d",
-      "aORnu1DscYM | 20/11/26_111m53s_Elas por Elas (2022) 🔹 Filme ",
-      "emEKUmOlHHU | 19/11/26_97m21s_Sombras do Terror (2019) 🔹 Fi",
-      "eFlhIp0segw | 18/11/26_88m03s_O Amante (2008) 🔹 Filme de Dr",
-      "YDP9wsz_aPc | 17/11/26_94m22s_Em Busca de um Milagre (2020) ",
-      "FFb_eN0rp_E | 16/11/26_99m01s_Temporada de Furacão 🔹 Filme "
+      "2yPh9g6u9_w | 23/11/26_100m11s_Redes do Crime 🔹"
     ],
     "origemPlaylistId": "UUbD5QmK3ET52M6JVFPf2QXA"
   },
@@ -2768,6 +2768,13 @@
     "numero": "137",
     "rem": "NETMOVIES SUSPENSE",
     "videoIds": [
+      "XQx5JDzVC_8",
+      "di95BISymHw",
+      "UVSL0n6YeeQ",
+      "MkJxJfA5y6Q",
+      "pl-SaxUVB-o",
+      "4enCUOVlzcE",
+      "FBk_rze9wgQ",
       "a2OoR6xFej0",
       "_6qHvo__KxI",
       "Cn8ewADqbfc",
@@ -2790,18 +2797,18 @@
       "WzuXA5tn3OA",
       "BBm_O7YvtDU",
       "FTCJfRXUp4k",
-      "dd77zshywxM",
-      "wkYjXxrt18A",
-      "aQWYrA5XbKc",
-      "GBTYUlVc6CI",
-      "zGJt9ctkDug",
-      "IihtDhxyuqo",
-      "QLuIAQNacVA",
-      "QpTSClo7fec"
+      "dd77zshywxM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "XQx5JDzVC_8 | 15/11/26_92m48s_Donna D'Errico e Wade Williams",
+      "di95BISymHw | 14/11/26_97m33s_À Espreita do Mal com Helen Hu",
+      "UVSL0n6YeeQ | 13/11/26_84m11s_Entre Mundos com Nicolas Cage ",
+      "MkJxJfA5y6Q | 13/11/26_93m53s_Best F(r)iends Volume 2",
+      "pl-SaxUVB-o | 11/11/26_100m43s_A Hora da Zona Morta com Chris",
+      "4enCUOVlzcE | 10/11/26_90m42s_Com Warwick Davis e Jennifer A",
+      "FBk_rze9wgQ | 08/11/26_107m38s_O Último Ritual com Bethan Wal",
       "a2OoR6xFej0 | 07/11/26_110m53s_Vencedor do Hong Kong Film Awa",
       "_6qHvo__KxI | 06/11/26_110m25s_Com Sharon Stone e Terence Har",
       "Cn8ewADqbfc | 05/11/26_85m31s_Com Wes Bentley e Eliza Dushku",
@@ -2819,19 +2826,12 @@
       "cAHALHOrwfc | 21/07/26_94m41s_Pânico em Alto Mar Filme com E",
       "6rPRX0Q3RhY | 18/07/26_88m48s_Atraída pelo Crime Filme com A",
       "TtF5-_Gjpjs | 11/07/26_97m00s_Bata Antes de Entrar Filme com",
-      "hWy3Q8-mXKc | 10/07/26_102m16s_Jogo Perverso Filme com Jamie ",
+      "hWy3Q8-mXKc | 10/07/26_102m16s_Jogo Perverso Filme com Jamie",
       "kf0o1e0gqew | 26/06/26_104m41s_Amityville 2: A Possessão",
       "WzuXA5tn3OA | 24/11/26_128m26s_O Escritor Fantasma",
       "BBm_O7YvtDU | 24/11/26_93m37s_O Lago do Silêncio",
       "FTCJfRXUp4k | 23/11/26_96m47s_Por Um Corredor Escuro com Uma",
-      "dd77zshywxM | 23/11/26_95m54s_Bata Antes de Entrar",
-      "wkYjXxrt18A | 22/11/26_99m35s_Atraída Pelo Perigo",
-      "aQWYrA5XbKc | 21/11/26_80m39s_Assassinato no Expresso do Inf",
-      "GBTYUlVc6CI | 21/11/26_92m56s_Teia de Mentiras",
-      "zGJt9ctkDug | 20/11/26_82m11s_Uma Aventura Selvagem",
-      "IihtDhxyuqo | 19/11/26_87m15s_Jack - A Caixa Maldita",
-      "QLuIAQNacVA | 18/11/26_111m04s_Maria Conchita Alonso e Noel G",
-      "QpTSClo7fec | 17/11/26_116m39s_Lexi Johnson e Chukwudi Iwuji "
+      "dd77zshywxM | 23/11/26_95m54s_Bata Antes de Entrar"
     ],
     "origemPlaylistId": "UUBIRfRFt5Qm342yvYh_7Wcw"
   },
@@ -2839,6 +2839,7 @@
     "numero": "138",
     "rem": "NETMOVIES VELHO OESTE",
     "videoIds": [
+      "xghY4SkL7nA",
       "i8fQWvqtEW8",
       "1CLQh8G8LO0",
       "Y0pw7Rwt9cU",
@@ -2867,12 +2868,12 @@
       "JLBWv93WLv4",
       "RSJdLEeOxas",
       "MM3_qkYnw9w",
-      "Hu5lWBnF3Bc",
-      "vVgVvdqBDqY"
+      "Hu5lWBnF3Bc"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "xghY4SkL7nA | 13/02/26_92m16s_Os Cadáveres Não Fazem Sombra ",
       "i8fQWvqtEW8 | 06/02/26_87m19s_Pecos Vem para Matar Ω",
       "1CLQh8G8LO0 | 23/01/26_116m01s_Os Longos Dias da Vingança Ω",
       "Y0pw7Rwt9cU | 30/01/26_88m31s_Onde Termina o Inferno Ω",
@@ -2901,8 +2902,7 @@
       "JLBWv93WLv4 | 03/04/26_96m21s_Luta por Liberdade Ω",
       "RSJdLEeOxas | 27/03/26_106m47s_O Mistério de Ozarks Ω",
       "MM3_qkYnw9w | 13/03/26_105m05s_Trilha da Justiça Ω",
-      "Hu5lWBnF3Bc | 06/03/26_88m46s_A Última Fronteira do Oeste Ω",
-      "vVgVvdqBDqY | 27/02/26_125m10s_Assassinato em Yellowstone Ω"
+      "Hu5lWBnF3Bc | 06/03/26_88m46s_A Última Fronteira do Oeste Ω"
     ],
     "origemPlaylistId": "UUPB94_mkTL2_-L_MEdeo3WA"
   },
@@ -2910,6 +2910,8 @@
     "numero": "139",
     "rem": "NETMOVIES KIDS",
     "videoIds": [
+      "D32GpecsAVk",
+      "QAmQ8vOyqlQ",
       "zybJjF9JiFY",
       "GxaVDu98d8w",
       "weOSL48gq8g",
@@ -2937,19 +2939,19 @@
       "XzNZjopXjvg",
       "8WHPQTAq7FM",
       "ajf4ye4Z4j8",
-      "HV7tgt4Tu70",
-      "RuyTI9wvE78",
-      "2aRQDOeJvTM"
+      "HV7tgt4Tu70"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "D32GpecsAVk | 31/10/26_89m40s_Rainha da Terra 🧸​",
+      "QAmQ8vOyqlQ | 30/10/26_85m33s_Uma Mãe em Apuros 🧸​",
       "zybJjF9JiFY | 29/10/26_83m53s_Um Tira do Outro Mundo 🧸​",
       "GxaVDu98d8w | 28/10/26_107m03s_Esqueceram de Nós 🧸​",
       "weOSL48gq8g | 26/10/26_82m01s_Chihuahua Too! 🧸​",
       "tijd7zm7qiw | 25/10/26_86m32s_No Ritmo do Amor 🧸​",
       "ykghBynWDoQ | 09/04/26_96m59s_Charlie, Um Grande Garoto 🧸​",
-      "B7bF7NoGnmI | 28/03/26_81m15s_Slime - Uma Aventura Pegajosa ",
+      "B7bF7NoGnmI | 28/03/26_81m15s_Slime - Uma Aventura Pegajosa",
       "2fGQrHBsFtk | 24/11/26_94m27s_Nem por Cima do Meu Cadáver 🧸",
       "ggUyFW7u-Bk | 23/11/26_84m25s_Apenas Uma Vez 🧸​",
       "h46W8UZRUOQ | 22/11/26_87m48s_Destruição: Los Angeles 🧸​",
@@ -2971,9 +2973,7 @@
       "XzNZjopXjvg | 06/11/26_83m22s_Luzes, Câmera, Perigo! 🧸​",
       "8WHPQTAq7FM | 05/11/26_87m00s_Vida Preciosa 🧸​",
       "ajf4ye4Z4j8 | 04/11/26_80m31s_Em Busca do Silêncio 🧸​",
-      "HV7tgt4Tu70 | 03/11/26_92m22s_As Férias Assustadoras de Nell",
-      "RuyTI9wvE78 | 02/11/26_93m44s_A Aposta 🧸​",
-      "2aRQDOeJvTM | 01/11/26_91m39s_Quando o Amor Acontece 🧸​"
+      "HV7tgt4Tu70 | 03/11/26_92m22s_As Férias Assustadoras de Nell"
     ],
     "origemPlaylistId": "UUFxHT3Nz5n_Co48GqcdwdKA"
   },
