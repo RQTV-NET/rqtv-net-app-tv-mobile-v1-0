@@ -656,9 +656,9 @@
       "ij5vH9aqCX4",
       "VZZDwAYFsNU",
       "xef7TyJSZC0",
-      "9gHHSGSWu8s",
       "ZhM3Y7SLj-M",
       "CvoazgrLR1g",
+      "9gHHSGSWu8s",
       "5f8B1SV4O7c",
       "ul4YgOPzZXY",
       "b_TaKuQk9TQ",
@@ -689,9 +689,9 @@
       "ij5vH9aqCX4 | [VIDEO]_24/11/26_00:22_TVCULTURAPROGRAMAS_4m56s_OMS alerta para o risco do uso indiscriminado de antibióticos",
       "VZZDwAYFsNU | [VIDEO]_24/11/26_00:17_TVCULTURAPROGRAMAS_3m56s_Calor extremo é risco para saúde de idosos no Brasil",
       "xef7TyJSZC0 | [VIDEO]_24/11/26_00:15_TVCULTURAPROGRAMAS_3m29s_COP31 na Turquia termina sem nenhum acordo sobre crise climática",
-      "9gHHSGSWu8s | [VIDEO]_24/11/26_00:13_TVCULTURAPROGRAMAS_6m37s_Lula corre contra o tempo para definir indicação ao STF",
       "ZhM3Y7SLj-M | [VIDEO]_19/11/26_17:30_TVCULTURAJORNALISMO_8m52s_Conceição Tavares avalia educação no país e comenta novo livro erótico",
       "CvoazgrLR1g | [VIDEO]_19/11/26_10:00_TVCULTURAJORNALISMO_8m35s_Conceição Evaristo defende indicação de mulher negra ao STF",
+      "9gHHSGSWu8s | [VIDEO]_24/11/26_00:13_TVCULTURAPROGRAMAS_6m37s_Lula corre contra o tempo para definir indicação ao STF",
       "5f8B1SV4O7c | [VIDEO]_24/11/26_00:10_TVCULTURAPROGRAMAS_4m42s_Nvidia reconduz Jensen Huang como CEO e ações sobem mais de 30%",
       "ul4YgOPzZXY | [VIDEO]_23/11/26_21:20_TVCULTURAPROGRAMAS_9m10s_Câmara aprova urgência para votação do projeto de ajuste fiscal",
       "b_TaKuQk9TQ | [VIDEO]_23/11/26_12:51_TVCULTURAPROGRAMAS_3m12s_COP31 termina sem consenso e mais de 130 países rejeitam texto",
@@ -704,6 +704,7 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "FzZv5OcyorM",
+      "PHjk3Gl-A_I",
       "bRPVreAgb1w",
       "fIPGxLSyiBg",
       "l3JgpejyBpU",
@@ -731,20 +732,20 @@
       "QaTF0ASR2_w",
       "_R6iNT1qlSc",
       "jScUT14k9dk",
-      "Nzr5gGrcjks",
-      "CVFUbfyPFhA"
+      "Nzr5gGrcjks"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "FzZv5OcyorM | ((LIVE))_25/11/26_14:02_CBNBRASIL_Estúdio CBN - 25/11/2026",
+      "PHjk3Gl-A_I | [VIDEO]_25/11/26_15:33_CBNBRASIL_5m53s_Como criar senhas fortes e proteger seu celular contra golpes",
       "bRPVreAgb1w | [VIDEO]_25/11/26_15:18_CBNBRASIL_13m55s_Schwartsman: Dilema fiscal lembra era Dilma, e não há nada que o Banco Cent",
       "fIPGxLSyiBg | [VIDEO]_25/11/26_15:14_CBNBRASIL_3m26s_EUA propõem tarifa de 10% sobre aeronaves brasileiras; entenda o impacto",
       "l3JgpejyBpU | [VIDEO]_25/11/26_15:09_CBNBRASIL_5m38s_Míriam Leitão: Caixa não pode assumir o BRB sem saber o tamanho do rombo de",
       "qZaJnVFtHOc | [VIDEO]_25/11/26_15:02_CBNBRASIL_11m53s_Schwartsman: Ajuste fiscal não para em pé sem corte de despesas obrigatória",
       "vphxUYPxtNE | [VIDEO]_25/11/26_14:40_CBNBRASIL_3m10s_Fortes chuvas no Paraná deixam seis mortos e provocam estragos em 22 municí",
       "JJW_rjnV2yo | [VIDEO]_25/11/26_14:28_CBNBRASIL_2m14s_Fux nega recurso e BRB perde gestão de R$ 2 bilhões na Bahia",
-      "CH_yEWQkF40 | [VIDEO]_25/11/26_14:18_CBNBRASIL_6m09s_Contas não fecham: déficit do governo federal pode bater na casa dos R$ 90 ",
+      "CH_yEWQkF40 | [VIDEO]_25/11/26_14:18_CBNBRASIL_6m09s_Contas não fecham: déficit do governo federal pode bater na casa dos R$ 90",
       "douujSeVp-4 | [VIDEO]_25/11/26_14:13_CBNBRASIL_5m51s_Quais são as senhas mais utilizadas no Brasil?",
       "ydYbwuHX4g0 | [VIDEO]_25/11/26_13:56_CBNBRASIL_4m38s_Merval Pereira: Até Janones já arruma desculpas para pedir apoio popular a",
       "dn79b6tHVOc | [VIDEO]_25/11/26_13:32_CBNBRASIL_2m58s_Relatório da PF sobre Toffoli não cita compra de parte do resort Tayayá pel",
@@ -765,8 +766,7 @@
       "QaTF0ASR2_w | [VIDEO]_25/11/26_09:20_CBNBRASIL_3m48s_Mulher de 21 anos e filho de 1 ano morrem após deslizamento de terra em Mon",
       "_R6iNT1qlSc | [VIDEO]_25/11/26_09:05_CBNBRASIL_2m09s_Lula consulta magistrados sobre nomes de mulheres para ocupar vaga no STF",
       "jScUT14k9dk | [VIDEO]_25/11/26_08:43_CBNBRASIL_7m55s_Lula intensifica articulações para definir ministros do quarto mandato",
-      "Nzr5gGrcjks | [VIDEO]_25/11/26_08:35_CBNBRASIL_4m29s_Sete municípios do Espírito Santo decretam situação de emergência após fort",
-      "CVFUbfyPFhA | [VIDEO]_25/11/26_08:10_CBNBRASIL_9m39s_Roger Waters e Bad Bunny na posse de Lula; senhas previsíveis viram piada n"
+      "Nzr5gGrcjks | [VIDEO]_25/11/26_08:35_CBNBRASIL_4m29s_Sete municípios do Espírito Santo decretam situação de emergência após fort"
     ]
   },
   {
@@ -774,12 +774,12 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "Tb0htqp_hYk",
-      "XKthFoPOQH0",
       "U4D8iwPlUqs",
       "Opcxvob0obM",
       "46HR7KT-AtE",
       "-7HlyLbbdqw",
       "dRWBJP3Vfdo",
+      "XKthFoPOQH0",
       "eg3RD6okOKk",
       "VhhipkJRk_Y",
       "GjNw9gITiZo",
@@ -808,12 +808,12 @@
     "playlistId": "",
     "carimbos": [
       "Tb0htqp_hYk | ((LIVE))_25/11/26_13:55_REVISTAOESTE_FAROESTE À BRASILEIRA - 25/11/2026",
-      "XKthFoPOQH0 | [VIDEO]_25/11/26_14:20_REVISTAOESTE_3m27s_Augusto critica Centrão por apoiar ajuste fiscal de Lula em troca de minist",
       "U4D8iwPlUqs | [VIDEO]_25/11/26_14:10_REVISTAOESTE_15m38s_FIM DA 6X1: 'Ninguém m0rre se fechar comércio aos domingos', ironiza minist",
       "Opcxvob0obM | [VIDEO]_25/11/26_14:00_REVISTAOESTE_12m40s_CASO MASTER: PF omitiu dados sobre Moraes para cumprir determinações de Fac",
       "46HR7KT-AtE | [VIDEO]_25/11/26_13:50_REVISTAOESTE_10m01s_TOGA SELETIVA: STF livrou Calheiros e Wyllys em casos semelhantes ao de Van",
       "-7HlyLbbdqw | [VIDEO]_25/11/26_13:40_REVISTAOESTE_10m24s_'LULA 4': Motta exalta Centrão após Câmara dos Deputados aprovar ajuste fis",
       "dRWBJP3Vfdo | [VIDEO]_25/11/26_13:30_REVISTAOESTE_6m49s_ELEIÇÕES 2026: Moraes se declara suspeito em ação sobre interferência estra",
+      "XKthFoPOQH0 | [VIDEO]_25/11/26_14:20_REVISTAOESTE_3m27s_Augusto critica Centrão por apoiar ajuste fiscal de Lula em troca de minist",
       "eg3RD6okOKk | [VIDEO]_25/11/26_13:20_REVISTAOESTE_5m52s_ANÁLISE: Motta sente a pressão e justifica atuação da Câmara na defesa de V",
       "VhhipkJRk_Y | [VIDEO]_25/11/26_13:10_REVISTAOESTE_4m37s_Bolsonaro apresenta melhora, mas segue internado na UTI e sem previsão de a",
       "GjNw9gITiZo | [VIDEO]_25/11/26_13:00_REVISTAOESTE_9m33s_CASO VAN HATTEM: Marinho reage à perseguição de Moraes e Dino contra direit",
@@ -2151,6 +2151,7 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "3t2e38-6TrY",
       "MQonsJNyUbo",
       "Hxg_00iJczE",
       "81K7qb6CemU",
@@ -2179,12 +2180,12 @@
       "yCF3ADVbZQg",
       "XVUJ9YM1p44",
       "Dmd5silnbc4",
-      "WS-4DP0z2bs",
-      "Inv-gXBSovE"
+      "WS-4DP0z2bs"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "3t2e38-6TrY | [VIDEO]_25/11/26_15:30_RECORDCABOVERDE_4m35s_Jovens morrem após sair de festa:Ocupante que usava cinto de segurança é a ",
       "MQonsJNyUbo | [VIDEO]_25/11/26_15:20_RECORDCABOVERDE_6m07s_Polêmica em consurso público: Candidatos professores são eliminados por usa",
       "Hxg_00iJczE | [VIDEO]_25/11/26_15:15_RECORDCABOVERDE_8m14s_Influenciador foragido é preso em velório e é investigado por morte de adol",
       "81K7qb6CemU | [VIDEO]_25/11/26_15:10_RECORDCABOVERDE_8m05s_Estudante desaparece a caminho do estágio e moto é encontrada em mata em SP",
@@ -2213,8 +2214,7 @@
       "yCF3ADVbZQg | [VIDEO]_24/11/26_14:20_RECORDCABOVERDE_3m53s_A FAZENDA: Ex aliadas declaradas! Fran puxa Renata da Baia para a Roça",
       "XVUJ9YM1p44 | [VIDEO]_24/11/26_14:55_RECORDCABOVERDE_7m40s_Caminhão atropela motociclista e atinge estabelecimento comercial em SP",
       "Dmd5silnbc4 | [VIDEO]_24/11/26_14:50_RECORDCABOVERDE_3m51s_Polícia evacua prédio comercial por suspeita de bomba na Vila Olímpia,zona",
-      "WS-4DP0z2bs | [VIDEO]_24/11/26_14:10_RECORDCABOVERDE_8m23s_A FAZENDA: Mayk e Alfredo detonam Fran,e influenciador debocha ‘Lágrimas de",
-      "Inv-gXBSovE | [VIDEO]_24/11/26_14:00_RECORDCABOVERDE_13m02s_A FAZENDA: Ariela confronta Fran na votação e dispara ‘Vou votar em você at"
+      "WS-4DP0z2bs | [VIDEO]_24/11/26_14:10_RECORDCABOVERDE_8m23s_A FAZENDA: Mayk e Alfredo detonam Fran,e influenciador debocha ‘Lágrimas de"
     ]
   },
   {
