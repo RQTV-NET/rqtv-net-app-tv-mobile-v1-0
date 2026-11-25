@@ -80,7 +80,6 @@
     "rem": "SBT: AOVIVO/PROGRAMAS",
     "videoIds": [
       "rlAokGV5RtU",
-      "ElpoAJeIbS0",
       "JO7SzvWoQqk",
       "curIGzE8nDY",
       "xNLd9jtI9bY",
@@ -95,6 +94,7 @@
       "fFCvKbF9sI0",
       "45e72R54s_4",
       "fEZcZOlkpxY",
+      "ElpoAJeIbS0",
       "iKUn2918EpA",
       "key6-5LrPY8",
       "P3tys_s_xEk",
@@ -114,7 +114,6 @@
     "playlistId": "",
     "carimbos": [
       "rlAokGV5RtU | ((LIVE))_24/11/26_17:27_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)",
-      "ElpoAJeIbS0 | 23/11/26_20:06_FOFOCALIZANDO_15m03s",
       "JO7SzvWoQqk | 23/11/26_19:31_FOFOCALIZANDO_15m21s",
       "curIGzE8nDY | 23/11/26_01:00_SBT_45m07s",
       "xNLd9jtI9bY | 21/11/26_10:46_THENOITECOMDANILOGENTILI_10m20s",
@@ -129,6 +128,7 @@
       "fFCvKbF9sI0 | 24/11/26_14:55_THENOITECOMDANILOGENTILI_36m51s",
       "45e72R54s_4 | 24/11/26_14:45_THENOITECOMDANILOGENTILI_11m20s",
       "fEZcZOlkpxY | 23/11/26_20:54_FOFOCALIZANDO_24m03s",
+      "ElpoAJeIbS0 | 23/11/26_20:06_FOFOCALIZANDO_15m03s",
       "iKUn2918EpA | 19/11/26_19:00_FOFOCALIZANDO_14m16s",
       "key6-5LrPY8 | 19/11/26_15:30_THENOITECOMDANILOGENTILI_10m00s",
       "P3tys_s_xEk | 19/11/26_15:11_THENOITECOMDANILOGENTILI_12m09s",
@@ -151,6 +151,7 @@
     "videoIds": [
       "HMb-D9Thu6w",
       "AqT6anyHm38",
+      "V0KRgQ39VVo",
       "uh2O7D4hEuo",
       "IJQ-7am6EzA",
       "G4U1kaz3NOI",
@@ -177,14 +178,14 @@
       "oz_17mW84ao",
       "lFN7_OHSaIw",
       "kWsHH576CCQ",
-      "mnvKPo8BaR0",
-      "CGhcNSPfkDQ"
+      "mnvKPo8BaR0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "HMb-D9Thu6w | ((LIVE))_25/11/26_18:30_SBTNEWS",
       "AqT6anyHm38 | ((LIVE))_25/11/26_18:21_SBTNEWS",
+      "V0KRgQ39VVo | 25/11/26_19:13_SBTNEWS_11m30s",
       "uh2O7D4hEuo | 25/11/26_18:39_SBTNEWS_13m12s",
       "IJQ-7am6EzA | 25/11/26_18:18_SBTNEWS_5m29s",
       "G4U1kaz3NOI | 25/11/26_18:15_SBTNEWS_4m09s",
@@ -211,8 +212,7 @@
       "oz_17mW84ao | 25/11/26_09:53_SBTNEWS_10m42s",
       "lFN7_OHSaIw | 25/11/26_09:47_SBTNEWS_10m39s",
       "kWsHH576CCQ | 25/11/26_09:22_SBTNEWS_2m15s",
-      "mnvKPo8BaR0 | 25/11/26_08:31_SBTJORNALISMO_3m58s",
-      "CGhcNSPfkDQ | 25/11/26_08:30_SBTNEWS_2m52s"
+      "mnvKPo8BaR0 | 25/11/26_08:31_SBTJORNALISMO_3m58s"
     ]
   },
   {
@@ -289,6 +289,7 @@
     "numero": "05",
     "rem": "CNN MONEY",
     "videoIds": [
+      "gmia-clEl9Y",
       "fqPeMN1xVzg",
       "rJTDRa9V1Iw",
       "NtQ991pnbUU",
@@ -317,12 +318,12 @@
       "OrmD-0kjnP8",
       "G6bz_HsIo7c",
       "LOFrBp_Urlw",
-      "deNcmkoOzik",
-      "u1kbuLzbZ14"
+      "deNcmkoOzik"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "gmia-clEl9Y | ((LIVE))_25/11/26_19:00_CNNMONEY",
       "fqPeMN1xVzg | ((LIVE))_25/11/26_17:17_CNNMONEY",
       "rJTDRa9V1Iw | 25/11/26_18:09_CNNMONEY_17m11s",
       "NtQ991pnbUU | 25/11/26_18:06_CNNMONEY_2m02s",
@@ -351,8 +352,7 @@
       "OrmD-0kjnP8 | 24/11/26_11:43_CNNBRASILMONEY_27m20s",
       "G6bz_HsIo7c | 24/11/26_09:27_CNNBRASILMONEY_2m06s",
       "LOFrBp_Urlw | 24/11/26_09:22_CNNBRASILMONEY_4m30s",
-      "deNcmkoOzik | 24/11/26_09:20_CNNBRASILMONEY_8m00s",
-      "u1kbuLzbZ14 | 24/11/26_09:04_CNNBRASILMONEY_3m19s"
+      "deNcmkoOzik | 24/11/26_09:20_CNNBRASILMONEY_8m00s"
     ]
   },
   {
