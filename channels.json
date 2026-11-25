@@ -989,7 +989,6 @@
     "numero": "30",
     "rem": "CAZÉTV",
     "videoIds": [
-      "jUd5TAB29NQ",
       "O7Der0cr_6E",
       "pXgZAzbgdcg",
       "N6--CH_LI0g",
@@ -1022,7 +1021,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "jUd5TAB29NQ | ((LIVE))_24/11/26_16:30_CAZÉTV_COMPACTO: É O DIA DA FINAL! A BRAZILIAN STORM NO ISA GAMES 2026   ÚLTIMO DI",
       "O7Der0cr_6E | [VIDEO]_24/11/26_22:48_CAZÉTV_76m36s_JOGO DA NOTA! CAZÉ, IGOR, BRUNINHO E STAG JOGAM E VOCÊS FECHAM OS OLHINHOS ",
       "pXgZAzbgdcg | [VIDEO]_24/11/26_21:54_CAZÉTV_5m19s_MELHORES MOMENTOS: FLAMENGO 2 X 1 VASCO   COPINHA FEMININA 2026",
       "N6--CH_LI0g | [VIDEO]_24/11/26_20:16_CAZÉTV_16m09s_COMPACTO: CHAPECOENSE 3 X 0 PALMEIRAS   BRASILEIRÃO 2026   37ª RODADA",
@@ -1341,12 +1339,12 @@
     "numero": "36",
     "rem": "SBT SPORTS",
     "videoIds": [
-      "yYkhDFKx578",
       "0MHVcm6vTGg",
       "_rJ8BWGguKU",
       "l-SYdZr3sJA",
       "vM-KAdNRibk",
       "9MYuHvVrL90",
+      "yYkhDFKx578",
       "fSQOsQn3Fec",
       "Wuy8As9t2Cc",
       "F6awNve0dtI",
@@ -1375,12 +1373,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "yYkhDFKx578 | [VIDEO]_24/11/26_11:15_SBTSPORTS_3m28s_INTER PERDE DE 5 A 2 PARA O VITÓRIA EM CASA E SE AFUNDA NO Z-4 DO BRASILEIR",
       "0MHVcm6vTGg | [VIDEO]_24/11/26_01:35_SBTSPORTS_14m37s_EXCLUSIVO: ENTREVISTA COM JORGINHO, CAMPEÃO BRASILEIRO COM O FLAMENGO",
       "_rJ8BWGguKU | [VIDEO]_24/11/26_21:01_SBTSPORTS_3m06s_EXCLUSIVO: CRAQUE DO REAL MADRID FALA COM SBT APÓS GOLEADA NA CHAMPIONS",
       "l-SYdZr3sJA | [VIDEO]_24/11/26_19:30_SBTSPORTS_8m48s_REAL MADRID 5 X 1 PSV   MELHORES MOMENTOS - CHAMPIONS LEAGUE",
       "vM-KAdNRibk | [VIDEO]_24/11/26_13:30_SBTSPORTS_5m25s_VAI CAIR? CORINTHIANS ESTÁ DE VOLTA À ZONA DE REBAIXAMENTO",
       "9MYuHvVrL90 | [VIDEO]_24/11/26_12:00_SBTSPORTS_2m26s_GALVÃO BUENO ANALISA DERROTA DO SANTOS CONTRA O GRÊMIO",
+      "yYkhDFKx578 | [VIDEO]_24/11/26_11:15_SBTSPORTS_3m28s_INTER PERDE DE 5 A 2 PARA O VITÓRIA EM CASA E SE AFUNDA NO Z-4 DO BRASILEIR",
       "fSQOsQn3Fec | [VIDEO]_23/11/26_11:23_SBTSPORTS_4m12s_A CARREIRA DE JAMAL MUSIALA PODE CHEGAR AO FIM?",
       "Wuy8As9t2Cc | [VIDEO]_22/11/26_20:00_SBTSPORTS_2m50s_QUEM SOBE PARA DISPUTAR A SÉRIE A DO BRASILEIRÃO EM 2027?",
       "F6awNve0dtI | [VIDEO]_22/11/26_18:07_SBTSPORTS_4m09s_PALMEIRAS BUSCA O TETRA DA LIBERTA CONTRA O ESTUDIANTES",
@@ -1727,6 +1725,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "AnTgTQUq_e8",
       "eKbIuR3xLVE",
       "446xTQx5TDE",
       "Rs8R8m3DVUQ",
@@ -1755,12 +1754,12 @@
       "WdYRlQ28Eo8",
       "f_3Sr-3YM_E",
       "LgGT1K_J1iI",
-      "_xaiW0332_E",
-      "GWrbQpJ5h2g"
+      "_xaiW0332_E"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "AnTgTQUq_e8 | [VIDEO]_24/11/26_23:39_TECHCIÊNCIA1A_17m59s_TRUMP, PUTIN E XI JINPING ESTÃO REDESENHANDO A NOVA ORDEM MUNDIAL?",
       "eKbIuR3xLVE | [VIDEO]_24/11/26_22:54_TECHCIÊNCIA1A_14m29s_PUTIN, TRUMP E XI JINPING: GUERRA, AMEAÇAS NUCLEARES E A DISPUTA PELO PODER",
       "446xTQx5TDE | [VIDEO]_24/11/26_22:47_TECHCIÊNCIA1A_15m59s_STF, BOLSONARO E A CRISE NA POLÍTICA: AS DECISÕES QUE ESTÃO MUDANDO O BRASI",
       "Rs8R8m3DVUQ | [VIDEO]_24/11/26_22:30_TECHCIÊNCIA1B_5m09s_El Niño e aquecimento global levam temperatura da Terra a novo recorde",
@@ -1789,18 +1788,17 @@
       "WdYRlQ28Eo8 | [VIDEO]_22/11/26_14:43_TECHCIÊNCIA1C_15m36s_Vazaram as Instruções Secretas Que Controlam ChatGPT, Claude e Gemini por D",
       "f_3Sr-3YM_E | [VIDEO]_21/11/26_20:45_TECHCIÊNCIA1A_15m59s_BOMBA ATÔMICA: A CARTADA FINAL DOS ESTADOS UNIDO - SALA DE GUERRA",
       "LgGT1K_J1iI | [VIDEO]_21/11/26_20:24_TECHCIÊNCIA1A_15m32s_A INVASÃO AMERICANA À ILHA DE OKINAWA - SALA DE GUERRA",
-      "_xaiW0332_E | [VIDEO]_21/11/26_18:00_TECHCIÊNCIA1A_57m51s_AS PERGUNTAS NÃO RESPONDIDAS NO DOCUMENTÁRIO DE SUZANE NA NETFLIX - MELHORE",
-      "GWrbQpJ5h2g | [VIDEO]_21/11/26_14:00_TECHCIÊNCIA1B_2m09s_Suspense cósmico: procura-se planeta que desapareceu!"
+      "_xaiW0332_E | [VIDEO]_21/11/26_18:00_TECHCIÊNCIA1A_57m51s_AS PERGUNTAS NÃO RESPONDIDAS NO DOCUMENTÁRIO DE SUZANE NA NETFLIX - MELHORE"
     ]
   },
   {
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
-      "svSDDinD76g",
       "tk0aQLoIk0Q",
       "C1BictGGfoE",
       "TIkM5-WUdI0",
+      "svSDDinD76g",
       "NW5XG0GuHxM",
       "ZFynTk5tZTs",
       "6avs7xaLl10",
@@ -1831,10 +1829,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "svSDDinD76g | [VIDEO]_24/11/26_18:12_TECHCIÊNCIA2C_26m03s_Por que o Egito está gastando bilhões para plantar no deserto?",
       "tk0aQLoIk0Q | [VIDEO]_24/11/26_15:00_TECHCIÊNCIA2B_15m20s_Transformei Um Nerd Tímido No Maior Crush Da Escola",
       "C1BictGGfoE | [VIDEO]_24/11/26_14:30_TECHCIÊNCIA2A_90m32s_O vulcão mais vigiado do mundo não entrou em erupção — e isso preocupa os c",
       "TIkM5-WUdI0 | [VIDEO]_24/11/26_12:24_TECHCIÊNCIA2A_10m33s_US$ 607 milhões contra a carpa asiática – plano focado na natureza era melh",
+      "svSDDinD76g | [VIDEO]_24/11/26_18:12_TECHCIÊNCIA2C_26m03s_Por que o Egito está gastando bilhões para plantar no deserto?",
       "NW5XG0GuHxM | [VIDEO]_23/11/26_22:57_TECHCIÊNCIA2C_180m01s_3 HORAS DE CURIOSIDADES DA POLÍTICA MUNDIAL 🌍🧐",
       "ZFynTk5tZTs | [VIDEO]_23/11/26_19:00_TECHCIÊNCIA2A_177m22s_A ameaça de clima extremo que está vindo em nossa direção",
       "6avs7xaLl10 | [VIDEO]_23/11/26_16:00_TECHCIÊNCIA2A_45m20s_A rachadura gigante que despertou novos temores sobre Yellowstone",
@@ -1867,9 +1865,9 @@
     "numero": "90",
     "rem": "ARTE & CRIATIVIDADE",
     "videoIds": [
-      "7o8c7Bck-vE",
       "2L2yAUczdBc",
       "a16JMZ0xz0E",
+      "7o8c7Bck-vE",
       "kmdys1JJl4k",
       "E65W035r4fM",
       "F_bLCHSXzC4",
@@ -1901,9 +1899,9 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "7o8c7Bck-vE | [VIDEO]_24/11/26_14:00_IDEIASINCRÍVEIS_122m11s_DIY Mágicos com Arco-Íris 🌈 Artesanatos e Projetos Criativos",
       "2L2yAUczdBc | [VIDEO]_24/11/26_09:00_IDEIASINCRÍVEIS_134m54s_Reutilização INCRÍVEL de objetos velhos e quebrados! TRANSFORME LIXO EM TES",
       "a16JMZ0xz0E | [VIDEO]_24/11/26_09:53_FARJANADRAWINGACADEMY_8m02s_10 art hacks   easy painting ideas for beginners",
+      "7o8c7Bck-vE | [VIDEO]_24/11/26_14:00_IDEIASINCRÍVEIS_122m11s_DIY Mágicos com Arco-Íris 🌈 Artesanatos e Projetos Criativos",
       "kmdys1JJl4k | [VIDEO]_23/11/26_09:00_IDEIASINCRÍVEIS_182m26s_🎄 IDEIAS FÁCEIS DE DECORAÇÃO DE NATAL SEM GASTAR NADA ✅",
       "E65W035r4fM | [VIDEO]_21/11/26_14:00_IDEIASINCRÍVEIS_41m45s_⏱️ DICAS PARA PAIS NAS MANHÃS CORRIDAS: GANHE TEMPO 🔥",
       "F_bLCHSXzC4 | [VIDEO]_21/11/26_09:00_IDEIASINCRÍVEIS_129m44s_📱 Artesanatos arco-íris do TikTok: quais funcionam de verdade? 🌈",
@@ -1987,10 +1985,10 @@
     "numero": "110",
     "rem": "SBT PROGRAMAS",
     "videoIds": [
-      "Yqbx4OdyOOM",
       "Garqba0kDn0",
       "fFCvKbF9sI0",
       "45e72R54s_4",
+      "Yqbx4OdyOOM",
       "fEZcZOlkpxY",
       "ElpoAJeIbS0",
       "JO7SzvWoQqk",
@@ -2021,10 +2019,10 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Yqbx4OdyOOM | [VIDEO]_24/11/26_18:34_FOFOCALIZANDO_15m18s_Leonardo chega de carreta em cruzeiro e Ana Castela proíbe celular em festa",
       "Garqba0kDn0 | [VIDEO]_24/11/26_17:51_FOFOCALIZANDO_16m13s_MC Ryan é alvo de operação da Polícia Federal contra lavagem de dinheiro",
       "fFCvKbF9sI0 | [VIDEO]_24/11/26_14:55_THENOITE_36m51s_Entrevista com Bia e Branca: maternidade, carreira e nado sincronizado   Th",
       "45e72R54s_4 | [VIDEO]_24/11/26_14:45_THENOITE_11m20s_Senhor Templário: o cavaleiro que combate o crime   The Noite (23/11/26)",
+      "Yqbx4OdyOOM | [VIDEO]_24/11/26_18:34_FOFOCALIZANDO_15m18s_Leonardo chega de carreta em cruzeiro e Ana Castela proíbe celular em festa",
       "fEZcZOlkpxY | [VIDEO]_23/11/26_20:54_FOFOCALIZANDO_24m03s_Caso Stênio Garcia: novo vídeo para desmentir filhas e suposto filho surge",
       "ElpoAJeIbS0 | [VIDEO]_23/11/26_20:06_FOFOCALIZANDO_15m03s_Com aposentadoria de Chitãozinho e Xororó, quem pode assumir lugar deles?",
       "JO7SzvWoQqk | [VIDEO]_23/11/26_19:31_FOFOCALIZANDO_15m21s_Chitãozinho e Xororó vão se aposentar dos palcos após 56 anos de carreira",
@@ -2057,12 +2055,12 @@
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
-      "XVUJ9YM1p44",
       "Dmd5silnbc4",
       "Td5r1vb3ADY",
       "3vQPSggg1hk",
       "7Oq4AUVTxKc",
       "yCF3ADVbZQg",
+      "XVUJ9YM1p44",
       "WS-4DP0z2bs",
       "Inv-gXBSovE",
       "G3RKotFo_u8",
@@ -2091,12 +2089,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "XVUJ9YM1p44 | [VIDEO]_24/11/26_14:55_RECORDCABOVERDE_7m40s_Caminhão atropela motociclista e atinge estabelecimento comercial em SP",
       "Dmd5silnbc4 | [VIDEO]_24/11/26_14:50_RECORDCABOVERDE_3m51s_Polícia evacua prédio comercial por suspeita de bomba na Vila Olímpia,zona",
       "Td5r1vb3ADY | [VIDEO]_24/11/26_14:45_RECORDCABOVERDE_2m30s_Bolsonaro segue internado com obstrução intestinal e sem previsão de alta",
       "3vQPSggg1hk | [VIDEO]_24/11/26_14:30_RECORDCABOVERDE_40m54s_A FAZENDA: Veja integra da Formação da Roça 23.11 - Serginho,Fran,Renata e",
       "7Oq4AUVTxKc | [VIDEO]_24/11/26_14:25_RECORDCABOVERDE_3m01s_A FAZENDA: Thaíde veta Serginho da Prova do Fazendeiro e define disputa pel",
       "yCF3ADVbZQg | [VIDEO]_24/11/26_14:20_RECORDCABOVERDE_3m53s_A FAZENDA: Ex aliadas declaradas! Fran puxa Renata da Baia para a Roça",
+      "XVUJ9YM1p44 | [VIDEO]_24/11/26_14:55_RECORDCABOVERDE_7m40s_Caminhão atropela motociclista e atinge estabelecimento comercial em SP",
       "WS-4DP0z2bs | [VIDEO]_24/11/26_14:10_RECORDCABOVERDE_8m23s_A FAZENDA: Mayk e Alfredo detonam Fran,e influenciador debocha ‘Lágrimas de",
       "Inv-gXBSovE | [VIDEO]_24/11/26_14:00_RECORDCABOVERDE_13m02s_A FAZENDA: Ariela confronta Fran na votação e dispara ‘Vou votar em você at",
       "G3RKotFo_u8 | [VIDEO]_24/11/26_13:50_RECORDCABOVERDE_10m30s_A FAZENDA: Serginho vota em Maíra e peoa rebate ‘Na hora do voto escorrega",
