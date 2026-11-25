@@ -707,6 +707,8 @@
     "numero": "11",
     "rem": "CBN BRASIL",
     "videoIds": [
+      "HSGZPHgFJ68",
+      "Ymk6K0_Wv9c",
       "B9H4dOd5140",
       "CuoEv6gpeIk",
       "me3KtnR30sk",
@@ -734,13 +736,13 @@
       "douujSeVp-4",
       "ydYbwuHX4g0",
       "dn79b6tHVOc",
-      "NOrwvu4CcPw",
-      "UAI3jds9DQs",
-      "mSUmyMZwpPo"
+      "NOrwvu4CcPw"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "HSGZPHgFJ68 | 25/11/26_19:32_CBNBRASIL_3m02s",
+      "Ymk6K0_Wv9c | 25/11/26_19:23_CBNBRASIL_21m35s",
       "B9H4dOd5140 | 25/11/26_19:15_CBNBRASIL_2m00s",
       "CuoEv6gpeIk | 25/11/26_19:14_CBNBRASIL_2m10s",
       "me3KtnR30sk | 25/11/26_19:08_CBNBRASIL_2m38s",
@@ -768,9 +770,7 @@
       "douujSeVp-4 | 25/11/26_14:13_RÁDIOCBN_5m51s",
       "ydYbwuHX4g0 | 25/11/26_13:56_RÁDIOCBN_4m38s",
       "dn79b6tHVOc | 25/11/26_13:32_RÁDIOCBN_2m58s",
-      "NOrwvu4CcPw | 25/11/26_12:57_RÁDIOCBN_6m41s",
-      "UAI3jds9DQs | 25/11/26_12:57_RÁDIOCBN_9m58s",
-      "mSUmyMZwpPo | 25/11/26_12:43_RÁDIOCBN_4m45s"
+      "NOrwvu4CcPw | 25/11/26_12:57_RÁDIOCBN_6m41s"
     ]
   },
   {
@@ -778,6 +778,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "Y84t5akDPrw",
+      "WN0SRSHMnw8",
       "_AHSX9F7Nlw",
       "AsuwIAP--kM",
       "VXUV5KwSCjo",
@@ -805,13 +806,13 @@
       "q9sKkOEqYEo",
       "L7WW8uZBWt8",
       "sgF-g8Y0Yho",
-      "rGOrT608E1c",
-      "gBWsd3qudKs"
+      "rGOrT608E1c"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "Y84t5akDPrw | ((LIVE))_25/11/26_17:38_REVISTAOESTE",
+      "WN0SRSHMnw8 | 25/11/26_19:26_REVISTAOESTE_11m10s",
       "_AHSX9F7Nlw | 25/11/26_18:59_REVISTAOESTE_8m17s",
       "AsuwIAP--kM | 25/11/26_18:43_REVISTAOESTE_8m28s",
       "VXUV5KwSCjo | 25/11/26_18:38_REVISTAOESTE_15m14s",
@@ -839,14 +840,14 @@
       "q9sKkOEqYEo | 25/11/26_11:35_REVISTAOESTE_15m42s",
       "L7WW8uZBWt8 | 25/11/26_11:10_REVISTAOESTE_13m53s",
       "sgF-g8Y0Yho | 25/11/26_11:00_REVISTAOESTE_12m50s",
-      "rGOrT608E1c | 25/11/26_09:05_REVISTAOESTE_5m43s",
-      "gBWsd3qudKs | 24/11/26_22:30_REVISTAOESTE_12m15s"
+      "rGOrT608E1c | 25/11/26_09:05_REVISTAOESTE_5m43s"
     ]
   },
   {
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
+      "MaC8OPK2U2c",
       "WCRv7I3blvM",
       "uuUkYiEzNGE",
       "7DaQ4wFJG8U",
@@ -875,12 +876,12 @@
       "oBEvEpmg5tE",
       "DRgSYxuivEc",
       "xXUlYLIH-VY",
-      "ETLCbMG77aM",
-      "8tKga56ymms"
+      "ETLCbMG77aM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "MaC8OPK2U2c | 25/11/26_19:25_METRÓPOLES_10m49s",
       "WCRv7I3blvM | 25/11/26_19:18_METRÓPOLES_2m48s",
       "uuUkYiEzNGE | 25/11/26_18:27_METRÓPOLES_18m49s",
       "7DaQ4wFJG8U | 25/11/26_18:24_METRÓPOLES_2m08s",
@@ -909,8 +910,7 @@
       "oBEvEpmg5tE | 25/11/26_09:56_METRÓPOLES_6m30s",
       "DRgSYxuivEc | 25/11/26_09:43_METRÓPOLES_9m47s",
       "xXUlYLIH-VY | 25/11/26_09:32_METRÓPOLES_15m08s",
-      "ETLCbMG77aM | 25/11/26_09:16_METRÓPOLES_7m28s",
-      "8tKga56ymms | 25/11/26_09:15_METRÓPOLES_5m20s"
+      "ETLCbMG77aM | 25/11/26_09:16_METRÓPOLES_7m28s"
     ]
   },
   {
@@ -2101,6 +2101,7 @@
     "numero": "110",
     "rem": "SBT PROGRAMAS",
     "videoIds": [
+      "W3j1SvoVfZo",
       "MyDsvjBU5Mc",
       "G8bW8BXzbJs",
       "Yqbx4OdyOOM",
@@ -2129,12 +2130,12 @@
       "dZkT7gVFYbU",
       "xqZvYvnL_Lo",
       "NUNevsCtX8E",
-      "ZyOZI8G8gmE",
-      "T7uinsWI3uo"
+      "ZyOZI8G8gmE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "W3j1SvoVfZo | 25/11/26_19:26_FOFOCALIZANDO_31m06s",
       "MyDsvjBU5Mc | 25/11/26_14:33_THENOITECOMDANILOGENTILI_43m52s",
       "G8bW8BXzbJs | 25/11/26_14:00_SBT_10m18s",
       "Yqbx4OdyOOM | 24/11/26_18:34_FOFOCALIZANDO_15m18s",
@@ -2163,8 +2164,7 @@
       "dZkT7gVFYbU | 18/11/26_18:15_FOFOCALIZANDO_38m13s",
       "xqZvYvnL_Lo | 18/11/26_14:30_THENOITECOMDANILOGENTILI_17m40s",
       "NUNevsCtX8E | 18/11/26_14:00_THENOITECOMDANILOGENTILI_29m31s",
-      "ZyOZI8G8gmE | 17/11/26_22:24_PROGRAMADORATINHO_47m34s",
-      "T7uinsWI3uo | 17/11/26_19:03_FOFOCALIZANDO_40m28s"
+      "ZyOZI8G8gmE | 17/11/26_22:24_PROGRAMADORATINHO_47m34s"
     ]
   },
   {
