@@ -1042,6 +1042,7 @@
     "rem": "CAZÉTV",
     "videoIds": [
       "Bia_vQfRnl4",
+      "vcTmbz-BqDA",
       "A-8w51lGhHs",
       "T05LK5enrhE",
       "dv9trv324h0",
@@ -1069,13 +1070,13 @@
       "PkCcwhdRQH8",
       "wW-b81V0hWM",
       "FwTZ0iBfA7U",
-      "T50X_k-RVzI",
-      "ewLYI4emD2Y"
+      "T50X_k-RVzI"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "Bia_vQfRnl4 | ((LIVE))_25/11/26_11:40_CAZÉTV",
+      "vcTmbz-BqDA | 25/11/26_19:17_CAZÉTV_15m14s",
       "A-8w51lGhHs | 25/11/26_15:18_CAZÉTV_8m15s",
       "T05LK5enrhE | 25/11/26_12:42_CAZÉTV_5m46s",
       "dv9trv324h0 | 25/11/26_15:35_CAZÉTV_10m13s",
@@ -1103,14 +1104,14 @@
       "PkCcwhdRQH8 | 22/11/26_19:28_CAZÉTV_6m13s",
       "wW-b81V0hWM | 22/11/26_19:12_CAZÉTV_8m28s",
       "FwTZ0iBfA7U | 22/11/26_16:37_CAZÉTV_4m55s",
-      "T50X_k-RVzI | 22/11/26_15:42_CAZÉTV_5m10s",
-      "ewLYI4emD2Y | 22/11/26_14:19_CAZÉTV_8m26s"
+      "T50X_k-RVzI | 22/11/26_15:42_CAZÉTV_5m10s"
     ]
   },
   {
     "numero": "31",
     "rem": "GeTV",
     "videoIds": [
+      "5OYOyYcVOCE",
       "OhGBuxnWh6c",
       "bZ9PESPG8BY",
       "ZyGuwdtIkeY",
@@ -1144,6 +1145,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "5OYOyYcVOCE | ((LIVE))_25/11/26_19:01_GETV",
       "OhGBuxnWh6c | ((LIVE))_25/11/26_18:45_GETV",
       "bZ9PESPG8BY | 25/11/26_13:19_GETV_6m59s",
       "ZyGuwdtIkeY | 25/11/26_00:03_GETV_9m50s",
@@ -1180,6 +1182,8 @@
     "rem": "TNT SPORTS",
     "videoIds": [
       "-kQm1j_Tni4",
+      "xU1jiH3KsK0",
+      "LIaBvF4pALk",
       "SJkrsQVsrIw",
       "pWihlJZq8fQ",
       "U_jdzVNONTk",
@@ -1206,14 +1210,14 @@
       "f92j3fB98SU",
       "35ILaJdja4E",
       "14xRr_VgK40",
-      "it8PFMHf3i8",
-      "BkQ4wiHsA34",
-      "i9H7ubLXKlo"
+      "it8PFMHf3i8"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "-kQm1j_Tni4 | ((LIVE))_25/11/26_15:45_TNTSPORTSBRASIL",
+      "xU1jiH3KsK0 | 25/11/26_19:19_TNTSPORTSBRASIL_6m08s",
+      "LIaBvF4pALk | 25/11/26_19:15_TNTSPORTSBRASIL_6m33s",
       "SJkrsQVsrIw | 25/11/26_19:14_TNTSPORTSBRASIL_6m15s",
       "pWihlJZq8fQ | 25/11/26_19:09_TNTSPORTSBRASIL_6m20s",
       "U_jdzVNONTk | 25/11/26_19:09_TNTSPORTSBRASIL_5m32s",
@@ -1240,9 +1244,7 @@
       "f92j3fB98SU | 19/11/26_11:00_TNTSPORTSBRASIL_23m06s",
       "35ILaJdja4E | 22/11/26_18:20_TNTSPORTSBRASIL_4m49s",
       "14xRr_VgK40 | 21/11/26_19:33_TNTSPORTSBRASIL_22m18s",
-      "it8PFMHf3i8 | 21/11/26_18:31_TNTSPORTSBRASIL_3m04s",
-      "BkQ4wiHsA34 | 22/11/26_20:34_TNTSPORTSBRASIL_3m03s",
-      "i9H7ubLXKlo | 21/11/26_13:04_TNTSPORTSBRASIL_3m12s"
+      "it8PFMHf3i8 | 21/11/26_18:31_TNTSPORTSBRASIL_3m04s"
     ]
   },
   {
