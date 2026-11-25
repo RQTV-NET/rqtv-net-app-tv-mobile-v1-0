@@ -148,12 +148,12 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "-3WbyOI3nfg",
-      "jFzIGRlg9X0",
       "-oN9JhGpzxg",
       "jUjxUTk6dIM",
       "CVPv33wy3wc",
       "sOuzDQbCCQo",
       "bMqbpKqWKnU",
+      "jFzIGRlg9X0",
       "wMLQy7XEY60",
       "klkUJGJELx8",
       "VjFkFxFFumM",
@@ -182,12 +182,12 @@
     "playlistId": "",
     "carimbos": [
       "-3WbyOI3nfg | ((LIVE))_25/11/26_10:50_SBTNEWS_🔴 AO VIVO: RADAR NEWS, com Roberta Russo   25/11/2026",
-      "jFzIGRlg9X0 | [VIDEO]_25/11/26_11:05_SBTJORNALISMO_2m54s_SP: novas imagens mostram momento em que cabine de caminhão cai no Rio Tiet",
       "-oN9JhGpzxg | [VIDEO]_25/11/26_10:51_SBTNEWS_3m46s_São Paulo inicia vacinação contra mpox; saiba quem pode receber   #NewsManh",
       "jUjxUTk6dIM | [VIDEO]_25/11/26_10:28_SBTNEWS_5m55s_Corinthians pode superar a crise financeira? Especialista em finanças do es",
       "CVPv33wy3wc | [VIDEO]_25/11/26_10:12_SBTNEWS_4m12s_Justiça restabelece regras do vale-alimentação e refeição   #NewsManhã",
       "sOuzDQbCCQo | [VIDEO]_25/11/26_10:10_SBTJORNALISMO_3m02s_Ataques com pedras e pichações assustam moradores no litoral de SP   #Prime",
       "bMqbpKqWKnU | [VIDEO]_25/11/26_11:08_SBTNEWS_14m55s_EUA propõem novas tarifas ao Brasil, incluindo taxa de 10% sobre aeronaves",
+      "jFzIGRlg9X0 | [VIDEO]_25/11/26_11:05_SBTJORNALISMO_2m54s_SP: novas imagens mostram momento em que cabine de caminhão cai no Rio Tiet",
       "wMLQy7XEY60 | [VIDEO]_25/11/26_10:08_SBTJORNALISMO_4m47s_Passageira recusa pagar mototaxista, o acusa de assédio, mas volta atrás",
       "klkUJGJELx8 | [VIDEO]_25/11/26_10:06_SBTJORNALISMO_2m12s_Idoso sobrevive após cair em poço de 15 metros e ser resgatado pelos bombei",
       "VjFkFxFFumM | [VIDEO]_25/11/26_09:59_SBTJORNALISMO_3m06s_Vazamento de gás pode ter causado explosão em farmácia de PE; mulher morreu",
@@ -217,8 +217,9 @@
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
-      "jWnxEvckysI",
       "13x8jeVrTn8",
+      "Xsw-V10exAw",
+      "i4mTVZAeIBw",
       "I0r6rwqklio",
       "suk93305wrs",
       "rphDHHIT7GA",
@@ -245,14 +246,14 @@
       "LzoVAFRUQFU",
       "I4GsM7Ni3zk",
       "oFGrPl1Mq-E",
-      "0HnfIXnDR7s",
-      "TMXwOArZeQs"
+      "0HnfIXnDR7s"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "jWnxEvckysI | ((LIVE))_25/11/26_12:00_CNNBRASIL_Caso Master terá desfecho ainda em 2026? Entenda os desdobramentos   CNN BR",
       "13x8jeVrTn8 | ((LIVE))_25/11/26_11:51_CNNBRASIL_AO VIVO: LULA PLANEJA DEBATER JUROS ALTOS COM EMPRESÁRIOS    BASTIDORES CNN",
+      "Xsw-V10exAw | [VIDEO]_25/11/26_12:19_CNNBRASIL_7m16s_\"222 vítimas e 61 infratores. São, pelo menos, 4 vítimas por infrator\", diz",
+      "i4mTVZAeIBw | [VIDEO]_25/11/26_12:16_CNNBRASIL_5m58s_Lula ouve empresários em busca de solução para juros altos   BASTIDORES CNN",
       "I0r6rwqklio | [VIDEO]_25/11/26_12:02_CNNBRASIL_3m42s_EUA propõem novas tarifas sobre 14 parceiros e cita questão industrial   CN",
       "suk93305wrs | [VIDEO]_25/11/26_11:38_CNNBRASIL_2m51s_Campanha de vacinação contra Mpox se inicia nesta quarta (25)   LIVE CNN",
       "rphDHHIT7GA | [VIDEO]_25/11/26_11:38_CNNBRASIL_3m49s_Após impeachment de Peña, Mauro Vieira se reúne com chanceler do Paraguai  ",
@@ -279,8 +280,7 @@
       "LzoVAFRUQFU | [VIDEO]_25/11/26_08:58_CNNBRASIL_5m15s_Pinheiros é o bairro com mais roubos de celulares em São Paulo   CNN NOVO D",
       "I4GsM7Ni3zk | [VIDEO]_25/11/26_08:15_CNNBRASIL_3m27s_Polícia prende 112 foragidos em megaoperação no Rio de Janeiro   CNN NOVO D",
       "oFGrPl1Mq-E | [VIDEO]_25/11/26_08:09_CNNBRASIL_3m56s_Bolsonaro tem melhora, mas segue sem previsão de alta   CNN NOVO DIA",
-      "0HnfIXnDR7s | [VIDEO]_25/11/26_07:22_CNNBRASIL_5m20s_São Paulo entra em alerta para tempestades nesta quarta-feira (25)   CNN NO",
-      "TMXwOArZeQs | [VIDEO]_25/11/26_07:08_CNNBRASIL_4m57s_Polícia liberta todos os reféns após invasão a supermercado na Colômbia   C"
+      "0HnfIXnDR7s | [VIDEO]_25/11/26_07:22_CNNBRASIL_5m20s_São Paulo entra em alerta para tempestades nesta quarta-feira (25)   CNN NO"
     ]
   },
   {
@@ -288,6 +288,9 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "LiWumAdnCkg",
+      "nzGto14haF8",
+      "N-LiuIjNTVA",
+      "ctZchy5lcP8",
       "e7-fC6JXYdw",
       "610LySeC6BI",
       "hXFzMeflm0w",
@@ -313,13 +316,15 @@
       "75ggfREhWo8",
       "uXXOgdP6ub4",
       "88jVsZuIYSs",
-      "sbTZDWV8a5o",
-      "tqf-J0EaSJc"
+      "sbTZDWV8a5o"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "LiWumAdnCkg | ((LIVE))_25/11/26_10:50_CNNMONEY_AO VIVO: MONEY NEWS I - 25/11/2026   CNN MONEY",
+      "nzGto14haF8 | [VIDEO]_25/11/26_12:28_CNNMONEY_8m05s_Além do fiscal, há pressão sazonal no dólar, diz economista sobre o câmbio ",
+      "N-LiuIjNTVA | [VIDEO]_25/11/26_12:22_CNNMONEY_8m54s_Queda do preços das ações da Anthropic é inerente de empresas pós IPO, diz ",
+      "ctZchy5lcP8 | [VIDEO]_25/11/26_12:22_CNNMONEY_8m51s_Varejo fica estável em outubro, mas perde fôlego, diz Stone   ABERTURA DE M",
       "e7-fC6JXYdw | [VIDEO]_25/11/26_10:38_CNNMONEY_10m26s_Boatos sobre planos do Lula 4 preocupam mercado, diz especialista   ABERTUR",
       "610LySeC6BI | [VIDEO]_25/11/26_09:05_CNNMONEY_2m20s_VR e VA: Justiça suspende decisão que dispensava adoção das novas regras   ",
       "hXFzMeflm0w | [VIDEO]_25/11/26_09:00_CNNMONEY_9m55s_BDM: Lula define hoje alcance da PEC fiscal   MORNING CALL",
@@ -345,8 +350,7 @@
       "75ggfREhWo8 | [VIDEO]_23/11/26_13:04_CNNMONEY_8m02s_Governo anuncia R$ 1,7 bilhão para enfrentar El Niño   CNN AGRO NEWS",
       "uXXOgdP6ub4 | [VIDEO]_23/11/26_12:30_CNNMONEY_2m53s_Expansão dos data centers pressiona infraestrutura do setor elétrico   CNN",
       "88jVsZuIYSs | [VIDEO]_23/11/26_12:29_CNNMONEY_7m58s_Brasil tem diversificado exportações de soja, diz especialista   MONEY NEWS",
-      "sbTZDWV8a5o | [VIDEO]_23/11/26_12:21_CNNMONEY_11m29s_Brasil tem risco extra entre emergentes, diz especialista   MONEY NEWS",
-      "tqf-J0EaSJc | [VIDEO]_23/11/26_11:27_CNNMONEY_6m50s_Nvidia anuncia retorno de Jensen Huang ao cargo de CEO   MONEY NEWS"
+      "sbTZDWV8a5o | [VIDEO]_23/11/26_12:21_CNNMONEY_11m29s_Brasil tem risco extra entre emergentes, diz especialista   MONEY NEWS"
     ]
   },
   {
@@ -390,7 +394,7 @@
       "_zqycBS5tT8 | [VIDEO]_24/11/26_20:15_OSPINGOSNOSIS_12m51s_Relatório da PF sobre Moraes não consta 47 mensagens trocadas com Vorcaro",
       "prL1seW_eek | [VIDEO]_24/11/26_20:04_OSPINGOSNOSIS_4m26s_PT indicará 83% dos ministros dos tribunais superiores",
       "upGflOSNYKY | [VIDEO]_24/11/26_20:03_OSPINGOSNOSIS_14m10s_Ministro do Trabalho Luiz Marinho critica reclamações contra o fim da 6x1",
-      "RLnfc2oFbRQ | [VIDEO]_24/11/26_20:00_OSPINGOSNOSIS_11m23s_Lindbergh Farias se absteve na votação do Ajuste Fiscal, Gianturco e Motta ",
+      "RLnfc2oFbRQ | [VIDEO]_24/11/26_20:00_OSPINGOSNOSIS_11m23s_Lindbergh Farias se absteve na votação do Ajuste Fiscal, Gianturco e Motta",
       "wZ9ie1MoG1c | [VIDEO]_24/11/26_19:09_OSPINGOSNOSIS_11m38s_Segunda parte do Ajuste Fiscal opõe alas do governo",
       "N_3_sowZ_RU | [VIDEO]_24/11/26_18:42_OSPINGOSNOSIS_7m16s_Deputados da oposição criticam Ajuste Fiscal aprovado pela Câmara",
       "2z2JVGKh2WE | [VIDEO]_24/11/26_18:28_OSPINGOSNOSIS_2m48s_Existe um ajuste fiscal de verdade? Adriano Gianturco avalia",
@@ -404,7 +408,7 @@
       "uj9adHucDsY | [VIDEO]_23/11/26_18:44_OSPINGOSNOSIS_6m13s_Câmara começa a analisar pacote do ajuste fiscal, Musa comenta",
       "W6O6SOJO1II | [VIDEO]_23/11/26_18:31_OSPINGOSNOSIS_4m50s_Michelle diz que exame de Jair Bolsonaro foi “Muito Positivo”",
       "wfoWC5IMM3k | [VIDEO]_23/11/26_18:30_OSPINGOSNOSIS_6m21s_Gilmar Mendes avalia que falta autocontenção na Suprema Corte",
-      "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta ",
+      "-cBqBbLLDRc | [VIDEO]_20/11/26_19:54_OSPINGOSNOSIS_19m43s_Fim da escala 6x1 pode encarecer bares e restaurantes; Abrasel estima alta",
       "q7JnILtbuFs | [VIDEO]_20/11/26_19:28_OSPINGOSNOSIS_20m00s_Líder do PT retira projeto que poderia taxar MEIs",
       "UXvhy4XtV8c | [VIDEO]_20/11/26_19:10_OSPINGOSNOSIS_9m28s_Moraes vê fuga de Flávio Bolsonaro como tentativa de obstrução, diz site",
       "hD6HBcKKJro | [VIDEO]_20/11/26_18:32_OSPINGOSNOSIS_6m46s_Após pedido de destaque de Zanin julgamento de Marcel van Hattem será prese",
@@ -494,12 +498,12 @@
     "rem": "BAND JORNALISMO",
     "videoIds": [
       "i7V0B3-1UEQ",
-      "jDaKqCwgPWo",
       "KmNzMjhE9sA",
       "B5mWvrfHY_8",
       "AjgM0gXnHDI",
       "RS8ZtVE5C6k",
       "vPME5o7vvUI",
+      "jDaKqCwgPWo",
       "4x8ItJgU_3g",
       "d9kg2QcoCWE",
       "-tlzFytAb1c",
@@ -528,12 +532,12 @@
     "playlistId": "",
     "carimbos": [
       "i7V0B3-1UEQ | ((LIVE))_25/11/26_12:06_BANDJORNALISMO_EUA propõem novas tarifas contra o Brasil   BandNews TV",
-      "jDaKqCwgPWo | [VIDEO]_25/11/26_10:19_BANDJORNALISMO_2m16s_Produção de camarão cresce mais de 50% em quatro anos no Brasil   Agro Band",
       "KmNzMjhE9sA | [VIDEO]_25/11/26_10:17_BANDJORNALISMO_2m07s_El ninho forte pode reduzir produção de soja em até 10% no Brasil   Agro Ba",
       "B5mWvrfHY_8 | [VIDEO]_25/11/26_10:14_BANDJORNALISMO_14m32s_Lula planeja escolha de substituto de Barroso no STF   BandNews TV",
       "AjgM0gXnHDI | [VIDEO]_25/11/26_10:10_BANDJORNALISMO_2m13s_Cabine de carreta cai no Rio Tietê após colisão; bombeiros buscam motorista",
       "RS8ZtVE5C6k | [VIDEO]_25/11/26_10:46_BANDJORNALISMO_3m42s_Chuva provoca alagamentos e deixa famílias desalojadas em Sumaré, SP   Bora",
       "vPME5o7vvUI | [VIDEO]_25/11/26_10:38_BANDJORNALISMO_2m04s_Colômbia enfrenta onda de violência com sequestro e explosões   Bora Brasil",
+      "jDaKqCwgPWo | [VIDEO]_25/11/26_10:19_BANDJORNALISMO_2m16s_Produção de camarão cresce mais de 50% em quatro anos no Brasil   Agro Band",
       "4x8ItJgU_3g | [VIDEO]_25/11/26_10:04_BANDJORNALISMO_10m06s_Jornal Gente conversa com médico que salvou idoso em enchente   BandNews TV",
       "d9kg2QcoCWE | [VIDEO]_25/11/26_09:47_BANDJORNALISMO_2m03s_Manaus tem segundo dia seguido com pior qualidade do ar do país   Bora Bras",
       "-tlzFytAb1c | [VIDEO]_25/11/26_09:47_BANDJORNALISMO_3m06s_Lula sanciona pacote econômico e prepara novas medidas fiscais   Agro Band",
@@ -634,6 +638,10 @@
     "rem": "TV CULTURA",
     "videoIds": [
       "eo3aUfM54WQ",
+      "-RR7CcLgtyw",
+      "iblRHNOF_Qs",
+      "cDahbzNiVBA",
+      "1GgxPnH0Yd8",
       "BCZ2Efl7VpI",
       "VMlcr2oJStc",
       "KYZhCz1vLaY",
@@ -658,16 +666,16 @@
       "CvoazgrLR1g",
       "b_TaKuQk9TQ",
       "Z39I6hIkLMA",
-      "66K1WCeO6iM",
-      "Zp3bL8_zdno",
-      "3olTmS23m9I",
-      "rxVcr_48nPA",
-      "mVq4TfwSQTs"
+      "66K1WCeO6iM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "eo3aUfM54WQ | ((LIVE))_25/11/26_11:58_TVCULTURAPROGRAMAS_JORNAL DA TARDE   Décimo terceiro deve injetar R$ 399 bilhões na economia  ",
+      "-RR7CcLgtyw | [VIDEO]_25/11/26_12:25_TVCULTURAPROGRAMAS_2m04s_Temporais deixam mortos no Paraná e no Rio Grande do Sul",
+      "iblRHNOF_Qs | [VIDEO]_25/11/26_12:23_TVCULTURAPROGRAMAS_3m19s_Preço da carne bovina sobe 12% em um ano no Brasil",
+      "cDahbzNiVBA | [VIDEO]_25/11/26_12:19_TVCULTURAPROGRAMAS_3m01s_Décimo terceiro deve injetar R$ 399 bilhões na economia",
+      "1GgxPnH0Yd8 | [VIDEO]_25/11/26_12:17_TVCULTURAPROGRAMAS_3m57s_Falta de estrutura dificulta cirurgias ortopédicas pelo SUS",
       "BCZ2Efl7VpI | [VIDEO]_24/11/26_23:26_TVCULTURAPROGRAMAS_6m07s_Brasil registra um caso de feminicídio a cada cinco horas",
       "VMlcr2oJStc | [VIDEO]_24/11/26_23:21_TVCULTURAPROGRAMAS_6m07s_Equipe econômica de Lula estuda segundo pacote de ajuste fiscal",
       "KYZhCz1vLaY | [VIDEO]_24/11/26_23:15_TVCULTURAPROGRAMAS_3m45s_Presidente Lula participa de enterro do jurista Fábio Konder Comparato",
@@ -692,11 +700,7 @@
       "CvoazgrLR1g | [VIDEO]_19/11/26_10:00_TVCULTURAJORNALISMO_8m35s_Conceição Evaristo defende indicação de mulher negra ao STF",
       "b_TaKuQk9TQ | [VIDEO]_23/11/26_12:51_TVCULTURAPROGRAMAS_3m12s_COP31 termina sem consenso e mais de 130 países rejeitam texto",
       "Z39I6hIkLMA | [VIDEO]_23/11/26_12:40_TVCULTURAPROGRAMAS_3m54s_Movimentos defendem indicação de ministra negra ao STF",
-      "66K1WCeO6iM | [VIDEO]_23/11/26_12:32_TVCULTURAPROGRAMAS_3m38s_Brasil é o 3º país mais exposto a tentativas de golpes",
-      "Zp3bL8_zdno | [VIDEO]_23/11/26_12:23_TVCULTURAPROGRAMAS_3m43s_Trânsito de São Paulo mata 867 pessoas em dez meses",
-      "3olTmS23m9I | [VIDEO]_23/11/26_12:13_TVCULTURAPROGRAMAS_4m00s_OMS alerta para sedentarismo entre adolescentes no mundo",
-      "rxVcr_48nPA | [VIDEO]_23/11/26_20:30_TVCULTURAPROGRAMAS_14m08s_Linhas Cruzadas   Até onde vai os limites da autonomia da IA",
-      "mVq4TfwSQTs | [VIDEO]_21/11/26_22:24_TVCULTURAPROGRAMAS_3m18s_Narcotraficante procurado pelo FBI é preso em operação no México"
+      "66K1WCeO6iM | [VIDEO]_23/11/26_12:32_TVCULTURAPROGRAMAS_3m38s_Brasil é o 3º país mais exposto a tentativas de golpes"
     ]
   },
   {
@@ -763,7 +767,7 @@
       "tXITZUX6gsM | [VIDEO]_24/11/26_22:10_CBNBRASIL_9m19s_Oyama: Lula parece usar Messias para tirar Pacheco da jogada no STF e evita",
       "1a976f5I0RA | [VIDEO]_24/11/26_22:03_CBNBRASIL_3m25s_Felipe Nunes aponta o segredo da nova democracia: 'A grande agenda é que ju",
       "PH7K0AW6Gr8 | [VIDEO]_24/11/26_21:50_CBNBRASIL_7m14s_Felipe Nunes: Trava dos evangélicos dificulta diálogo de Lula, que tem de t",
-      "nbAmendyNjk | [VIDEO]_24/11/26_21:45_CBNBRASIL_9m40s_Thaís Oyama: Se Lula mexer nas vacas sagradas do orçamento, esquerda do PT ",
+      "nbAmendyNjk | [VIDEO]_24/11/26_21:45_CBNBRASIL_9m40s_Thaís Oyama: Se Lula mexer nas vacas sagradas do orçamento, esquerda do PT",
       "mgUwGZWiDIs | [VIDEO]_24/11/26_21:37_CBNBRASIL_11m51s_Felipe Nunes: Movimento de liberais e progressistas deu vitória a Lula sobr"
     ]
   },
@@ -772,6 +776,7 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "xt_AerZpJJo",
+      "IIQdOtF_Xwk",
       "9gfFpqTXIss",
       "vrLy_N-DvA8",
       "0-4yP2FdZO8",
@@ -799,13 +804,13 @@
       "qZIauF98kO4",
       "BjrQklQ5m_M",
       "j6rKjn6bTIk",
-      "owW-mpfe5yg",
-      "XZMZpIEvuR0"
+      "owW-mpfe5yg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "xt_AerZpJJo | ((LIVE))_25/11/26_11:52_REVISTAOESTE_ESPORTE SEM FIRULA   25/11/2026",
+      "IIQdOtF_Xwk | [VIDEO]_25/11/26_12:25_REVISTAOESTE_7m58s_Ajuste fiscal e impostos pressionam preços, diz Alexandre Bertoncello",
       "9gfFpqTXIss | [VIDEO]_25/11/26_12:15_REVISTAOESTE_9m13s_PF pede devolução da minuta do golpe na condenação de Bolsonaro",
       "vrLy_N-DvA8 | [VIDEO]_25/11/26_12:05_REVISTAOESTE_7m35s_Escala 6x1 e Correios: críticas à fala de Luiz Marinho sobre comércio e apl",
       "0-4yP2FdZO8 | [VIDEO]_25/11/26_11:55_REVISTAOESTE_7m24s_Senado aprova ajuste fiscal que reduz recursos obrigatórios para saúde até ",
@@ -833,8 +838,7 @@
       "qZIauF98kO4 | [VIDEO]_24/11/26_17:25_REVISTAOESTE_13m58s_Moraes se declara suspeito em ação sobre Brumadinho",
       "BjrQklQ5m_M | [VIDEO]_24/11/26_17:10_REVISTAOESTE_13m26s_PF omitiu mensagens de Vorcaro para Alexandre de Moraes em relatório",
       "j6rKjn6bTIk | [VIDEO]_24/11/26_16:55_REVISTAOESTE_9m41s_Lula insiste em indicar Jorge Messias ao STF, diz bancada",
-      "owW-mpfe5yg | [VIDEO]_24/11/26_16:44_REVISTAOESTE_16m47s_Câmara aprova ajuste fiscal do governo Lula e envia para sanção",
-      "XZMZpIEvuR0 | [VIDEO]_24/11/26_14:25_REVISTAOESTE_26m22s_Procurador Felipe Gimenez denuncia títulos de mesários em municípios distan"
+      "owW-mpfe5yg | [VIDEO]_24/11/26_16:44_REVISTAOESTE_16m47s_Câmara aprova ajuste fiscal do governo Lula e envia para sanção"
     ]
   },
   {
@@ -936,8 +940,8 @@
     "rem": "TV SENADO",
     "videoIds": [
       "a0cEk4CO0qU",
-      "64CjfB9DP1c",
       "YE4oPGJS5z4",
+      "i__IaOESb3g",
       "0cgT7xRoBbA",
       "uydMAkIPt7Y",
       "p1YHX-b4L0Q",
@@ -960,8 +964,8 @@
     "playlistId": "",
     "carimbos": [
       "a0cEk4CO0qU | ((LIVE))_25/11/26_10:41_TVSENADO_Ao vivo: CDH analisa projeto contra relativização do estupro de vulnerável ",
-      "64CjfB9DP1c | ((LIVE))_25/11/26_09:03_TVSENADO_Ao vivo: CCJ analisa penas maiores para crimes sexuais e correção do Fundo ",
       "YE4oPGJS5z4 | ((LIVE))_25/11/26_08:03_TVSENADO_Ao vivo - TV Senado",
+      "i__IaOESb3g | [VIDEO]_25/11/26_12:23_TVSENADO_26m06s_Câncer de próstata pode ser detectado em hospitais e unidades da rede públi",
       "0cgT7xRoBbA | [VIDEO]_25/11/26_09:03_TVSENADO_3m01s_Agenda   Força Nacional do SUS, IA no currículo escolar e correção do FCDF",
       "uydMAkIPt7Y | [VIDEO]_25/11/26_01:30_TVSENADO_2m33s_Desafios para educação em comunidades quilombolas mobilizam comissão",
       "p1YHX-b4L0Q | [VIDEO]_25/11/26_01:23_TVSENADO_2m03s_Advocacia do Senado irá atuar em processo sobre defesa de prerrogativas par",
