@@ -1037,7 +1037,6 @@
     "numero": "30",
     "rem": "CAZÉTV",
     "videoIds": [
-      "Bia_vQfRnl4",
       "dYyicKzj82U",
       "vcTmbz-BqDA",
       "A-8w51lGhHs",
@@ -1071,7 +1070,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Bia_vQfRnl4 | ((LIVE))_25/11/26_11:40_CAZÉTV",
       "dYyicKzj82U | 25/11/26_20:05_CAZÉTV_15m14s",
       "vcTmbz-BqDA | 25/11/26_19:17_CAZÉTV_15m14s",
       "A-8w51lGhHs | 25/11/26_15:18_CAZÉTV_8m15s",
@@ -1371,12 +1369,12 @@
     "videoIds": [
       "PJZNG6psyMk",
       "yYwFVoUjTVU",
+      "sYFmtEIAtus",
+      "kQRzcAVmqzg",
       "XmhJVvfnluY",
       "nqrgvt7JWKQ",
       "zcMyZvNpp3s",
       "8_Z3LfFmnEU",
-      "sYFmtEIAtus",
-      "kQRzcAVmqzg",
       "uNOIN5FGQZ0",
       "NbjDWozX5Co",
       "NQa2bMIfqLI",
@@ -1397,19 +1395,20 @@
       "Xov_R8WK9y0",
       "gtnxxtPfrZQ",
       "wYg3k9iWYZ8",
-      "G78cnVf5KOk"
+      "G78cnVf5KOk",
+      "60Y5H7uIt_M"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "PJZNG6psyMk | 25/11/26_18:48_BANDESPORTES_7m35s",
       "yYwFVoUjTVU | 25/11/26_18:29_BANDESPORTES_4m51s",
-      "XmhJVvfnluY | 25/11/26_14:54_ESPORTENABAND_3m46s",
-      "nqrgvt7JWKQ | 25/11/26_14:15_ESPORTENABAND_4m36s",
+      "sYFmtEIAtus | 25/11/26_16:07_BANDESPORTES_5m50s",
+      "kQRzcAVmqzg | 25/11/26_15:02_BANDESPORTES_5m32s",
+      "XmhJVvfnluY | 25/11/26_14:54_BANDESPORTES_3m46s",
+      "nqrgvt7JWKQ | 25/11/26_14:15_BANDESPORTES_4m36s",
       "zcMyZvNpp3s | 25/11/26_13:59_JOGOABERTO_4m23s",
       "8_Z3LfFmnEU | 25/11/26_13:48_JOGOABERTO_7m58s",
-      "sYFmtEIAtus | 25/11/26_16:07_ESPORTENABAND_5m50s",
-      "kQRzcAVmqzg | 25/11/26_15:02_ESPORTENABAND_5m32s",
       "uNOIN5FGQZ0 | 25/11/26_13:39_JOGOABERTO_2m53s",
       "NbjDWozX5Co | 25/11/26_13:37_JOGOABERTO_2m57s",
       "NQa2bMIfqLI | 25/11/26_13:22_JOGOABERTO_9m59s",
@@ -1420,7 +1419,7 @@
       "_kP-ht4OxXA | 25/11/26_12:11_JOGOABERTO_9m48s",
       "TJeKkaohc6w | 25/11/26_12:10_JOGOABERTO_3m04s",
       "MgOmGtR2TIk | 25/11/26_11:55_JOGOABERTO_8m13s",
-      "fzgZFey7_1Y | 24/11/26_21:12_ESPORTENABAND_9m36s",
+      "fzgZFey7_1Y | 24/11/26_21:12_BANDESPORTES_9m36s",
       "6LTTG4DyhHk | 24/11/26_13:07_JOGOABERTO_4m05s",
       "sGBD00J6Huk | 24/11/26_12:54_JOGOABERTO_5m07s",
       "WU6ICHHVefA | 24/11/26_12:40_JOGOABERTO_2m27s",
@@ -1428,9 +1427,10 @@
       "S0UR9cHdhQQ | 24/11/26_12:21_JOGOABERTO_4m17s",
       "iXoqYoy3-Ig | 24/11/26_12:06_JOGOABERTO_3m03s",
       "Xov_R8WK9y0 | 24/11/26_11:56_JOGOABERTO_2m54s",
-      "gtnxxtPfrZQ | 24/11/26_01:22_ESPORTENABAND_2m10s",
-      "wYg3k9iWYZ8 | 24/11/26_01:17_ESPORTENABAND_3m35s",
-      "G78cnVf5KOk | 23/11/26_23:02_ESPORTENABAND_2m48s"
+      "gtnxxtPfrZQ | 24/11/26_01:22_BANDESPORTES_2m10s",
+      "wYg3k9iWYZ8 | 24/11/26_01:17_BANDESPORTES_3m35s",
+      "G78cnVf5KOk | 23/11/26_23:02_BANDESPORTES_2m48s",
+      "60Y5H7uIt_M | 23/11/26_21:53_BANDESPORTES_2m14s"
     ]
   },
   {
@@ -1567,6 +1567,7 @@
     "numero": "39",
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
+      "QxNSsn_Nqs4",
       "FoZoaimjYrQ",
       "R3UftzdAlx4",
       "L21yyePCIPk",
@@ -1595,12 +1596,12 @@
       "p57LFpO0N8o",
       "GO7uGHfbKTY",
       "TBv50rqA7TA",
-      "oVDFVpP0734",
-      "BQ5Eozg-_1s"
+      "oVDFVpP0734"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "QxNSsn_Nqs4 | ((LIVE))_25/11/26_20:02_LITORALNEWS",
       "FoZoaimjYrQ | ((LIVE))_25/11/26_19:30_LITORALNEWS",
       "R3UftzdAlx4 | 25/11/26_18:35_LITORALNEWS_11m55s",
       "L21yyePCIPk | 25/11/26_16:38_LITORALNEWS_3m34s",
@@ -1629,8 +1630,7 @@
       "p57LFpO0N8o | 19/11/26_21:11_DESIMPEDIDOS_22m15s",
       "GO7uGHfbKTY | 17/11/26_21:41_LITORALNEWS_20m19s",
       "TBv50rqA7TA | 17/11/26_11:51_LITORALNEWS_11m46s",
-      "oVDFVpP0734 | 16/11/26_12:35_LITORALNEWS_16m58s",
-      "BQ5Eozg-_1s | 16/11/26_07:40_LITORALNEWS_13m30s"
+      "oVDFVpP0734 | 16/11/26_12:35_LITORALNEWS_16m58s"
     ]
   },
   {
@@ -1827,7 +1827,6 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
-      "pR3vHB7CqrE",
       "pYO-yQOKkJg",
       "4lMj50XXJpI",
       "MoIZl4u2Vts",
@@ -1861,7 +1860,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "pR3vHB7CqrE | ((LIVE))_25/11/26_19:29_TECHCIÊNCIA1B",
       "pYO-yQOKkJg | 25/11/26_19:00_TECHCIÊNCIA1B_3m16s",
       "4lMj50XXJpI | 25/11/26_18:00_CANALTECH_9m34s",
       "MoIZl4u2Vts | 25/11/26_17:00_OLHARDIGITAL_4m24s",
