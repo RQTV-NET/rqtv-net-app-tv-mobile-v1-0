@@ -11,12 +11,12 @@
     "rem": "GLOBO: G1/GLOBONEWS",
     "videoIds": [
       "BvPcFJw3vog",
-      "JTvm9AWKwdo",
       "T4FrhN2h0EE",
       "o4Z_TfRYjUg",
       "Mt2zTSGuNho",
       "4Syt19ssxM8",
       "X49chBX_uz0",
+      "JTvm9AWKwdo",
       "cGzWmnNMQ_0",
       "N8k8jbAdJk4",
       "VMehBsYXoWQ",
@@ -44,12 +44,12 @@
     "playlistId": "",
     "carimbos": [
       "BvPcFJw3vog | ((LIVE))_25/11/26_11:29_G1(JORNALHOJE/MATÉRIAS)_Panda é entrevistado no g1 Ouviu ao vivo desta quarta-feira (25)",
-      "JTvm9AWKwdo | [VIDEO]_25/11/26_08:10_OASSUNTO_24m46s_Covid: o crescimento acelerado no número de casos   O Assunto",
       "T4FrhN2h0EE | [VIDEO]_25/11/26_07:36_G1(JORNALHOJE/MATÉRIAS)_2m05s_Dupla de estrangeiros é presa por suspeita de tráfico de bebês no Rio",
       "o4Z_TfRYjUg | [VIDEO]_25/11/26_07:15_G1(JORNALHOJE/MATÉRIAS)_4m17s_Black Friday 2026: os preços caem de verdade? Confira a evolução nos valore",
       "Mt2zTSGuNho | [VIDEO]_25/11/26_09:59_GLOBONEWS_5m53s_Câmara do Rio entrega medalhas a deputados do PL após pressão contra homena",
       "4Syt19ssxM8 | [VIDEO]_25/11/26_09:16_G1(JORNALHOJE/MATÉRIAS)_2m01s_Motorista está desaparecido após cabine de carreta cair no Rio Tietê na Cas",
       "X49chBX_uz0 | [VIDEO]_25/11/26_08:55_G1(JORNALHOJE/MATÉRIAS)_3m43s_Motorista desaparece após cabine de carreta cair no Rio Tietê, SP",
+      "JTvm9AWKwdo | [VIDEO]_25/11/26_08:10_OASSUNTO_24m46s_Covid: o crescimento acelerado no número de casos   O Assunto",
       "cGzWmnNMQ_0 | [VIDEO]_25/11/26_06:46_G1(JORNALHOJE/MATÉRIAS)_2m02s_ONU defende corredor humanitário no Mar Negro para garantir transporte de g",
       "N8k8jbAdJk4 | [VIDEO]_25/11/26_06:41_G1(JORNALHOJE/MATÉRIAS)_4m17s_Previsão do tempo: risco de temporais; calor em Aracaju",
       "VMehBsYXoWQ | [VIDEO]_25/11/26_06:13_JORNALDAGLOBO_3m36s_Julia Duailibi analisa novas medidas de ajuste fiscal do governo",
@@ -217,7 +217,7 @@
     "numero": "04",
     "rem": "CNN BRASIL",
     "videoIds": [
-      "GhyHvpePGGM",
+      "13x8jeVrTn8",
       "suk93305wrs",
       "rphDHHIT7GA",
       "nbfwMfoYvOk",
@@ -251,7 +251,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "GhyHvpePGGM | ((LIVE))_25/11/26_08:53_CNNBRASIL_AO VIVO: LULA E EQUIPE ECONÔMICA DEVEM TRATAR AJUSTE FISCAL   LIVE CNN",
+      "13x8jeVrTn8 | ((LIVE))_25/11/26_11:51_CNNBRASIL_AO VIVO: LULA PLANEJA DEBATER JUROS ALTOS COM EMPRESÁRIOS    BASTIDORES CNN",
       "suk93305wrs | [VIDEO]_25/11/26_11:38_CNNBRASIL_2m51s_Campanha de vacinação contra Mpox se inicia nesta quarta (25)   LIVE CNN",
       "rphDHHIT7GA | [VIDEO]_25/11/26_11:38_CNNBRASIL_3m49s_Após impeachment de Peña, Mauro Vieira se reúne com chanceler do Paraguai  ",
       "nbfwMfoYvOk | [VIDEO]_25/11/26_11:34_CNNBRASIL_4m04s_Mais de 10 mil faccionados foram presos no Nordeste   LIVE CNN",
@@ -260,7 +260,7 @@
       "RFABZIXXXXg | [VIDEO]_25/11/26_11:06_CNNBRASIL_4m05s_Lula reúne equipe para definir escopo do Ministério da Segurança   LIVE CNN",
       "E57qXpav_dE | [VIDEO]_25/11/26_10:55_CNNBRASIL_5m54s_Colômbia enfrenta escalada de violência 10 anos após acordo de paz; entenda",
       "d8qVFCa71RU | [VIDEO]_25/11/26_10:52_CNNBRASIL_4m15s_São Paulo tem novas regras para tráfego de helicópteros e aviões   LIVE CNN",
-      "LpB0m3yJcbE | [VIDEO]_25/11/26_10:47_CNNBRASIL_2m24s_EUA propõem novas tarifas sobre importações do Brasil, incluindo aeronaves ",
+      "LpB0m3yJcbE | [VIDEO]_25/11/26_10:47_CNNBRASIL_2m24s_EUA propõem novas tarifas sobre importações do Brasil, incluindo aeronaves",
       "2KdTABuBp1c | [VIDEO]_25/11/26_10:46_CNNBRASIL_8m32s_Motta e relator acertam votação do PL das big techs para 1º de dezembro   L",
       "OoLKkN3NBmw | [VIDEO]_25/11/26_10:43_CNNBRASIL_12m04s_Megadetonação de material explosivo preocupa moradores nos EUA   LIVE CNN",
       "V1fIfYnXDq0 | [VIDEO]_25/11/26_10:23_CNNBRASIL_9m20s_Como não cair em golpes durante a Black Friday? Veja as dicas do CanalTech",
@@ -353,7 +353,6 @@
     "numero": "06",
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
-      "uq5rIV7uduA",
       "6Tm2nusBQ9k",
       "h2Ysz7hOQ54",
       "_zqycBS5tT8",
@@ -387,7 +386,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "uq5rIV7uduA | ((LIVE))_25/11/26_09:57_JOVEMPANNEWS_MORNING SHOW - 25/11/2026",
       "6Tm2nusBQ9k | [VIDEO]_24/11/26_22:12_JOVEMPANNEWS_3m31s_Defesa Civil faz alerta de emergência para o leste de São Paulo",
       "h2Ysz7hOQ54 | [VIDEO]_24/11/26_22:03_JOVEMPANNEWS_4m26s_Inadimplência de empresas e famílias chega a R$ 371 bilhões",
       "_zqycBS5tT8 | [VIDEO]_24/11/26_20:15_OSPINGOSNOSIS_12m51s_Relatório da PF sobre Moraes não consta 47 mensagens trocadas com Vorcaro",
@@ -423,6 +421,7 @@
     "numero": "07",
     "rem": "RECORD JORNALISMO",
     "videoIds": [
+      "yM-91WJPu44",
       "sXf7KZemnj8",
       "ZoeP4T8txCE",
       "DqzPgJ5mIoI",
@@ -451,12 +450,12 @@
       "0DL5KxiRiHg",
       "bJKl8wlJu9M",
       "r_GSGJSOG5A",
-      "Os41Ag0n6Ok",
-      "sfTTLSbyiIY"
+      "Os41Ag0n6Ok"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "yM-91WJPu44 | [VIDEO]_25/11/26_11:46_JORNALDARECORD_4m34s_São Paulo declara fim do surto de Sarampo na capital",
       "sXf7KZemnj8 | [VIDEO]_25/11/26_10:02_FALABRASIL_2m44s_SP: quadrilha invade joalheria em shopping de luxo e furta quase R$ 2 milhõ",
       "ZoeP4T8txCE | [VIDEO]_25/11/26_01:47_JORNALDARECORD_5m12s_Lula não vai convidar Javier Milei para posse",
       "DqzPgJ5mIoI | [VIDEO]_25/11/26_08:41_JORNALDARECORD_3m45s_Polícia do Rio de Janeiro investiga suposto esquema internacional de tráfic",
@@ -485,20 +484,19 @@
       "0DL5KxiRiHg | [VIDEO]_23/11/26_12:17_FALABRASIL_3m39s_Brasileiras recorrem à venda de cabelo para aliviar dívidas e equilibrar as",
       "bJKl8wlJu9M | [VIDEO]_23/11/26_12:14_HOJEEMDIA_5m44s_Furto de placas de trânsito causa prejuízo de milhões e coloca motoristas e",
       "r_GSGJSOG5A | [VIDEO]_23/11/26_11:27_FALABRASIL_2m44s_Novas imagens mostram cantor de pagode com vítima antes de denúncia de estu",
-      "Os41Ag0n6Ok | [VIDEO]_23/11/26_11:13_FALABRASIL_4m28s_Tutores acusam hospital veterinário de negligência após morte de filhote em",
-      "sfTTLSbyiIY | [VIDEO]_21/11/26_12:08_FALABRASIL_3m20s_Gato desaparecido há 23 dias é encontrado morto em caixa d'água em São Paul"
+      "Os41Ag0n6Ok | [VIDEO]_23/11/26_11:13_FALABRASIL_4m28s_Tutores acusam hospital veterinário de negligência após morte de filhote em"
     ]
   },
   {
     "numero": "08",
     "rem": "BAND JORNALISMO",
     "videoIds": [
-      "RS8ZtVE5C6k",
       "vPME5o7vvUI",
       "jDaKqCwgPWo",
       "KmNzMjhE9sA",
       "B5mWvrfHY_8",
       "AjgM0gXnHDI",
+      "RS8ZtVE5C6k",
       "4x8ItJgU_3g",
       "d9kg2QcoCWE",
       "-tlzFytAb1c",
@@ -527,12 +525,12 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "RS8ZtVE5C6k | [VIDEO]_25/11/26_10:46_BANDJORNALISMO_3m42s_Chuva provoca alagamentos e deixa famílias desalojadas em Sumaré, SP   Bora",
       "vPME5o7vvUI | [VIDEO]_25/11/26_10:38_BANDJORNALISMO_2m04s_Colômbia enfrenta onda de violência com sequestro e explosões   Bora Brasil",
       "jDaKqCwgPWo | [VIDEO]_25/11/26_10:19_BANDJORNALISMO_2m16s_Produção de camarão cresce mais de 50% em quatro anos no Brasil   Agro Band",
       "KmNzMjhE9sA | [VIDEO]_25/11/26_10:17_BANDJORNALISMO_2m07s_El ninho forte pode reduzir produção de soja em até 10% no Brasil   Agro Ba",
       "B5mWvrfHY_8 | [VIDEO]_25/11/26_10:14_BANDJORNALISMO_14m32s_Lula planeja escolha de substituto de Barroso no STF   BandNews TV",
       "AjgM0gXnHDI | [VIDEO]_25/11/26_10:10_BANDJORNALISMO_2m13s_Cabine de carreta cai no Rio Tietê após colisão; bombeiros buscam motorista",
+      "RS8ZtVE5C6k | [VIDEO]_25/11/26_10:46_BANDJORNALISMO_3m42s_Chuva provoca alagamentos e deixa famílias desalojadas em Sumaré, SP   Bora",
       "4x8ItJgU_3g | [VIDEO]_25/11/26_10:04_BANDJORNALISMO_10m06s_Jornal Gente conversa com médico que salvou idoso em enchente   BandNews TV",
       "d9kg2QcoCWE | [VIDEO]_25/11/26_09:47_BANDJORNALISMO_2m03s_Manaus tem segundo dia seguido com pior qualidade do ar do país   Bora Bras",
       "-tlzFytAb1c | [VIDEO]_25/11/26_09:47_BANDJORNALISMO_3m06s_Lula sanciona pacote econômico e prepara novas medidas fiscais   Agro Band",
@@ -704,7 +702,6 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "Hq1V6Ev6GOY",
-      "TmK2-Q3H6x4",
       "bE2bOpNSCWI",
       "C-QeiN-iRZw",
       "0Ebifa3ce0A",
@@ -738,13 +735,12 @@
     "playlistId": "",
     "carimbos": [
       "Hq1V6Ev6GOY | ((LIVE))_25/11/26_10:02_CBNBRASIL_CBN São Paulo - 25/11/2026",
-      "TmK2-Q3H6x4 | ((LIVE))_25/11/26_09:35_CBNBRASIL_CBN Rio - 25/11/2026",
       "bE2bOpNSCWI | [VIDEO]_25/11/26_11:32_CBNBRASIL_7m06s_Relatório da ONU aponta que casa segue sendo o local mais perigoso para mul",
       "C-QeiN-iRZw | [VIDEO]_25/11/26_11:16_CBNBRASIL_2m10s_Relatório da PF sobre Toffoli não cita compra de parte do resort Tayayá pel",
       "0Ebifa3ce0A | [VIDEO]_25/11/26_11:06_CBNBRASIL_7m55s_Lauro Jardim: Haddad fora, Trabuco cotado e mais bastidores dos ministérios",
-      "u5-gCoMuqfE | [VIDEO]_25/11/26_10:53_CBNBRASIL_6m23s_Míriam Leitão: Corte de gastos e supersalários são desafios para o governo ",
+      "u5-gCoMuqfE | [VIDEO]_25/11/26_10:53_CBNBRASIL_6m23s_Míriam Leitão: Corte de gastos e supersalários são desafios para o governo",
       "geuMsOy6wu4 | [VIDEO]_25/11/26_10:48_CBNBRASIL_4m14s_PVC: Palmeiras perdeu pontos decisivos contra o Z-4",
-      "scWGfBAmeII | [VIDEO]_25/11/26_10:43_CBNBRASIL_15m01s_Ministro do Trabalho diz que ações contra fim da escala 6x1 terão 'impacto ",
+      "scWGfBAmeII | [VIDEO]_25/11/26_10:43_CBNBRASIL_15m01s_Ministro do Trabalho diz que ações contra fim da escala 6x1 terão 'impacto",
       "3PFB3QaX640 | [VIDEO]_25/11/26_10:04_CBNBRASIL_2m27s_Reféns são resgatados após 17 horas em supermercado na Colômbia",
       "nDjp5P909eU | [VIDEO]_25/11/26_09:53_CBNBRASIL_2m21s_CNI aciona STF para contestar regras do governo sobre o fim da escala 6x1",
       "0ltBHMuFgs4 | [VIDEO]_25/11/26_09:41_CBNBRASIL_4m59s_Por terra, água e ar: Palmeirenses se mobilizam para ir à final da Libertad",
@@ -773,7 +769,8 @@
     "numero": "12",
     "rem": "REVISTA OESTE",
     "videoIds": [
-      "5YzstZ5E2No",
+      "xt_AerZpJJo",
+      "0-4yP2FdZO8",
       "2znyckB3Z80",
       "q9sKkOEqYEo",
       "L7WW8uZBWt8",
@@ -801,13 +798,13 @@
       "owW-mpfe5yg",
       "XZMZpIEvuR0",
       "R8J8ThdXLb8",
-      "oIhP2dfyxzg",
-      "6Q1f3wMypbg"
+      "oIhP2dfyxzg"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "5YzstZ5E2No | ((LIVE))_25/11/26_09:55_REVISTAOESTE_OESTE COM ELAS 25/11: TRUMP ELEVA PRESSÃO SOBRE LULA E PROPÕE NOVAS TAXAS C",
+      "xt_AerZpJJo | ((LIVE))_25/11/26_11:52_REVISTAOESTE_ESPORTE SEM FIRULA   25/11/2026",
+      "0-4yP2FdZO8 | [VIDEO]_25/11/26_11:55_REVISTAOESTE_7m24s_Senado aprova ajuste fiscal que reduz recursos obrigatórios para saúde até ",
       "2znyckB3Z80 | [VIDEO]_25/11/26_11:45_REVISTAOESTE_31m51s_Ivan Kleber analisa crise diplomática entre Brasil e Argentina",
       "q9sKkOEqYEo | [VIDEO]_25/11/26_11:35_REVISTAOESTE_15m42s_Relatório da PF omitiu contrato de Viviane Barci com Banco Master",
       "L7WW8uZBWt8 | [VIDEO]_25/11/26_11:10_REVISTAOESTE_13m53s_Hugo Motta defende Câmara na imunidade de Marcel van Hattem e bancada criti",
@@ -835,14 +832,14 @@
       "owW-mpfe5yg | [VIDEO]_24/11/26_16:44_REVISTAOESTE_16m47s_Câmara aprova ajuste fiscal do governo Lula e envia para sanção",
       "XZMZpIEvuR0 | [VIDEO]_24/11/26_14:25_REVISTAOESTE_26m22s_Procurador Felipe Gimenez denuncia títulos de mesários em municípios distan",
       "R8J8ThdXLb8 | [VIDEO]_24/11/26_13:50_REVISTAOESTE_11m28s_'TESOURAÇO': Lula rebate críticas da esquerda ao ajuste fiscal e ataca Fari",
-      "oIhP2dfyxzg | [VIDEO]_24/11/26_13:40_REVISTAOESTE_15m50s_CASO MASTER: Relatório da PF sobre Vorcaro e Moraes omite contratos e 47 me",
-      "6Q1f3wMypbg | [VIDEO]_24/11/26_13:30_REVISTAOESTE_6m18s_'Local incerto': Moraes manda Flávio se defender de denúncia por calúnia co"
+      "oIhP2dfyxzg | [VIDEO]_24/11/26_13:40_REVISTAOESTE_15m50s_CASO MASTER: Relatório da PF sobre Vorcaro e Moraes omite contratos e 47 me"
     ]
   },
   {
     "numero": "13",
     "rem": "METRÓPOLES",
     "videoIds": [
+      "fbVHIK4JeHs",
       "XbwrDQt7GlE",
       "MUulZznkqRs",
       "7hDktY-dSl0",
@@ -871,12 +868,12 @@
       "xcfrOQH5nMg",
       "6sIYfm8m0ik",
       "rNcbZJinq_E",
-      "ci-_kWsVUJM",
-      "lISmosG1srM"
+      "ci-_kWsVUJM"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "fbVHIK4JeHs | [VIDEO]_25/11/26_11:59_METRÓPOLES_4m54s_O que se sabe sobre o caso de alemão encontrado morto dentro de casa em MG",
       "XbwrDQt7GlE | [VIDEO]_25/11/26_11:21_METRÓPOLES_2m33s_Paraná registra 6 mortes por causa das chuvas e alagamentos no estado",
       "MUulZznkqRs | [VIDEO]_25/11/26_10:29_METRÓPOLES_3m07s_PL tenta fortalecer espaço político em meio à disputa pelo Senado",
       "7hDktY-dSl0 | [VIDEO]_25/11/26_10:26_METRÓPOLES_4m09s_Lula articula apoio em meio a disputas pelo poder no Congresso",
@@ -905,8 +902,7 @@
       "xcfrOQH5nMg | [VIDEO]_24/11/26_21:49_METRÓPOLES_2m16s_Nomes de três cotadas ao STF ganham força após jantar de Lula com ministros",
       "6sIYfm8m0ik | [VIDEO]_24/11/26_21:47_METRÓPOLES_3m45s_Zoo de SP comemora nascimento ararinha-azul como impulso para a recuperação",
       "rNcbZJinq_E | [VIDEO]_24/11/26_21:17_METRÓPOLES_13m50s_Pavinatto critica ajuste fiscal do governo e aponta aumento da carga tribut",
-      "ci-_kWsVUJM | [VIDEO]_24/11/26_20:57_METRÓPOLES_2m19s_Em diário, papa Francisco relatou visões do diabo e do inferno",
-      "lISmosG1srM | [VIDEO]_24/11/26_20:56_METRÓPOLES_2m36s_Relembre os  campeões brasileiros em anos de lançamento do GTA"
+      "ci-_kWsVUJM | [VIDEO]_24/11/26_20:57_METRÓPOLES_2m19s_Em diário, papa Francisco relatou visões do diabo e do inferno"
     ]
   },
   {
@@ -939,7 +935,6 @@
     "videoIds": [
       "M6qbehsG8qY",
       "a0cEk4CO0qU",
-      "nIum4SejfuM",
       "64CjfB9DP1c",
       "YE4oPGJS5z4",
       "0cgT7xRoBbA",
@@ -965,7 +960,6 @@
     "carimbos": [
       "M6qbehsG8qY | ((LIVE))_25/11/26_11:00_TVSENADO_Ao vivo: CMO analisa relatório da receita do Orçamento de 2027 – 25/11/26",
       "a0cEk4CO0qU | ((LIVE))_25/11/26_10:41_TVSENADO_Ao vivo: CDH analisa projeto contra relativização do estupro de vulnerável ",
-      "nIum4SejfuM | ((LIVE))_25/11/26_09:58_TVSENADO_Ao vivo: Senado celebra os 40 anos da Associação Brasileira das Empresas de",
       "64CjfB9DP1c | ((LIVE))_25/11/26_09:03_TVSENADO_Ao vivo: CCJ analisa penas maiores para crimes sexuais e correção do Fundo ",
       "YE4oPGJS5z4 | ((LIVE))_25/11/26_08:03_TVSENADO_Ao vivo - TV Senado",
       "0cgT7xRoBbA | [VIDEO]_25/11/26_09:03_TVSENADO_3m01s_Agenda   Força Nacional do SUS, IA no currículo escolar e correção do FCDF",
