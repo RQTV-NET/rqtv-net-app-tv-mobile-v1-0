@@ -1040,9 +1040,9 @@
     "rem": "CAZÉTV",
     "videoIds": [
       "Bia_vQfRnl4",
-      "dv9trv324h0",
       "A-8w51lGhHs",
       "T05LK5enrhE",
+      "dv9trv324h0",
       "O7Der0cr_6E",
       "pXgZAzbgdcg",
       "N6--CH_LI0g",
@@ -1074,9 +1074,9 @@
     "playlistId": "",
     "carimbos": [
       "Bia_vQfRnl4 | ((LIVE))_25/11/26_11:40_CAZÉTV_AO VIVO: COPA DAVIS 2026   BERRETTINI/VAVASSORI X CHUNG/KWON   ITÁLIA X COR",
-      "dv9trv324h0 | [VIDEO]_25/11/26_15:35_CAZÉTV_10m13s_MELHORES MOMENTOS: MUSETTI X HONG   ITÁLIA X CORÉIA DO SUL   COPA DAVIS 202",
       "A-8w51lGhHs | [VIDEO]_25/11/26_15:18_CAZÉTV_8m15s_MELHORES MOMENTOS: DINAMARCA 3 X 3 ARGENTINA   COPA DO MUNDO SUB-17 2026",
       "T05LK5enrhE | [VIDEO]_25/11/26_12:42_CAZÉTV_5m46s_MELHORES MOMENTOS: URUGUAI 0 X 3 FRANÇA   COPA DO MUNDO SUB-17 2026   FASE",
+      "dv9trv324h0 | [VIDEO]_25/11/26_15:35_CAZÉTV_10m13s_MELHORES MOMENTOS: MUSETTI X HONG   ITÁLIA X CORÉIA DO SUL   COPA DAVIS 202",
       "O7Der0cr_6E | [VIDEO]_24/11/26_22:48_CAZÉTV_76m36s_JOGO DA NOTA! CAZÉ, IGOR, BRUNINHO E STAG JOGAM E VOCÊS FECHAM OS OLHINHOS",
       "pXgZAzbgdcg | [VIDEO]_24/11/26_21:54_CAZÉTV_5m19s_MELHORES MOMENTOS: FLAMENGO 2 X 1 VASCO   COPINHA FEMININA 2026",
       "N6--CH_LI0g | [VIDEO]_24/11/26_20:16_CAZÉTV_16m09s_COMPACTO: CHAPECOENSE 3 X 0 PALMEIRAS   BRASILEIRÃO 2026   37ª RODADA",
@@ -1109,6 +1109,7 @@
     "numero": "31",
     "rem": "GeTV",
     "videoIds": [
+      "OhGBuxnWh6c",
       "bZ9PESPG8BY",
       "ZyGuwdtIkeY",
       "b5DLsOHzoI0",
@@ -1141,6 +1142,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "OhGBuxnWh6c | ((LIVE))_25/11/26_18:45_GETV_AO VIVO: MONTES CLAROS X CAMPINAS   SUPERLIGA MASCULINA 2026/27   ge tv",
       "bZ9PESPG8BY | [VIDEO]_25/11/26_13:19_GETV_6m59s_ELIMINARAM CORINTHIANS E FLAMENGO! RETROSPECTO DO ESTUDIANTES NA LIBERTA!  ",
       "ZyGuwdtIkeY | [VIDEO]_25/11/26_00:03_GETV_9m50s_PRAIA CLUBE 3 X 2 FLUMINENSE   MELHORES MOMENTOS   7ª RODADA   SUPERLIGA FE",
       "b5DLsOHzoI0 | [VIDEO]_24/11/26_23:52_GETV_5m42s_CHAPECOENSE 3 X 0 PALMEIRAS   MELHORES MOMENTOS   37ª RODADA   BRASILEIRÃO ",
@@ -1175,8 +1177,8 @@
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
-      "_us4mKsIchU",
       "-kQm1j_Tni4",
+      "MeVGfiDaW7E",
       "zasRbCOD55U",
       "d2wR6ehOJmM",
       "uadKuKvfvjo",
@@ -1209,8 +1211,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "_us4mKsIchU | ((LIVE))_25/11/26_16:54_TNTSPORTSBRASIL_NARRAÇÃO AO VIVO: PARIS SAINT-GERMAIN X ROMA   CHAMPIONS LEAGUE 2026/27",
-      "-kQm1j_Tni4 | ((LIVE))_25/11/26_15:45_TNTSPORTSBRASIL_AO VIVO: LILLE X BAYERN   UEFA CHAMPIONS LEAGUE   FASE DE LIGA",
+      "-kQm1j_Tni4 | ((LIVE))_25/11/26_15:45_TNTSPORTSBRASIL_ANDRE HENNING, TAYNAH, VSR E BECHLER ANALISAM A QUARTA DE CHAMPIONS NO CONV",
+      "MeVGfiDaW7E | [VIDEO]_25/11/26_19:00_TNTSPORTSBRASIL_6m14s_MBAPPÉ FINALIZA, BOLA VIRA GOL CONTRA BIZARRO E BAYERN TOMA VIRADA NA CHAMP",
       "zasRbCOD55U | [VIDEO]_25/11/26_16:51_TNTSPORTSBRASIL_5m10s_G. JESUS MARCA, ATACANTE DÁ FURADA BIZARRA E BARÇA GOLEIA NA CHAMPIONS   SA",
       "d2wR6ehOJmM | [VIDEO]_25/11/26_16:44_TNTSPORTSBRASIL_5m11s_VAR PROTAGONISTA EM DOIS LANCES CAPITAIS E VITÓRIA ESPANHOLA   SLAVIA PRAGA",
       "uadKuKvfvjo | [VIDEO]_25/11/26_11:00_TNTSPORTSBRASIL_98m02s_REAL MADRID 5X1 PSV   JOGO COMPLETO   FASE DE LIGA   CHAMPIONS LEAGUE 2026/",
@@ -1245,7 +1247,6 @@
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
-      "aMePz05TCTU",
       "ZEhLhs9sSdM",
       "JZBqyfq1YXU",
       "k4eNe-AuGOQ",
@@ -1278,7 +1279,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "aMePz05TCTU | ((LIVE))_25/11/26_17:29_ESPNBRASIL_AO VIVO: ATLÉTICO-MG X CORINTHIANS NA ARENA MRV   TUDO DO PALMEIRAS NA LIBE",
       "ZEhLhs9sSdM | [VIDEO]_25/11/26_17:06_ESPNBRASIL_23m38s_DIA DE DECISÃO! CORINTHIANS 'JOGA A VIDA' NO BRASILEIRÃO CONTRA O ATLÉTICO ",
       "JZBqyfq1YXU | [VIDEO]_25/11/26_16:39_ESPNBRASIL_18m37s_LEILA PEREIRA ABRE O JOGO SOBRE FUTURO NO PALMEIRAS, SAF, MÁ ADMINISTRAÇÃO ",
       "k4eNe-AuGOQ | [VIDEO]_25/11/26_13:21_ESPNBRASIL_25m32s_GABIGOL DE VOLTA AO FLAMENGO? JOSÉ BOTO É DIRETO EM EXCLUSIVA: 'NÃO DÁ PARA",
@@ -1441,8 +1441,8 @@
     "numero": "36",
     "rem": "SBT SPORTS",
     "videoIds": [
-      "Txyy6YvOR8I",
       "cvkU3m5Ikl0",
+      "Txyy6YvOR8I",
       "_rJ8BWGguKU",
       "l-SYdZr3sJA",
       "vM-KAdNRibk",
@@ -1475,8 +1475,8 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "Txyy6YvOR8I | [VIDEO]_25/11/26_11:30_SBTSPORTS_5m24s_QUAIS SERÃO AS EQUIPES CLASSIFICADAS PARA A LIBERTADORES DE 2027?",
       "cvkU3m5Ikl0 | [VIDEO]_25/11/26_17:11_SBTSPORTS_4m52s_CONHEÇA LUCAS SPLICHAL, JOIA QUE PROMETE MUITO NA BASE DO CORINTHIANS",
+      "Txyy6YvOR8I | [VIDEO]_25/11/26_11:30_SBTSPORTS_5m24s_QUAIS SERÃO AS EQUIPES CLASSIFICADAS PARA A LIBERTADORES DE 2027?",
       "_rJ8BWGguKU | [VIDEO]_24/11/26_21:01_SBTSPORTS_3m06s_EXCLUSIVO: CRAQUE DO REAL MADRID FALA COM SBT APÓS GOLEADA NA CHAMPIONS",
       "l-SYdZr3sJA | [VIDEO]_24/11/26_19:30_SBTSPORTS_8m48s_REAL MADRID 5 X 1 PSV   MELHORES MOMENTOS - CHAMPIONS LEAGUE",
       "vM-KAdNRibk | [VIDEO]_24/11/26_13:30_SBTSPORTS_5m25s_VAI CAIR? CORINTHIANS ESTÁ DE VOLTA À ZONA DE REBAIXAMENTO",
@@ -1831,6 +1831,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "pYO-yQOKkJg",
       "4lMj50XXJpI",
       "MoIZl4u2Vts",
       "dZ4JwMlkEbs",
@@ -1859,12 +1860,12 @@
       "p5q-jHQtohs",
       "_PNxjQESH6g",
       "50ltEIMy6ZM",
-      "7-ciZR7kprE",
-      "kjtlN_pXWUg"
+      "7-ciZR7kprE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "pYO-yQOKkJg | [VIDEO]_25/11/26_19:00_TECHCIÊNCIA1B_3m16s_Smartwatch premium com 60% de desconto e mais promoções incríveis",
       "4lMj50XXJpI | [VIDEO]_25/11/26_18:00_TECHCIÊNCIA1D_9m34s_Sim, seu celular DEVERIA ter seguro. Mesmo.",
       "MoIZl4u2Vts | [VIDEO]_25/11/26_17:00_TECHCIÊNCIA1B_4m24s_GTA 6 bate recorde de jogadores simultâneos e entra para a história",
       "dZ4JwMlkEbs | [VIDEO]_25/11/26_16:00_TECHCIÊNCIA1B_5m10s_Retorno de Jensen Huang à Nvidia pode ter feito Trump lucrar milhões",
@@ -1893,14 +1894,14 @@
       "p5q-jHQtohs | [VIDEO]_24/11/26_13:00_TECHCIÊNCIA1B_6m04s_Black Friday: saiba como não cair em golpes e economizar ainda mais",
       "_PNxjQESH6g | [VIDEO]_24/11/26_12:46_TECHCIÊNCIA1A_14m57s_POR QUE você deve ACREDITAR EM VOCÊ? - RICARDINHO ACF",
       "50ltEIMy6ZM | [VIDEO]_24/11/26_12:43_TECHCIÊNCIA1C_9m39s_A Anthropic Acaba de Automatizar o Trabalho Mais Caro dos Engenheiros Sênio",
-      "7-ciZR7kprE | [VIDEO]_24/11/26_12:00_TECHCIÊNCIA1B_5m32s_Review GTA 6: a Rockstar entrega tudo o que prometeu? Veja nossa análise",
-      "kjtlN_pXWUg | [VIDEO]_24/11/26_11:00_TECHCIÊNCIA1B_4m41s_SpaceX é processada nos EUA por imagens sexuais geradas pelo Grok"
+      "7-ciZR7kprE | [VIDEO]_24/11/26_12:00_TECHCIÊNCIA1B_5m32s_Review GTA 6: a Rockstar entrega tudo o que prometeu? Veja nossa análise"
     ]
   },
   {
     "numero": "81",
     "rem": "TECH & CIÊNCIA II",
     "videoIds": [
+      "P2wZMzjxYXY",
       "S6VcpS1ckug",
       "KaNg_OYrIzs",
       "9mLtSFOPfcA",
@@ -1929,12 +1930,12 @@
       "aLdS3Iiy2x0",
       "Kxmpx6N_JT8",
       "oAvDp0GWkFk",
-      "8pgHaCQt5bw",
-      "CFJ7Ep1IkJI"
+      "8pgHaCQt5bw"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "P2wZMzjxYXY | [VIDEO]_25/11/26_19:00_TECHCIÊNCIA2A_19m51s_Este Monstro Marinho de 18 Metros Acabou de Reescrever a História dos Ocean",
       "S6VcpS1ckug | [VIDEO]_25/11/26_18:18_TECHCIÊNCIA2C_24m45s_O mundo inteiro depende dessas 3 empresas (e você não sabia)",
       "KaNg_OYrIzs | [VIDEO]_25/11/26_13:00_TECHCIÊNCIA2A_118m07s_Por que os americanos não querem morar no litoral sudeste",
       "9mLtSFOPfcA | [VIDEO]_25/11/26_15:30_TECHCIÊNCIA2A_95m21s_Mistérios Que Parecem Impossíveis, Mas Têm Soluções Surpreendentes!",
@@ -1963,8 +1964,7 @@
       "aLdS3Iiy2x0 | [VIDEO]_21/11/26_15:01_TECHCIÊNCIA2B_15m30s_Minha Madrasta Fez Meu Pai Se Livrar Do Meu Cabelo",
       "Kxmpx6N_JT8 | [VIDEO]_21/11/26_13:46_TECHCIÊNCIA2A_21m54s_Por que a fronteira entre o Alasca e o Canadá é o pior erro da geografia",
       "oAvDp0GWkFk | [VIDEO]_21/11/26_12:00_TECHCIÊNCIA2C_27m11s_EUA x Irã: o que impede (ou não) um ataque nuclear",
-      "8pgHaCQt5bw | [VIDEO]_21/11/26_11:26_TECHCIÊNCIA2A_9m49s_Por que ninguém estava preparado para o terremoto na Colômbia",
-      "CFJ7Ep1IkJI | [VIDEO]_21/11/26_00:22_TECHCIÊNCIA2C_180m01s_3 HORAS DE CURIOSIDADES SOBRE O ESPAÇO 🚀🤯"
+      "8pgHaCQt5bw | [VIDEO]_21/11/26_11:26_TECHCIÊNCIA2A_9m49s_Por que ninguém estava preparado para o terremoto na Colômbia"
     ]
   },
   {
