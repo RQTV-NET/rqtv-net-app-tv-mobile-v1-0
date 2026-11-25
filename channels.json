@@ -1035,7 +1035,6 @@
     "videoIds": [
       "duZ4TPs4Ask",
       "Bia_vQfRnl4",
-      "heqBu_0wYmM",
       "T05LK5enrhE",
       "O7Der0cr_6E",
       "pXgZAzbgdcg",
@@ -1069,7 +1068,6 @@
     "carimbos": [
       "duZ4TPs4Ask | ((LIVE))_25/11/26_12:55_CAZÉTV_PALMEIRAS AO VIVO: VERDÃO EMBARCA RUMO À FINAL DA LIBERTADORES!   AEROPORCO",
       "Bia_vQfRnl4 | ((LIVE))_25/11/26_11:40_CAZÉTV_AO VIVO: COPA DAVIS 2026   COBOLLI X SOONWOO KWON   ITÁLIA X COREIA DO SUL ",
-      "heqBu_0wYmM | ((LIVE))_25/11/26_10:00_CAZÉTV_AO VIVO: DINAMARCA X ARGENTINA   COPA DO MUNDO SUB-17 2026   FASE DE GRUPOS",
       "T05LK5enrhE | [VIDEO]_25/11/26_12:42_CAZÉTV_5m46s_MELHORES MOMENTOS: URUGUAI 0 X 3 FRANÇA   COPA DO MUNDO SUB-17 2026   FASE",
       "O7Der0cr_6E | [VIDEO]_24/11/26_22:48_CAZÉTV_76m36s_JOGO DA NOTA! CAZÉ, IGOR, BRUNINHO E STAG JOGAM E VOCÊS FECHAM OS OLHINHOS",
       "pXgZAzbgdcg | [VIDEO]_24/11/26_21:54_CAZÉTV_5m19s_MELHORES MOMENTOS: FLAMENGO 2 X 1 VASCO   COPINHA FEMININA 2026",
@@ -1305,6 +1303,7 @@
     "numero": "34",
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
+      "YVLfaA-xQpI",
       "h8FaSolir5I",
       "vd2mGmuehWo",
       "2WP8KJefUNs",
@@ -1331,6 +1330,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "YVLfaA-xQpI | [VIDEO]_25/11/26_14:40_JOVEMPANESPORTES_17m51s_\"ISSO NÃO É OPINIÃO! É UM FATO! O FLAMENGO HOJE tem o...\" VEJA o que MAURO ",
       "h8FaSolir5I | [VIDEO]_25/11/26_14:02_JOVEMPANESPORTES_21m53s_DEU DISCUSSÃO! ROMÁRIO e GUARDIOLA DISCORDAM sobre ANCELOTTI na SELEÇÃO BRA",
       "vd2mGmuehWo | [VIDEO]_25/11/26_13:25_JOVEMPANESPORTES_14m03s_MAURO CEZAR: \"O que SE QUER É JUSTIÇA! E o MINISTÉRIO PÚBLICO...\" 2 CONDENA",
       "2WP8KJefUNs | [VIDEO]_25/11/26_12:53_JOVEMPANESPORTES_16m22s_MAURO CEZAR: \"NÃO TEM PARALELO, cara! A LUTA CONTRA O REBAIXAMENTO para o C",
@@ -2025,6 +2025,7 @@
     "numero": "100",
     "rem": "TV EVANGELIZAR",
     "videoIds": [
+      "A581Xxobs1g",
       "o0qrJeptVvQ",
       "EWpzVtQ08P4",
       "eRHBC-eTtVE",
@@ -2046,6 +2047,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "A581Xxobs1g | ((LIVE))_25/11/26_14:30_TVEVANGELIZAR_Hora Boa Pra Evangelizar com Fabiana Wantuch   25/11/26",
       "o0qrJeptVvQ | [VIDEO]_25/11/26_13:15_TVEVANGELIZAR_4m21s_Oração da Tarde   25/11/26   com @PadreManzottiOficial",
       "EWpzVtQ08P4 | [VIDEO]_25/11/26_10:20_TVEVANGELIZAR_23m29s_Maria, Mãe da Igreja   25/11/26   Com a Palavra - Com Pe. Everson Kloster",
       "eRHBC-eTtVE | [VIDEO]_25/11/26_06:00_TVEVANGELIZAR_35m06s_Quarta-Feira: Mistérios Dolorosos   25/11/26   Terço Mariano com  @PadreMan",
@@ -2081,6 +2083,7 @@
     "numero": "110",
     "rem": "SBT PROGRAMAS",
     "videoIds": [
+      "MyDsvjBU5Mc",
       "G8bW8BXzbJs",
       "fFCvKbF9sI0",
       "45e72R54s_4",
@@ -2109,12 +2112,12 @@
       "xqZvYvnL_Lo",
       "NUNevsCtX8E",
       "ZyOZI8G8gmE",
-      "T7uinsWI3uo",
-      "6rKLufZh2fY"
+      "T7uinsWI3uo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "MyDsvjBU5Mc | [VIDEO]_25/11/26_14:33_THENOITE_43m52s_Entrevista com elenco de Paixão Proibida: bastidores da novela vertical   T",
       "G8bW8BXzbJs | [VIDEO]_25/11/26_14:00_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)_10m18s_Val Marchiori fala sobre câncer e recebe mensagem da família   Programa do ",
       "fFCvKbF9sI0 | [VIDEO]_24/11/26_14:55_THENOITE_36m51s_Entrevista com Bia e Branca: maternidade, carreira e nado sincronizado   Th",
       "45e72R54s_4 | [VIDEO]_24/11/26_14:45_THENOITE_11m20s_Senhor Templário: o cavaleiro que combate o crime   The Noite (23/11/26)",
@@ -2143,14 +2146,14 @@
       "xqZvYvnL_Lo | [VIDEO]_18/11/26_14:30_THENOITE_17m40s_Entrevista com Allan Coração   The Noite (17/11/26)",
       "NUNevsCtX8E | [VIDEO]_18/11/26_14:00_THENOITE_29m31s_Entrevista com Alex Kendrick e elenco de \"A Virada\"   The Noite (17/11/26)",
       "ZyOZI8G8gmE | [VIDEO]_17/11/26_22:24_PROGRAMADORATINHO_47m34s_INVASÃO AO VIVO! Ratinho se surpreende com invasão no Dez ou Mil!   Program",
-      "T7uinsWI3uo | [VIDEO]_17/11/26_19:03_FOFOCALIZANDO_40m28s_Veja tudo que aconteceu na festa de aniversário de 50 anos de Poliana Rocha",
-      "6rKLufZh2fY | [VIDEO]_17/11/26_15:11_THENOITE_42m49s_Entrevista com Sandro Dias: o desafio da maior rampa de skate do mundo   Th"
+      "T7uinsWI3uo | [VIDEO]_17/11/26_19:03_FOFOCALIZANDO_40m28s_Veja tudo que aconteceu na festa de aniversário de 50 anos de Poliana Rocha"
     ]
   },
   {
     "numero": "111",
     "rem": "RECORD PROGRAMAS",
     "videoIds": [
+      "7hbfCUS-WK0",
       "fQtpk7kl_jE",
       "JiYg31GVhUQ",
       "twlkddveeXY",
@@ -2179,12 +2182,12 @@
       "Tsa8w_EuI8s",
       "M6tdlxQgCx0",
       "s4soYnF0zeM",
-      "4MUaCdmZ_f0",
-      "0rwBiildUfU"
+      "4MUaCdmZ_f0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "7hbfCUS-WK0 | [VIDEO]_25/11/26_14:30_RECORDCABOVERDE_4m26s_A FAZENDA: Peões reagem ao resultado do Miss Universe 2026",
       "fQtpk7kl_jE | [VIDEO]_25/11/26_14:25_RECORDCABOVERDE_2m34s_A FAZENDA: Darlin questiona Serginho por comentário preconceituoso",
       "JiYg31GVhUQ | [VIDEO]_25/11/26_14:20_RECORDCABOVERDE_2m34s_A FAZENDA: Tina chora após briga com Serginho e declara ‘Você está sendo in",
       "twlkddveeXY | [VIDEO]_25/11/26_14:10_RECORDCABOVERDE_2m58s_A FAZENDA: Serginho e Ariela trocam farpas na Baia",
@@ -2213,8 +2216,7 @@
       "Tsa8w_EuI8s | [VIDEO]_24/11/26_13:30_RECORDCABOVERDE_3m56s_A FAZENDA: Fazendeira Ana manda Serginho à Roça, e ator rebate ‘Ela não vai",
       "M6tdlxQgCx0 | [VIDEO]_24/11/26_13:20_RECORDCABOVERDE_11m28s_A FAZENDA: Renata dispara para Fran ‘Não tenho que te dar satisfação de nad",
       "s4soYnF0zeM | [VIDEO]_24/11/26_13:10_RECORDCABOVERDE_3m15s_A FAZENDA: Serginho discute com Ariela e provoca ‘Ninguém tem coragem de ba",
-      "4MUaCdmZ_f0 | [VIDEO]_24/11/26_13:00_RECORDCABOVERDE_6m48s_A FAZENDA: Ariela e Fran brigam e modelo dispara ‘Você é podre’",
-      "0rwBiildUfU | [VIDEO]_24/11/26_12:50_RECORDCABOVERDE_9m51s_A FAZENDA: Fran e Erthal se irritam com Ariela e trocam provocações com peo"
+      "4MUaCdmZ_f0 | [VIDEO]_24/11/26_13:00_RECORDCABOVERDE_6m48s_A FAZENDA: Ariela e Fran brigam e modelo dispara ‘Você é podre’"
     ]
   },
   {
