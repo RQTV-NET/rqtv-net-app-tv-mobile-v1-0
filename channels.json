@@ -1013,6 +1013,7 @@
     "numero": "30",
     "rem": "CAZÉTV",
     "videoIds": [
+      "heqBu_0wYmM",
       "O7Der0cr_6E",
       "pXgZAzbgdcg",
       "N6--CH_LI0g",
@@ -1045,6 +1046,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "heqBu_0wYmM | ((LIVE))_25/11/26_10:00_CAZÉTV_AO VIVO: URUGUAI X FRANÇA   COPA DO MUNDO SUB-17 2026   FASE DE GRUPOS",
       "O7Der0cr_6E | [VIDEO]_24/11/26_22:48_CAZÉTV_76m36s_JOGO DA NOTA! CAZÉ, IGOR, BRUNINHO E STAG JOGAM E VOCÊS FECHAM OS OLHINHOS ",
       "pXgZAzbgdcg | [VIDEO]_24/11/26_21:54_CAZÉTV_5m19s_MELHORES MOMENTOS: FLAMENGO 2 X 1 VASCO   COPINHA FEMININA 2026",
       "N6--CH_LI0g | [VIDEO]_24/11/26_20:16_CAZÉTV_16m09s_COMPACTO: CHAPECOENSE 3 X 0 PALMEIRAS   BRASILEIRÃO 2026   37ª RODADA",
@@ -1143,7 +1145,7 @@
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
-      "J__Vc7NNvZ4",
+      "bmPGOAoo9uU",
       "Jmp2DQl0Dr4",
       "MsImg_eFvU4",
       "Mgj1kYIR59Y",
@@ -1175,7 +1177,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "J__Vc7NNvZ4 | ((LIVE))_25/11/26_08:24_TNTSPORTSBRASIL_AO VIVO: CORINTHIANS X GALO FAZEM JOGO DECISIVO; VINI DESENCANTA E RODADA Q",
+      "bmPGOAoo9uU | ((LIVE))_25/11/26_09:56_TNTSPORTSBRASIL_VINI JR DESENCANTA E REAL GOLEIA; DECISÃO PRO CORINTHIANS; PSG E BARÇA EM C",
       "Jmp2DQl0Dr4 | [VIDEO]_25/11/26_09:00_TNTSPORTSBRASIL_92m48s_MANCHESTER CITY 2X2 NAPOLI   JOGO COMPLETO   FASE DE LIGA   RODADA 5   CHAM",
       "MsImg_eFvU4 | [VIDEO]_24/11/26_21:30_TNTSPORTSBRASIL_15m13s_MANCHESTER CITY 2X2 NAPOLI   COMPACTO DA PARTIDA   RODADA 5   CHAMPIONS LEA",
       "Mgj1kYIR59Y | [VIDEO]_24/11/26_20:30_TNTSPORTSBRASIL_10m42s_VINI JR. DESENCANTA, GOLAÇO DE BELLINGHAM E MAIS! VEJA TODOS 22 GOLS DO DIA",
@@ -1759,6 +1761,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "NkP2IwdQG6c",
       "id7AlObORIA",
       "HvH_U-g-tBc",
       "UIuPh_KuQN4",
@@ -1787,12 +1790,12 @@
       "aXJHwg3Y97A",
       "b2ezsFJJ6AE",
       "xwX3TlqLrfc",
-      "jmFgzJ_tVHk",
-      "Z9HGu15_wBQ"
+      "jmFgzJ_tVHk"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "NkP2IwdQG6c | [VIDEO]_25/11/26_10:00_TECHCIÊNCIA1B_4m33s_Ações da Anthropic caem abaixo do preço de estreia na Nasdaq",
       "id7AlObORIA | [VIDEO]_25/11/26_09:00_TECHCIÊNCIA1B_4m55s_iPhone 16 vs Galaxy S25: duelo de dois “ex-tops de linha”",
       "HvH_U-g-tBc | [VIDEO]_25/11/26_00:58_TECHCIÊNCIA1A_15m03s_AJUSTE FISCAL, IMPOSTOS E GASTOS DO GOVERNO: QUEM VAI PAGAR A CONTA DO BRAS",
       "UIuPh_KuQN4 | [VIDEO]_25/11/26_00:35_TECHCIÊNCIA1A_14m37s_O ISLÃ vai DOMINAR o OCIDENTE? RELIGIÃO, POLÍTICA E O FUTURO DO CRISTIANISM",
@@ -1821,8 +1824,7 @@
       "aXJHwg3Y97A | [VIDEO]_23/11/26_22:00_TECHCIÊNCIA1B_6m26s_Anthropic: ações patinam depois de IPO histórico",
       "b2ezsFJJ6AE | [VIDEO]_23/11/26_21:30_TECHCIÊNCIA1B_17m03s_Reviravolta na Nvidia: por que Jensen Huang é tão necessário?   Wharrysson",
       "xwX3TlqLrfc | [VIDEO]_23/11/26_21:22_TECHCIÊNCIA1B_5m40s_Nvidia traz Jensen Huang de volta ao comando; ações sobem",
-      "jmFgzJ_tVHk | [VIDEO]_23/11/26_13:03_TECHCIÊNCIA1C_7m47s_A IA da Anthropic Acaba de Resolver o Maior Mistério da Matemática",
-      "Z9HGu15_wBQ | [VIDEO]_23/11/26_19:00_TECHCIÊNCIA1B_2m21s_Descubra as ofertas de tecnologia para a sua Black Friday 2026"
+      "jmFgzJ_tVHk | [VIDEO]_23/11/26_13:03_TECHCIÊNCIA1C_7m47s_A IA da Anthropic Acaba de Resolver o Maior Mistério da Matemática"
     ]
   },
   {
