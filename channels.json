@@ -220,6 +220,7 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "9bUrAGtie8s",
+      "suYUxF3P3qk",
       "XYKC8moEfe0",
       "PfqJIvM1ZDI",
       "dIMv46crAlU",
@@ -247,13 +248,13 @@
       "cU-CVCLa8YA",
       "b1WTfQRHq2I",
       "0GYy_-0Jyu4",
-      "LM_R3v0b-YY",
-      "sK2beJcsikY"
+      "LM_R3v0b-YY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "9bUrAGtie8s | ((LIVE))_25/11/26_19:51_CNNBRASIL",
+      "suYUxF3P3qk | 25/11/26_21:17_CNNBRASIL_2m44s",
       "XYKC8moEfe0 | 25/11/26_21:13_CNNBRASIL_6m37s",
       "PfqJIvM1ZDI | 25/11/26_21:08_CNNBRASIL_3m56s",
       "dIMv46crAlU | 25/11/26_20:55_CNNBRASIL_3m39s",
@@ -281,8 +282,7 @@
       "cU-CVCLa8YA | 25/11/26_17:26_CNNBRASIL_5m29s",
       "b1WTfQRHq2I | 25/11/26_17:26_CNNBRASIL_10m42s",
       "0GYy_-0Jyu4 | 25/11/26_17:05_CNNBRASIL_5m18s",
-      "LM_R3v0b-YY | 25/11/26_17:01_CNNBRASIL_5m33s",
-      "sK2beJcsikY | 25/11/26_16:49_CNNBRASIL_4m05s"
+      "LM_R3v0b-YY | 25/11/26_17:01_CNNBRASIL_5m33s"
     ]
   },
   {
@@ -290,7 +290,6 @@
     "rem": "CNN MONEY",
     "videoIds": [
       "_6If4Nh_2y0",
-      "Ds6Zz_qezqk",
       "_AkzFpfYkco",
       "c4TVF7nHxnU",
       "rJTDRa9V1Iw",
@@ -324,7 +323,6 @@
     "playlistId": "",
     "carimbos": [
       "_6If4Nh_2y0 | ((LIVE))_25/11/26_20:23_CNNMONEY",
-      "Ds6Zz_qezqk | ((LIVE))_25/11/26_19:47_CNNMONEY",
       "_AkzFpfYkco | 25/11/26_20:45_CNNMONEY_8m11s",
       "c4TVF7nHxnU | 25/11/26_20:42_CNNMONEY_10m05s",
       "rJTDRa9V1Iw | 25/11/26_18:09_CNNMONEY_17m11s",
@@ -360,6 +358,9 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "DV2n4F4N0tQ",
+      "tLfn54L-qeE",
+      "Y5T3XPNEYSQ",
+      "buZK6Kdj08o",
       "eyjNTr173W4",
       "SAnoTP4yauE",
       "ghIV07n8ZXQ",
@@ -385,15 +386,15 @@
       "vzZrXZrYwCg",
       "ZfdIjwehR1w",
       "PIYe0BS0hWE",
-      "nGi2IWdcKfo",
-      "_zqycBS5tT8",
-      "prL1seW_eek",
-      "upGflOSNYKY"
+      "nGi2IWdcKfo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "DV2n4F4N0tQ | ((LIVE))_25/11/26_20:10_JOVEMPANNEWS",
+      "tLfn54L-qeE | 25/11/26_21:26_JOVEMPANNEWS_4m40s",
+      "Y5T3XPNEYSQ | 25/11/26_21:22_JOVEMPANNEWS_6m55s",
+      "buZK6Kdj08o | 25/11/26_21:16_JOVEMPANNEWS_3m59s",
       "eyjNTr173W4 | 25/11/26_21:12_JOVEMPANNEWS_2m32s",
       "SAnoTP4yauE | 25/11/26_20:54_JOVEMPANNEWS_4m13s",
       "ghIV07n8ZXQ | 25/11/26_20:46_JOVEMPANNEWS_2m24s",
@@ -419,10 +420,7 @@
       "vzZrXZrYwCg | 25/11/26_15:10_JOVEMPANNEWS_3m15s",
       "ZfdIjwehR1w | 25/11/26_15:01_JOVEMPANNEWS_3m27s",
       "PIYe0BS0hWE | 25/11/26_14:57_JOVEMPANNEWS_7m58s",
-      "nGi2IWdcKfo | 25/11/26_14:32_JOVEMPANNEWS_3m36s",
-      "_zqycBS5tT8 | 24/11/26_20:15_OSPINGOSNOSIS_12m51s",
-      "prL1seW_eek | 24/11/26_20:04_OSPINGOSNOSIS_4m26s",
-      "upGflOSNYKY | 24/11/26_20:03_OSPINGOSNOSIS_14m10s"
+      "nGi2IWdcKfo | 25/11/26_14:32_JOVEMPANNEWS_3m36s"
     ]
   },
   {
