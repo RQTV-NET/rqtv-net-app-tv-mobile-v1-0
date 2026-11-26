@@ -937,6 +937,7 @@
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
+      "6pkYW7rbNaI",
       "hzOQJahOkAI",
       "ePxyPaTyPvE",
       "RRVX9W24lWY",
@@ -965,12 +966,12 @@
       "UCCymXiTlBg",
       "hVQ0y2-BtI4",
       "0fKV5Kt4hqI",
-      "HjfKFw5tF3Q",
-      "XJxCBs6Atos"
+      "HjfKFw5tF3Q"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "6pkYW7rbNaI | 25/11/26_22:30_TNTSPORTSBRASIL_15m09s",
       "hzOQJahOkAI | 25/11/26_22:00_TNTSPORTSBRASIL_17m48s",
       "ePxyPaTyPvE | 25/11/26_21:30_TNTSPORTSBRASIL_15m18s",
       "RRVX9W24lWY | 25/11/26_21:00_TNTSPORTSBRASIL_15m31s",
@@ -999,8 +1000,7 @@
       "UCCymXiTlBg | 24/11/26_19:03_TNTSPORTSBRASIL_8m26s",
       "hVQ0y2-BtI4 | 24/11/26_19:03_TNTSPORTSBRASIL_8m17s",
       "0fKV5Kt4hqI | 24/11/26_16:48_TNTSPORTSBRASIL_3m51s",
-      "HjfKFw5tF3Q | 24/11/26_16:45_TNTSPORTSBRASIL_3m11s",
-      "XJxCBs6Atos | 23/11/26_22:04_TNTSPORTSBRASIL_3m04s"
+      "HjfKFw5tF3Q | 24/11/26_16:45_TNTSPORTSBRASIL_3m11s"
     ]
   },
   {
@@ -1135,6 +1135,7 @@
     "numero": "35",
     "rem": "BAND ESPORTES",
     "videoIds": [
+      "MWiR90HWmB0",
       "r-YHFEAWDlw",
       "PJZNG6psyMk",
       "yYwFVoUjTVU",
@@ -1163,12 +1164,12 @@
       "iXoqYoy3-Ig",
       "Xov_R8WK9y0",
       "gtnxxtPfrZQ",
-      "wYg3k9iWYZ8",
-      "G78cnVf5KOk"
+      "wYg3k9iWYZ8"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "MWiR90HWmB0 | 25/11/26_22:29_BANDESPORTES_2m42s",
       "r-YHFEAWDlw | 25/11/26_21:34_JOGOABERTO_93m08s",
       "PJZNG6psyMk | 25/11/26_18:48_BANDESPORTES_7m35s",
       "yYwFVoUjTVU | 25/11/26_18:29_BANDESPORTES_4m51s",
@@ -1197,8 +1198,7 @@
       "iXoqYoy3-Ig | 24/11/26_12:06_JOGOABERTO_3m03s",
       "Xov_R8WK9y0 | 24/11/26_11:56_JOGOABERTO_2m54s",
       "gtnxxtPfrZQ | 24/11/26_01:22_BANDESPORTES_2m10s",
-      "wYg3k9iWYZ8 | 24/11/26_01:17_BANDESPORTES_3m35s",
-      "G78cnVf5KOk | 23/11/26_23:02_BANDESPORTES_2m48s"
+      "wYg3k9iWYZ8 | 24/11/26_01:17_BANDESPORTES_3m35s"
     ]
   },
   {
@@ -1356,7 +1356,15 @@
       "2CZN7-l9TP8",
       "JjG1W3O_Nzw",
       "eKGqp5a6re4",
-      "p57LFpO0N8o"
+      "p57LFpO0N8o",
+      "GO7uGHfbKTY",
+      "TBv50rqA7TA",
+      "oVDFVpP0734",
+      "BQ5Eozg-_1s",
+      "kh1XPqTfxbg",
+      "fbeGwgRSbhc",
+      "KJJIRQJAKVo",
+      "qUrY-xnhmPA"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
@@ -1382,7 +1390,15 @@
       "2CZN7-l9TP8 | 20/11/26_19:00_CANALGOAT_7m42s",
       "JjG1W3O_Nzw | 20/11/26_18:11_CANALGOAT_15m42s",
       "eKGqp5a6re4 | 20/11/26_12:00_CANALGOAT_3m46s",
-      "p57LFpO0N8o | 19/11/26_21:11_DESIMPEDIDOS_22m15s"
+      "p57LFpO0N8o | 19/11/26_21:11_DESIMPEDIDOS_22m15s",
+      "GO7uGHfbKTY | 17/11/26_21:41_LITORALNEWS_20m19s",
+      "TBv50rqA7TA | 17/11/26_11:51_LITORALNEWS_11m46s",
+      "oVDFVpP0734 | 16/11/26_12:35_LITORALNEWS_16m58s",
+      "BQ5Eozg-_1s | 16/11/26_07:40_LITORALNEWS_13m30s",
+      "kh1XPqTfxbg | 16/11/26_05:35_LITORALNEWS_8m25s",
+      "fbeGwgRSbhc | 14/11/26_13:05_DESIMPEDIDOS_12m16s",
+      "KJJIRQJAKVo | 14/11/26_11:53_LITORALNEWS_11m16s",
+      "qUrY-xnhmPA | 13/11/26_23:37_LITORALNEWS_9m07s"
     ]
   },
   {
