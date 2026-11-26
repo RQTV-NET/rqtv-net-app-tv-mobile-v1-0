@@ -1110,6 +1110,7 @@
     "rem": "GeTV",
     "videoIds": [
       "OhGBuxnWh6c",
+      "fAA2FB4QC4g",
       "bZ9PESPG8BY",
       "ZyGuwdtIkeY",
       "b5DLsOHzoI0",
@@ -1143,6 +1144,7 @@
     "playlistId": "",
     "carimbos": [
       "OhGBuxnWh6c | ((LIVE))_25/11/26_18:45_GETV",
+      "fAA2FB4QC4g | 25/11/26_21:20_GETV_8m14s",
       "bZ9PESPG8BY | 25/11/26_13:19_GETV_6m59s",
       "ZyGuwdtIkeY | 25/11/26_00:03_GETV_9m50s",
       "b5DLsOHzoI0 | 24/11/26_23:52_GETV_5m42s",
@@ -1247,6 +1249,7 @@
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
+      "-MPUOceuBNE",
       "ZEhLhs9sSdM",
       "JZBqyfq1YXU",
       "k4eNe-AuGOQ",
@@ -1279,6 +1282,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "-MPUOceuBNE | ((LIVE))_25/11/26_21:00_ESPNBRASIL",
       "ZEhLhs9sSdM | 25/11/26_17:06_ESPNBRASIL_23m38s",
       "JZBqyfq1YXU | 25/11/26_16:39_ESPNBRASIL_18m37s",
       "k4eNe-AuGOQ | 25/11/26_13:21_ESPNBRASIL_25m32s",
@@ -1571,6 +1575,7 @@
     "numero": "39",
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
+      "e7a3Bsfe8cc",
       "R2-bIWLwpV4",
       "QxNSsn_Nqs4",
       "FoZoaimjYrQ",
@@ -1599,12 +1604,12 @@
       "JjG1W3O_Nzw",
       "eKGqp5a6re4",
       "p57LFpO0N8o",
-      "GO7uGHfbKTY",
-      "TBv50rqA7TA"
+      "GO7uGHfbKTY"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "e7a3Bsfe8cc | ((LIVE))_25/11/26_20:56_LITORALNEWS",
       "R2-bIWLwpV4 | ((LIVE))_25/11/26_20:13_LITORALNEWS",
       "QxNSsn_Nqs4 | ((LIVE))_25/11/26_20:02_LITORALNEWS",
       "FoZoaimjYrQ | ((LIVE))_25/11/26_19:30_LITORALNEWS",
@@ -1633,8 +1638,7 @@
       "JjG1W3O_Nzw | 20/11/26_18:11_CANALGOAT_15m42s",
       "eKGqp5a6re4 | 20/11/26_12:00_CANALGOAT_3m46s",
       "p57LFpO0N8o | 19/11/26_21:11_DESIMPEDIDOS_22m15s",
-      "GO7uGHfbKTY | 17/11/26_21:41_LITORALNEWS_20m19s",
-      "TBv50rqA7TA | 17/11/26_11:51_LITORALNEWS_11m46s"
+      "GO7uGHfbKTY | 17/11/26_21:41_LITORALNEWS_20m19s"
     ]
   },
   {
@@ -1831,6 +1835,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "5hBoGGaetwQ",
       "pYO-yQOKkJg",
       "4lMj50XXJpI",
       "MoIZl4u2Vts",
@@ -1859,12 +1864,12 @@
       "3BeJ13sAvCE",
       "jn-YqX4QNtY",
       "RirQv4wZ4Dw",
-      "aaDtDx6wD_k",
-      "Wog01C83jKo"
+      "aaDtDx6wD_k"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "5hBoGGaetwQ | 25/11/26_21:07_TECHCIÊNCIA1B_7m03s",
       "pYO-yQOKkJg | 25/11/26_19:00_TECHCIÊNCIA1B_3m16s",
       "4lMj50XXJpI | 25/11/26_18:00_TECHCIÊNCIA1D_9m34s",
       "MoIZl4u2Vts | 25/11/26_17:00_TECHCIÊNCIA1B_4m24s",
@@ -1893,8 +1898,7 @@
       "3BeJ13sAvCE | 24/11/26_17:00_TECHCIÊNCIA1B_5m04s",
       "jn-YqX4QNtY | 24/11/26_16:00_TECHCIÊNCIA1B_4m39s",
       "RirQv4wZ4Dw | 24/11/26_15:53_TECHCIÊNCIA1C_12m28s",
-      "aaDtDx6wD_k | 24/11/26_15:00_TECHCIÊNCIA1B_6m18s",
-      "Wog01C83jKo | 24/11/26_14:20_TECHCIÊNCIA1A_12m38s"
+      "aaDtDx6wD_k | 24/11/26_15:00_TECHCIÊNCIA1B_6m18s"
     ]
   },
   {
