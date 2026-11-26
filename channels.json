@@ -80,7 +80,6 @@
     "rem": "SBT: AOVIVO/PROGRAMAS",
     "videoIds": [
       "rlAokGV5RtU",
-      "JO7SzvWoQqk",
       "curIGzE8nDY",
       "xNLd9jtI9bY",
       "zgHz5AUEzps",
@@ -95,6 +94,7 @@
       "45e72R54s_4",
       "fEZcZOlkpxY",
       "W3j1SvoVfZo",
+      "JO7SzvWoQqk",
       "ElpoAJeIbS0",
       "iKUn2918EpA",
       "key6-5LrPY8",
@@ -114,7 +114,6 @@
     "playlistId": "",
     "carimbos": [
       "rlAokGV5RtU | ((LIVE))_24/11/26_17:27_SBTOFICIAL(VIVAANOITE/SESSÃO+SBT/BAKEOFF/JOÃO/COMÉDIASBT/EITALUCAS/AEROPORTO/PRAÇA)",
-      "JO7SzvWoQqk | 23/11/26_19:31_FOFOCALIZANDO_15m21s",
       "curIGzE8nDY | 23/11/26_01:00_SBT_45m07s",
       "xNLd9jtI9bY | 21/11/26_10:46_THENOITECOMDANILOGENTILI_10m20s",
       "zgHz5AUEzps | 20/11/26_18:45_FOFOCALIZANDO_28m27s",
@@ -129,6 +128,7 @@
       "45e72R54s_4 | 24/11/26_14:45_THENOITECOMDANILOGENTILI_11m20s",
       "fEZcZOlkpxY | 23/11/26_20:54_FOFOCALIZANDO_24m03s",
       "W3j1SvoVfZo | 25/11/26_19:26_FOFOCALIZANDO_31m06s",
+      "JO7SzvWoQqk | 23/11/26_19:31_FOFOCALIZANDO_15m21s",
       "ElpoAJeIbS0 | 23/11/26_20:06_FOFOCALIZANDO_15m03s",
       "iKUn2918EpA | 19/11/26_19:00_FOFOCALIZANDO_14m16s",
       "key6-5LrPY8 | 19/11/26_15:30_THENOITECOMDANILOGENTILI_10m00s",
@@ -150,6 +150,12 @@
     "rem": "SBT: NEWS/JORNALISMO",
     "videoIds": [
       "NFVyNHbkqQQ",
+      "1n7pdDB4bIg",
+      "_y80zicfucA",
+      "I4SwZc3UnSU",
+      "AZmXN5N3X5U",
+      "FmBFIJCoBm8",
+      "Ton4Y9zy5Do",
       "_9DWpu8hjbM",
       "SpytWf8ETSE",
       "-urGt6Ixe1Y",
@@ -172,18 +178,18 @@
       "9GihrCNNXEA",
       "-oN9JhGpzxg",
       "WwkGlGSlrNk",
-      "trYJ5aZ972A",
-      "OUGYzID85mY",
-      "VAqBuBvBdVY",
-      "uPWj7zr_s7I",
-      "DPskC3tH73Q",
-      "whYHez_TFoU",
-      "nzKK6pi0LoM"
+      "trYJ5aZ972A"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "NFVyNHbkqQQ | ((LIVE))_25/11/26_20:14_SBTNEWS",
+      "1n7pdDB4bIg | 25/11/26_20:57_SBTNEWS_6m58s",
+      "_y80zicfucA | 25/11/26_20:54_SBTNEWS_2m23s",
+      "I4SwZc3UnSU | 25/11/26_20:51_SBTNEWS_2m23s",
+      "AZmXN5N3X5U | 25/11/26_20:48_SBTNEWS_2m51s",
+      "FmBFIJCoBm8 | 25/11/26_20:48_SBTNEWS_2m44s",
+      "Ton4Y9zy5Do | 25/11/26_20:47_SBTNEWS_2m47s",
       "_9DWpu8hjbM | 25/11/26_20:42_SBTNEWS_3m06s",
       "SpytWf8ETSE | 25/11/26_20:39_SBTNEWS_2m12s",
       "-urGt6Ixe1Y | 25/11/26_20:38_SBTNEWS_2m06s",
@@ -206,13 +212,7 @@
       "9GihrCNNXEA | 25/11/26_12:36_SBTNEWS_3m47s",
       "-oN9JhGpzxg | 25/11/26_10:51_SBTNEWS_3m46s",
       "WwkGlGSlrNk | 25/11/26_16:25_SBTNEWS_4m20s",
-      "trYJ5aZ972A | 25/11/26_15:57_SBTNEWS_6m26s",
-      "OUGYzID85mY | 25/11/26_15:53_SBTNEWS_13m02s",
-      "VAqBuBvBdVY | 25/11/26_15:45_SBTNEWS_8m22s",
-      "uPWj7zr_s7I | 25/11/26_12:55_SBTNEWS_18m04s",
-      "DPskC3tH73Q | 25/11/26_14:13_SBTNEWS_13m21s",
-      "whYHez_TFoU | 25/11/26_12:43_SBTNEWS_5m36s",
-      "nzKK6pi0LoM | 25/11/26_12:40_SBTNEWS_9m23s"
+      "trYJ5aZ972A | 25/11/26_15:57_SBTNEWS_6m26s"
     ]
   },
   {
@@ -220,6 +220,8 @@
     "rem": "CNN BRASIL",
     "videoIds": [
       "9bUrAGtie8s",
+      "dIMv46crAlU",
+      "epSVa2jQ58s",
       "Enj9aWqu1p0",
       "cbM_RUmorTs",
       "69NjV6Hstis",
@@ -246,14 +248,14 @@
       "LM_R3v0b-YY",
       "sK2beJcsikY",
       "IX98zRuvC44",
-      "4ssPp2OtIJQ",
-      "mbRHHFlPa6U",
-      "9kdhq2JMnJw"
+      "4ssPp2OtIJQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "9bUrAGtie8s | ((LIVE))_25/11/26_19:51_CNNBRASIL",
+      "dIMv46crAlU | 25/11/26_20:55_CNNBRASIL_3m39s",
+      "epSVa2jQ58s | 25/11/26_20:45_CNNBRASIL_5m07s",
       "Enj9aWqu1p0 | 25/11/26_20:37_CNNBRASIL_3m16s",
       "cbM_RUmorTs | 25/11/26_20:28_CNNBRASIL_3m38s",
       "69NjV6Hstis | 25/11/26_20:27_CNNBRASIL_6m27s",
@@ -280,9 +282,7 @@
       "LM_R3v0b-YY | 25/11/26_17:01_CNNBRASIL_5m33s",
       "sK2beJcsikY | 25/11/26_16:49_CNNBRASIL_4m05s",
       "IX98zRuvC44 | 25/11/26_16:42_CNNBRASIL_3m41s",
-      "4ssPp2OtIJQ | 25/11/26_16:41_CNNBRASIL_2m24s",
-      "mbRHHFlPa6U | 25/11/26_16:34_CNNBRASIL_3m54s",
-      "9kdhq2JMnJw | 25/11/26_16:26_CNNBRASIL_3m44s"
+      "4ssPp2OtIJQ | 25/11/26_16:41_CNNBRASIL_2m24s"
     ]
   },
   {
@@ -291,6 +291,7 @@
     "videoIds": [
       "_6If4Nh_2y0",
       "Ds6Zz_qezqk",
+      "_AkzFpfYkco",
       "c4TVF7nHxnU",
       "rJTDRa9V1Iw",
       "NtQ991pnbUU",
@@ -317,14 +318,14 @@
       "yx2PGdLeS6o",
       "HeAzDgWkWGE",
       "OrmD-0kjnP8",
-      "G6bz_HsIo7c",
-      "LOFrBp_Urlw"
+      "G6bz_HsIo7c"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "_6If4Nh_2y0 | ((LIVE))_25/11/26_20:23_CNNMONEY",
       "Ds6Zz_qezqk | ((LIVE))_25/11/26_19:47_CNNMONEY",
+      "_AkzFpfYkco | 25/11/26_20:45_CNNMONEY_8m11s",
       "c4TVF7nHxnU | 25/11/26_20:42_CNNMONEY_10m05s",
       "rJTDRa9V1Iw | 25/11/26_18:09_CNNMONEY_17m11s",
       "NtQ991pnbUU | 25/11/26_18:06_CNNMONEY_2m02s",
@@ -351,8 +352,7 @@
       "yx2PGdLeS6o | 24/11/26_13:01_CNNBRASILMONEY_10m34s",
       "HeAzDgWkWGE | 24/11/26_12:43_CNNBRASILMONEY_2m39s",
       "OrmD-0kjnP8 | 24/11/26_11:43_CNNBRASILMONEY_27m20s",
-      "G6bz_HsIo7c | 24/11/26_09:27_CNNBRASILMONEY_2m06s",
-      "LOFrBp_Urlw | 24/11/26_09:22_CNNBRASILMONEY_4m30s"
+      "G6bz_HsIo7c | 24/11/26_09:27_CNNBRASILMONEY_2m06s"
     ]
   },
   {
@@ -360,6 +360,8 @@
     "rem": "JOVEM PAN: NEWS/PINGOS_NOS_IS",
     "videoIds": [
       "DV2n4F4N0tQ",
+      "SAnoTP4yauE",
+      "ghIV07n8ZXQ",
       "BO1oWdVb66Y",
       "v8l3-co8cfQ",
       "CrOV84pgNnk",
@@ -386,14 +388,14 @@
       "_zqycBS5tT8",
       "prL1seW_eek",
       "upGflOSNYKY",
-      "RLnfc2oFbRQ",
-      "wZ9ie1MoG1c",
-      "N_3_sowZ_RU"
+      "RLnfc2oFbRQ"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "DV2n4F4N0tQ | ((LIVE))_25/11/26_20:10_JOVEMPANNEWS",
+      "SAnoTP4yauE | 25/11/26_20:54_JOVEMPANNEWS_4m13s",
+      "ghIV07n8ZXQ | 25/11/26_20:46_JOVEMPANNEWS_2m24s",
       "BO1oWdVb66Y | 25/11/26_20:40_JOVEMPANNEWS_8m58s",
       "v8l3-co8cfQ | 25/11/26_20:33_JOVEMPANNEWS_5m08s",
       "CrOV84pgNnk | 25/11/26_20:15_OSPINGOSNOSIS_3m00s",
@@ -420,9 +422,7 @@
       "_zqycBS5tT8 | 24/11/26_20:15_OSPINGOSNOSIS_12m51s",
       "prL1seW_eek | 24/11/26_20:04_OSPINGOSNOSIS_4m26s",
       "upGflOSNYKY | 24/11/26_20:03_OSPINGOSNOSIS_14m10s",
-      "RLnfc2oFbRQ | 24/11/26_20:00_OSPINGOSNOSIS_11m23s",
-      "wZ9ie1MoG1c | 24/11/26_19:09_OSPINGOSNOSIS_11m38s",
-      "N_3_sowZ_RU | 24/11/26_18:42_OSPINGOSNOSIS_7m16s"
+      "RLnfc2oFbRQ | 24/11/26_20:00_OSPINGOSNOSIS_11m23s"
     ]
   },
   {
