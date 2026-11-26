@@ -391,6 +391,8 @@
     "numero": "10",
     "rem": "TV CULTURA",
     "videoIds": [
+      "uzcNmdaJQ1s",
+      "D9wuUAPwn4E",
       "DDTIJzgTKJE",
       "SzlUKJJws5s",
       "xoAe9b7JsTY",
@@ -418,13 +420,13 @@
       "nNDMPvw9NM4",
       "ij5vH9aqCX4",
       "VZZDwAYFsNU",
-      "xef7TyJSZC0",
-      "9gHHSGSWu8s",
-      "5f8B1SV4O7c"
+      "xef7TyJSZC0"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "uzcNmdaJQ1s | 25/11/26_22:43_TVCULTURAPROGRAMAS_3m19s",
+      "D9wuUAPwn4E | 25/11/26_22:41_TVCULTURAPROGRAMAS_5m19s",
       "DDTIJzgTKJE | 25/11/26_22:29_TVCULTURAPROGRAMAS_5m49s",
       "SzlUKJJws5s | 25/11/26_22:24_TVCULTURAPROGRAMAS_7m28s",
       "xoAe9b7JsTY | 25/11/26_22:22_TVCULTURAPROGRAMAS_6m07s",
@@ -452,9 +454,7 @@
       "nNDMPvw9NM4 | 24/11/26_12:29_JORNALISMOTVCULTURA_2m53s",
       "ij5vH9aqCX4 | 24/11/26_00:22_JORNALISMOTVCULTURA_4m56s",
       "VZZDwAYFsNU | 24/11/26_00:17_JORNALISMOTVCULTURA_3m56s",
-      "xef7TyJSZC0 | 24/11/26_00:15_JORNALISMOTVCULTURA_3m29s",
-      "9gHHSGSWu8s | 24/11/26_00:13_JORNALISMOTVCULTURA_6m37s",
-      "5f8B1SV4O7c | 24/11/26_00:10_JORNALISMOTVCULTURA_4m42s"
+      "xef7TyJSZC0 | 24/11/26_00:15_JORNALISMOTVCULTURA_3m29s"
     ]
   },
   {
@@ -463,6 +463,7 @@
     "videoIds": [
       "NDmOJ12k7lY",
       "xyLUpuzKMfs",
+      "weR3PTUR-7M",
       "omfNftTm_NQ",
       "dEYGSDkiUj8",
       "1I38Klo56Ek",
@@ -489,14 +490,14 @@
       "me3KtnR30sk",
       "Mk6wzDmo3pU",
       "XA8NcHhp2C8",
-      "Gg-MLegj-AI",
-      "DY7lIJHFg2s"
+      "Gg-MLegj-AI"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "NDmOJ12k7lY | ((LIVE))_25/11/26_21:32_CBNBRASIL",
       "xyLUpuzKMfs | ((LIVE))_25/11/26_19:52_CBNBRASIL",
+      "weR3PTUR-7M | 25/11/26_22:41_CBNBRASIL_3m20s",
       "omfNftTm_NQ | 25/11/26_22:32_CBNBRASIL_8m01s",
       "dEYGSDkiUj8 | 25/11/26_22:22_CBNBRASIL_8m40s",
       "1I38Klo56Ek | 25/11/26_22:15_CBNBRASIL_12m09s",
@@ -523,8 +524,7 @@
       "me3KtnR30sk | 25/11/26_19:08_CBNBRASIL_2m38s",
       "Mk6wzDmo3pU | 25/11/26_18:59_CBNBRASIL_3m02s",
       "XA8NcHhp2C8 | 25/11/26_18:39_CBNBRASIL_3m04s",
-      "Gg-MLegj-AI | 25/11/26_18:18_CBNBRASIL_3m21s",
-      "DY7lIJHFg2s | 25/11/26_18:04_RÁDIOCBN_3m14s"
+      "Gg-MLegj-AI | 25/11/26_18:18_CBNBRASIL_3m21s"
     ]
   },
   {
