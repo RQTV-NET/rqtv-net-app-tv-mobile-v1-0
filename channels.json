@@ -708,6 +708,8 @@
     "rem": "CBN BRASIL",
     "videoIds": [
       "xyLUpuzKMfs",
+      "MTjXJMnYoAQ",
+      "tzXasfhgZ9U",
       "YUpHHIbtpxs",
       "bk0xV-u-dvE",
       "1c5KN6WhhI8",
@@ -734,14 +736,14 @@
       "csvUxeYCsiY",
       "pt6_LJulIAA",
       "3UicoPHeUZU",
-      "6IUrO_cnaa8",
-      "PHjk3Gl-A_I",
-      "bRPVreAgb1w"
+      "6IUrO_cnaa8"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "xyLUpuzKMfs | ((LIVE))_25/11/26_19:52_CBNBRASIL",
+      "MTjXJMnYoAQ | 25/11/26_21:26_CBNBRASIL_7m26s",
+      "tzXasfhgZ9U | 25/11/26_21:18_CBNBRASIL_9m49s",
       "YUpHHIbtpxs | 25/11/26_21:05_CBNBRASIL_14m18s",
       "bk0xV-u-dvE | 25/11/26_20:57_CBNBRASIL_17m52s",
       "1c5KN6WhhI8 | 25/11/26_20:51_CBNBRASIL_21m01s",
@@ -768,9 +770,7 @@
       "csvUxeYCsiY | 25/11/26_16:19_RÁDIOCBN_2m06s",
       "pt6_LJulIAA | 25/11/26_16:09_RÁDIOCBN_6m11s",
       "3UicoPHeUZU | 25/11/26_16:03_RÁDIOCBN_3m46s",
-      "6IUrO_cnaa8 | 25/11/26_15:47_RÁDIOCBN_6m27s",
-      "PHjk3Gl-A_I | 25/11/26_15:33_RÁDIOCBN_5m53s",
-      "bRPVreAgb1w | 25/11/26_15:18_RÁDIOCBN_3m42s"
+      "6IUrO_cnaa8 | 25/11/26_15:47_RÁDIOCBN_6m27s"
     ]
   },
   {
@@ -778,6 +778,8 @@
     "rem": "REVISTA OESTE",
     "videoIds": [
       "Y84t5akDPrw",
+      "B2VIj-10Jt4",
+      "MqAZ8-XSkTk",
       "S0TlBjMCGiI",
       "n9lpMsBlEbo",
       "EZ9e81OBWoU",
@@ -804,14 +806,14 @@
       "dRWBJP3Vfdo",
       "eg3RD6okOKk",
       "VhhipkJRk_Y",
-      "GjNw9gITiZo",
-      "BgFNyAA2X9c",
-      "IIQdOtF_Xwk"
+      "GjNw9gITiZo"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
       "Y84t5akDPrw | ((LIVE))_25/11/26_17:38_REVISTAOESTE",
+      "B2VIj-10Jt4 | 25/11/26_21:25_REVISTAOESTE_4m06s",
+      "MqAZ8-XSkTk | 25/11/26_21:20_REVISTAOESTE_6m47s",
       "S0TlBjMCGiI | 25/11/26_21:15_REVISTAOESTE_6m01s",
       "n9lpMsBlEbo | 25/11/26_21:04_REVISTAOESTE_3m20s",
       "EZ9e81OBWoU | 25/11/26_20:55_REVISTAOESTE_8m50s",
@@ -838,9 +840,7 @@
       "dRWBJP3Vfdo | 25/11/26_13:30_REVISTAOESTE_6m49s",
       "eg3RD6okOKk | 25/11/26_13:20_REVISTAOESTE_5m52s",
       "VhhipkJRk_Y | 25/11/26_13:10_REVISTAOESTE_4m37s",
-      "GjNw9gITiZo | 25/11/26_13:00_REVISTAOESTE_9m33s",
-      "BgFNyAA2X9c | 25/11/26_12:45_REVISTAOESTE_5m29s",
-      "IIQdOtF_Xwk | 25/11/26_12:25_REVISTAOESTE_7m58s"
+      "GjNw9gITiZo | 25/11/26_13:00_REVISTAOESTE_9m33s"
     ]
   },
   {
@@ -947,6 +947,7 @@
     "numero": "15",
     "rem": "TV SENADO",
     "videoIds": [
+      "LsxidQ6bEwY",
       "V7UP6KhX9-E",
       "By5l_LXQ8cQ",
       "oFDzyl9HXAY",
@@ -975,6 +976,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "LsxidQ6bEwY | 25/11/26_21:31_TVSENADO_2m30s",
       "V7UP6KhX9-E | 25/11/26_21:10_TVSENADO_2m24s",
       "By5l_LXQ8cQ | 25/11/26_20:49_TVSENADO_3m37s",
       "oFDzyl9HXAY | 25/11/26_15:13_TVSENADO_2m56s",
