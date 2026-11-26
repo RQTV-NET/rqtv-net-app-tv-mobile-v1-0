@@ -1043,6 +1043,7 @@
     "numero": "30",
     "rem": "CAZÉTV",
     "videoIds": [
+      "smPaYW6Jx40",
       "dYyicKzj82U",
       "vcTmbz-BqDA",
       "dv9trv324h0",
@@ -1076,6 +1077,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "smPaYW6Jx40 | 25/11/26_22:00_CAZÉTV_5m48s",
       "dYyicKzj82U | 25/11/26_20:05_CAZÉTV_15m14s",
       "vcTmbz-BqDA | 25/11/26_19:17_CAZÉTV_15m14s",
       "dv9trv324h0 | 25/11/26_15:35_CAZÉTV_10m13s",
@@ -1181,6 +1183,7 @@
     "numero": "32",
     "rem": "TNT SPORTS",
     "videoIds": [
+      "hzOQJahOkAI",
       "ePxyPaTyPvE",
       "RRVX9W24lWY",
       "OGKrYu3qKpo",
@@ -1209,12 +1212,12 @@
       "hVQ0y2-BtI4",
       "0fKV5Kt4hqI",
       "HjfKFw5tF3Q",
-      "XJxCBs6Atos",
-      "iQM0nvMKC2I"
+      "XJxCBs6Atos"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "hzOQJahOkAI | 25/11/26_22:00_TNTSPORTSBRASIL_17m48s",
       "ePxyPaTyPvE | 25/11/26_21:30_TNTSPORTSBRASIL_15m18s",
       "RRVX9W24lWY | 25/11/26_21:00_TNTSPORTSBRASIL_15m31s",
       "OGKrYu3qKpo | 25/11/26_20:30_TNTSPORTSBRASIL_12m27s",
@@ -1243,14 +1246,14 @@
       "hVQ0y2-BtI4 | 24/11/26_19:03_TNTSPORTSBRASIL_8m17s",
       "0fKV5Kt4hqI | 24/11/26_16:48_TNTSPORTSBRASIL_3m51s",
       "HjfKFw5tF3Q | 24/11/26_16:45_TNTSPORTSBRASIL_3m11s",
-      "XJxCBs6Atos | 23/11/26_22:04_TNTSPORTSBRASIL_3m04s",
-      "iQM0nvMKC2I | 19/11/26_23:31_TNTSPORTSBRASIL_3m04s"
+      "XJxCBs6Atos | 23/11/26_22:04_TNTSPORTSBRASIL_3m04s"
     ]
   },
   {
     "numero": "33",
     "rem": "ESPN BRASIL",
     "videoIds": [
+      "L6kJmIVaEs4",
       "ZEhLhs9sSdM",
       "JZBqyfq1YXU",
       "k4eNe-AuGOQ",
@@ -1283,6 +1286,7 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "L6kJmIVaEs4 | 25/11/26_21:56_ESPNBRASIL_11m22s",
       "ZEhLhs9sSdM | 25/11/26_17:06_ESPNBRASIL_23m38s",
       "JZBqyfq1YXU | 25/11/26_16:39_ESPNBRASIL_18m37s",
       "k4eNe-AuGOQ | 25/11/26_13:21_ESPNBRASIL_25m32s",
@@ -1317,7 +1321,6 @@
     "numero": "34",
     "rem": "JOVEM PAN ESPORTES",
     "videoIds": [
-      "AtNJRqzGUpg",
       "YVLfaA-xQpI",
       "h8FaSolir5I",
       "vd2mGmuehWo",
@@ -1345,7 +1348,6 @@
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
-      "AtNJRqzGUpg | ((LIVE))_25/11/26_18:35_JOVEMPANESPORTES",
       "YVLfaA-xQpI | 25/11/26_14:40_JOVEMPANESPORTES_17m51s",
       "h8FaSolir5I | 25/11/26_14:02_JOVEMPANESPORTES_21m53s",
       "vd2mGmuehWo | 25/11/26_13:25_JOVEMPANESPORTES_14m03s",
@@ -1575,6 +1577,7 @@
     "numero": "39",
     "rem": "39 RQTV·NET ESPORTES 1",
     "videoIds": [
+      "URw7Rj0MpQc",
       "e7a3Bsfe8cc",
       "R2-bIWLwpV4",
       "QxNSsn_Nqs4",
@@ -1603,12 +1606,12 @@
       "2CZN7-l9TP8",
       "JjG1W3O_Nzw",
       "eKGqp5a6re4",
-      "p57LFpO0N8o",
-      "GO7uGHfbKTY"
+      "p57LFpO0N8o"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "URw7Rj0MpQc | ((LIVE))_25/11/26_21:41_SPORTYNET",
       "e7a3Bsfe8cc | ((LIVE))_25/11/26_20:56_LITORALNEWS",
       "R2-bIWLwpV4 | ((LIVE))_25/11/26_20:13_LITORALNEWS",
       "QxNSsn_Nqs4 | ((LIVE))_25/11/26_20:02_LITORALNEWS",
@@ -1637,8 +1640,7 @@
       "2CZN7-l9TP8 | 20/11/26_19:00_CANALGOAT_7m42s",
       "JjG1W3O_Nzw | 20/11/26_18:11_CANALGOAT_15m42s",
       "eKGqp5a6re4 | 20/11/26_12:00_CANALGOAT_3m46s",
-      "p57LFpO0N8o | 19/11/26_21:11_DESIMPEDIDOS_22m15s",
-      "GO7uGHfbKTY | 17/11/26_21:41_LITORALNEWS_20m19s"
+      "p57LFpO0N8o | 19/11/26_21:11_DESIMPEDIDOS_22m15s"
     ]
   },
   {
@@ -1835,6 +1837,7 @@
     "numero": "80",
     "rem": "TECH & CIÊNCIA I",
     "videoIds": [
+      "_rr0NhxZHeA",
       "LKXNW9HA6tQ",
       "ZzN0lHy_jak",
       "5hBoGGaetwQ",
@@ -1863,12 +1866,12 @@
       "mNrbYbWFe8o",
       "OcgmiNSktVU",
       "4Br98TOdeTA",
-      "3BeJ13sAvCE",
-      "jn-YqX4QNtY"
+      "3BeJ13sAvCE"
     ],
     "vinhetaPlaylistId": "",
     "playlistId": "",
     "carimbos": [
+      "_rr0NhxZHeA | 25/11/26_22:00_TECHCIÊNCIA1B_6m38s",
       "LKXNW9HA6tQ | 25/11/26_21:30_TECHCIÊNCIA1B_6m12s",
       "ZzN0lHy_jak | 25/11/26_21:23_TECHCIÊNCIA1A_10m06s",
       "5hBoGGaetwQ | 25/11/26_21:07_TECHCIÊNCIA1B_7m03s",
@@ -1897,8 +1900,7 @@
       "mNrbYbWFe8o | 24/11/26_21:51_TECHCIÊNCIA1B_19m02s",
       "OcgmiNSktVU | 24/11/26_19:13_TECHCIÊNCIA1C_14m32s",
       "4Br98TOdeTA | 24/11/26_19:00_TECHCIÊNCIA1B_3m08s",
-      "3BeJ13sAvCE | 24/11/26_17:00_TECHCIÊNCIA1B_5m04s",
-      "jn-YqX4QNtY | 24/11/26_16:00_TECHCIÊNCIA1B_4m39s"
+      "3BeJ13sAvCE | 24/11/26_17:00_TECHCIÊNCIA1B_5m04s"
     ]
   },
   {
